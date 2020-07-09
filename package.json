@@ -1,16 +1,16 @@
 {
-  "name": "test",
+  "name": "searchatthetable",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Bryan Bronstein",
   "license": "ISC",
   "dependencies": {
     "googleapis": "^39.2.0",
-    "npm": "^6.14.5"
+    "npm": "^6.14.6"
   },
   "devDependencies": {
     "@google-cloud/local-auth": "^1.0.0"
