@@ -14,7 +14,7 @@ const logger = winston.createLogger({
     ],
 });
 
-cron.schedule('10 * * * *', () => {
+cron.schedule('* 5 * * * *', () => {
     const SCOPES = ['https://www.googleapis.com/auth/drive'];
     const TOKEN_PATH = 'token.json';
 
@@ -338,11 +338,12 @@ cron.schedule('10 * * * *', () => {
     ];
     let d = new Date();
     logger.info("Current date: " + d);
+
     async function getAihTranscripts(auth) {
         const drive = google.drive({version: 'v3', auth});
         for (const season of transcripts) {
             for (let i = 0; i < season.IDs.length; i++) {
-                const dest = fs.createWriteStream("C:\\Users\\bryan\\PhpstormProjects\\test\\transcripts\\" + season.season_name + "\\" + season.season_name + "_ep" + i + ".txt");
+                const dest = fs.createWriteStream("./transcripts/" + season.season_name + "/" + season.season_name + "_ep" + i + ".txt");
                 const {data} = await drive.files.export(
                     {
                         fileId: season.IDs[i],
@@ -365,7 +366,7 @@ cron.schedule('10 * * * *', () => {
             }
         }
     }
-});
+}, false);
 
 
 

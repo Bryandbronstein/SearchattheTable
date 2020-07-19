@@ -58,18 +58,17 @@ function findMatches($pathToDirectory, $keyword){
         $episodeTitle = "<p class='episode_title'>$episodeTitle</p>";
         $sentences = preg_split('/(?<=[.])\s+(?=[a-z])/i', $contents);
         foreach ($sentences as $sentence) {
-            if (strpos($sentence, $keyword)) {
+            if (stripos($sentence, $keyword)) {
                 if (!in_array($episodeTitle, $results)) {
                     array_push($results, $episodeTitle);
                 }
                 array_push($results, $sentence);
             }
-
         }
     }
     foreach ($results as $result){
         $highlightedKeyword = '<span class="keyword_highlight">' . $keyword . '</span>';
-        $newResult = str_replace($keyword, $highlightedKeyword, $result);
+        $newResult = str_ireplace($keyword, $highlightedKeyword, $result);
 
         $htmlString .= '<p class="search_result">' . $newResult . '</p>';
     }
