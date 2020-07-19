@@ -1,7 +1,7 @@
 const fs = require('fs');
 const readline = require('readline');
 const {google} = require('googleapis');
-const cron = require('node-cron');
+const Cron = require('cron').CronJob;
 const winston = require('winston');
 
 const logger = winston.createLogger({
@@ -13,14 +13,13 @@ const logger = winston.createLogger({
         new winston.transports.File({ filename: './logs/downloads.log' }),
     ],
 });
-
-cron.schedule('* 5 * * * *', () => {
+let job = new Cron('0 0 0 1 * *', function() {
     const SCOPES = ['https://www.googleapis.com/auth/drive'];
     const TOKEN_PATH = 'token.json';
 
     fs.readFile('credentials.json', (err, content) => {
         if (err) return console.log('Error loading client secret file:', err);
-        authorize(JSON.parse(content), getAihTranscripts);
+        authorize(JSON.parse(content), getTranscripts);
     });
 
     function authorize(credentials, callback) {
@@ -339,7 +338,7 @@ cron.schedule('* 5 * * * *', () => {
     let d = new Date();
     logger.info("Current date: " + d);
 
-    async function getAihTranscripts(auth) {
+    async function getTranscripts(auth) {
         const drive = google.drive({version: 'v3', auth});
         for (const season of transcripts) {
             for (let i = 0; i < season.IDs.length; i++) {
@@ -366,7 +365,6 @@ cron.schedule('* 5 * * * *', () => {
             }
         }
     }
-}, false);
+}, null, true, 'America/New_York');
 
-
-
+job.start();
