@@ -50,7 +50,7 @@ switch ($season){
 function findMatches($pathToDirectory, $keyword, $episodeLinks){
     $results = array();
     $htmlString = "";
-    $countMatches = "";
+    $countMatches = 0;
     $fileList = glob($pathToDirectory);
     natsort($fileList);
 
@@ -65,7 +65,7 @@ function findMatches($pathToDirectory, $keyword, $episodeLinks){
                 if (!in_array($episodeTitle, $results)) {
                     $array = array_search($episodeTitle, array_column($episodeLinks, 'title'));
                     $link = $episodeLinks[$array]['link'];
-                    $episodeTitle = "<p><a class='episode_title' target='_blank' href=$link>$episodeTitle</a></p>";
+                    $episodeTitle = "<p><a class='episode_title' target='_blank'>$episodeTitle</a></p>";
                     $countMatches--;
                     array_push($results, $episodeTitle);
                 }
