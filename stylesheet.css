@@ -17,6 +17,11 @@ p{
     font-size: 1.15rem;
 }
 
+a {
+    color: white;
+    text-decoration: none;
+}
+
 .search_result{
     border-bottom: 2px solid #684cb0;
     margin-bottom: 40px;
@@ -29,6 +34,9 @@ p{
     font-size: 1.6rem;
     letter-spacing: 3px;
 }
+    .episode_title:hover{
+        border-bottom: 3px solid white;
+    }
 
 .number_result{
     font-weight: bold;
