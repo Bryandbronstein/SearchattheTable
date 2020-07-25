@@ -35,7 +35,8 @@ a {
     letter-spacing: 3px;
 }
     .episode_title:hover{
-        border-bottom: 3px solid white;
+        border-bottom: 3px solid #FFCC00;
+        color: #FFCC00;
     }
 
 .number_result{
