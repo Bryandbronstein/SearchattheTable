@@ -33,10 +33,12 @@ a {
     font-weight: bold;
     font-size: 1.6rem;
     letter-spacing: 3px;
+    transition: .2s;
 }
     .episode_title:hover{
         border-bottom: 3px solid #FFCC00;
         color: #FFCC00;
+        transition: .1s;
     }
 
 .number_result{
