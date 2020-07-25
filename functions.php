@@ -63,9 +63,9 @@ function findMatches($pathToDirectory, $keyword, $episodeLinks){
         foreach ($sentences as $sentence) {
             if (strpos($sentence, $keyword)) {
                 if (!in_array($episodeTitle, $results)) {
-                    $array = array_search($episodeTitle, array_column($episodeLinks, 'title'));
-                    $link = $episodeLinks[$array]['link'];
-                    $episodeTitle = "<p><a class='episode_title' target='_blank'>$episodeTitle</a></p>";
+                    $arrayIndex = array_search($episodeTitle, array_column($episodeLinks, 'title'));
+                    $link = $episodeLinks[$arrayIndex]['link'];
+                    $episodeTitle = "<p><a class='episode_title' href=$link target='_blank'>$episodeTitle</a></p>";
                     $countMatches--;
                     array_push($results, $episodeTitle);
                 }
