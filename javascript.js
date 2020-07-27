@@ -1,3 +1,4 @@
+//simple ajax function to send input to functions.php and display results as HTML within index.html
 function searchText(){
     let dropdown = document.getElementById("search_type");
     let season = dropdown.options[dropdown.selectedIndex].value;

@@ -1,8 +1,13 @@
 <?php
+//import needed variables from php file and user input
 require "episode_links.php";
 $season = $_GET['season'];
 $keyword = $_GET['keyword'];
 
+//Checks the season selected by the user.  Depending on selected season,
+//a different folder is selected within "transcripts" to be searched through.
+//Then, the findMatches() function is run to check all transcripts within the folder
+//for the user defined $keyword
 switch ($season){
     case 'aih':
         $pathToDirectory = "./transcripts/aih/*";
@@ -48,6 +53,7 @@ switch ($season){
 }
 
 function findMatches($pathToDirectory, $keyword, $episodeLinks){
+    //needed variable are defined
     $results = array();
     $htmlString = "";
     $countMatches = 0;
@@ -55,9 +61,14 @@ function findMatches($pathToDirectory, $keyword, $episodeLinks){
     $keywordList[0] = strtolower($keyword);
     $keywordList[1] = ucfirst($keyword);
     $fileList = glob($pathToDirectory);
+    //force $fileList to follow ascending numeric order
     natsort($fileList);
 
+    //open each file in the path and split the contents into sentences.
+    //then check each sentence for the existence of $keyword.  If it exists,
+    //push the sentence to the $results array
     foreach ($fileList as $search) {
+        //grab the first line of the txt file and set it as the $episodeTitle.  Trim to remove leading or hanging whitespace
         $episodeTitle = fgets(fopen($search, 'r'));
         $episodeTitle = trim($episodeTitle);
         $contents = file_get_contents($search);
@@ -65,6 +76,8 @@ function findMatches($pathToDirectory, $keyword, $episodeLinks){
 
         foreach ($sentences as $sentence) {
             if (stripos($sentence, $keyword)) {
+                //before adding the episode title to the $results array, check whether it already exists
+                //if it doesn't, add it and format it into a link to the episode transcript itself
                 if (!in_array($episodeTitle, $results)) {
                     $arrayIndex = array_search($episodeTitle, array_column($episodeLinks, 'title'));
                     $link = $episodeLinks[$arrayIndex]['link'];
@@ -77,19 +90,24 @@ function findMatches($pathToDirectory, $keyword, $episodeLinks){
         }
     }
 
+    //hacky solution to make sure that both uppercase and lowercase versions of $keyword
+    //are correctly highlighted on output
     foreach ($results as $result) {
         $highlightedKeyword = '<span class="keyword_highlight">' . $keywordList[0] . '</span>';
         $newResult = str_replace($keywordList[0], $highlightedKeyword, $result);
+
         $highlightedKeywordUpeer = '<span class="keyword_highlight">' . $keywordList[1] . '</span>';
         $finalResult = str_replace($keywordList[1], $highlightedKeywordUpeer, $newResult);
+        //skip formatting the episode title as a search result
         if (!strpos($newResult, "<a class='episode_title'")){
             $htmlString .= '<p class="search_result">' . $finalResult . '</p>';
         }else{
             $htmlString .= $newResult;
         }
+
         $countMatches++;
     }
-
+    //add number of results to the beginning of $htmlString and return it
     $totalResults = '<p class="total_result">Total Results: <span class=\'number_result\'>' . $countMatches . '</span></p>';
     return $htmlString = $totalResults . $htmlString;
 }
