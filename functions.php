@@ -85,7 +85,7 @@ function findMatches($pathToDirectory, $keyword, $episodeLinks){
         $countMatches++;
     }
 
-    $totalResults = 'Total Results: <span class=\'number_result\'>' . $countMatches . '</span>';
+    $totalResults = '<p class="total_result">Total Results: <span class=\'number_result\'>' . $countMatches . '</span></p>';
     return $htmlString = $totalResults . $htmlString;
 }
 

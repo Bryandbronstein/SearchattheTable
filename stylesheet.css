@@ -53,6 +53,10 @@ a {
         transition: .1s;
     }
 
+.total_result{
+    margin-bottom: 40px;
+}
+
 .number_result{
     font-weight: bold;
 }
