@@ -378,7 +378,7 @@ $episodeLinks = array(
     ),
     array(
         "title" => "﻿Hieron: The Months of Autumn Pt 1 (transcribed by Han @mercutioes)",
-        "link" => "https://drive.google.com/open?id=1TtgXIZ1xzrgV0m5BNbWgVWysfn36dJJPyniDalWhBm4"
+        "link" => "https://docs.google.com/document/d/1TtgXIZ1xzrgV0m5BNbWgVWysfn36dJJPyniDalWhBm4/edit"
     ),
     array(
         "title" => "﻿Hieron: The Months of Autumn Pt 2 (transcribed by Han @mercutioes[a])",

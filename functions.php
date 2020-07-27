@@ -80,6 +80,7 @@ function findMatches($pathToDirectory, $keyword, $episodeLinks){
                 if (!in_array($episodeTitle, $results)) {
                     //find episode link by searching for the episode title in the $episodeLinks array and
                     //then using the returned index to access the paired link value
+                    var_dump($episodeTitle);
                     $arrayIndex = array_search($episodeTitle, array_column($episodeLinks, 'title'));
                     $link = $episodeLinks[$arrayIndex]['link'];
                     $episodeTitle = "<p><a class='episode_title' href=$link target='_blank'>$episodeTitle</a></p>";
@@ -101,16 +102,16 @@ function findMatches($pathToDirectory, $keyword, $episodeLinks){
         $highlightedKeywordUpper = '<span class="keyword_highlight">' . $keywordList[1] . '</span>';
         $finalResult = str_replace($keywordList[1], $highlightedKeywordUpper, $newResult);
         //skip formatting the episode title as a search result
-        if (!strpos($newResult, "<a class='episode_title'")){
+        if (!strpos($finalResult, "<a class='episode_title'")){
             $htmlString .= '<p class="search_result">' . $finalResult . '</p>';
         }else{
-            $htmlString .= $newResult;
+            $htmlString .= $finalResult;
         }
         //increment to store total occurrences of $keyword
         $countMatches++;
     }
     //add number of results to the beginning of $htmlString and return it
-    $totalResults = '<p class="total_result">Total Results: <span class=\'number_result\'>' . $countMatches . '</span></p>';
+    $totalResults = '<p class="total_result">Total Results: <span class=\'bold\'>' . $countMatches . '</span></p>';
     return $htmlString = $totalResults . $htmlString;
 }
 
