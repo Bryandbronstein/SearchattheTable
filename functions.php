@@ -51,6 +51,9 @@ function findMatches($pathToDirectory, $keyword, $episodeLinks){
     $results = array();
     $htmlString = "";
     $countMatches = 0;
+    $keywordList = array();
+    $keywordList[0] = strtolower($keyword);
+    $keywordList[1] = ucfirst($keyword);
     $fileList = glob($pathToDirectory);
     natsort($fileList);
 
@@ -61,7 +64,7 @@ function findMatches($pathToDirectory, $keyword, $episodeLinks){
         $sentences = preg_split('/(?<=[.])\s+(?=[a-z])/i', $contents);
 
         foreach ($sentences as $sentence) {
-            if (strpos($sentence, $keyword)) {
+            if (stripos($sentence, $keyword)) {
                 if (!in_array($episodeTitle, $results)) {
                     $arrayIndex = array_search($episodeTitle, array_column($episodeLinks, 'title'));
                     $link = $episodeLinks[$arrayIndex]['link'];
@@ -75,10 +78,12 @@ function findMatches($pathToDirectory, $keyword, $episodeLinks){
     }
 
     foreach ($results as $result) {
-        $highlightedKeyword = '<span class="keyword_highlight">' . $keyword . '</span>';
-        $newResult = str_replace($keyword, $highlightedKeyword, $result);
+        $highlightedKeyword = '<span class="keyword_highlight">' . $keywordList[0] . '</span>';
+        $newResult = str_replace($keywordList[0], $highlightedKeyword, $result);
+        $highlightedKeywordUpeer = '<span class="keyword_highlight">' . $keywordList[1] . '</span>';
+        $finalResult = str_replace($keywordList[1], $highlightedKeywordUpeer, $newResult);
         if (!strpos($newResult, "<a class='episode_title'")){
-            $htmlString .= '<p class="search_result">' . $newResult . '</p>';
+            $htmlString .= '<p class="search_result">' . $finalResult . '</p>';
         }else{
             $htmlString .= $newResult;
         }
