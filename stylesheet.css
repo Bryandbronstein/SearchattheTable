@@ -21,7 +21,7 @@ h2{
 
 .large_title{
     font-weight: 700;
-    font-size: 4.7rem;
+    font-size: 5.7rem;
 }
 
 p{
@@ -46,6 +46,7 @@ a {
     font-size: 1.9rem;
     letter-spacing: 3px;
     transition: .2s;
+    margin-top: 100px;
 }
     .episode_title:hover{
         border-bottom: 3px solid #FFCC00;
