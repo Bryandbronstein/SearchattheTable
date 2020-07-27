@@ -74,16 +74,18 @@ function findMatches($pathToDirectory, $keyword, $episodeLinks){
         }
     }
 
-    foreach ($results as $result){
+    foreach ($results as $result) {
         $highlightedKeyword = '<span class="keyword_highlight">' . $keyword . '</span>';
         $newResult = str_replace($keyword, $highlightedKeyword, $result);
-        $htmlString .= '<p class="search_result">' . $newResult . '</p>';
+        if (!strpos($newResult, "<a class='episode_title'")){
+            $htmlString .= '<p class="search_result">' . $newResult . '</p>';
+        }else{
+            $htmlString .= $newResult;
+        }
         $countMatches++;
     }
 
     $totalResults = 'Total Results: <span class=\'number_result\'>' . $countMatches . '</span>';
     return $htmlString = $totalResults . $htmlString;
 }
-//"﻿Autumn in Hieron 10: Chekhov’s Torture Elf"
-//"Autumn in Hieron 10: Chekhov’s Torture Elf"
 

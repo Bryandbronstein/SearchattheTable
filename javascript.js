@@ -8,7 +8,7 @@ function searchText(){
     httpReq.onreadystatechange = function(){
         if(this.readyState == 4 && this.status == 200){
             document.getElementById("fountainG").style.display = "none";
-            //console.log(this.responseText);
+            console.log(this.responseText);
             document.getElementById("output").innerHTML = this.responseText;
         }else{
             document.getElementById("fountainG").style.display = "block";
