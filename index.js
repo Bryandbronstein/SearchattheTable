@@ -68,12 +68,16 @@ const transcripts = [
             "1bQBl-pe7V3KXu_oY4FKJatFGEuKqjHzbzGBPkAewd2c",
             "1XdbXmjv2injl8Ua7_KtpaBRzIvCsv23w269KvvV4rJs",
             "112IWBUU1Yes1A7u75xKSxvGjFtcktUzW0weW0uLPvN4",
+            //Autumn in Hieron 07: Boat Party?
             "1Qe-Za5Yq_60X2-xIINdzP3EAVXxicwAR4zzK991YhgQ",
             "1znte6qTjshc1vFiF7UE9H3tk1FwEcTjBsLuWWWkL0yU",
             "1B59UxpObG0U_ky8o5YbyRC4RC2xS-a9hbzJBB-DT_Kk",
+            //Autumn in Hieron 11: Like Sneaky Little Sneaks
             "1OSPBC5R-8M0KoAmJfjEQS86wqdxCWQWCSGRlLklbjQI",
             "1IpnFHplPXGH2IOEpTs9g2w-yLGTEkpH2VQuawpUUK4o",
+            //Autumn in Hieron: Holiday Special 01: I Don’t Know What’s in That Box
             "1B_GSuQ42l0Y2kcxiGl0gC1cgcKekDmV4DbmGsaQOV0w",
+            //Autumn in Hieron 14: A Fire Hydrant of Divinity
             "1Zxf5R4YiPCyHkGneCSxnTA402GfJBfEM6I9_S3RFDD0",
             "1cnLCI-g5NAqt6Dd-IaHcNOraiKRujeZvOJY9GRqpKVI",
             "1vptygnyKDEPUnICnnpCTpYOpZxfbPebn-st23oZ2Yro",
@@ -139,6 +143,7 @@ const transcripts = [
             "1rCJ8OQ1atSO23_iEOvU1R2j9YAkVT41CodJpqMMlc-g",
             "1uIObGIs8zbaMIy8kYmjuHMLHZpqua3XxZu1A2mwY7bE",
             "1W1M9p_c-lcvtgg8TeKiIJUMez1UepP5yXZiz_l3Zyrg",
+            //Winter in Hieron 22: A Holy Place
             "1RBXGpN2VOEXx-gKN7Vf6--zATRkhkQ6pkIRBX1LNaRY",
             "1BY6FWPqBamQh4SozBm8HnOOpMjyQs4gUnu-qvWVjXpE",
             "1LNMAGsThH5QPFZWBq4zMjyN3OY41zIzhONTfpvPjrIY",
@@ -152,6 +157,7 @@ const transcripts = [
     {
         season_name: "sih",
         IDs: [
+            //Spring in Hieron 00: What Came Before
             "1EI-OSedAI_Wx_EhB_o1v1D74nOMmj8gIBS5E1crsZw8",
             "1HOeumDaoT9vvoV-DdBgMLzkR_bEKIZ8M6MOvMdXOKqI",
             "1namfl7xM8lzbiy3hLCsFYAdJi99IU3FR37EITckiU2o",
@@ -205,16 +211,19 @@ const transcripts = [
         season_name: "cw",
         IDs: [
             "1zGovC79LsvuwVViOvqTCtz3SbRGHfZETRwkFm1WFFqg",
+            //COUNTER/Weight 00: If Han Solo Used To Be Beyoncé, or: Hashtag Otechku
             "1mh8uLkw9dOkfiiMTvMUOilV-1Q9cC5OofAp_galM_RE",
             "12ZzLK1LcKfgRwGVM83hujIXtpGFqhjhYIqOyZiVESDk",
             "1RAHszTNZAxrr5mHH7rsZ-8ZcmwZYLOOTpEi9eWbdz0g",
             "1frsrs_DN4bQ8a6r3ew4EjyVELCKCYTPnxPlcKHc0acU",
+            //COUNTER/Weight 05: A Ship of Seeds
             "19CSVitxMRtKKXr8m4swuczgAHtwcTT6sEEZaxSzQpgI",
             "1lhNyIPWe3YfGL_YYdcHB6ezKj9tL7uoW4-2njNAdPYc",
             "1nw1FxaxTJ40a8hqqU-nTy_auC3zehaVjvCWvAh4AwYg",
             "1dqfYFgO5lDmED7kvm-wQe9ejblNx6J7aCJTqv-tW4A4",
             "1wtmzUIBlFn5oKtAQcnaBNgrHOSEuu9i64L4-C5Wj2yk",
             "1_zHGRtTLKXahrdEIlcCEFGddIEkrWp0LcGIRvV5yFDw",
+            //COUNTER/Weight 12: A Home After A Wake
             "1axrkgj-V9GA-2kpKrGAm8kcHP5YZCOFX8WiCY_IBzss",
             "174wMIQjE6vkDy6y8zieQdfuUBajluVBh3LNdFga2QvQ",
             "1MPTGfKDr1rGpimeYBcNv7WRp2h9AvqWYbZRxlsL0r2Y",
@@ -229,9 +238,12 @@ const transcripts = [
             "1Rhs25IuZM9WQkNmkQrzkpVBLQ9dR9Zq4TIwvjwBCNpw",
             "1TLQf8wVYi8brq5wvzaHfAzp3crTyFA5SjW6FHwMX18M",
             "1X3F4zcYL_loYDu5vLFdZbdg70uX-tgc3YAcjvzv7-r4",
+            //COUNTER/Weight 27: An Animal Out of Context
             "14vys-zQqtpjrrmgXPufHtknmqGM-ejM59eoEsA_vN0k",
+            //COUNTER/Weight 29: Three Conversations
             "16SlanKUNyiVILsuNb9AuFweXTiehrz4wIH-JPNrirOQ",
             "1G3esJnyHRLwCPO7ZLAR2DHR5LzTRN5YU-R_fL0dml3c",
+            //COUNTER/Weight 32: Through The Crosshairs
             "1ZZ6l8epOeigeGnNw_ORFEOrZb-GFHFjqWLA54CXqazU",
             "1wkGPXdSbyXVL5syIKq9NjnQ6secDbiskzmh8lMHv4QY",
             "1azQF-B4O-hHvzpp-6_QE-8UuTRuOlGbIP8dz5p3Bwyg",
@@ -253,6 +265,7 @@ const transcripts = [
             "1sUis9SBhgH6ALDkruEFx_jNg5RvZ4Sk3fMSpBaf6DMw",
             "1wMbqJgBTkq1iCJsojt4mhi53vgnkd-h8utfz42F9RDE",
             "1xheU5Dfpx0Jep_E98yRN2AE3W2cT9Nb1Gcc3CmnA-IE",
+            //Twilight Mirage 03: The Planet of Quire
             "1QgUDzt2DEnQ7RknfbZasjdtMFucFNLJc9LvD6NO7b_k",
             "1ZXY8ppz03W0zlo6sAZP7za-yO8Hys6UJ-cGm8TNUuGo",
             "1Ec9DpAOXCbfNM6pxCbYV-RxUH7e8RjxIJ--J0WJZ9hs",
@@ -262,6 +275,7 @@ const transcripts = [
             "1vW25xDUrFWBVWw1_Mt2aX8Kdm0MbYf3ezcVTC80EeE4",
             "1xkQHDb8Dfaafr9rpmjA7aiiNTKDbaxrPgQOUhzROmGM",
             "1FjBp_WmFXLHLKdiiKcJ01U1ZASbxtTGhQdO6la-A7ME",
+            //Twilight Mirage 13: An Instinct Without A Word
             "1dWYhP7maRexQDS8kcA_JbFzMy-E6oRXGawiCwh4M63U",
             "1C6LJmoKS5FroMy2C9u7WTU6NpxTnJ-dKpmT1QrVLTLE",
             "1_uK0HyqKx0rQJsRoDtWOKm6favwdg9h8fn9-qRATZlw",
@@ -274,13 +288,16 @@ const transcripts = [
             "1wU_sQ0DY8StcyGJykN9LsJ0pAcfeHIx_1c8c6r5vGp8",
             "1dTZNobzzspfajnJV32P00wcwtMjDiYl83x5l9t71x9Q",
             "1NUdc9oHDttp8XNIGvGUdWDk8kHPzfMDYBqWjnQdT-bE",
+            //Twilight Mirage 26: The Miracle of the Mirage: The Heist
             "1EBnNWYGS0mBluIvhTguvxjGk8DIgp-9FxMIme1YRgV4",
             "1lTmS4TdtfEeoN1wPlDmz9JfnAXz9E6J6_Qp3L-VdQxk",
+            //Twilight Mirage 29: This Year of Ours: The Pilot
             "1x6RuF1UG5l3wPs2lQDTIXs30ysIE7w2G2q0pviVlqII",
             "1Ruii5niyvSzlkWqvMLYPFp3_SKDnDuAiSEG2dG8H8GY",
             "1WVpr7fNLhJeAhvrpbTwMAkyUQMFSBO5EjxnSrbC2EfY",
             "11qZTwYvzPOwspWHutp4JUFMfzUjeCqKMHilwTrUd5ig",
             "1DievgnHN1OujJN97CcmuyG0Vm45sMDF9yum2C1nWKg8",
+            //Twilight Mirage 35: This Year of Ours: The Notion
             "1V3hm5PNQ7fMfx97jKdknmcA43clTRn0vi5fgGIJ4yVg",
             "1Ypfpyjn_q4SvgmDslE0qDgKqWxKccYtZ0Gn3ArS3ZmE",
             "15AR_aE5HvnQg7GOcyCnpc74lg_Qe_2eXvCINtRLlisQ",
@@ -323,6 +340,7 @@ const transcripts = [
             "1s76j7aaS3-OaDLxXLJGKgaL-ctm-nRek9qfeFqpdQM4",
             "1pMB-gf6pAa-rakvBRr9O-ZC6p1C9fl2p--AMZE1hJRI",
             "18B3_cCnyt4kQIcCAO4R5aBGYzTjPpq1Poe5FB0CLZeo",
+            //The Road to PARTIZAN 04: Armour Astir Pt.2
             "1xGVfQqSd7Quo-8lf_8GIjxouV2Vux2PNCwQTC3gnDcU",
             "1Cxg3k5nIAtnYZTm3kgK4nzDQR_X3ha9x9p_Rd5-QH70",
             "1SN7aMDHFL7jhlyMLZ6X8vubxx8SZ3rBqbCM0fbk9MAI",
@@ -330,6 +348,41 @@ const transcripts = [
             "1fy_FTG4_UJRNg-IvDywON9RpF1zPZZuGIJrHAOCWZzA",
             "1Gl_dpTrkOLu6UwSiOdPyup4t2ymJx6cbI7eC0PbRt8c",
             "18VSJvOkKltxn4aYhTOwFze7WICkpYXiS5sZBXyQv17o",
+        ]
+    },
+    {
+        season_name: "pzn",
+        IDs: [
+            "1yA0X_obPt17vLqbixQLeLdh3QbDhJXYgeTtnP3hOtk4",
+            //PARTIZAN 01: The Seaside Town of Obelle
+            "1k2SpO2cR4hQHQ5MpzNYLeFokS_x6ROYAMjaOvO1tjaQ",
+            "1HKC6juZ_PmbRU1otR5Ysho7S8equ9PwIkO0JnxEoX1c",
+            "10CjMnZsZHwrZd5q_ZL-R5U6nok3XO3RyA8FTVbpRjh0",
+            "1RMpe1d0RfhhBFZE0IeVtjkWisrrKHDka4ibPiQQjBF0",
+            "1gNFIC5aRaYEcrJC7JOm4CyEXjxsJNPJTXg1NcBpO7bM",
+            "1lTVi8BlIYZjOAOzHyA0o6UVRb9cfSJBrnS5v7WLBw60",
+            "1SnYMmh-o0ltWtoF76IJah9QxEw6CfG6Qqbf64h7ttr8",
+            "1Q4bpSMukxzLtQ-6eToE4qe1PnD3wiH87QAA1YqNowQM",
+            "1C2FJHip4CiD12IV8Lbs5270LFJ6EJv67qer64vKBgcY",
+            "1KyXeGDrX2PuTIObUoFvzFNpuAsJyU3-TjcceAnKc5bE",
+            "1UGFHApk1q187VcfcXwbvRhH7_qPoErWa9fSHvtB803E",
+            //PARTIZAN 13: A Captive Audience
+            "1N1l-0mYQWse9gKoNryExA0osGPIm907ggP1vYwiN3UY",
+            "1z3_abjr0BIbNjVFaeqt4Xcql_hjiaORDwoViTlTHwBY",
+            "1K90tbt73s4u_lRsXy317zfYyhxMmEBlv401McLNnicY",
+            "1KzrvLzEUsi5wd0Bn78m4s0OdVObyfyRtvrNcug4tlbI",
+            "1DAdJ6No3TedeM3vF-EO7aH8Ud_VrJvOq0YuxReElonw",
+            //PARTIZAN 19: On the Edge of Fracture
+            //PARTIZAN 20: On the Eve of Revolution
+            //PARTIZAN 21: Millennium Break: We Will Take Hold of the Loom of History!
+            "1uK8RArlWsdSw47VJVYxiDx-mJSMf6zDupiswG1kKweA",
+            "1gWOvis33BYNBfSGG7pnkEDvgfCE5htZatvXq4xV86ws",
+            //PARTIZAN 24: Millennium Break: The First and Second Arrests of Clementine Kesh
+            //PARTIZAN 25: Millennium Break: Courage in the Shadow of Opportunity
+            "1VjgLO8wpuK860mP6qpVBkKH12K2IfE-f7fKSnXi5HcI",
+            //PARTIZAN 27: Millennium Break: She said, "To Win We Must Play!"
+            "1tqYTK2HJ4ClTeoRHBF9n3SLVwCe5neUO8oHnxBf-B7A",
+            //Bonus Episode: Sports Are Just Numerology
         ]
     }
 ];

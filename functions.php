@@ -49,6 +49,12 @@ switch ($season){
         $response = findMatches($pathToDirectory, $keyword, $episodeLinks);
         echo $response;
         break;
+
+    case 'pzn':
+        $pathToDirectory = "./transcripts/pzn/*";
+        $response = findMatches($pathToDirectory, $keyword, $episodeLinks);
+        echo $response;
+        break;
 }
 
 function findMatches($pathToDirectory, $keyword, $episodeLinks){
@@ -80,6 +86,7 @@ function findMatches($pathToDirectory, $keyword, $episodeLinks){
                 if (!in_array($episodeTitle, $results)) {
                     //find episode link by searching for the episode title in the $episodeLinks array and
                     //then using the returned index to access the paired link value
+                    //var_dump($episodeTitle);
                     $arrayIndex = array_search($episodeTitle, array_column($episodeLinks, 'title'));
                     $link = $episodeLinks[$arrayIndex]['link'];
                     $episodeTitle = "<p><a class='episode_title' href=$link target='_blank'>$episodeTitle</a></p>";

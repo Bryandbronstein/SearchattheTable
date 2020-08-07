@@ -566,7 +566,7 @@ AUSTIN (as owner): Oh.
 JACK (as Hitchcock): Just wait here, just for a moment, sir, I will be back in, just a second, just, very briefly.
 
 
-AUSTIN (as owner): First the (?? indisctinct? 16:26 ) closes and now this. Oy.
+AUSTIN (as owner): First the (?? indisctinct? 16:26 [a]) closes and now this. Oy.
 
 
 (wheezing)
@@ -1226,7 +1226,7 @@ SYLVIA (close to mic): She's the first dentist in Marielda.
 (AUSTIN laughs)
 
 
-DRE: Hey, Sylvia[a]?
+DRE: Hey, Sylvia[b]?
 
 
 SYLVIA: Yeah?
@@ -3815,4 +3815,5 @@ AUSTIN: You've successfully picked it. You go inside, there is a clean steel tab
 (theme ends)
 
 
-[a]The name in the audio recording is no longer in use.
+[a]austin says “first the auntie anne’s closes and now this” !!
+[b]The name in the audio recording is no longer in use.

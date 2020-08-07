@@ -939,8 +939,92 @@ $episodeLinks = array(
     array(
         "title" => "﻿Twilight Mirage 68: The Twilight Mirage Post Mortem",
         "link" => "https://docs.google.com/document/d/16PrXvOObbm6D-buKCXpaux5kqQa4DDNvssxgmxhyesc/edit?usp=sharing"
+    ),
+    array(
+        "title" => "﻿PARTIZAN 00: The Divine Principality",
+        "link" => "https://docs.google.com/document/d/1yA0X_obPt17vLqbixQLeLdh3QbDhJXYgeTtnP3hOtk4/edit?usp=sharing"
+    ),
+    array(
+        "title" => "﻿PARTIZAN 02: Obelle, On Fire",
+        "link" => "https://docs.google.com/document/d/1k2SpO2cR4hQHQ5MpzNYLeFokS_x6ROYAMjaOvO1tjaQ/edit?usp=sharing"
+    ),
+    array(
+        "title" => "﻿PARTIZAN 03: SHORESIDE RECOVERY - DINNERDATE",
+        "link" => "https://docs.google.com/document/d/1HKC6juZ_PmbRU1otR5Ysho7S8equ9PwIkO0JnxEoX1c/edit?usp=sharing"
+    ),
+    array(
+        "title" => "﻿PARTIZAN 04: SHORESIDE RECOVERY - BLACKGLOVES",
+        "link" => "https://docs.google.com/document/d/10CjMnZsZHwrZd5q_ZL-R5U6nok3XO3RyA8FTVbpRjh0/edit?usp=sharing"
+    ),
+    array(
+        "title" => "﻿PARTIZAN 05: Profit and Loss",
+        "link" => "https://docs.google.com/document/d/1RMpe1d0RfhhBFZE0IeVtjkWisrrKHDka4ibPiQQjBF0/edit?usp=sharing"
+    ),
+    array(
+        "title" => "﻿PARTIZAN 06: A Palace During a Wake",
+        "link" => "https://docs.google.com/document/d/1gNFIC5aRaYEcrJC7JOm4CyEXjxsJNPJTXg1NcBpO7bM/edit?usp=sharing"
+    ),
+    array(
+        "title" => "﻿PARTIZAN 07: Ambush in the Sand",
+        "link" => "https://docs.google.com/document/d/1lTVi8BlIYZjOAOzHyA0o6UVRb9cfSJBrnS5v7WLBw60/edit"
+    ),
+    array(
+        "title" => "﻿PARTIZAN 08: Under the Boughs of the Court",
+        "link" => "https://docs.google.com/document/d/1SnYMmh-o0ltWtoF76IJah9QxEw6CfG6Qqbf64h7ttr8/edit?usp=sharing"
+    ),
+    array(
+        "title" => "﻿PARTIZAN 09 - DESERT SQUIRE - VANTAGE",
+        "link" => "https://docs.google.com/document/d/1Q4bpSMukxzLtQ-6eToE4qe1PnD3wiH87QAA1YqNowQM/edit?usp=sharing"
+    ),
+    array(
+        "title" => "﻿PARTIZAN 10: DESERT SQUIRE - RIPOSTE",
+        "link" => "https://docs.google.com/document/d/1C2FJHip4CiD12IV8Lbs5270LFJ6EJv67qer64vKBgcY/edit?usp=sharing"
+    ),
+    array(
+        "title" => "﻿PARTIZAN 11: DESERT SQUIRE - SLEIGHT",
+        "link" => "https://docs.google.com/document/d/1KyXeGDrX2PuTIObUoFvzFNpuAsJyU3-TjcceAnKc5bE/edit?usp=sharing"
+    ),
+    array(
+        "title" => "﻿PARTIZAN 12: A Call From an Island",
+        "link" => "https://docs.google.com/document/d/1UGFHApk1q187VcfcXwbvRhH7_qPoErWa9fSHvtB803E/edit?usp=sharing"
+    ),
+    array(
+        "title" => "﻿PARTIZAN 14: Deception in the Canyon City",
+        "link" => "https://docs.google.com/document/d/1N1l-0mYQWse9gKoNryExA0osGPIm907ggP1vYwiN3UY/edit?usp=sharing"
+    ),
+    array(
+        "title" => "﻿PARTIZAN 15: Divine Attention",
+        "link" => "https://docs.google.com/document/d/1z3_abjr0BIbNjVFaeqt4Xcql_hjiaORDwoViTlTHwBY/edit?usp=sharing"
+    ),
+    array(
+        "title" =>  "﻿PARTIZAN 16: BITTER AIR - BEHEST",
+        "link" => "https://docs.google.com/document/d/1K90tbt73s4u_lRsXy317zfYyhxMmEBlv401McLNnicY/edit?usp=sharing"
+    ),
+    array(
+        "title" => "﻿PARTIZAN 17: BITTER AIR - THREECARD",
+        "link" => "https://docs.google.com/document/d/1KzrvLzEUsi5wd0Bn78m4s0OdVObyfyRtvrNcug4tlbI/edit?usp=sharing"
+    ),
+    array(
+        "title" => "﻿PARTIZAN 18: BITTER AIR - COMBUSTION",
+        "link" => "https://docs.google.com/document/d/1DAdJ6No3TedeM3vF-EO7aH8Ud_VrJvOq0YuxReElonw/edit?usp=sharing"
+    ),
+    array(
+        "title" => "﻿PARTIZAN 22: Millenium Break: Forward, to Piracy (Sharp Tensions Across Tremulous Seas)",
+        "link" => "https://docs.google.com/document/d/1uK8RArlWsdSw47VJVYxiDx-mJSMf6zDupiswG1kKweA/edit?usp=sharing"
+    ),
+    array(
+        "title" => "﻿iPARTIZAN 23: Who Will Lead Millennium Break?",
+        "link" => "https://docs.google.com/document/d/1gWOvis33BYNBfSGG7pnkEDvgfCE5htZatvXq4xV86ws/edit?usp=sharing"
+    ),
+    array(
+        "title" =>  "﻿PARTIZAN 26: Millennium Break: Breaking Vigil",
+        "link" => "https://docs.google.com/document/d/1VjgLO8wpuK860mP6qpVBkKH12K2IfE-f7fKSnXi5HcI/edit?usp=sharing"
+    ),
+    array(
+        "title" => "﻿PARTIZAN 28: Millennium Break: The Storm Over Cruciat",
+        "link" => "https://docs.google.com/document/d/1tqYTK2HJ4ClTeoRHBF9n3SLVwCe5neUO8oHnxBf-B7A/edit?usp=sharing"
     )
 );
 
-$test1 = array_search("﻿Autumn in Hieron 27: The Shores of Ordenna", array_column($episodeLinks, 'title'));
+//$test1 = array_search("﻿Autumn in Hieron 27: The Shores of Ordenna", array_column($episodeLinks, 'title'));
 //var_dump($episodeLinks[$test1]['link']);

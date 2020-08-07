@@ -83,14 +83,14 @@ DRE: Um, and I think Natalya just comes up behind him, and says:
 [laughter from KEITH]
 AUSTIN: Weird!
 KEITH [as Sokrates] (CONT’D): Well, I still -- you know. I feel like, the situation is under control, I still think, you know, it’s probably better to have him here than a bunch of -- I mean, we already have no food, imagine if the refugees were still on board, you know? I feel like, you know, I still, I still made a net positive decision, except the positive is a lot lower than I was hoping. 
-DRE [as Natalya]: There’s any reason or point in figuring out whose fault it is here. I’m just glad--
+DRE [as Natalya]: There’s any[a] reason or point in figuring out whose fault it is here. I’m just glad--
 KEITH [as Sokrates]: No, it is my fault--it was me.
 DRE [as Natalya]: Don’t worry about it. We all make decisions that we regret. Um--
 KEITH [as Sokrates]: Mhm.
-DRE [as Natalya]: I’m more interested in finding someone that’s trying to take care of him. 
+DRE [as Natalya]: I’m more interested in finding someone that’s trying to take care of him[b]. 
 KEITH [as Sokrates]: Taking care of him?
 DRE [as Natalya]: Yeah.
-KEITH [as Sokrates]: I mean, I just, I just knocked him out of power, I don’t want to be bringing him food. And a warm blanket. And using a hot water bottle from me. 
+KEITH [as Sokrates]: I mean, I just, I just knocked him out of power, I don’t want to be bringing him food. And a warm blanket. And using a hot water bottle from me. [c]
 DRE [as Natalya]: Sokrates, what I’m looking for is someone to help me kill Ibex.
 KEITH [as Sokrates]: Oh, you want to kill him?
 DRE [as Natalya]: Yes.
@@ -1380,7 +1380,7 @@ AUSTIN: Right. There’s neither-- you know, I think that it’s like, everyday 
 DRE: Oh, man, 
 SYLVIA: It’s like Canada in the winter!
 AUSTIN: It’s Canada in the winter. Yeah, totally. 
-KEITH: “Oh, my name’s Sylvia[a], I don’t talk about Canada all the time!”
+KEITH: “Oh, my name’s Sylvia[d], I don’t talk about Canada all the time!”
 SYLVIA: Yeah, it’s where I’m from, it’s what I do. I had to go outside today and it was not fun. So…
 KEITH: [sighs] I haven’t had to wear a jacket yet, so...which is crazy, because I’m in Massachusetts. 
 AUSTIN: It’s so warm, it’s so warm. 
@@ -2064,4 +2064,7 @@ AUSTIN: (singsong voice) Happy Holidays…
 [soft laughter]
 ALI: (singsong voice, more mumbled) Happy Holidays…
 AUSTIN: I don’t know anymore lyrics. Bye!
-[a]The name in the audio is no longer in use.
+[a]no* not any
+[b]who wants to work towards taking care of him
+[c]He doesn't need a hot water bottle from me*
+[d]The name in the audio is no longer in use.
