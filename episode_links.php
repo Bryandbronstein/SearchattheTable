@@ -53,6 +53,10 @@ $episodeLinks = array(
         "link" => "https://drive.google.com/open?id=1B_GSuQ42l0Y2kcxiGl0gC1cgcKekDmV4DbmGsaQOV0w"
     ),
     array(
+        "title" => "﻿Autumn in Hieron 14: A Fire Hydrant of Divinity",
+        "link" => "https://drive.google.com/open?id=1xyHZAhhv1uaJONTXVs9r9sWvYNCCCxWv6y31zMax0wY"
+    ),
+    array(
         "title" => "﻿Autumn in Hieron 15: Have You Ever Swung A Sword At A Ghost Before?",
         "link" => "https://drive.google.com/open?id=1Zxf5R4YiPCyHkGneCSxnTA402GfJBfEM6I9_S3RFDD0"
     ),
@@ -155,6 +159,10 @@ $episodeLinks = array(
     array(
         "title" => "﻿COUNTER/Weight 11: A Thing You Know About Nightclubs",
         "link" => "https://drive.google.com/open?id=1_zHGRtTLKXahrdEIlcCEFGddIEkrWp0LcGIRvV5yFDw"
+    ),
+    array(
+        "title" => "﻿COUNTER/Weight 12: A Home After A Wake",
+        "link" => "https://drive.google.com/open?id=1Kxs2MC2ygjiOKTGx-BKYH3ykFxxXWOyzSXTnkhnYudo"
     ),
     array(
         "title" => "﻿COUNTER/Weight 13: Our Customer of the Month",

@@ -77,7 +77,7 @@ const transcripts = [
             "1IpnFHplPXGH2IOEpTs9g2w-yLGTEkpH2VQuawpUUK4o",
             //Autumn in Hieron: Holiday Special 01: I Don’t Know What’s in That Box
             "1B_GSuQ42l0Y2kcxiGl0gC1cgcKekDmV4DbmGsaQOV0w",
-            //Autumn in Hieron 14: A Fire Hydrant of Divinity
+            "1xyHZAhhv1uaJONTXVs9r9sWvYNCCCxWv6y31zMax0wY",
             "1Zxf5R4YiPCyHkGneCSxnTA402GfJBfEM6I9_S3RFDD0",
             "1cnLCI-g5NAqt6Dd-IaHcNOraiKRujeZvOJY9GRqpKVI",
             "1vptygnyKDEPUnICnnpCTpYOpZxfbPebn-st23oZ2Yro",
@@ -223,7 +223,7 @@ const transcripts = [
             "1dqfYFgO5lDmED7kvm-wQe9ejblNx6J7aCJTqv-tW4A4",
             "1wtmzUIBlFn5oKtAQcnaBNgrHOSEuu9i64L4-C5Wj2yk",
             "1_zHGRtTLKXahrdEIlcCEFGddIEkrWp0LcGIRvV5yFDw",
-            //COUNTER/Weight 12: A Home After A Wake
+            "1Kxs2MC2ygjiOKTGx-BKYH3ykFxxXWOyzSXTnkhnYudo",
             "1axrkgj-V9GA-2kpKrGAm8kcHP5YZCOFX8WiCY_IBzss",
             "174wMIQjE6vkDy6y8zieQdfuUBajluVBh3LNdFga2QvQ",
             "1MPTGfKDr1rGpimeYBcNv7WRp2h9AvqWYbZRxlsL0r2Y",

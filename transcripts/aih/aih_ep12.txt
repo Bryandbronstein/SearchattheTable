@@ -623,7 +623,7 @@ ALI: Oh!
 DRE: Nice!
 AUSTIN: Dang!
 AUSTIN: Hella rolled a ten by herself! She don't even need nobody!
-ALI: ??? 0:41:52.5[c][d]
+ALI: ??? 0:41:52.5[c][d][e]
 DRE: You're a strong independent detective that don't need no help!
 AUSTIN: Uh-huh! Alright, so the proprietress of… the proprietress of the Bottom O' The Flounder is this really bubbly, fun lady named Fisher Lacey. [Keith laughs] And when she comes in, and immediately she's like
 AUSTIN (as Fisher Lacey): What do you need? You need an iced nog?
@@ -667,7 +667,7 @@ AUSTIN (as Fisher Lacey): Yeah… that boy checked in last night. Late. I-I… I
 KEITH: Probably just wants the goose nog.
 AUSTIN: And she leads you upstairs, to a bedroom. She says,
 AUSTIN (as Fisher Lacey): He's a sweet boy. He's just… it's just been a rough year for him, y'all understand, right?
-AUSTIN[e]: And he is there. In a bed, sweating. Out of it. He is out of his mind. And-and, probably on something sturdier that halfling green. You can see the dried tracks of tears on his face. And… every few minutes. Every few moments, let's say, you can hear him mumbling 'Bishop'.
+AUSTIN[f]: And he is there. In a bed, sweating. Out of it. He is out of his mind. And-and, probably on something sturdier that halfling green. You can see the dried tracks of tears on his face. And… every few minutes. Every few moments, let's say, you can hear him mumbling 'Bishop'.
 ALI: Oh. That's rough.
 ART: Hey buddy, did you kill someone recently?
 [Ali laughs]
@@ -847,7 +847,7 @@ KEITH: We might not win! Hold on...we might not win.
 AUSTIN: Let's move- all right, let's move.
 (overlapping)
 AUSTIN: If you can come up with a question- if you can come up with a question before we're done this turn, I'll let you ask it.
-KEITH: If there are places we haven’t- let’s-
+KEITH: [g][h][i]If there are places we haven’t- let’s-
 AUSTIN: So Lem and Fero.
 KEITH: What's up!
 (overlapped)
@@ -874,7 +874,7 @@ AUSTIN: Listen, I've gotta put that explicit tag on this now!
 [Everyone laughs]
 AUSTIN: Gee!
 KEITH: No no no, I'll bleep it, it's okay. It'll get bleeped.
-AUSTIN: He's licking a Ron! Why is he licking a Ron? [f][More laughing]
+AUSTIN: He's licking a Ron! Why is he licking a Ron? [j][More laughing]
 ART: Did you just use bleep for bleep?
 JACK: So much bleep work. I rolled a 12.
 AUSTIN: I saw.
@@ -2325,7 +2325,7 @@ KEITH: Yeah. I'm giving up- I vote give up Mitta, I vote give up Lucius.
 ALI: Austin, is the next question, the next question is 'Does she deserve to be punished?'
 AUSTIN: I don't know!
 ALI: Okay, you're not gonna tell us.
-[2:53:44.0 overlapping talking][g]
+[2:53:44.0 overlapping talking][k]
 JACK: You know, Austin.
 ART: I vote for giving up Mitta
 ART: Mitta- why is, she's gone. What do you care if they know she did it? She's gone.
@@ -2634,7 +2634,7 @@ JACK: I don't think we have it.
 JACK: Lucius has it.
 ART: I don't think Lucius has it.
 KEITH: I thought the rats had it.
-??? 3:07:04.[h]3 
+??? 3:07:04.[l]3 [m]
 JACK: Austin. The box was broken in Greggy's room.
 AUSTIN: The- you didn't find the box though, you found the hinge of the box. Someone else-
 [overlapping]
@@ -2794,7 +2794,12 @@ AUSTIN: Happy holidays!
 [b]You're right, but I have no clue what it is :(
 [c]same! i'm same (?) austin is also talking here
 [d]It could be saying, but that doesn't...make sense either lol
-[e]note to self stopped here
-[f]a Ron? Why is he licking a Ron?
-[g]?
-[h]Echo is really bad here
+[e]yeah, i'm pretty sure it's "Sayin', I'm sayin'..." as in "that's what i've been saying, i can roll tens all on my own"
+[f]note to self stopped here
+[g]If there are places we haven't -- let's ?
+[h]_Marked as resolved_
+[i]_Re-opened_
+[j]a Ron? Why is he licking a Ron?
+[k]?
+[l]Echo is really bad here
+[m]sounds to me like austin is saying "These are all good questions." which would make sense since he's saying "that's a good question" at 3:06:46
