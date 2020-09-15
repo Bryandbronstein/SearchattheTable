@@ -72,7 +72,7 @@ const transcripts = [
             "1Qe-Za5Yq_60X2-xIINdzP3EAVXxicwAR4zzK991YhgQ",
             "1znte6qTjshc1vFiF7UE9H3tk1FwEcTjBsLuWWWkL0yU",
             "1B59UxpObG0U_ky8o5YbyRC4RC2xS-a9hbzJBB-DT_Kk",
-            //Autumn in Hieron 11: Like Sneaky Little Sneaks
+            "1BHXPnZty5CHuZAQwiB2019m_doof7ADB3wksa_NWzNo",
             "1OSPBC5R-8M0KoAmJfjEQS86wqdxCWQWCSGRlLklbjQI",
             "1IpnFHplPXGH2IOEpTs9g2w-yLGTEkpH2VQuawpUUK4o",
             //Autumn in Hieron: Holiday Special 01: I Don’t Know What’s in That Box
@@ -157,7 +157,7 @@ const transcripts = [
     {
         season_name: "sih",
         IDs: [
-            //Spring in Hieron 00: What Came Before
+            "1pXhWrP6qwXQZrnW5xfD6Ezbow0CwWyCWJhc9HvyJVs4",
             "1EI-OSedAI_Wx_EhB_o1v1D74nOMmj8gIBS5E1crsZw8",
             "1HOeumDaoT9vvoV-DdBgMLzkR_bEKIZ8M6MOvMdXOKqI",
             "1namfl7xM8lzbiy3hLCsFYAdJi99IU3FR37EITckiU2o",
@@ -380,7 +380,7 @@ const transcripts = [
             //PARTIZAN 24: Millennium Break: The First and Second Arrests of Clementine Kesh
             //PARTIZAN 25: Millennium Break: Courage in the Shadow of Opportunity
             "1VjgLO8wpuK860mP6qpVBkKH12K2IfE-f7fKSnXi5HcI",
-            //PARTIZAN 27: Millennium Break: She said, "To Win We Must Play!"
+            "1M08vgkA9rMcBnuN77B_RaY5Q_VBNWCwwAjVuv-wCVXI",
             "1tqYTK2HJ4ClTeoRHBF9n3SLVwCe5neUO8oHnxBf-B7A",
             //Bonus Episode: Sports Are Just Numerology
         ]

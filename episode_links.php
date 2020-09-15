@@ -41,6 +41,10 @@ $episodeLinks = array(
         "link" => "https://drive.google.com/open?id=1B59UxpObG0U_ky8o5YbyRC4RC2xS-a9hbzJBB-DT_Kk"
     ),
     array(
+        "title" => "﻿Autumn in Hieron 11: Like Sneaky Little Sneaks",
+        "link" => "https://drive.google.com/open?id=1BHXPnZty5CHuZAQwiB2019m_doof7ADB3wksa_NWzNo"
+    ),
+    array(
         "title" => "﻿Autumn in Hieron 12: Knowledge and Ignorance",
         "link" => "https://drive.google.com/open?id=1OSPBC5R-8M0KoAmJfjEQS86wqdxCWQWCSGRlLklbjQI"
     ),
@@ -1027,6 +1031,10 @@ $episodeLinks = array(
     array(
         "title" =>  "﻿PARTIZAN 26: Millennium Break: Breaking Vigil",
         "link" => "https://docs.google.com/document/d/1VjgLO8wpuK860mP6qpVBkKH12K2IfE-f7fKSnXi5HcI/edit?usp=sharing"
+    ),
+    array(
+        "title" =>  "﻿Partizan 27: Millennium Break: She said, \"To Win We Must Play!\"",
+        "link" => "https://docs.google.com/document/d/1M08vgkA9rMcBnuN77B_RaY5Q_VBNWCwwAjVuv-wCVXI/edit?usp=sharing"
     ),
     array(
         "title" => "﻿PARTIZAN 28: Millennium Break: The Storm Over Cruciat",

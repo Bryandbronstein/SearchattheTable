@@ -1,1045 +1,880 @@
-﻿Autumn in Hieron 15: Have You Ever Swung A Sword At A Ghost Before?
-
-
-Transcriber: Dylan (disasterpaladin#7113)
-
-
-KEITH: Okay so here's the thing
-AUSTIN: What's the thing?
-Ali: Mmhmm?
-KEITH: I did - so one: I did have coffee already made, someone made coffee earlier, (JACK: Yay!) and it was already made so now I have some -
-AUSTIN: Wait, I thought you lived alone.
-KEITH: What's that?
-AUSTIN: I thought you live alone.
-KEITH: No I haven't moved in yet, I'm at my mum's house for another week. Another two weeks. 
-AUSTIN: Oh, okay.
-KEITH: Yeah. So I'm moving again in another couple of weeks. It's gonna be great. So...there was no cups in the cabinet, so what I'm doing now is I'm (AUSTIN, sighing: No!) drinking cold coffee out of a bowl.
-ALI: Oh my god
-[Jack laughs]
-ALI: Oh my god
-JACK: Keith!
-KEITH: So if you thought living with my mother (JACK: Keith!) was gonna make my life a little bit less sad then that's not-
-JACK (over Keith): Keith! You are an innocent kitten!
-[Everyone laughs]
-AUSTIN: You are the most innocent kitten! We thought it was that kitten from that video that you sent us!
-KEITH (over Austin): No no no but it's me drinking cold coffee from a bowl. Cold, cold coffee.
-AUSTIN: Wait! Wait are you that- are you the kitten from that video? Was that you?
-[Keith meows, Ali laughs]
-AUSTIN: Oh my god it was Keith!
-JACK: Keith was the kitten all along!
-[Keith meows again]
-AUSTIN: Awwwwww! Little Keith!
-[more meowing]
-AUSTIN: Aww little keith, so innocent!
-JACK: What's amazing is that he's really running, you know...a patreon campaign, and youtube game streaming service with such a high viewership, being as he is a tiny kitten.
-AUSTIN: Well- he's both the most innocent kitten and the most industrious.
-[Everyone laughs]
-JACK: Right.
-ALI (deadpan): Honestly, if I knew he was a kitten earlier I would have supported his stuff more.
-[Everyone laughs]
-AUSTIN: Kittens need help, kittens need support.
-[Keith meows]
-ALI: They do! (laughing) Especially the most innocent kitten.
-[AUTUMN NOT WINTER BEGINS TO PLAY]
-KEITH, in a weird high pitched cat voice: Someone please pat my head!
-[Everyone laughs]
-AUSTIN: Hey internet! It's Austin Walker. As always I'm bringing you Friends At The Table, an actual play podcast focused on critical worldbuilding, smart characterisation, and fun interaction between good friends. We are presented by streamfriends.tv and runbutton.net. Joining me today: Keith Carberry,
-KEITH: Hi! My name’s Keith Carberry, you can find me on Twitter @keithjcarberry and you can find the let's plays I do at runbutton.net or youtube.com/runbutton
-AUSTIN: Jack de Quidt,
-JACK: My name's Jack de Quidt, you can find me on Twitch and Twitter @notquitereal
-AUSTIN: And Ali Acampora.
-ALI: Hi! You can find me @ali_west on Twitter.
-AUSTIN: You can find me @austin_walker on Twitter, @thecalcutec on Twitch, clockworkworlds.com. We are continuing our Dungeon World game...we haven't recorded this side of the campaign in three weeks? Four weeks? Ali went on vacation, I got super busy...it was a whole thing.
-JACK: I haven't spoken to Keith in six weeks.
-AUSTIN: That's true.
-KEITH: That's true. Jack and I have been on a long hiatus.
-AUSTIN: We've been recording this game, they just haven't spoken besides this.
-JACK: Yes. Yeah.
-AUSTIN: As always, the agenda with Dungeon World-
-KEITH (over Austin): If you listen back, also we never spoken to each other during the thing.
-AUSTIN: Right. This is like in Community, when there's like a secret hidden joke that only the biggest fans would catch? The secret joke is Keith and Jack have never spoken to each other. (KEITH: Yeah, that’s true.) 
-[MUSIC ENDS]
-AUSTIN: Uh- Dungeon World is a game by Sage LaTorra and Adam Koebel and our agenda is, as always, to portray a fantastical world, to fill the characters' lives with adventure, and to play to find out what happens. That last one is like- I'm really excited for this session, because lots of things could happen. I mean- they always can, but we left off in a really interesting place. I'm trying to decide if I want to do the school teacher thing or the like, narrative thing, of like do I wanna ask one of you to tell me what happened last game, or do I wanna just say it...does anyone feel like recapping what happened last session?
-[PAUSE]
-KEITH: [sighs] I think if I tried I could do it.
-ALI: There was a lot that happened.
-AUSTIN: There was A LOT that happened.
-JACK (over Austin): I think if I tried I would fail.
-AUSTIN: Alright- let me do it, because-because I've been deep in this all day thinking about this game and prepping and all that.
-KEITH: Okay you recap, I'll keep drinking out of my bowl.
-AUSTIN: Oh, jesus- I hope that's in this intro, otherwise people are not gonna understand-
-[Ali laughs]
-KEITH (over Austin): Of course it's gonna be in the intro. I’m not-what kind of slacker do you think I am where I'm not gonna leave that in the intro?
-AUSTIN: Hmmm...I don't know...
-JACK (over Austin): He's the industrious kitten.
-KEITH: Also it's a shitty bowl. Check out this shitty bowl.
-AUSTIN: We're not- oh! Are we videoing? Keith is videoing right now!
-KEITH: I turned it on because I thought it would be a funny bit to-
-[Talking over each other]
-JACK: Oh! Oh, hey Keith.
-AUSTIN: We should - should we video?
-JACK: Yeah alright
-KEITH: It helps me pay attention!
-AUSTIN: It does. It also helps me pay attention. I'm gonna- I'm gonna video.
-JACK: I don't know how I'm going to look, and I'm probably gonna look bad.
-AUSTIN: I look terrible.
-KEITH: I'm drinking cold black coffee out of a shitty bowl.
-ALI: That's a really nice looking bowl though.
-KEITH (over Ali): It’s not! It’s a bad bowl!
-AUSTIN: Ali I like your shhhhirt!
-ALI: Thank youuuu
-JACK: Ooh! Nice shirt Ali! For listeners of the podcast, Ali is wearing a shirt made of gold, it's sequinned, it's got lapis lazuli brace- um beaded, enamel beaded collar...it's really great.
-ALI: It’s just a collar
-KEITH: It's a little gaudy.
-AUSTIN: What button? What button am I supposed to hit? I don't-
-KEITH: Uhhhh the one that's a video camera.
-AUSTIN: Hey. Hi. Hoo.
-KEITH: Hey guys.
-AUSTIN: Uh, okay! Now we can do this- wait, no that didn't do the thing I wanted. None of this is working. Why is this not popping out the video like it normally does?
-JACK: I can’t even see you. You've just a spoon with [INAUDIBLE]
-KEITH (over Jack): You've turned into a swirl.
-JACK: Mmhmm
-AUSTIN: Yeah?
-KEITH: Yeah. You're like a chocolate and vanilla.
-[A LONG PAUSE]
-AUSTIN: Is that like a race joke?
-[Ali giggles]
-KEITH: No! It's a soft serve joke, Austin!
-AUSTIN: Hmm...alright, you do have all that time...actually, someone else should host this call! That's what we should do.
-KEITH: Okay. Bye!
-JACK: Not me. I have chocolate.
-KEITH: Did you...wait, hold on- did you just real quick check your email?
-[Ali laughs]
-AUSTIN: I- something came in. I'm waiting for something important. I'm waiting to see if I'm going to review Far Cry 4 for Pace(?)
-ALI and JACK: Oooohh
-AUSTIN: It'll be really cool, but it depends on if they give PC codes. If they don't give PC codes-
-KEITH: (sounds like he's underwater?? Drinking bowl coffee and talking??)
-JACK: I found out there were snakes in it today, and I'm not playing that game.
-AUSTIN: Aww.
-KEITH: There were snakes in the last one!
-AUSTIN: Did you hear about that guy? Oh my god. Ugh.
-KEITH: Are we talking about that guy that got eaten by a big snake in England?
-JACK: I don't want to-
-ALI: No.
-[Everyone laughs apart from Jack]
-AUSTIN: Oh, Jack! He didn't get eaten!
-KEITH: I'm sorry Jack! I'm really sorry!
-AUSTIN: He didn't get eaten.
-KEITH: I didn't know what- I'm just- I made a thing up. I just made it up. I made the whole thing up. Jack- hold on, but- did you know that in my 12 hour marathon I name and Ekans ah- Snack de Quidt?
-[Everyone laughs, Austin claps]
-JACK: That is pretty great though.
-KEITH, laughing: Yeah.
-JACK: Is my video working?
-KEITH: Yeah.
-AUSTIN: Yeah you're good. You're good.
-Start of play - 0:06:18
-AUSTIN: So, last time on Boat Party, Boat Party kinda became Ghost Party as you did a soft landing into the empire of Nacre, which is kinda a little seaside town filled with people, and ghosts, and the undead. While there, you learned a bunch of things, you learned that this was a town that was from before the Erasure, that the- the kind of Death himself loved this town so much that he protected it, and kind of seeded (seated? 06:56) his divine power. A lot of other things happened. Lem, Jack's character, ran into Emmanuel, the pirate--the would be baker-pirate, the would-be pastry chef, and got led around the town and learned a lot about the history of the town. Hella's sword came to life, and warned of the power of Tristero, who you would later learn was the god of the dead, or the former god of the dead. And one of the things that struck Fero was the strange mingling of the living and the dead here.That there was a- the way that life and death worked here was not nat- was not unnatural in the sense that- it wasn’t you know, morally wrong or something, but it was not like any other bit of nature. It was unnatural in that sense. To have a sort of lifeless presence throughout the town. And also saw, kind of a nice point, a man giving away his life, kind of stepping out of his unlife, his ghosthood, into-
-KEITH (whispering over Austin): That was the best- that was the best part of last week.  
-AUSTIN: -into the ether. At a certain point, Fero and Hella realised that they had lost Lem, who had been kind of traipsing around the town with his new buddy, Emmanuel, and tracked him down to a little hotel, the hotel that Tristero, the former god of death, used to stay at when visiting Nacre. And this hotel was sort of half-hotel half-church, a kind of temple atmosphere, because of how often Tristero stayed there. And just as we concluded, Lem and Emmanuel were smoking cigarettes on a balcony looking over the marketplace and the shore and the docks of Nacre, and Hella and Fero had found them there in that penthouse suite, and just when everyone thought that [laughs] everything would be okay, a very familiar man took hold of Hella from behind and put a blade to her throat. Before closing his own to issue threat. Of course, that was Brandish, the undead pirate king, who just-will not leave us alone.
-JACK: He's our nemesis at this point, right?
-KEITH: He's kind of a dickhead. Like kind of though. 
-AUSTIN: Kinda.
-JACK: Um, also wasn't there something about-
-(overlapped)
-AUSTIN: I might be forgetting something
-JACK: -Calhoun?-
-AUSTIN (over Jack): Yes! That's the biggest thing!
-JACK: As like an abdicated prince?
-KEITH: Oh yeah!
-AUSTIN: One of the things- one of the major things you learned was that Calhoun had been captured and had been taken to the sable spire, which is a prison here in this town, of kind of marble. This one prison that is- it strikes up against the night sky and blots out the stars, and you overheard through a conversation between two men in the marketplace, that Calhoun-who you know as Calhoun is really Angelo Triste, who is-who was in line to be the next emperor of this place, but mysteriously betrayed his people and fled. I don't remember how much I gave you. Do you remember what his crime- if there was a crime associated with this?
-KEITH: Yeah. He had...MURDERED...
-AUSTIN: Yes.
-KEITH: His...father?
-AUSTIN: Yes.
-KEITH: ...and...then…...scram.
-[Ali giggles]
-AUSTIN: Yep! Good cadence. On that.
-KEITH: Thank you! [singing] Professional performer!
-[Ali giggles again]
-JACK: He says, drinking a bowlful [laughing] of cold coffee. Keith, you're the worst!
-AUSTIN: Oh, oh! Don't break things.
-JACK: Keith you're the worst person!
-KEITH: It's fine, my bed is right behind me.
-AUSTIN: Okay.
-JACK: That doesn't make it any better!
-AUSTIN: So.
-KEITH: It-it landed right side up!
-AUSTIN: Don't- okay.
-KEITH: I told you, I'm part clown! And I finished it.
-AUSTIN: It's not a race. That's not a- you can't be.
-[Keith laughs]
-AUSTIN.: Hella, there's a knife to your throat. What do you do?
-ALI: [whimpers] Um...I don't have a lot of options. I've been considering this for three weeks and I really have...any options?
-AUSTIN: So are you just kind of holding still at this point then?
-ALI: Yeah.
-AUSTIN: Okay. Lem, who is with you- sorry not Lem, Fero. Immediately. We're like five minutes in and I've already mixed up Lem and Fero. [Ali and Jack laugh] God damn it, I'm never gonna get it down.
-JACK: It's traditional.
-AUSTIN: It is, at this point. Fero, you feel the prodding of a metal point in your back. Meanwhile, Lem and Emmanuel on the balcony look over and see Brandish and Ginny, who is his first mate, along with three other figures behind them.
-ALI, quietly: Oh boy.
-AUSTIN: One of them is a human, who is alive. One of them is an undead elf, who bears the scars of years and years of combat, and one is a ghost. A ghostman.
-JACK: A human?
-AUSTIN: A ghost human. Yeah. And they are dressed in the armour of Nacre and the, kind of... they're professional soldiers. These aren't pirates. So-so what do you do? As the person with the most mobility here, without like being under threat, what do you do, Lem?
-JACK: How far away from them am I?
-AUSTIN: I'm picturing this as like - they're in the entryway to this kind of penthouse suite, I'm kind of imagining it, I know we evoke Wes Anderson a lot here, and I'm kind of imagining this space being carefully -
-KEITH: Do we do that? Do we talk about that guy? [Ali and Jack laugh]
-AUSTIN: I do-yeah, a bit. Kind of a lot. But I imagine this being a space that like his set director would have lovingly put together. Lots of old furniture, couches that are like um, what's the -- there's a certain sort of like upholstered fabric that I’m thinking of that I can't get to immediately, but-
-JACK: ??? 13:22
-AUSTIN: Maybe that's what I'm thinking of. Red and very lavish carpet, with lots of ornate markings on it, you know - very smooth wooden furniture, lots of just stuff scattered on tables, old documents, old candles. Lots of stuff is everywhere. A little too neatly- a little too neatly placed for it to actually be messy, this (JACK: Right) is the space that's meant to resemble the space when Tristero visited, right?
-JACK: Yeah.
-AUSTIN: And so it's been produced to look lived in, but there's still that air of production around it.
-JACK: So um-
-AUSTIN: And that's- so anyway, you're probably like...25 feet away.
-JACK: Okay
-AUSTIN: You're through the main entry hall, like living room area, and then pass into this grand open air balcony, that the windowed doors are open to.
-JACK: And there's no question that Brandish can see me.
-AUSTIN: No question.
-JACK: What are you drinking? That looks amazing.
-ALI: Is that iced tea?
-KEITH: And why isn't it in a bowl? [Austin snorts]
-JACK: Also, I just realised - I haven't levelled up? Should I just keep adding points until we can rest and level up?
-AUSTIN: No just-- oh, you haven't rested yet, so yes.
-JACK: Okay, I'll just accumulating and maybe level up twice or something.
-AUSTIN: You'll have opportunity to rest before that.
-JACK: mmhmm, probably in a jail, or in death or something. (AUSTIN: We'll see.) Places that you can rest. [LONG PAUSE] I'm kind of thinking that I- [PAUSE] What's Emmanuel doing?  
-AUSTIN: I think the last thing he did was let a cigarette fall from his lips and utter a curse.
-KEITH: Yo, Emmanuel's like, fucked right now, [Ali giggles] because his boss just saw him hanging out with the worst dude to be hanging out with. [Jack laughs]
-JACK: Um, but I mean like, is he still here? Has he run away? Is he making a move to attack me?
-AUSTIN (over Jack): Well, there's nowhere to run. The way to run is through Brandish at this point. We're talking about- there's been three seconds. This is like 'previously on...' and we've come in and the knife is at Hella's throat. There hasn't been time to react yet. What he says, right. The curse that he was issuing was just "Tristero".
-JACK: Oh yeah!
-AUSTIN: Remember that was the- [TRAILS OFF]
-JACK: Um, is he trying to attack me?
-AUSTIN: No- he's not- three seconds. Like, we're not- you are the person who's acting.
-JACK: Okay. I could take him hostage, but I don't think that's very Lem. [Ali and Austin laugh]
-KEITH: Hold on... maybe it is, though?
-JACK: Well, but-so I could-I could...what I could do is I could take him hostage, then force a charming and open [laughs] as a result. I've got leverage. I've got leverage. Although Brandish might not care about Emmanuel...at all. Oh yeah, no- charming and open is speaking frankly with someone.
-AUSTIN: Right, right, which you could also do.
-JACK: Yeah, do I need to have leverage to do charming and open, or just to be able to speak frankly?
-AUSTIN: You just need to be speaking--yeah, yeah.
-JACK: I don't really feel we're in a [TRAILS OFF]
-KEITH: Cause, yeah... maybe charming isn't the...even possible.
-AUSTIN: You can be charming. He could-he could
-KEITH: It's not that you can't be charming, it's can he be charming now?
-AUSTIN: Sure. Absolutely. He's a bard.Like, Lem is a bard. What he does is charms in moments when no one else could possibly be charming.
-JACK: In that case, I want to do something...this massive Wes Anderson...beautiful echoing hallway...frozen moments, people have put knives to the throats of my friends. I'm going to whip out my violin and start playing arcane art. Just-on the balcony of this hallway.
-AUSTIN: Okay
-KEITH: What does that do?
-JACK: It's going to...when I target it on somebody, the next time somebody successfully assists the target with aid, they get +2 instead of +1.
-KEITH: Oh!
-JACK: So Lem just shuffles the violin off his back, and just kicks into this weird sort of mournful-no! I know what it sounds like! It sounds like hotel muzak! 
-[They all chuckle]
-AUSTIN: Of course it does!
-KEITH: But on a Stradivarius
-JACK: Uh-yeah- do we know- is it a good violin? Or is it just a...we know it's a special violin.
-AUSTIN: We determined it was a good violin.
-JACK: It was a good violin. Alright.
-KEITH: Yeah, you- when we- you cited in the first episode, like the pre-episode, your reason for stealing it was because you thought it was amazingly gorgeous and couldn't bear to not have it.
-AUSTIN: It wanted to be played.
-JACK: Yeah. I wasn't sure if it was very good or very special, but very good I'm happy with. Because one of the weird things about pattern magic, is that just like any sort of pattern, it moulds itself on the space in which it is being performed. Any sort of pattern magic - pattern magic in a laboratory works very differently to pattern magic in a forest, or a cave? So obviously musical pattern magic or semiotics-
-KEITH (over Jack): What about a forest cave?
-JACK: Well, a forest cave you've gotta take into account the trees, you gotta take into account the acoustic effects of the trees, you've gotta take into account the way the light and shadow falls through the trees, it's very complicated. But of course, in a hotel, it would sound like elevator muzak. Because that's just how pattern magic works.
-AUSTIN: But it would be, it's like elevator muzak by way of like, a temple choir, right? Because this place is also this weird holy place.
-JACK: Yeah. Yeah.
-AUSTIN: I like that. I like that a lot.
-JACK: It's music taking the-
-KEITH (over Jack): Is the tonality of violin itself changing? (JACK: Nope!) Or just the style of play? Okay.
-JACK: Just the style of play.
-KEITH: It still sounds like a violin, like you're not- this isn't like a Terry Pratchett thing where all of a sudden you're on a airplane.
-JACK: No. And it's not like one of those Casio keyboards where you can get a Bossa Nova beat going. 
-[Everyone laughs]
-AUSTIN: If only!
-JACK: It'd be great. So what do I need to roll for that? Um...
-AUSTIN: That is plus Cha.
-JACK: So I just get to click the little button, right?
-KEITH: You can click whatever you want, buddy.
-JACK: Ten!
-ALI: Ooh, you did it!
-AUSTIN: That is...uh, that is a success. So wait, who are you targeting with this?
-JACK: Hella.
-ALI: I appreciate that.
-AUSTIN: Okay, so Hella will now get a +2 on a-
-JACK: The next person to aid her.
-AUSTIN: The next person to aid her, okay. The- oh, one second, Ali if you just, you can just switch off of Skype-
-ALI: Oh no, I mean on Roll20.
-AUSTIN: Oh, wait what faces are you seeing in Roll20?
-ALI: Like Nick and...
-AUSTIN: Oh you can turn that off, go over to the settings bar, on the far right, and then if you go down to where it says video player slash avatar size? You can go to names only.
-KEITH, laughing: I do...I feel like the fact that you at first thought Ali didn't know how to switch windows
-AUSTIN: [snorts] Well she said all these faces- for the people listening, Ali in the Roll20 chat said 'all these faces are making it hard to see the maaaaap!' and I thought she meant our human faces, not our avatar faces.
-KEITH: Wait hold on, settings and then what? Because I also 
-[CROSSTALK]
-AUSTIN: Under video and voice. This is one of the reasons I wish everyone would leave after they're done for their session.
-JACK: Set faces to 'off'.
-0:21:01
-AUSTIN: Yeah, put it to names only. Yeah. Okay, so- Jack your music- Lem's music fills the air, and I think it makes everyone a bit more confident. It's also just distracting, right? It distracts everyone here.
-JACK: Yeah.
-AUSTIN: It's a strange thing, but it's also-it must feel in place, at the same time, right? You've caught the rhythm of the space really well.
-JACK: Yeah. Plus, for Emmanuel, it must simultaneous- it must- he must have just seen it and just gone like 'of course this is what's fucking happening now.' [Ali giggles]
-AUSTIN: Right, yeah. Absolutely, Emmanuel at this point is-is, despite being from this strange place that no-one's ever been to, I think very much the audience...uh what's the word I'm thinking of?
-JACK: The analogue? Or the-
-AUSTIN: Yeah, right right for the audience here. And definitely is giving you a look like: 'I can't believe this is happening.'
-JACK: 'What the hell are you doing?'
-ALI: I don't think it's just him that's doing that. Like, this is also gonna be sorta frustrating-
-JACK: SCREW YOU HELLA! 
-[Ali laughs]
-AUSTIN: So Hella, what are you doing, now that you have this little- basically, what this has opened up is: Hella you can now do a thing that someone else could aid and help you with really well. Presumably Fero. Um, you could make a- you can do anything, but you have to defy danger to not take damage when doing it. That's the mechanical way to get out of this situation, to defy danger. And it would depend on what you're trying to do, to uh [TRAILS OFF]
-LEM: Also, my only ranged weapon was a violin, [Ali chuckles] I mean, what else could I do, throw it at him?
-AUSTIN: This is true. This is true. 
-KEITH: Don't you have a crossbow?
-JACK: No!
-AUSTIN: No, you're imagining that. He has like a...duelling machete. 
-[Jack snorts]
-KEITH: Oh yeah, thought he had like a...
-JACK: That's it's proper name.
-KEITH: Like a...thing.
-JACK: Like a crossbow. No.
-AUSTIN: You need a new bond, too. Lem.
-JACK: Oh I do?
-AUSTIN: Yeah it says here. 'Needs a new bond next time' on your character sheet.
-KEITH: Oh I think I had that too. 
-[Jack laughs]
-AUSTIN: I think you all- I think we all rushed to the conclusion last time and didn't-
-KEITH: It- yeah we had [TRAILS OFF]
-AUSTIN: It's optional.
-KEITH: Oh you know what? It's because we couldn't think of a bond that we really liked.
-JACK: Oh yeah, I have 'needs a new bond next time.'
-AUSTIN: Anyway, let's move on and hopefully get to a place where we can think about that. [PAUSE] So what's Hella doing?
-ALI, distracted: Um...yeah I'm sorry, I'm looking at the move list real quick to see...
-AUSTIN: Well forget about the moves right this second. Think about what she would do, and then we'll talk about what move matches up with that.
-ALI: Okay. Cause, I mean- [LONG PAUSE]
-AUSTIN: Like, Hella has a knife to her throat, but she's also this rad badass lady. A warrior.
-ALI, laughing: Right!
-AUSTIN: What does- what does she do?
-ALI: Cause my thing here is that like, she doesn't have a lot of the ability to move, but in terms of like-
-AUSTIN: Yeah but she can get that ability, right? She's a trained fighter...all you need to do as the player to secure that, is to roll defy danger. Do you know what I mean?
-ALI: Okay.
-AUSTIN: That's the thing she does, before she does whatever the second thing is she does.
-ALI: Right. Well, what I'm quietly considering is like, if she's saying something, and if so is that like a...yeah.
-AUSTIN: Like what tone is she taking?
-ALI: I mean that's the question that's [TRAILS OFF]
-AUSTIN: That's what I mean, that's the question that you're...yeah yeah yeah.
-ALI: Yeah ‘cause I still think that even with Lem's like support or whatever, it's not- this isn't something that she's capable of breaking out of? Because I don't think she knows-
-AUSTIN: Yeah it is. It absolutely is. This is absolutely the sort of thing that in her life- like, fighters train for this. Like that's what makes you a fighter, and not a druid, or not a paladin, even. Y'know? Like, this isn't a thing that's out of- she should be confident in her ability here.
-ALI: Okay
-AUSTIN: More than- [CLUNK]
-KEITH: Austin did your camera fall over?
-AUSTIN: Probably.
-[Ali laughs]
-(overlapped)
-JACK: Why are you a coffee cup, Austin?
-KEITH: Because I'm seeing your ceiling.
-AUSTIN: Hey. Hi. Welcome.
-KEITH: It's...it's the same thing.
-AUSTIN: Okay...I don’t have like a place to put this.
-KEITH: But does it- but is it just a...is your camera round? Like what is happening? [Ali AND JACK laugh]
-AUSTIN: No, it's - I almost just tried to show you the camera. It's like a clip on-
-KEITH: Let's not...
-AUSTIN: It clips on to things.
-JACK: It's just mounted on a very, very polite dog that's just [TRAILS OFF]
-KEITH: There's the microsoft surface, the famous-
-AUSTIN: famous surface
-KEITH: Austin's favrou-famous surface. You still liking it?
-AUSTIN: Yeah. I haven't used it as much as I- I haven't used it as much as a tablet as I hoped I would at this point? But largely because the sort of stuff that i've been reading hasn't been on PDF for the last couple weeks. Or months I guess. I've been reading a lot of books and that's not...anyway. Hella.
-ALI: Right.
-AUSTIN: To be clear, it's totally within Hella's ability to do this, in fact it's just-all it is-it's just a defy danger roll. I'm not making you roll anything especially hard, I'm not making it like, this is the same sort of roll that you would make if you were trying to get close to someone with a spear, or if you were trying to dodge from arrows or something. This isn't a um...it's well within her realm, more than anybody else in the party.
-ALI: Okay. I-well the reason I hesitate is because I was having this conversation with Jack where like...I don't think she was ever formally trained to fight? She's not like a soldier, and she's not like a paladin.
-AUSTIN: Right, yeah but she's-
-ALI: She's basically like-
-KEITH: You're on the jo-this is on the job.
-AUSTIN: Yeah, but there's- I mean there's fantasy stories filled with people who are naturals. You know what I mean, you have the instinct. You have it in you, to-to...that's why you're a fighter.
-JACK: In your heart. You have it in your heart.
-AUSTIN: Exactly. Exactly.
-KEITH: Yeah. Nobody taught me to be a little mouse! [Ali laughs] I just did it one day. [Austin hums, unsure] One day I was a little mouse.
-AUSTIN: Right, right. We learn lessons all sorts of ways. Who knows? You have a weird magic sword that sings to you, you know what I mean? [Ali laughs]
-ALI: Yeah, there's like a disconnect from the like 'black widow, secret agent, breaks out of holds like this', but like, I'll just-
-AUSTIN: Right, right, but maybe you could do it in a different way. She does it in like a cool acrobatic way, you could just fucking hit this dude you know? [Jack snorts]
-KEITH: Yeah, knock him on his head with your head.
-AUSTIN: Or not! Or if you think Hella wouldn't be violent here, and wouldn't take action, then that's the right way to go, you know? It's-it's...I wanna be clear that there's nothing mechanical that suggests that Hella isn't capable of this. And there's nothing narrative that makes me think that she wouldn't be. But if this was just some schmuck with a knife around her throat, and it wasn't Brandish, I'm curious if this would be the same response.
-ALI: Right.
-AUSTIN: But maybe that's interesting. Maybe it's interesting that with Brandish she's having second thoughts.
-KEITH: Well Brandish is a ghost boy.
-AUSTIN: He's a zombie boy right now, he's not a ghost boy. There's a distinction.
-KEITH: Not for me. [Austin laughs]
-AUSTIN: There is! We'll find out,  about that. So what do you do, Hella?
-ALI: I...I think that her endgame would be to try to break out anyway, so...what that sort of looks like, I guess I'm not sure of?
-AUSTIN: A bunch of things! You could do the classic, like headbutt backwards thing, you could elbow from behind, you could you know...any
-KEITH: Stomp on his foot!
-AUSTIN: Yeah you could stomp on his foot!
-KEITH: Stomp on his zombo foot!
-AUSTIN: Ahh, that'd be bad. That wouldn't heal nice.
-KEITH: Squish some gross toes [Ali and austin groan] some fuckin, like a jello stomp down on with your heavy boot on his disgusting zombo toes [more groaning]
-AUSTIN: All of this is bad. All of the things Keith is saying.
-KEITH: Zombo toes-os like freakin' floor jelly.
-AUSTIN: Oh. Keith, you're done.
-JACK: Keith? Now's probably the good time to tell you that my microphone keeps defaulting itself back up to full volume again.
-KEITH: Is that what's happening?
-JACK: Uh-huh.
-KEITH: So what I'm gonna suggest...is...
-JACK: Is that I just run away and never touch audio again.
-KEITH: Run away, yeah...you're just gonna have to not be on this podcast anymore! [Ali and austin chuckle] So, we have two options. One: You can keep your eye on it and keep moving it downwards. Three options. Number two is just I can deal with it later. Like who cares. You just be conscious of your level, maybe move away from the microphone a little bit? Three, option three is that we stop the recording, we start again, we do another clap-
-JACK: No. No.
-KEITH: and you restart audacity.
-JACK: Oh it just jumped again.
-AUSTIN: Then you should- you should keep an eye on it, but it might be- it may make more sense for you to just not be near the mic, because otherwise it will be bouncing up and down and up and down.
-KEITH: Right, that was what I was about to say.
-JACK: What do you mean 'not be near the mic'?
-AUSTIN: Back up.
-KEITH:  Yeah- [all giggle] (in a rough voice) HEY BUDDY!
-AUSTIN: Yeah if you were back here...
-KEITH: Yeah just sit back in your chair instead of up in-near it.
-JACK: Oh, okay. How-hmm.
-AUSTIN: Just watch the thing.
-JACK: Like this?
-KEITH: However you were? Up on the mic? Move like three inches farther back.
-JACK: Okay how does this sound?
-AUSTIN AND KEITH: Fine.
-JACK: Okay, you can fight the audio recording later. Let's play Dungeon World.
-KEITH: This will be fine, There's no way- Jack there's no way your audio will ever be worse than the garbage I was getting from Austin and Art. [Everyone laughs]
-AUSTIN: There's no way. There's NO way. The other thing is- as long as it's the same all the way through, Keith can-
-JACK: Ohh, that's not the case.
-AUSTIN: -mess with it?
-JACK: Noo
-KEITH: Well, as long as from this point forward it's the same all the way through. Consistency is more important for me, than uh...quality. 'Cos I can fudge quality.
-AUSTIN: So don't-don't lower it, is what I'm saying.
-JACK: Okay. Okay, so keep going like this. Alright.
-AUSTIN: Yeah, because otherwise Keith will have to lower it in some places and not other places, and that will be bad.
-KEITH: I'm actually gonna make a note right now (AUSTIN: Good call.), that this is where I can stop paying attention to your audio. Jack what's your time at right now?
-JACK: My time is at...um...49:46. It still looks like shit, but y'know. Let's just go.
-AUSTIN: Alright, so Hella-
-ALI: So, okay. So um...I think as someone whose neck is half cut, and whose head I super want now, I want to do the headbutt thing? Cause that's like a weak point?
-AUSTIN: Good call. Good call. So do a defy danger: strength is what that sounds like to me? You're just kinda like pushing him back off of you, you know what I mean? You're not trying to nimbly slip away. So gimme a defy danger: strength.
-ALI: And that's a nine...
-AUSTIN: That is...a success. So either Keith could help you here, either Fero could use his aid roll here to help you slip away, or he could save you for the next time he wants to aid you, that's up to Fero.
-KEITH: Um...
-AUSTIN: She got a partial success here.
-KEITH: She got a partial success...um...you know what, I'm all for trying to get this done, no mistakes, because that would be really cool. The idea that this guy comes up on us, and
-AUSTIN: And then you like-
-KEITH: Just fucking take him down! Like no errors. So I'm gonna help out. I'm gonna help out on that. And uh...I do just a regular roll?
-AUSTIN: It's a 1d...it's a roll plus your...plus two. It's a roll plus two.
-KEITH: Okay.  I think this is the right button...
-AUSTIN: So 2d6+2. Great!
-KEITH: Totally nailed it.
-AUSTIN: Totally nailed it- how do you help in this situation, when she does this headbutt?
-KEITH: So I'm thinking that she's going to do the headbutt, and he's going to be falling backwards, and I'm imagining that if I did not help, he'd be able to recover himself. I'm just going to-what's his hair situation like? [Jack chuckles]
-AUSTIN: I've been picturing him with like-you know, this isn't a real thing but like blackbeard hair? Like long-ish, shoulder length, a mess.
-KEITH: I'm just gonna get a fucking fistful and fucking yank him down. Is what I'm going to do.
-AUSTIN: Okay go ahead and...Ali go ahead and give me an attack roll. Because this is definitely getting you free, but let's see if it also does damage to him, or if it just kind of stuns him for a second. So that’s the same thing.
-ALI: That's an eight.
-AUSTIN: That's also...okay, so here's what happens. Give me a damage roll, too.
-[PAUSE]
-ALI: Three.
-AUSTIN: That's fine, that's actually probably appropriate. And then I'll do...as a response...[PAUSE, TYPING] Again, this happened last week and people didn't um...don't worry about this. Gimme a second here. Okay [laughs] so (KEITH: Hold on, wait…) no no, okay, we’re fine. So, as you slip away, you do- you ah hit him in the back- you hit him in the face with your head, and his knife does catch your neck. Take four damage. Take the less of those two. So you are bleeding a bit, but he doesn't catch anything major. Fero does manage to throw him to the ground with his hair and slip past the spear that was pushed up against his back. And you're both able to stand firm and face the people who are in front of you. So now you have Brandish on the ground, who has taken a bit of damage, you have Ginny, who is his first mate, who is in the back, and she's holding two small, curved blades. And then you have the human-the living human, the ghost human, and the undead elf. Who are in kind of the Nacre, like, guard armour. At this point I think Emmanuel is just like [sighs] I think he's flabbergasted. I don't know that he knows what to do. And I think you can probably tell that, Lem. [Jack sighs] I think he gives you a look, like and he says...he gives you a look and he says
-AUSTIN (as Emmanuel): What have you gotten me into?
-0:35:51
-[Jack laughs]
-ALI: That's so sad.
-JACK: Haha, okay, how far is it from the balcony to the floor?
-AUSTIN: Oh, it's far. You're on like the third or fourth floor. This is not a jumpable situation.
-JACK: Oh, not a jumpable situation.
-AUSTIN: No. This is like the penthouse suite of this very nice hotel. It's not a skyscraper or anything, but like I think the fourth floor. And that first floor is BIG. That first floor is like a doozy.
-JACK, laughing: So if I want to get involved in this fight, I have to run down fourteen flights of stairs?
-AUSTIN: Nonono, they're at the door! They're at the front door of the penthouse suite!
-JACK: Oh! Oh they're- right, sorry. I presumed.
-AUSTIN (over Jack): Everyone's here. We're all in the same- yeah yeah.
-JACK: Okay, um...
-AUSTIN: I thought you were trying to escape! Like 'alright everyone, bye!' 
-[Everyone laughs]
-KEITH: Manny! Come on! 
-[more laughter]
-JACK: Oh, my health's pretty good. [PAUSE] Alright. So I turn to Emmanuel, and I just go
-JACK (as Lem): Alright Emmanuel, pick a side!
-JACK: And I just go running towards the ghost-elf. Is it a ghost elf?
-AUSTIN: It's an undead elf, thank you very much. (JACK: An undead elf.) And his name is Balladash
-JACK: I go running towards the undead-  oh, that's a great name. Can I just roll hack and slash on him?
-AUSTIN: Yeah! Totally. Oh, actually you know what, he has...um...you're gonna have to roll to...actually no yeah with him you can get in close. I should actually explain what these people have. So there's the human guard, Deneer, who has a spear that was previously pointed at Fero's back. As Fero turned to help Hella, he tried to like stab forward and missed. So he's like [weird voice] aaah!
-KEITH: Bleeuugh!!
-AUSTIN: Yeah, exactly.
-JACK: He's been stunworked.
-AUSTIN: Heh. Right. Right, exactly. Balladash has an axe that is chain...has like a long running chain to his belt. And that Balladash is the elf. The undead elf. The kinda zombie elf.
-KEITH: So he's sort of like a Bob Marlow-Bob. Not Bob Marley!
-AUSTIN, laughing: He's a Bob Marley?
-KEITH: Jacob Marley.
-[Jack and Keith laugh]
-JACK: Pastry chef vs Bob Marley: Stream Friends [Keith laughs again] tonight-
-AUSTIN: And then last, but certainly not least, the ghost man has a sword. Ted. His name is Ted. The ghost's name is Ted. He has a sword.
-KEITH: I thought the axe man was the ghost man.
-AUSTIN: No no, the axe man- the axe elf is undead. (KEITH: Okay) Is like a zombo.
-KEITH: So he's not even- he's not a Bob OR Jacob Marley type. (AUSTIN: No.) Is he a Ziggy Marley type?
-ALI: Oh boy.
-AUSTIN: He's a Ziggy Stardust type.
-JACK: Er- Austin, what happens if...just...I am aiming for this elf, but if I went and I swang [sic] my duelling machete at the ghost, what would it do?
-AUSTIN: Good question. Have you ever- have you ever swung your sword at a ghost before?
-JACK: Nope! [laughs] Anyway I'm gonna roll hack and slash on this guy. So essentially, I've just turned away from Emmanuel, and just gone sprinting across the hallway towards this person. And I'm rolling strength, right?
-AUSTIN: Yep!
-JACK, surprised: Ten!
-AUSTIN: Hoo! That's a hit! That's a real-life hit!
-ALI: You did it!
-AUSTIN: Give me your damage!
-JACK: Ahh that's 1d6, right?
-JACK & AUSTIN: Yeah
-AUSTIN: Is that what it is? I don't know what your...what your damage is.
-JACK: Oh. Two.
-AUSTIN: Okay. But you still get good a chunk in, of Balladash. You- are you like slicing, is this a slicing weapon, is this a thrusting weapon, or something?
-KEITH: Jack-
-JACK: Yeah I think it's a slicing weapon.
-AUSTIN: Okay.
-KEITH: Well Jack, here's the thing that we don't take advantage of very often, is that...you could open yourself up for... an attack and take another attack, a damage roll. Right?
-JACK: Okay. Cool!
-AUSTIN: Yeah. It would be- you add 1d6 to that, if you're willing to take damage.
-JACK: Fine. Yeah, I'll do that.
-AUSTIN: Go for it.
-JACK: Ummmm...excellent!
-AUSTIN: Look at that!
-KEITH: Yeah! Way to go! That's a fucking roll, Jack!
-JACK: I rolled a six! So I've rolled an eight. So, what's actually happened here, is before when I said that I'd sprinted across the room, I was not talking about full-on sprinting. Now this time, I am doing like, a straight, complete disregard for my own momentum, towards this person.
-AUSTIN: Yes. (KEITH: Oh.) You do- so you-ah, this is one of those situations where, I think as you're running at him, he throws his axe at you, that's on this chain [Jack exhales] and it catches you in the shoulder [Jack gasps] for five damage.
-JACK: Oh no! Okay.
-AUSTIN: But then you lop his head from his shoulders.
-JACK: Oh! [laughs] Okay.
-ALI, sadly: Ohh.
-KEITH: Oh shit, you killed this guy!
-ALI: Whoa!
-AUSTIN: Yeah. No more Balladash.
-KEITH: Man, you're like-you're what happens when Art meets a skeleton. [Austin and Ali chuckle]
-ALI: Would...would Lem do that?
-(overlapped)
-AUSTIN: Well he did now!
-JACK: He did!
-AUSTIN: He did it.
-ALI: Accidentally, I guess.
-AUSTIN: I don't...[Jack laughs] he did eight damage, you know, and even with armour-
-KEITH: Wait wait hold on, cause in my head, this is we're in a fight, and taking off someone's head...like, I'm sure that Lem or-or I was sure that Lem had taken off someone's head before
-AUSTIN: Right. The-
-KEITH: But NOW I'm thinking is maybe a Mace Windu?
-AUSTIN: This might be a Mace Windu.
-JACK: I don't get that reference.
-AUSTIN: But here's the other thing. (KEITH: Okay) When Balladash hits the ground, his body shimmers for a second. And...where his head is missing is suddenly whole again. Not with flesh, but with a ghostly visage. It isn't moving, but...you know. It's there.
-ALI: Just his head?
-AUSTIN: I mean his whole body is kinda shimmering in this way, but there's a ghostly head where there wasn't a moment ago. Where there's just a neck.
-KEITH: Is-now, you saying ghostly, considering this town, is it just literally a ghost head?
-AUSTIN: It's a ghost. It's a ghost head. I'm not saying he's pale, I'm saying yeah, it's a ghost head. [Keith giggles] It's like a shimmering, see-through, jedi ghost head.
-KEITH: Right.
-AUSTIN: It's a whole ghost. He's a ghost now. He's a ghost, but he's unconscious.
-KEITH (over Austin): Right, so like if I saw a mouse, I wouldn't call that mouse 'mousely', I'd call it just a mouse.
-JACK: Also, once- er, once Lem's done this, he just sort of turns around and like looks at Emmanuel? You know like sometimes you do when you um...when you're like walking up some stairs and you trip up the stairs, and you look around you like 'did anybody see me fall up those stairs?' [Austin and Jack laugh]
-KEITH: Is that what you guys do? I just fall all the way down the stairs and hope someone saw. And laughed. And recorded it. [Ali laughs] Like [yells like he's falling down the stairs, hitting each step]
-AUSTIN: We live different lives. No.
-KEITH: Yeah, I guess.
-AUSTIN: Hella what are you doing?
-ALI: Well now that I've broken free...I draw my sword, and turn towards Ginny and Brandish?
-AUSTIN: Yep. Brandish is still on the ground at this point. But Ginny is stepping- Ginny steps towards you, as if to issue a challenge. And she spits on the ground, and says uh-
-AUSTIN (as Ginny): That was an easy one! You'll find me much harder.
-[PAUSE]
-ALI: I definitely attack Ginny.
-AUSTIN: Okay.
-[All giggle]
-JACK: Guys. I think we're probably going to lose Emmanuel.
-[they giggle again]
-KEITH: You're saying you think that Emmanuel does not want to hang out with us anymore, or that Emmanuel is gonna die?
-JACK: I think the former, if not the latter. Maybe the latter and then the former.
-AUSTIN: Hella go ahead and roll your damage, as a successful attack.
-ALI: That's a four damage.
-AUSTIN: Okay....
-KEITH (quietly): What...what move did I choose last time I levelled up? Oh no, I know what it was. It was a d10 [TRAILS OFF]
-AUSTIN: Alright. The two of you engage in like a...quick exchange of swords. She has these two short swords that she like, is blocking some of your attacks with, and getting a few good hits in, and you both kind of hit each other a couple times here. Take five.
-ALI: And when you say that, do you mean minus my armour each time?
-AUSTIN: Subtract your- yeah subtract your armour from whatever I tell you.
-ALI: Okay. So…
-[PAUSE]
-AUSTIN: The...two remaining guards move in on Fero, and kind of pressure him back into the space of the room at this point. I could probably just...quickly...one second. Let me just- I wanna just get a real basic version of this room out so you can see what I'm talking about.
-JACK: Good plan.
-AUSTIN: I should also be over on this page, and then...ah...this, and then- oh, nope nope nope nope. I hope people listening don't hate it when I do this, because it sometimes takes a little bit of time, and I hope it doesn't take too much time. [PAUSE] Balcony...hallway. Okay. So. You can see, this is the top bit here, that is the balcony, then there's a big sitting room-this big one in the middle, and then there's the hallway. At this point, Emmanuel is up on the balcony, Fero and two of the guards are in the big sitting room, Brandish, Hella, and Ginny are in the hallway.
-JACK: Where am I?
-AUSTIN: You're also I guess, in the doorway to the hallway? Or I guess you...maybe you're just in the sitting room. Maybe that's where you're at at this point.
-JACK: It's where I love to be!
-KEITH: So there's- so...in...I'm in a room with two guards.
-AUSTIN: You're in a room with two guards. Yes.
-KEITH: Okay, um. Here's what I'm gonna do. I'm going to...that won't make sense, I take it back.
-AUSTIN: Yeah?
-KEITH: Yep. Well, because I can turn into a pack animal, and one of the things I can do is call a pack, but -
-AUSTIN: Yeah, this is not that space.
-KEITH: That does make sense!
-JACK: Wildebeest busting in through the doors!
-KEITH (laughing): A team of wolves, falling from the skylight!
-ALI: Ohmygod that would be the best, what if they were ghost wolves!
-AUSTIN: That would be pretty cool
-KEITH: Okay, (laugh) so I'm going to be...I'm going to be a cougar…
-[Jack laughs]
-JACK: Keith...
-AUSTIN: Yeah?
-KEITH: Yeah. I'm gonna turn into one of those.
-ALI: Old favourite.
-KEITH: Yeah. Yeah, I'm gonna turn into a cougar,
-ALI: The usual.
-KEITH: Yeah.
-JACK: This game for Keith, is just...choosing what animals to be, right?
-AUSTIN (over Keith): Yes.
-KEITH: I rolled a 15...no I rolled a 13.
-AUSTIN: That's really...
-KEITH: I forgot that I already added my plus two.
-AUSTIN: ...good, yeah.
-KEITH: Listen, I'm a fuckin' high roller.
-AUSTIN: So that gives you three moves that you can do. No, put those dollar bills away, Keith. [Ali and Jack laugh] They're singles, you know?
-KEITH: This one's a five!
-AUSTIN: Hmmm.
-KEITH: Here's what is happening. I'm a cougar now. (AUSTIN, incredulous: Yeah?) And...what I'm going to do is I'm going to just...the one who's farther from me, (AUSTIN: Yes.) would that...would I be defying danger, passing the second one? The first one, I mean?
-AUSTIN: I'm trying to decide who would be near you.
-[Austin and Keith talk over each other]
-AUSTIN: Ah...no. Because he has-the one who's nearest to you is the one with the spear. So the one that's nearest to you is...Deneer, the human, who has a spear. And you're already in on him? Do you know what I mean? You already have the advantage on him in terms of space. So getting out of you-
-KEITH: Okay, I was thinking that if I ran past the first one-
-AUSTIN: Right right right, so what I'm saying is because you're already in on him, you have the kind of combat advantage at this point, so you can totally just disengage without taking any - without him being...like, you're in on his spear. So if his spear is out, you're already up on it, and so if you quickly jump past him-
-KEITH (over Austin): You know what? Because I already got- first of all Austin, you're a robot right now, and none of us can understand you.
-AUSTIN: Okay. That's good. I think I'm better? I think I'm better.
-ALI: You're getting better.
-KEITH: You're kind of better. You're kind of better. Okay, so. What I think you said (AUSTIN, laughing: Yeah?) is that, I already- because I've already like, got him in a...in a bad way, moving past him would not be difficult because he's like 'whoa, hold on!'
-AUSTIN: Right
-KEITH: Right?
-AUSTIN: Correct.
-KEITH: So, and now- and so I think- because I now know that, I'm gonna take advantage of that, use the momentum of having transformed into a large scary animal, (AUSTIN: Right,) ro just...to f- to just lunge at his dumb face. Face slash neck area.
-AUSTIN: Sounds good.
-KEITH: Alright. [singsong voice] I'm gonna roll plus strength!
-JACK: Is this the ghost?
-AUSTIN: Is what the ghost?
-JACK: Who...who Keith's-
-KEITH: That's an eleven.
-AUSTIN: That is a...hit!
-KEITH: All right. Um-
-AUSTIN: Go ahead and roll damage. Or are you gonna do the thing where you get to use a...where you get to do extra damage, or are you gonna...not do that.
-KEITH: So here's the thing: if I do that, and I killed him...no nevermind, I take that back. No, I'm just gonna do my damage.
-AUSTIN: Nevermind.
-KEITH: I take it back,
-AUSTIN: You're just gonna do your damage
-KEITH:  I'm gonna do plus six.
-AUSTIN: You ARE gonna do the plus six?
-KEITH: I'm gonna do the plus six
-AUSTIN: Well that's a two,
-KEITH: Because I got a two.
-AUSTIN: That's terrible.
-KEITH: Yeah. So...[PAUSE] so six.
-AUSTIN: So six. You do six...and in response you take two. You're a cougar, right? I think-
-KEITH: I'm a cougar.
-AUSTIN: And you're jumping on the human. You're jumping on Deneer, the human. I think you- in fact, you kind of crunch down on him, and- what are you- how are you attacking? Like, what are you doing, other than pouncing?
-KEITH: Okay, so I'm going...I'm going lunging, paws on shoulders, face on...mouth on neck.
-AUSTIN: So you're biting his neck.
-KEITH: Right.
-AUSTIN: Okay. You bite down on his neck, and you kill him. He's like punching at you and hitting you, so you do take a couple, you take two damage, but he's...he is expired.
-KEITH: Okay. [PAUSE] Man, these humans ain't nothing! 
-[Ali giggles]
-JACK: Uh, my one was an elf.
-AUSTIN: Yeah, (pointedly) thank you.
-KEITH: Oh. These living things ain't nothing! [Jack laughs]
-0:50:28
-AUSTIN: Great. [PAUSE] Sorry. I'm getting...I'm getting this set up so that in the future that we have to do this, we'll just have...we'll just have tokens so that we can imagine this space. Better. I am also, as always, recording...my (JACK: OBS) my Roll20 stuff with OBS, which means that at some point we really could just release the video on YouTube.
-KEITH: It's- listen, as soon as you send me the video.
-AUSTIN (over Keith): One of those files. They're big, is the thing.
-KEITH: Yeah. They're big.
-JACK: We're just saving it for our BluRay release.
-[Ali laughs]
-AUSTIN: That's...also true.
-ALI: Oh my god let's do that.
-AUSTIN: I'm gonna...I'm gonna...this is... Hella, I'm not happy with your token right now...
-ALI: Yeah, what are these tokens anyway?
-KEITH (over Austin): I like my token!
-AUSTIN: So...
-ALI: They're just...
-AUSTIN: Uh, so...if you look at the situation as it stands, Hella you're the warrior with the sword. Jack-
-KEITH: You could have just said 'Hella, you're the worst'. Is what I thought was gonna happen.
-AUSTIN (over Keith): Oh. I did not know. So. At this point, one of these humans is dead, there's another dead guy who I haven't put on the board yet, who's in front of Jack- who's in front of Lem King the orc, and there's this ghost remaining in the sitting room. But at this point let's talk about Hella. I think...Brandish is back on his feet, and has moved over to flank you on the other side of where Ginny is, who you've kind of pushed back. What do you do?
-ALI: Um...I mean- I turn towards him? And sort of lunge towards him and attack him?
-AUSTIN: Okay. Give me a hack and slash.
-[PAUSE]
-ALI: Oh. That's not good.
-AUSTIN: Oh that's bad. That's a bad.
-ALI (over Austin): Can I roll damage on that?
-AUSTIN: No that's a miss. That's a complete miss.
-JACK: Mark XP!
-AUSTIN: Yeah, mark XP. I think you lunge at Brandish, and uh...one second, what are you at? Uh...HP, oh you have plenty of HP. You'll be fine! [PAUSE] Take...eight. (ALI: Eight?) Eight, then subtract your armour.
-ALI: So six.
-JACK (over Ali): Oh! I'm sorry- when I took five damage earlier I forgot to take account of my armour  
-KEITH (over Jack): Oh me too! Same things! So I no longer took any damage from that other thing.
-AUSTIN: Good job! You lunge at him with your blade, and he-he...he kind of grabs it? On the blade, and pulls you towards him. But it's a dead hand. That hand means nothing to him anymore, and he feels no pain from it. And then puts his sword, I guess it's a slashing weapon, so slashes you across the chest.
-ALI: That's fair. That's a good kill.
-JACK (over Austin): Good on you Brandish.
-AUSTIN: Yeah. When you're dealing with this- as you stand over the corpse of the elf-ghost, or the elf...undead who is a ghost, the ghostman, Ted the ghostman, is coming at you from behind, Lem. What do you do?
-KEITH: Oh the ghost's headman got up?
-AUSTIN: No this is just Ted. This is just ghost. This is the Ted-ghost, who has a sword. He's the third of the three-
-JACK: He's coming at me, or coming at Fero?
-AUSTIN: He's coming at you, Lem
-JACK: Hmm. Can I take a defy danger?
-AUSTIN: Yeah, sure.
-JACK: I want to try and get out of his way and pull back towards the window, and Emmanuel. So that's dex defy danger, I suppose? (AUSTIN: Yeah.) Seven! Is that a- that's a moderate success.
-AUSTIN (over Jack): Alright, so...it's a moderate success, and that means that again as it's written, it says that on a 7-9 you stumble, hesitate, or flinch; the GM will offer you a worse outcome, a hard bargain, or an ugly choice. I think you can take damage- or you can get away without taking damage, but it will mean...[sucks on teeth] I wanna make it something tempting to actually take here. Ah- it will mean losing your sword. It will mean having your sword disarmed. Or- you can get away, you can get towards the window, and also take damage.
-JACK: I would like to take the former option, please.
-AUSTIN: Alright, so you're disarmed. Your blade goes flying through the sitting room, and I think it crashes into some plates that were set up on the-on like a counter, like on a bureau on the desk or something, like kind of decorative plates, and they smash into little pieces. But you manage to get up towards the window, where Emmanuel is drawing a dagger.
-KEITH: It took you long enough, Manny! Come on!
-JACK (over Austin): Um, in what sort of direction is he drawing it?
-AUSTIN (as Emmanuel): Lem, don't make me do this.
-[Jack sighs. A pause]
-KEITH: We already killed three of them.
-AUSTIN: Two of them.
-KEITH: Two- okay, so we killed two of them. At what point are we- at what point do we start making Emmanuel do it?
-[Jack laughs]
-AUSTIN: I mean this has all happened in moments, remember. Like, it took us 20 minutes to get here, but all of this is fifteen seconds of action, twenty seconds.
-KEITH: Yeah, we're real good.
-JACK: Uh- can...can I make another defy danger roll back towards the ghost again?
-[Ali laughs]
-AUSTIN: You can go back towards-you can just go back towards the ghostman at this point.
-JACK: Uh, no- um. [PAUSE] Ah, man. I really don't want to kill Emmanuel. I don't want to be forced into a compromising position because of this.
-AUSTIN: There are other things you can do. You can do lots of different things.
-JACK: You can do lots of different things in Dungeon World! [laughs] Hmm, let me just check this [PAUSE] Oh! Oh!
-AUSTIN: Yeah?
-JACK: I wanna be charming and open. Um, I'm gonna speak frankly with him. I think I have a very plausible opportunity to speak frankly with him here? I have no weapons in my hand, he's drawn a dagger.
-AUSTIN (over Jack) Yeah, absolutely. You absolutely do.
-JACK: So I'm gonna say to him ‘Look, we have found ourselves in a situation that neither of us quite intended or planned for. Um, and...I don't want to have to hurt you, and you clearly don't want to have to hurt me. This doesn't seem like a very good situation.’
-KEITH: You guys have the weirdest relationship ever. [Austin and Ali laugh] It's so weird. It's like fucking, like he had no clue who you are really (JACK: Nope) and you have this entire… headworld of Emmanuel. And then you met and it was like this 'oh man, it's this guy" and he was just like 'oh my god, it's this fucking dude!' [Everyone laughs] And then you were like 'I'm gonna be one of you!' and then he was like 'what? Ah, what? Okay...just follow me.' and then all of a sudden (JACK: I beheaded one of his crewmates.) his boss finds you, with him, and your first reaction is to kill TWO of his buddies. [everyone laughing] And then it's like 'hold on, wait, we can still make this work.'
-[Keith's goofy laugh]
-AUSTIN: So what do you- what are you asking, Lem?
-KEITH: This all means so much more to you than it does to him, probably
-JACK: Keith- Keith, Lem is a combat librarian. [Ali laughs] What else do you think a combat librarian would be doing? [Keith laughs then starts coughing really hard] So the question that I'm gonna ask him is...how can I get you to leave?
-AUSTIN: Hmm...it's a good question.
-JACK: And I want to make it clear in the intonation in my voice that I don't mean 'how can I get you to leave-' I want Lem to be expressing, dropping your weapons and going with the guards is not an acceptable answer in that instance. Which is- he can give that answer, but Lem's not quite-
-AUSTIN (over Jack): Right right right, but it'd be a disappointment. He- yeah.
-KEITH: Wait, so wait- what are you asking- what are you trying to get out of Emmanuel?
-JACK: I want him to leave.
-AUSTIN: He's asking 'how can I get you to leave?'
-JACK: And we all know that Emmanuel cares Very Much about Lem.
-KEITH: Here's- wait, listen. Maybe Emmanuel wants to come with us as a hireling.
-AUSTIN: That's possible.
-JACK: Oh shit! I forgotten there were hirelings! (AUSTIN: There are hirelings. There are definitely hirelings.) Okay, let's just get him out of the fight, we can pick him up later, [Ali laughs, Austin sighs] it'll be great...
-[PAUSE]
-KEITH: Hold up, but also...we should...we need...we also...it wouldn't be a bad idea to have [laughs] Calhoun with us like, all the time with us (ALI: I know...) because that dude is the best.
-ALI: Calhoun is in my boat for sure.
-AUSTIN: Alright. Emmanuel...Emmanuel says
-[PAUSE]
-AUSTIN (as Emmanuel): Give up this dream of saving your old captain. And...I'll drop my blade. And you can go.
-[PAUSE]
-AUSTIN: In fact- he adds:
-AUSTIN (as Emmanuel): And I'll go with you.
-KEITH: Wait- but we need...we need Calhoun.
-ALI: No. Yeah.
-KEITH: Ali and I don't give two shits about Emmanuel!
-ALI: Yeah! Who even cares?
-AUSTIN (smugly): Lem does.
-ALI: Lem also cares about Calhoun! [laughs]
-KEITH: Yeah. [laughs] Don't- (over Jack) This is such a hard decision for Jack.
-JACK: Calhoun is the abdicated prince king of a ghost city that he had read about, but only just discovered! [Ali laughs] This is the really...this is the ultimate conflict of Lem's love for...stupid shit going on [Ali laughs], like massive grand scale histories.
-KEITH: Hold on. Wait. Can we have an alternate future real quick, where you say 'Calhoun, more like Calwho?'
-[Ali and Jack laugh. Austin sighs in disappointment]
-JACK: And then- and then THROW Emmanuel off the balcony.
-[Everyone laughs]
-JACK: What do Hella...what do Hella and Fero-
-AUSTIN: Oh! Wait! Sorry, I just forgot that there's another part of your move. [PAUSE, door slams in the background] Whoa. That was loud. Something in my house made a lot of noise. The second part of your move is that they may then ask you a question from the list, which you must answer truthfully. What are you really feeling right now? [a pause, Jack sighs]. I think the way that he asks that in character, is that he actually says like...he says this whole spiel about how to give this dream up of saving your old captain, we can leave. But is that what you really want? What do you really want, Lem?
-JACK (as Lem): I don't want my friends to get hurt.
-ALI: Awww
-JACK (as Lem): Anymore than they have been. As somebody who just decapitated a man, (AUSTIN: Yeah?) I'm neutral.
-[Everyone starts laughing]
-AUSTIN: NO! That's not neutral!
-JACK: No, I was thinking about this-
-KEITH (over Jack): It was a Mace Windu, though! It wasn't a real thing! He's a violence mulligan! Austin your camera fell-
-AUSTIN: I saw
-JACK, laughing: I don't know what this violence mulligan is
-AUSTIN: When he says-
-JACK [in a deeper voice]: I'm violence mulligan!
-KEITH, laughing: No! You're not violence mulligan! There was a violence mulligan!
-AUSTIN: So when you say-
-KEITH: Violence Mulligan though is a really good name.
-AUSTIN: It is. When you say that you don't want your friends to get hurt, he says,
-AUSTIN (as Emmanuel): Then go with the guards. No one will be hurt. She wouldn't hurt you.
-JACK: I um...
-KEITH: I think they'd hurt us though! Hold on Ali is silent.
-AUSTIN: No she's whispering.
-ALI: I'm whispering really excitedly about meeting the character we probably can meet if we go with the guards [laughs]
-[Jack sighs]
-KEITH: Who's the character? What're we talking about?
-ALI, emphatically: The Queen!
-KEITH: Oh! Okay.
-JACK: Something that-um, something that-
-KEITH, whispering REALLY quietly: I'm a great queen! 
-[Ali laughs]
-ALI, whispering: I don’t want to.
-JACK: Something that Nick does a lot, in the episodes that I've  heard, where he's in, is that he seems to be really, really good at just...doing fucking crazy shit as his character?
-AUSTIN: You don't even know. You don't even know the HALF of it yet.
-JACK: No but like- the temptation would just be to- to go to Emmanuel like 'Okay!' but then at the same time, that feels-it's this weird tension of like 'oh, what does the rest of the party want?'
-AUSTIN: Play your character.
-1:04:29
-[Jack sighs]
-AUSTIN: Think about it.
-(overlapped)
-AUSTIN: Let's go back, while you're thinking about it as an exchange
-KEITH: How concerned are you about what you want?
-JACK: Thank you.
-AUSTIN: Let's go back to....back to last over on this other side of the table. Uh, let's go to Fero. (KEITH: Okay, hey buddy.) So you're squared up against ghostman, who has a sword, and is moving into combat range with the cougar-you. The cougar inside of you.
-KEITH: Okay. So here's what I noticed last time, is that: last time I used my d6 roll instead of my d8 roll because [muffled]
-AUSTIN (over Keith): Oh cause you're a- yeah, that's true. But it didn't matter in that case. But. Make sure you do it right this time.
-KEITH: Right, I killed him anyway, and didn't take any damage. So, here's what I'm gonna do. I'm going to...is he all ghost? He's hundred-this is 100 percent ghost?
-AUSTIN: Yeah. He's all ghost.
-JACK (over Keith): All killer, no filler.
-KEITH: Okay, so here's what I'm going to do- I'm going to run at his legs, and as I'm running at his legs, try to grab onto one, and tear it- pull it out- I can just attack him like other people, right? It's not a-it's not a
-JACK: We'll find out.
-AUSTIN: You've never hit a ghost before.
-KEITH: I've never hit a- so I'm gonna try to attack this ghost like it's a person, run at their legs, bite their leg and pull it out from underneath them.
-AUSTIN: Sounds good. [PAUSE] That is a damage roll. That is not an attack roll.
-KEITH: Oh. Oops! Yeah. So. Wasted that eight...that's a...nine.
-AUSTIN: That is a hit, but a hit where you also take damage...go ahead and roll damage.
-[PAUSE]
-AUSTIN, chuckling: Right.
-KEITH: That is a one! That is the opposite of an eight! [Jack laughs]
-AUSTIN: Your teeth, or your claws- your whole body does-passes through this ghost as you claw at it. On the other hand, [PAUSE] his sword does not pass as easily through you. Or rather, it does, but in a much more physical way.
-KEITH, laughing nervously: Okay!
-AUSTIN: Take six.
-KEITH: So I still do damage. (AUSTIN: No.) When I pass through. (AUSTIN: No.) No? (AUSTIN: You did no damage.) Okay, he's got armour. 
-AUSTIN: Well, he has- he's a ghost. And you're not exactly sure...you felt presence when you passed through him. (KEITH: Okay) It wasn't like moving just through air. So maybe you could. Do damage (KEITH: Alright.) You could certainly do more damage, you bet, if you...were…
-KEITH: Tried harder?
-AUSTIN: Well, one, if you tried harder. Two, if you weren't...just a...like a cat. Like if you were a magic missile, or something. (Laughs) I know you can't do magic missile, but-
-KEITH (over Austin): Okay, I kind of can't be a magic missile?
-AUSTIN: I don't think you can. I don't think that's an animal.
-KEITH: Is...is Brandish still here? Where's Brandish?
-AUSTIN: Good question! He is uh...he is currently engaged in melee with Hella. (Ali hums). Ginny is also moving up on her. (ALI: Oh boy.) She says...she looks at the collection of people that are left at this point, and she looks over to Brandish and says:
-AUSTIN (as Ginny): Let me just end this.
-AUSTIN: And he goes [growls] and nods, and then jumps back a couple of feet. She takes something out of her inside coat pocket, and in a flash, there is a bit of- there are some sparks. It's a small, round object. And she rolls it right into the middle of the room. 
-[PAUSE]
-JACK: Do I have enough time to do spout lore on this object?
-AUSTIN: Every- enough to do what?
-JACK [laughing]: Spout lore on this object?
-AUSTIN: Yeah, go ahead.
-JACK: I'm thinking about it like the owl-bear situation from the first episode where he got smashed into a tree. (AUSTIN: Mmhmm.) How do I roll spout lore? 
-AUSTIN: It's plus intelligence, right?
-JACK: Okay. [PAUSE] Okay. That's like a partial success.
-AUSTIN: Yeah it's a partial success. It says uh...can you guys hear me? Do I sound like a robot right now?
-(overlapping) 
-ALI: No you're fine
-KEITH: No you're good.
-JACK: Nope.
-JACK: Also I just noticed your *amazing* t shirt.
-KEITH: Jack kind of does.
-AUSTIN: Thank you. It's a good t-shirt. On a 7-9, the GM will something interesting, it's up to you to make it useful. Here's the interesting thing I'll tell you. [PAUSE] It's a bomb. 
-[They laugh]
-KEITH: Hold on! I would argue...that that is useful! 
-[Ali laughs]
-AUSTIN: That's true. 
-JACK: Okay, so…
-AUSTIN: You hear it clank along the floor. It's small, it's not a cannonball, it's, y'know, it's about the size of a fist, maybe two-
-KEITH (over Austin): Is it a cannon bomb?
-AUSTIN: It's not a cannon bomb either. It rolls across (JACK: Is it a cannibal?) the floor here. And you all have...a brief moment to decide what you're doing. Lemme give you a bit more. Of this map. Just to let you know. There is...there's the balcony, there's the marketplace further to the north, on the ground, four flights down. There are doors on the left and right sides of this room. And then there's the hallway, which eventually leads down to stairs. Which Brandish is now heading back towards, along with Ginny. 
-KEITH: So they tossed the bomb, and scrammed?
-AUSTIN: They backed up. They're not leaving. Like, they're still facing the room.
-KEITH: Oh, okay. I thought that maybe they were scramming.
-AUSTIN: Not scramming.
-KEITH: Okay. Oh! You know what I never did? (Austin hums in question?) I never rolled hold! For coug!
-AUSTIN: What?
-JACK: For the coug!
-KEITH: I never rolled hold for coug. 
-AUSTIN: Yeah you did.
-KEITH: Oh no, I did. I had a full success. I have three moves.
-AUSTIN (over Keith): You had a full success. Yep. You have one more.
-KEITH: Yeah. I forgot that that was tied to the initial roll. 
-[PAUSE] 
-AUSTIN: It's been- [They giggle.] Alright. (As if singing the start of 'One Week') It's been…
-[PAUSE]
-JACK: Okay, um...what-what are we doing?
-AUSTIN: I- that's my question! I'm the one asking that!
-KEITH: Here's what I'm gonna do. Here's what I'm gonna do. Because I have- I move my…
-AUSTIN (over Keith): Wait wait wait, actually, Lem is the one who knows what this thing is. (KEITH: Okay.) Are you communicating something about it, Lem? 
-[They snort]
-ALI: I think all of us can figure it out?
-AUSTIN: Well he rolled that spout lore. I have to give him that. You know? He knows what this is, because he read about it once. [Ali laughs] You know?
-JACK: Yeah. Thanks Ali. I've read about bombs! I've never seen one, 
-AUSTIN: No, that's important. You have never seen one.
-ALI: Is Lem gonna stay behind and watch it go off, because he wants to see it go off? 
-[Austin laughs]
-KEITH: I wonder what bombs doooo? I mean I know what they do, but I wanna see how they do it!
-AUSTIN: But- are you explaining what this is, really quickly? What are you saying?
-JACK: Umm...I'm gonna- I'm saying:
-JACK (as Lem): It's a bomb! Get down!
-[Ali laughs]
-JACK: And I am running towards a large therapist’s couch one one side of the room? (AUSTIN: Mhm. Yep!) And just flipping it over and hiding under it. [Laughs]
-KEITH: Here's...here's what I wanna see if I can do. So, I ran through this guy. So I'm like here. (AUSTIN: Yeah. Yeah that's fair.) Can I just go through that door? (AUSTIN: Totally.) Alright, so I'm gonna go through that door over there.
-AUSTIN: Okay, are you... (KEITH: As a coug.) As a coug.
-JACK: Wait, where am I? Oh, I'm there, I'm there. 
-KEITH (over Jack): Unless this is a defy danger, so after I do that, then I am a man again. But…
-AUSTIN: I think this will be a defy danger, for you. Because you're the one who's like...oh, also yeah, what are you doing Ali, at this point? [Jack yelps]
-ALI: I'm going towards where Brandish and Ginny are?
-AUSTIN: Okay, good call. 
-JACK: Austin just....Austin just...slid the sofa.
-KEITH (over Jack): Oh that is also where I am going. I just did not describe it that way.
-AUSTIN: Yeah. Okay. Give me a defy danger...Jack and Fero. Lem and Fero.
-JACK: What sort of defy danger? Strength?
-AUSTIN: Er, I think this is dex, I think for both of you. This is about getting to a safe place.
-JACK (over Austin): Uh oh! Okay. 
-[PAUSE]
-AUSTIN: Like you're not...being strong...
-JACK (over Austin): Eleven! 
-AUSTIN: That's a...that's a success! 
-KEITH: Miiine is a....partial success!
-AUSTIN (over Keith): Partial success...okay. So Fero...as you, as you get out of range for this thing, you, you slide to a stop. The explosion doesn't catch you in the aftermath of the...you don't get caught up in the blast range? But you do- it does force you to fall. And you fall right at the feet of...Brandish. 
-KEITH: Hm. That's a weird place to fall. And by weird, I mean dangerous.
-AUSTIN: That's a dangerous place to fall.
-KEITH: And by dangerous, I mean fuck Brandish!
+﻿Autumn in Hieron 14: A Fire Hydrant of Divinity
+Transcriber: Kai Gee (alpha3nine#4800) 0:00-34:00, lune @daffodilian#8872 34:00-1:22:00
+CWs: Torture discussion 27:00-30:00 (description ~27:30-29:00), highkey fantasy racism from 36:10-37:00, imprisonment/jails after 1:00:00.
+ART: ...what was that?
+NICK: I’m gonna mute myself on Skype real quick.
+ART: I think that’s still inside the fives.
+NICK (muted to everyone else; overlapping next 30 seconds): Aaaaaaaah… test… aaaaah. Aaah, ah ah. Ah ah ah ah. Hey, I’m super-excited, waaaa, wooo, testing. Audio testing, wooo-wah, woowaaaah. Hey, hey. Shhhhhhhhhh.
+AUSTIN: I don’t think we’re f— are we — aren’t we done with those ice dudes? Have I (cross) fucked up my prep?
+DRE: (cross) Yeah, I think we — we, we killed all the ice dudes, I mean, unless there’s more ice dudes in that tower. We don’t know!
 AUSTIN: Yeah.
-ALI: We can take him!
-AUSTIN: Emmanuel is hanging on with dear life. To the railing. 
-[PAUSE]
-JACK: Oh no, he fell over? 
-AUSTIN: He- yeah! He didn't see this thing. 
-[Ali gasps]
-KEITH: God, poor baby.
-AUSTIN: And Lem, you can see that from behind your therapist couch.
-ALI: How could he not see it?
-AUSTIN: 'cause Lem was in his way with a fuckin- like his big orc body. 
-ALI: Oh...he is
-KEITH: And, you know, we're a lot better and cooler than Emmanuel.
-ALI: I know, but Lem screamed it's a bomb!
-JACK: I did shout that it's a bomb.
-AUSTIN (over Jack): Emmanuel- right, but he was still...separating him from the big room, you know?
-JACK, indignant: Austin, if you were in a room and someone told you there was a bomb-
-AUSTIN (over Jack): You're not in the room! YOU were in the room, he was outside. He was on the balcony, near the banner. (JACK: Oh.)
-KEITH: Yeah. You know, again, we're super quick. He's a...you know, he's a dumb pirate.
-AUSTIN (over Keith): And like- so here's the thing. You had...you were here when he said it, you were inside this room and able to get behind a thing. In the time that it would have- it took you to move that six spaces or whatever, and get behind there? He could have moved...closer to the bomb? [laughs] You know what I mean? 
-JACK: Heh, yeah. True.
-AUSTIN: There wasn't...there wasn't a place for him to get to as quickly as it was for you guys. He was in the worst possible situation. I guess he could have been in this corner, you know, but that's just as bad. That's not...much better. Right, he probably did run to that corner. So yeah, that is where he is dangling. [Jack laughs desperately] Hella, what are you doing, now? With Fero at the feet of Brandish, and I think Ginny is giving you a look like she's real upset that her...her plan B didn't work. The B stands for 'bomb'. Plan Bomb.
-ALI: Right [laughs] I mean...I guess that's Fero's call to see if he attacks Brandish? So I can go towards Ginny?
-KEITH: Well I'm on the floor...like, I fell? (ALI: Right.) On the ground. With my face on the ground in front of the bad guy. 
-ALI: I'm gonna hope that you attack him, and go towards Ginny.
-
-(overlapping)
-AUSTIN: There's also a ghost in the...still in the-
-KEITH: What I'm saying is that you should help me. 
-[Ali laughs]
-AUSTIN: There' a ghost still in the...in the room. 
-ALI: In the hallway that we're in?
-AUSTIN: No, in the room where the bomb went off. (ALI: Oh.) He's fine. He's a ghost. 
-ALI: Yeah, okay.
-JACK: Had no effect on the ghost whatsoever.
-AUSTIN: He's a bit like, dazed. Like, it was loud! [Ali laughs] You know, and he's kind of like, 'whoa!'
-KEITH: On a scale of one to ten, how confused is he, also?
-AUSTIN: He's a seven? (KEITH: Seven?) Yeah.
-KEITH: He's dazed AND confused?
-AUSTIN: Uh...he's dazed and confused. Yeah. I'd say he's dazed and a little confused. Dazed and confused too.
-JACK: It's very noisy. Must be just very noisy really, for him. 
-(overlapped)
-AUSTIN: Alright, so go ahead and-
-KEITH: Aah, I'm a ghost, I need silence!
-JACK: What did Hella do?
-AUSTIN: She's swinging at Ginny.
-JACK: Yeah, but what did Hella do in the bomb sitch?
-AUSTIN: She ran out with Ginny and Brandish. 'Cause she was like, up in their grill anway.
-ALI: Yeah. Okay.
-AUSTIN: So go ahead and make your hack and slash. [PAUSE] Look at that! Look at THAT! 
-[ALi laughs]
-KEITH: Yeah!
-AUSTIN: G'dang!
-KEITH: You should do a-you should do a take another damage roll. 
-AUSTIN: You could do that. 
-ALI: Can I?
-AUSTIN: Yeah, or you could take a second damage - 1d - not a second damage roll, it's an additional 1d6 damage
-KEITH (over Austin): Yeah! You could do another damage roll and open yourself up to damage.
-AUSTIN: It's an additional 1d6 damage, but you'll-get hit. So if you roll a ten or above, on attack, you don't get hit, and you get to deal your damage. You can also sacrifice not getting hit, in order to do extra damage. So you could do that 1d6 to get in a little bit more.
-ALI: I think I'm at 13HP, I'm not doing that.
-AUSTIN: Uh huh? Okay.
-KEITH: Are you? Where'd you get 13HP?
-ALI: Because I was 25, then I got hit three, three, and an eight.
-AUSTIN (over Ali): A bunch of times. She got hit a bunch of times.
-KEITH: Oh, I didn't realise you get-
-(overlapped)
-AUSTIN: Well, did you reduce damage? Did you reduce-
-ALI: My neck was cut...like [laughs]
-AUSTIN: Did you reduce the eight by your armour?
-ALI: Yes. So it was three and three, and then six.
-AUSTIN: What I will remind you, is that the last time she attacked you, she did 2d4 damage. Which means you're not within lethal range with her right now. She can't kill you, even if she gets and eight.
-KEITH: She doesn't have lethal?
-AUSTIN: You're not lethal- [laughs] Yeah, she doesn't have lethal.
-KEITH: But she DOES have a bunch of murlocs. 
-AUSTIN: Right. She does have that sick murloc deck.
-ALI: What can I roll? It's 1d6? 
-AUSTIN: Yeah it's plus 1d6. 
-KEITH: Yeah it's 1d6.
-ALI: Okay. 
-KEITH: Also, I've got two...balance still.
-AUSTIN: Oh yeah, he can heal. I forgot that Fero could heal people.
-KEITH: I can heal you.
-ALI: Ah, right.
-AUSTIN: That's useful.
-ALI: Okay, so... [PAUSE, she laughs] Fuck! 
-KEITH: There we go.
-AUSTIN: That's still a REAL good hit. Like, she is not in good spirits. Ginny, you- I think you catch her. She- you catch her, she's reaching in for another bomb, and you remove her hand from her arm. Uh, and she holds it in like
-KEITH: Feels like a less extreme Jack
-AUSTIN: Much less extreme, you know. Not as evil.
-KEITH: Yeah, not as Windu. 
-AUSTIN: She kneels to the ground-
-KEITH: ??? 1:18:54.6 Windu.
-AUSTIN: And screams a slur at you, in-in their weird- remember, like their language is like...has some holdover words from a thousand years ago, or whatever? And you can hear- you know what she's saying. You know what she just called you. And she drops to a knee.
-KEITH: Which?
-AUSTIN: Her left knee.
-KEITH: Okay, thank you.
-AUSTIN: You're welcome.
-JACK: Is she gonna get like a cool pirate hook hand?
-[PAUSE]
-AUSTIN: Good question.
-KEITH: Or we're gonna kill her today.
-AUSTIN: The best thing about these pirates is that every time that I'm like 'uhhh I don't know, they do a pirate thing.' you guys go like 'oh, what if they did this other, more cool pirate thing. [They all laugh] Every time!
-KEITH: They weren't even gonna be ghosts at first!
-AUSTIN: No! No, they were- that all came from Keith saying- this whole city is borne in Keith saying 'wait, are they undead?' and I said 'huh. Huh.'
-[Jack laughs]
-KEITH: To be fair, I did say 'oh these ARE undead pirates, for sure. Definitely.' 
-[Ali laughs]
-AUSTIN: Yes. That is what you said. 
-KEITH: Definitely Austin did that already, and then you said 'sure I did!'
-AUSTIN: Yeah. Uh, Brandish-
-ALI (over Austin): Can I just attack her now?
-AUSTIN: Yeah, but one second- (ALI: Okay.) As she grips her hand, Brandish puts his blade up against Fero's back. And he looks at you, Hella, and he says:
-AUSTIN (as Brandish): Move wise- [pauses, makes his voice deeper and more pirately] Move wisely. 
-AUSTIN: Lemme do it- it's deeper.
-AUSTIN (as Brandish): Move wisely. Think carefully.
-JACK (over Austin): More British. 
-[Ali laughs]
-AUSTIN: I can't do British! I can't do British and also like, gripping my neck.
-KEITH: You don't have to do real British, you can be Paul F Tompkins British, where it's not actually a British accent, but you get it? 
+ART: I didn’t think it stopped being (cross) cold, I just thought we weren’t near that — I dunno… 
+DRE (cross): We don’t know!
+ART: Any time it’s cold, I remember ice dudes.
+AUSTIN: No, it’s still cold.
+ART: Who lives in cold? Ice dudes. I’d be s— pretty surprised if we were fighting fire dudes they’d be uncomfortable. [overlapping with DRE and AUSTIN, waves of Hieron theme fade in]
+AUSTIN: You fought a fire dude last week.
+DRE: We did, in fact, fight a fire dude.
+("Autumn not Winter" by Jack de Quidt starts)
+AUSTIN: Hey everybody, welcome to Friends at the Table, an actual play podcast focused on critical worldbuilding, smart characterization, and fun interaction between good friends. As always, we are presented by StreamFriends.tv and RunButton.net; our agenda is to portray a fantastic world, fill the characters’ lives with adventure, and to play to find out what happens. We are continuing our Dungeon World game today: Dungeon World, a game by Sage LaTorra and Adam Koebel based on a system originally by D. Vincent Baker. Joining me today, uh, Nick Sondgeroth.
+[pause]
+NICK: Hello. Hello — (AUSTIN: Say hi, Nick.) — hello, hi, sorry.
+[quiet laughter]
+AUSTIN: Uh, Art Tebbel.
+ART: Hey!
+AUSTIN: And, uh, Andrew Lee Swan.
+DRE: Hey, hi!
+AUSTIN: Where can people find you, in that same order? On the internet?
+NICK: Uh, you can find me at Twitch, Twitter, and Youtube slash DrEvilBones. (cross) Or “drevil-bones.”
+ART (cross): Uh, you can — oh, oh, [hesitant] sorry.
+NICK: Nope.
+ART: Uh, you can find me on Twitter (cross) at atebbel. If you go on now,--
+NICK (cross): It’s cool; I’m just gonna keep interrupting you.
+ART: —(stumbles) you can, you can see the crazy photos from my New Year’s Eve party.
+("Autumn not Winter" ends. NICK laughs)
+DRE: Your New Year’s Eve party?
+AUSTIN: ‘Cause it’s, ‘cause it’s the future. ‘Cause by the time this is out—
+DRE: Oh, right. (laughs)
+AUSTIN: —it’ll be the future.
+DRE: Yeah, perfect. 
+ART: It probably won’t be the new year, actually.
+NICK (in the background): The fuuuuuutuuuuuure!
+AUSTIN: No, it will.
+DRE: Yeah, probably. 
+AUSTIN: It might be. By the time we get to here, it might be.
+(NICK giggles)
+AUSTIN: And Dre, where can people find you?
+DRE: Yeah, sorry, I didn’t know if Art was going to keep that bit going. (AUSTIN inhales, amused) Uh, you can find me on Twitter at andrewleeswan.
+AUSTIN: You can find me on Twitter at austin_walker, thecalcutec on twitch, and at clockworkworlds.com. (DRE: Mhm.) Again, we are back on, Team Ice Party. Uh, so Keith will have to listen to this whole thing anyway, so… He’ll— he’ll have to enjoy this (??? 2:45)
+ART: (cross) But he likes when we say his name, so…
+AUSTIN: He does; he has told us he likes— I think just, he likes when anyone says his name. And it just—
+NICK: Wait, who— who are you guys talking about? (DRE giggles)
+AUSTIN: Oh boy.
+(laughter)
+AUSTIN: Does anybody—
+ART: The word-eaters got him, ahhhhhhh…
+(laughter)
+AUSTIN: Does anybody remember where we were last week and what— what kind of happened last time we played?
+DRE: Ummm, yes… But I feel like I’m always the person who jumps in with this. (laughs)
+NICK: I saved the day.
+ART: Yeah, that happened.
+NICK: I saved everything.
+DRE: Yeah, Nick— Nick saved the day.
+AUSTIN: Nick did save the day. Fantasmo did save the day, um... by… (DRE: And did— and— and—) uh… confronting a very big word-eater.
+ART: Yes.
+AUSTIN: What were you going to say, Art?
+ART: Pushed us closer to us being done way before Boat Party. For us like just, crashing Boat Party.
+AUSTIN: Yeah, I haven’t— we haven’t run another Boat Party game, I think, since your last game, ‘cause Ali went on vacation. Um, so now you guys are actually passing ahead, uh...
+ART: We’ve been ahead the whole time, right; like, that’s the worry—
 AUSTIN: Right.
-JACK: Oh! No, Keith. Paul F Tompkins’ British accent is so good that I couldn't tell if he is?
-KEITH: Really? Is that true? (JACK: Mmhm! Yep!) Wow! 
-JACK: Yeah. Like, his H.G. Wells is solid enough that I didn't know it was...fake. Anyway.
-AUSTIN, in a sort of British accent plus Brandish' voice: More British. [Ali and Jack laugh] That's what he says. No. 
-[They all laugh]
-KEITH: Wait, hold on, is this guy Lord British?
-AUSTIN, in Brandish's voice: I am Lord British. [hysterical laughter] It's me. I made that game, ultima-(KEITH: How was space?) I went to space. It was pretty cool. 
-KEITH: I don't understand how you got so much money. Like, Ultima was popular, but how did you do that?
-AUSTIN, in British Brandish voice: Gambling. (ALI: Oh my god) Played the slots. (ALI, laughing: Oh my god!) I'm slipping towards Australian now. 
-[Ali loses it] 
-AUSTIN, in his normal voice: What are you doing, Hella?
-KEITH: I just...I had no idea that that H.G. Wells was so good! That's all I can think of, I'm freaking out over here.
-JACK: No it's-it's really good.
-ALI: Oh my god, I definitely came to this town just to kill Brandish though.
-[They laugh]
-(overlapping)
-AUSTIN: You did. That might- that would surprise him!
-ALI: I was like 'yeah! Let's go get Calhoun, but secretly...
-AUSTIN: You could just do a hack and slash on Brandish.
-JACK: Hold on. Who just wandered over to Emmanuel.
-AUSTIN: It's Ted.
-JACK: Oh.
-ALI: Oh is he gonna...oh.
-KEITH: Yeah, ghost Ted!
-(overlapping)
-ALI: Also...Fero could like...turn into a bird. Or something.
-AUSTIN: What are you doing, Lem?
-KEITH: Well I could turn into a lot of things!
-AUSTIN: He can do a lot of things, but he would take damage. Like, he would have to defy danger, or risk taking full damage.
-KEITH (over Austin): I could turn into a cat…
-ALI: But he's not like…
-KEITH: Although I haven't taken damage yet. I'm still at full health.
-AUSTIN (over Keith): There's a blade to his back. (ALI: Right.) Like, there is a blade to his back. One of the things that you have to remember about Dungeon World is that fictional positioning means a lot more than what it would normally mean in any other game. Which is to say, just because a move exists, or just because someone is...if you were standing over somebody's body...right now, if you wanted to kill Ginny, she'd be dead. I wouldn't make you roll it. (ALI: Right.) She'd be dead. She's at your mercy. If you roll to hit on a dragon, and then rolled full damage, [WAVES AT START OF MUSIC PLAYS] you wouldn't do any damage to it. It's a dragon [Ali laughs] and your crossbow doesn't do any damage to dragons. [FIRST NOTES OF 'AUTUMN NOT WINTER'] Do you know what I mean? There is- so...Keith is in a Bad Spot right now. Fero is in a place where like...I'd let him roll defy danger if he had something interesting, but he's almost Definitely take damage in doing it.
-KEITH: It kind of...it kind of sucks that no one would even have the opportunity to help me when I first got into this situation. 
-AUSTIN: Right- Hella has that opportunity right now. That's what I'm saying.
-ALI: Right. (KEITH: Yeah.) This is sort of uh…
-KEITH: Didn't before, definitely, when I was already on the floor, also. 
-AUSTIN: Hella didn't- Hella specifically went after Ginny instead of helping you. 
-KEITH, laughing: I know! I know! That's what I'm saying.
-ALI: Oh, yeah!
-AUSTIN: Oh, this is a joke! This is you pointing out-
-KEITH: It's a bit.
-AUSTIN: It was a bit, okay. 
-ALI: No- I...I think I'm still not helping you. [Laughs]
-KEITH: Okay.
-AUSTIN: What here is evil?
-[Everyone laughs]
-[MUSIC CONTINUES]
-[END]
+ART: —that we’re going to be like, just… it’s over.
+AUSTIN: Ri— I— Iunno. There are ways. I have ways.
+NICK: Yeah, we’re winning!
+DRE (indistinct): I’ve heard of that. (??? 3:50)
+AUSTIN: And also— also, means. I have ways and means (DRE: Oooh!). Also, a committee. I have— (laughing)
+ART: Yeah, you’re like a committee over there. They call him Austin “The Committee” Walker.
+AUSTIN: —the Ways and Means Committee. That’s— that’s what they call me.
+DRE: What sort of rules of order are you employing here?
+AUSTIN: None, actually, I-- we thought about— about using Robert’s for a while, and then, eh... it’s a lot of work.
+(quiet laughter)
+AUSTIN: So, in the downtime, did anybody level up?
+DRE: Yes, I did.
+AUSTIN: What moves did you guys take?
+(loud typing in the background)
+ART: Uh, the one that lets me cast cleric spells.
+AUSTIN: Right, okay.
+DRE: Ooooh!
+ART: Uh, it has a name that I could tell you… once I stop stalling to get to there on my character sheet. It is called Divine Favor.
+AUSTIN: Good job. And, uh, Throndir?
+DRE: Uh, well, you and I had conversations ‘cause we ended up making a move, uh—
+AUSTIN: We did!
+DRE: —for Throndir. Uh, ‘cause originally, uh, there’s a move in stock Dungeon World for rangers called Half-Elven. 
+AUSTIN: Mmhmm.
+DRE: And the way that works is if you’re an elf, you get the human move, and if you’re a human, you get the elf move. 
+AUSTIN: Right.
+DRE: And I liked the idea of doing something with Half-Elven because Throndir discovered in our last playthrough that he has goblin blood in him.
+AUSTIN: Mmhmm.
+DRE: Um, but we were trying to figure out what— how that would work, um, so the move we came up with, uh, I believe we decided to name it Kindrali’s Chosen.
+AUSTIN: Yeah.
+DRE: Um, and so after we killed that Word-Eater and during that flash of knowledge that we all got, um y’know, Throndir kind of — he learned the name of his people’s, y’know, one of their main gods, which is— which is a big deal for— for his people and his belief system, so… He now has a— a connection with Kindrali that he probably doesn’t have complete control over (AUSTIN: Mhm.) right now, but it’s there.
+So the skill that we ended up making is somewhat similar to, I believe, the bard skill. Um, so it reads, the way that we’ve written it out: “When you consult Kindrali, he who knows, about a historical artifact, place, or event, roll +WIS. On a 10— on a 10+, get something interesting and useful. On a 7-9, get something interesting, but without an explanation of its usefulness.
+AUSTIN: Right. It’s sort of like Spout Lore, but it’s— it’s specifically for, uh, kind of getting visions from Kindrali; the reason it’s— 
+DRE: Mmhmm.
+AUSTIN: It’s plus wisdom is because what you’ll be s— what— what you’ll— the actual experience of it will be visual, and we’ll see how that turns out in play.
+DRE: Yeah.
+AUSTIN: Uh, Nick, did Fantasmo level, or— or nah?
+NICK: Nope. Still level 2. (AUSTIN: Okay) I’m like 1 away, so I’ll probably level after today.
+AUSTIN: Yeah, so this— It would be really weird if you didn’t. (laughs)
+NICK: Yeah.
+(DRE laughs)
+AUSTIN: You know— (cross) given the way this, this game works.
+DRE (cross): Just fail something really quick.
+AUSTIN: Yeah, exactly. Uh, so we left off with you being able to see Auniq, the snow-elven city, uh, or, or, kind of the snow-elven… I… is it a city? Wha- what’s it like, Dre?
+DRE: Um, I would imagine it looks probably, uh, it’s probably closer to a village than a city. (AUSTIN: Okay.) You know, they have walls that are functional for like keeping out animals, (AUSTIN: Mhm, right right) like they gotta keep the owlbears out, right? But, they, they’re not— they haven’t built this to like withstand uh, you know, like attackers from like other like humanoids, uh… or other species, so, uh...
+AUSTIN: Right. In a real way, the Mark of the Erasure is already a sort of wall, right?
+DRE: Yeah! Absolutely.
+AUSTIN: Yeah.
+DRE: Um, so I mean, they have walls, but they’re not, like, you know, big impressive city walls. So (AUSTIN: Right) It probably looks more like a, you know, like a large village. (AUSTIN: Okay. Mhm) You know, within it, there’s probably some— there’s like some farms, and— and some agricultural stuff, um, but it’s— I mean, it’s definitely not towering or impressive. Uh (cross) it’s functional; it’s nice; it’s well-kept; but it’s not... ostentatious.
+AUSTIN (cross): What— what’s the population like in, in Auniq?
+DRE: Uh, I would guess, ummmmmm… What’s the population of Velas? I wanna get a sense for scale here.
+AUSTIN: (sighs) I think we ended up saying—
+ART: Uh, we had a number once.
+AUSTIN: We did have a number once. Uh, it’s a city, you know. It’s thousands of people, it might be— but not like, but not a million people; not a hundred thousand people, do you know what I mean?
+DRE: Yeah. Sure.
+AUSTIN: I think we ended up saying five to ten thousand? We ended up going deep into like, how many people were in medieval cities, or like, pre-medieval cities, you know?
+DRE: Yeah.
+AUSTIN: Um, I feel like this—
+ART: Yeah, I remember we were looking at the population of Kyoto at one point.
+AUSTIN: Yeah, I think we were saying like ten to twenty-five thousand, somewhere in there, in like the entire region, in that whole like chunk of the map, (DRE: Yeah) including the big, mostly abandoned, um, ruins of the city, you know?
+DRE: Let’s say about 800.
+AUSTIN: Okay. That seems fair. That’s— that’s like a healthy population, uh, (DRE: Yeah) for, for a town that big. Um.
+So, you see those walls in the distance, and then beyond that, when we left off, you could see a fallen tower, similar in design to the one that you— that you, uh, stormed on the Isle of Eventide, um (DRE: Yeah.) but, but much bigger. Um, so the architecture is similar, but the scale of it is— is ostentatious, and in a real way, Auniq is in the shadow of that— that fallen, grand um, uh… building, right? Like, there— there is something interesting there about their space being practical, but also being, you know, reasonably close to this thing that was, just pure power and spectacle. Um… so what are you doing?
+What’s your plan? You know that you’re heading for this tower, like in your hearts, you know that that’s where you’re going. But between (DRE: Yeah) you and there is Auniq.
+Mm, say it’s probably early in the day today.
+DRE: Well, I mean— we already know that they know that we’re like, out here. ‘Cause we ran into some snow elves when we were going through the mountains, uh, to go fight the word-eater, um… so they know we’re here. 
+AUSTIN: Mmhmm.
+NICK: What was— what was our initial— why were we sent out here, again?
+AUSTIN: The, um, the Velasian Council is sending you here to investigate one of the marks that was on this map. Remember, r— remember you found that (NICK: Oh, yeah yeah yeah. Okay) kind of tactical map that had the kind of plumb-bob style floating crystals on it. One of them was in the center of the mark of the Erasure.
+NICK: Yup. We’re looking for a probable other tower, probably.
+AUSTIN: Right, well, you see this one that is probably it (NICK: yeah), you know. The— the one that is fallen here.
+NICK: Oh, I see, okay, yeah.
+AUSTIN: You see what I’m saying? This is the same type of architecture.
+NICK: Yup. Yeah, yeah, yeah, I getcha.
+AUSTIN: Um, and— um, you guys should also— everybody should remove another ration from use over the last, like, day, of travel. (DRE: Oh, yeah. Cool) And I think you’re probably… Let’s say four days away, four more ration uses away from this tower, maybe three? Let’s say three. Um.
+But, uh… but that's if you went in a straight line, right? If you went around Auniq—
+DRE: Mmm. That would take us through Auniq.
+AUSTIN: Right, if you went around Auniq, it would probably be another, another day or two on that, depending on what happens, you know?
+DRE: Austin, how much does Throndir know about this tower? Um, ‘cause I, almost wonder, like (AUSTIN: Mhm) while we’ve— while they’ve— the snow elves have been under the, you know, the thrall of the word-eaters— Like I almost wonder did nobody even notice this tower existed?
+AUSTIN: That’s interesting; I hadn’t thought about that. Um, I could run with that. Uh, part of me— so, there’s a practical reason why no one has ever been there. Which is, you know that it’s really cold (DRE: Yeah) near there. Like, it’s colder than here. Uh, this is a thing that we didn’t really talk about and, uh, you know, this is on me for maybe not emphasizing it hard enough, um.
+Part of that is ‘cause, ‘cause Andrew’s character— for Andrew’s character, the cold is, is normal, right? The snow here is like part of daily life, snow isn’t a big deal for him. For uh, Fantasmo and for Hadrian, the Sword of Samothes, Defender of the Undying Fire, Member of the Order of Eternal Princes, uh…
+(DRE giggles)
+AUSTIN: ...This is… unheard of. Right? This is, or, it’s not unheard of; it’s spoken in whispers, right? Like, people know what snow is because you’re in the kind of quadrant of Hieron where there is snow because of the Erasure, the Mark of Erasure, like people have been towards the mark of the Erasure before. But it’s never snowed in Velas, It’s only ever snowed near this space. So, for the Great Fantasmo and for Hadrian, (rapidly) Sword of Samothes, Defender of the Undying Fire, Member of Eternal— the Order of Eternal Princes (ART chuckles), uh…
+ART: Please only refer to me by all of those titles at any time.
+(general laughter)
+AUSTIN: This is, something— I guess I should ask you: Hadrian and Fantasmo— Hadrian, Sword of Samothes, etcetera— and the Great Fantasmo, how has it been, being in a place this cold and like, walking through snow?
+ART: Ah, well, those are two questions for, for... I gave myself a promotion that, that you’re also not recognizing and how dare you.
+AUSTIN: Oh, what?
+ART: It’s, uh— I, I haven’t changed it on my character sheet because I’m the worst, but it’s, uh...
+AUSTIN: (overlapping ART) Well, there you go! (DRE laughs)
+ART: Uh, um... it’s, it’s… Hadrian, Sword of Samothes, Defender of the Undying Fire, Officer of the Order of Eternal Princes—
+AUSTIN: Oooh.
+ART: Thank you very much.
+AUSTIN: Officer.
+(NICK laughs)
+ART: Officer of the Order of Eternal Princes.
+NICK: Is “thank you very much” part of the title now also?
+(DRE laughs)
+ART: Uh, yeah, definitely, absolutely.
+DRE: Esquire.
+ART: [laughing] Yeah, also he travels through time in a phone booth. Uh… [NICK laughs] But you know, it doesn’t come up a lot in, in this play. Um, ‘cause, ‘cause I made myself immune to cold. And I don’t know [AUSTIN overlaps] what that mea— like, do I feel cold and it just doesn't affect my body?
+AUSTIN: (overlapping ART) Right, right. 
+ART: Or is it like “Welp, this just feels like room temperature.”
+AUSTIN: I don’t know, you tell me.
+ART: And then what isn’t medieval room temperature? Probably colder than contemporary room temperature…
+AUSTIN: Yeah, definitely.
+[DRE laughs quietly]
+ART: But, uh, um, I guess it’s more interesting if it just f— if it’s— feels cold but it doesn’t do anything.
+AUSTIN: That is more interesting, yeah.
+ART: Like it feels cold, but like, my circulation’s the same.
+AUSTIN: Mmhmm.
+ART: Umm… Yeah, it must be— it, it must be insane, right? Like it must be like— it must be like seeing the world come to an end.
+AUSTIN: Yeah.
+ART: Like, this must like— “Oh, if it’s like this here, then, then ten miles to the south, it must just be— it just— must just be nothing, right?” Or must just be rocks. Rocks and, and, and nothing.
+AUSTIN: Mmhmm, mmhmm, hmmm.
+[pause]
+ART: Uh, and that must be like challenging, ‘cause, ‘cause presumably, that’s not what people think. You know, it’s not like “Oh, yeah, it’s cold over there, then over that mountain range the, world ends.” Like that’s probably, that— some people might think that, but that’s probably not what a— what a religious person would think.
+[0:15:00]
+AUSTIN: Right. Uh, what about you, Fantasmo?
+NICK: Um. Fantasmo has been, uh, prestidigitatedly warming his robes from time to time. (DRE laughs quietly) So, I mean…
+AUSTIN: He’s dealing.
+NICK: Yeah. He’s— he’s not comfortable, like, you got, like the two of them have probably heard a lot of very sarcastic complaining under his breath, maybe some elven swear words here and there, but…
+(DRE and AUSTIN laugh)
+NICK: He’s—
+ART: Oh man, what are elven swears like?
+[NICK laughs]
+AUSTIN: Good question.
+Let’s think about it. Let’s think up some as we, as we continue. (NICK: yeah) So, again, what’s— what’s the plan here? Again, Auniq is— is kind of dead ahead, uh, it’s early in the day... What’s your— what’s your plan?
+DRE: Well, I think, for me, just like a survivability point, if we’re gonna make it to the tower and then back to Velas, which I hope is everyone’s plan [AUSTIN scoffs], uh, we’ll, we’ll have to load back up on rations probably.
+AUSTIN: Right.
+DRE: So we will have to go to Auniq sooner or later.
+AUSTIN: What are you guys at in terms of rations right now?
+DRE: Uh, I have nine uses left after marking off that one you mentioned a few minutes ago.
+AUSTIN: Okay, so you’ll be— it’ll be close.
+NICK: I— [pause] I only have four left, so yeah.
+AUSTIN: And a great feast.
+NICK: Did I use that, ‘cause it’s not on my character sheet anymore.
+AUSTIN: Oh, did you use it?
+NICK: I think I might have used it—
+DRE: Maybe?
+AUSTIN: Oh, did you use it while you were staying… [NICK overlaps] Okay, it was Mee Kosh’s...
+NICK, overlapping AUSTIN: I think I might’ve eaten at— in— Yeah. In the goblin’s hut, in the goblin’s hut.
+AUSTIN: It was Mee Kosh’s.
+DRE: Oh, that’s right!
+NICK: It was Mee Kosh, yeah.
+DRE: Mm-hm, I remember that now.
+AUSTIN: Okay.
+DRE: Good ol’ Mee Kosh.
+AUSTIN: So yeah, you’re low on food.
+ART: I have... I have 10 rations and I don’t need to eat.
+AUSTIN: Well, you don’t need to eat now. What happens when you find the, the secret of this temple or whatever?
+DRE: Yeah, when you finish the quest...
+ART: Then it would— then it would seem my, my quest has been fulfilled.
+AUSTIN: And you’d have to eat. So… (ART: I just--) these are the practicalities that we don’t think about when we take holy crusades. (laughs)
+(DRE laughs)
+ART: Whatever, my crusade’s over, then; I’ll be at peace with my god and I— it’ll just be time to die, then. I mean, that’s the, that’s gotta be the thinking, right? Like on some level.
+AUSTIN: Yeah, ha, yeah. Um…
+ART: I mean, what is there to do? Right? Like, is there, is there hunting? Is there… gathering? How does one make...
+AUSTIN: Yeah, there’s, there’s, yeah, I guess this is, again, a question for Throndir. How do the people of Auniq survive? You mentioned some farms...
+DRE: Um, yeah, we do some farming, uh, but I imagine there’s probably, I mean, hunting parties is probably like a regular thing; I mean that’s— that’s how Throndir learned how to shoot a bow and hold a spear and track and, you know, move through woods and move through the environment, um… y’know, hunting is a big part of snow elf life because they have to have meat to eat [AUSTIN: Mhm], because they can do some agriculture but it’s just— it’s not enough to live on just that alone.
+AUSTIN: While meanwhile, Fantasmo is a vegetarian.
+NICK: Yeah.
+AUSTIN: Right? 
+DRE: That’s true.
+AUSTIN: That’s an established fact, um. So, hunting wouldn’t, wouldn’t do him any good. 
+DRE: Yeah.
+AUSTIN: Which, again, seems to emphasize the need to be in Auniq.
+DRE: Yeah. Well, and I feel like with the— (NICK, quietly: Okay.) With like everything that happened that Throndir has learned, you know, about his people, he probably feels some sort of tugging to go back and to try and share this knowledge with people.
+AUSTIN: Right.
+DRE: I mean, who knows if anybody will listen… (AUSTIN: But…) Um, but he feels, you know, an obligation to, to his home, and to his people and his family.
+AUSTIN: Uh, I—
+ART: When is the— when is the appropriate time to bring up the, the, the stated danger of us being tortured to death by these elves?
+AUSTIN: That’s a good question.
+(NICK laughs)
+DRE: Yeah, well, I— We— we ended the last session with, with Throndir saying like, “I wanna tell you why I left.”
+("Autumn not Winter" by Jack de Quidt starts playing)
+ART: Sure.
+AUSTIN: Okay, so.
+DRE: Um…
+AUSTIN: Um, there is one other thing I just remembered. Uh, can you guys give me 5 minutes? Keith, you’re gonna need to edit this. This is very early for a break, but I remembered something I promised you all last week that I didn’t deliver on and I— we need to deliver on immediately before we move forward. So give me f—
+DRE: S— Is it that loot?
+AUSTIN: Yeah, it’s that loot. Gimme— gimme five minutes; Keith, seriously, this is going to need to be reduced. Um… and it might be less than five minutes; I’m very good at this. [laughs] But, still.
+[DRE laughs]
+AUSTIN: Alright.
+ART: What, you mean, like, are we starting in like five minutes and then you’re telling us like… go… take a…
+AUSTIN: I’m just saying like, yeah, can we take a five minute break really quick.
+NICK: Yeah.
+DRE: Yeah, sure.
+AUSTIN: 6:15— 6:17— s— at whatever-seventeen be back.
+ART: Right, add 5 to the current minutes it says on your clock.
+AUSTIN: Right. Exactly.
+NICK: I’m gonna hit the restroom quick, then.
+AUSTIN: Sorry, sorry.
+AUSTIN: Uh, and you can find me at austin_walker, uh, the calcutec on clockwork worlds— clockw— er… man! I’m all over the place today!
+[ART laughs, AUSTIN sighs]
+AUSTIN: It’s been a long week, guys. You can find me on Twitter @austin_walker, thecalcut—tech, man!— thecalcutec on Twitch, and at clockworkworlds.com. Uh…
+DRE: There you go.
+AUSTIN: I’m gettin’ there. I have to like get [ART overlaps] all these… [tongue-slurring sound like “bleh”]
+ART: (overlapping Austin) I like how we’ve— we’ve all just stopped pretending that Keith will cut out our mistakes.
+[DRE laughs]
+AUSTIN, simultaneously: Keith isn’t gonna cut, I’m not gonna redo.
+ART, simultaneously: You didn’t redo it, you didn’t ask for it to be cut, you’re just like—
+AUSTIN: Well, it’s here now.
+ART: Well, it’s out there forever.
+AUSTIN: Keith is gonna love this.
+("Autumn not Winter" stops playing)
+AUSTIN: So, last session, one of the things I said, I don’t remember if this was on the recording or not— but, uh, I realized that I owed you loot. From defeating the word-eater who had, taken the form of Kindrali. Uh… Because that was uh, y’know, even though you didn’t beat him in combat, like, that was definitely defeating uh, a major foe. Uh.
+ART: Gimme the loot, gimme the loot.
+AUSTIN: So, Throndir, you received—
+ART: Yeah.
+AUSTIN: That’s not you!
+ART: Oh, right. Whatever, they’re all me.
+DRE: Yeah. Simme— simmer down.
+AUSTIN: [snorts] Throndir—
+ART: I wait ‘til they’re sleeping; I don’t sleep; I get all the loot; run away.
+[DRE laughs loudly, AUSTIN laughs as well]
+AUSTIN: Throndir, you receive ah, a small quiver of, of arrows. Um. These look like something that— that, uh, were handmade by the form of Kindrali. Um, or not Kindrali, but the form of the word-eater who had tak— who had taken Kindrali’s form. Uh—
+DRE: Yeah.
+AUSTIN: And what they do is, and maybe this is the first thing that Kindrali’s vision shows you, uh, is that, on a hit, they let you, uh, they let you perform— ask the questions from Discern Realities, except of the person who was hit. Uh, they’re also magical arrows, which means like, they g— they get hit, and then they kinda like vanish into that—remember the, the kind of blue sparks, the kind of blue, or like embers (DRE: yeah) that the— all of the word-eaters turned into when you defeated them?
+NICK: Mmhmm…
+DRE (faintly): Yeah.
+AUSTIN: So, so, that’s what they do. So if you, if you hit someone with them, they’ll, one-- uh, it doesn’t do damage. Like, they feel like, kind of like a— a brief pressure, as if— as if being like pushed on. And then you can ask the questi— you know, three of the questions from the Discern Realities list. (DRE: Mm.)
+But from their perspective, so it’s what they would s— how they would see the world, kind of. Uh, and you’ve three of them. Or you’ve, you have ammo 3, which doesn’t mean that you only have three of them, it means that’s kind of the abstract ammo system; we’ve talked about this before.
+DRE: Yep.
+AUSTIN: Uh, so write that down. Uh…
+DRE: What’s the weight on that? One?
+AUSTIN: One, yeah. Great Fantasmo? You received the Book of Names.
+NICK: Ooooh!
+AUSTIN: Um. Once per session, you get a +1 on Spout Lore as if it were a bag of books. Ah, and y— that recharges each session. Um, I don’t know what this looks like. I don’t know if this is like literally you open the book and… new names, new words come to the forefront? Uh… but once you u— once you refer to it, they go away? Or if it’s— or if it’s more abstract that that; just a matter of— of pure game mechanics? But I kind of like the mechanics being— being narrative, too, you know?
+NICK: Sure.
+AUSTIN: I kind of like this idea of like once every… 
+(someone coughs)
+AUSTIN: Every once in a while, you can go into that book and something important comes out. So, so, (NICK: Right) again, kind of a +1 on Spout Lore um, the way a bag of books works, except you don’t lose it. It doesn’t go away like a book from the bag of books does. Um...
+NICK: Did we... did I get that by— from a drop off of the Janine of Hawkins? [laughs]
+AUSTIN: [laughs] Right, yes. You got, you got Janine Hawkins’ Book of Names. [laughs] Exactly.
+[DRE laughs]
+AUSTIN: And Art. (ART laughs very quietly) I think while you were leaving— yeah. (amused) What’s up? I know that laugh!
+ART: Uh, I wish I had— I wish I had also said yes when you said “Great Fantasmo,” (AUSTIN: Yeah) and then I like that you said Art instead of Hadrian because you knew that I clearly don’t know my character’s name.
+AUSTIN: (laughs) That’s correct. [ART laughs] Uh— (laughs) While Hadrian was leaving— Hadrian is your character, Art. Tebbel. Arthur Tebbel.
+(laughter)
+ART: I know that?
+AUSTIN: Y— You know th— okay. [laughs] Uh...
+DRE: God…
+AUSTIN: On the way out [ART chuckles], in the mess— you remember, in the corner of the, the kind of lair that you were in, there was that kind of bone pit?
+ART: Yeah…
+AUSTIN: Ye— Okay. Uh, while you were leaving, Kodiak, Throndir’s dog, runs up to you with something in his mouth. And, uh, upon closer inspection, um, it was a very strange arm. Uh, it— First, you thought it was just like a piece of metal? Thought it was like, a piece of armor? And then you realized that, like, the armor was filled in with a metallic or a stone substance.
+ART: Mmm.
+AUSTIN: Um, I think a stone substance—I think it’s like marble in there—broken off, like as if ripped from a statue. But inside of uh metal, metal armor. And you recognize that it is missing the ring finger. The gauntlet on it is missing the ring finger. Uh, and there is a holy symbol, just like yours.
+ART: Hey!
+AUSTIN: Um, this doesn’t do anything. It’s very valuable; you know people want to see this. You know you should bring this home. It’s a little— it’s, it’s heavy; it’s two weight, uh, by itself.
+ART: Sure. Uh-huh.
+AUSTIN: Um, maybe it’s more. But let’s say two weight. Ah…
+ART: Okay. I’m, still doing fine.
+AUSTIN: Okay. Um. But— eh, let’s make it three weight. It’s— it’s a big marble arm in, in plate metal armor… you know?
+ART: Sure.
+AUSTIN: Like, that’s… um...
+DRE: Man, Kodiak’s got a strong mouth.
+AUSTIN: Kodiak is a, is a strong boy; he’s part of the strong boys gang. So, um...
+DRE, overlapping AUSTIN: Uh, I’m gonna take part of Kodiak finder’s fee, uh... on that...
+[laughter from AUSTIN and ART]
+ART: Okay.
+AUSTIN: Uh, when you—
+DRE, putting on a tough guy voice: Hey, my dog; h-he takes 20%, takes 20%!
+AUSTIN: For a brief moment, when you take it out of Kodiak’s mouth, you swear you can, you can feel muscles tensing in the arm.
+ART: ...Great.
+AUSTIN: It’s pretty good. 
+ART: Yeah, I hope it doesn’t like just strangle us all in our sleep. (laughter) Uh, y-- y-- y’all are dead, the arm did it. (laughter) Roll new characters.
+AUSTIN: So, what are you doing? (amused) Again, faced with Auniq in front of you. And, and as you were asking, when would be a good time to talk about that— that thing about torture?
+DRE: Prob— probably now. Probably now.
+AUSTIN: ‘Kay; go ahead!
+DRE: Okay. Um…
+AUSTIN: I mean, th-this should be a question that, that, uh, Fantasmo or Hadrian puts forward, right? Um—
+ART: Well, Throndir was gonna— was gonna tell us something first.
+AUSTIN: Oh, oh. Okay.
+ART: You know, it’s not like, “I’m gonna tell you this.” “Shut up: torture.” Like that’s, that’s rude.
+[DRE and NICK laugh]
+AUSTIN: Okay, sounds good.
+NICK (as FANTASMO): My dear boy—
+DRE: So glad you have your manners. [AUSTIN laughs]
+FANTASMO: —I believe it is time for you to discuss this torture that you spoke of.
+[DRE laughs]
+THRONDIR: Well, I didn’t— It was, uh, it was Mee Kosh, but um… So you all know, um—
+DRE: I’m speaking from Throndir’s point of view, now.
+THRONDIR: You all know that, um, you know, I’m, I’m part goblin and I guess that’s, that’s why we live longer, but we weren’t sure—the people in my village weren’t sure—why some of us were living longer than others and some of them desperately wanted to know. Um… And then people began disappearing. Um. It was slow, we… you know, one person would go missing, you know, maybe once a month and we just assumed it was, it was a hunting accident. I mean, it’s not common, but it happens, living out here, but… um...
+One night, I came upon some of our village elders and they had— well, they were, they were— they were just— they were cutting someone up, just— just to see what was, what was inside of them and… I think that’s where everyone was disappearing. I think they were experimenting on us and...
+...trying to figure out what about us was different. So that’s, that’s what Mee Kosh was saying when he said his— the torture thing. They don’t— they wouldn’t do it to you.
+(soft laugh from someone)
+They would not do it do you; they don’t care about you. But… Me, on the other hand… And that’s why I left.
+ART (as HADRIAN): Sure. Alright—
+AUSTIN: Did we discuss how old Fantasmo is?
+DRE: Yeah, that’s a good question.
+ART: It did come up du— I think it came up during the first [session.
+AUSTIN: Mmhmm.
+NICK: I think it came up— (someone: I rec—) It came up in the last session, too, like he…
+AUSTIN: Mhm.
+NICK: Um, y’know, I, through Fantasmo, mentioned that he had been— he’s at least over a hundred years old.
+AUSTIN: Right. Uh, but he’s aged, right? (NICK: Yeah) Like, that was part of the thing was he looks like an old elf, despite quote, “only" being a hundred, or something. Um.
+NICK: Right. No, he is— He is old, yeah.
+AUSTIN: Okay, okay.
+NICK: Uh, I mean, old for current elves, I mean.
+AUSTIN: I just wanted to confirm that. Right, that’s what I mean.
+NICK and AUSTIN (unison): Yeah.
+AUSTIN: Yeah, okay... Um.
+(ART makes a noise of realization)
+AUSTIN: Yes?
+ART: I— I just had a flash of where this game would go if it were an old World of Darkness game, which is that somewhere (AUSTIN sighs a brief laugh) there are still immortal elves controlling everything—
+AUSTIN: Right.
+[0:30:00]
+ART: —and we’ll never, we’ll never do anything but dream to be [AUSTIN laughs] a tenth as powerful as they are.
+[DRE chuckles]
+AUSTIN: World of Darkness, man, World of Darkness. Uh, I hear they released a new book that’s really good. Or, the game part of it I heard wasn’t very good, but like some of the narrative stuff was cool.
+[quiet laughter from the table]
+AUSTIN: Anyway! Uh… [laughs]
+ART (as HADRIAN): But— but we, we have to go there, that’s our only chance at— at survival, yes?
+DRE as THRONDIR: Yeah. [pause] Yeah, probably.
+ART as HADRIAN: We can be careful—
+AUSTIN (interrupts): I wanna be clear that I— that I’m not railroading you guys into this.
+DRE: No, I know.
+AUSTIN: Okay, I wanna make sure that’s clear, like: this is news to me. Going to Auniq is news to me; I wanna roll with it, I’m excited, but [DRE laughs] I, I hope this isn’t coming across like, “Well, Austin wants us to go to Auniq.”
+ART: I mean… We could— we could discuss other ways to not starve to death, but…
+AUSTIN: Right, I just wanted to make sure that we… that, ‘kay, that’s it.
+NICK: I mean, aren’t we gonna be—
+ART: Or, or, or: we could all go finish this and when we’re close to unraveling the mystery, I could run into the hallway and put my fingers in my ears, so I won’t know… and then I still won’t need to eat and I can try to save the rest of you guys.
+[DRE laughs]
+AUSTIN: That...
+NICK: Hmm...
+DRE: Let’s not do that.
+NICK: I’m not sure...
+AUSTIN: Samothes— Samothes into those sorts of loopholes? Is that what—
+[someone laughs loudly; there is overlapping laughter]
+ART: Like— like all religions, it’s all about the careful loopholes t-to really get under the, the, the bar of that, that omniscient deity.
+DRE: Oh, boy.
+[AUSTIN laughing quietly]
+NICK: I mean, maybe Samothes has some sort of, uh, indulgence that you can purchase to uh—
+DRE: ‘S got a grace period! [everyone laughs] What’s the warranty on this— on this holy crusade, huh?
+[laughter]
+ART: It’s real bad; I— I shoulda gotten the protection plan. [NICK laughs] Anyway.
+DRE: Uh, and I think, y’know, to your point about railroading, Austin, I think with these new arrows that Throndir has, he very much has in mind someone that he would love to put one of these arrows in.
+AUSTIN: Y-yeah? Who?
+DRE: Uh, probably one of the elders that he saw performing these experiments on people.
+AUSTIN: Okay. Does he make that desire known at this point?
+DRE: Yeah, I think so. I think he trusts, he trusts Hadrian and Fantasmo enough.
+ART (as HADRIAN): I—
+AUSTIN (interrupts): Alright!
+ART (as HADRIAN): I guess I— I’m— I struggle to see… No, I guess, I guess this is fine. I— I don’t wanna— us to get bogged down in a— in a journey of, of revenge—Samothes, of course, does not teach that that is the, the correct path—but I’m not— I’m not a hunter. I’m not a gatherer. Without— without the help of these people, we’re, gonna starve.
+DRE (as THRONDIR): Yeah. I mean, I could hunt for us, I could get us food, but it would not be food that Fantasmo would be very happy eating.
+HADRIAN: Well, you— you probably also know what plants aren’t poisonous, right?
+THRONDIR: Yeah, but the closer we get to the Erasure, I’m willing to bet that they get fewer and fewer.
+HADRIAN: Oh, yeah. Most edible plants aren’t— aren’t evergreen, huh?
+[AUSTIN laughs, followed by DRE]
+AUSTIN: Alright, uh so you start making your way, like, like you guys are going in the front door, so to speak?
+DRE: Yup.
+(AUSTIN breathes)
+ART: Uh, wait, really?
+(someone laughs)
+DRE: I—
+ART: Do we have a— is there a map that I’m missing here— do we have a— do we have a—
+AUSTIN: No. There is not a map here.
+ART: Um…
+AUSTIN: I thought about drawing one, and then decided that like, no, you don’t— there’s no map, you don’t have a map of this place.
+ART: Well like, how ‘bout just like, we’re— we’re at the question mark?
+AUSTIN: You’re at the question mark, yeah.
+ART: Okay.
+AUSTIN: You’re at the point at which, you're like, on the border of where the space resists mapping.
+                                   
+ART: Right.
+AUSTIN: Um, I can like, I mean— eh, you know, I, I can (ART: No, that’s fine—) imag— I kind of picture it as being, like, right now when you’re making these decisions you’re on a kind of, uh, a kind of low hill, looking at Auniq in the distance. Um, with the tower behind it, and just woods in every other direction. Again, some mountains to your south, like low low low mountains. But, but that’s about it. All ice, all snow.
+NICK: If— if we’re worried about (ART: Right. Uh—) if we’re worried about Auniq, why don’t we try g— I mean, is it a long distance around Auniq to the tower?
+AUSTIN: It’s a couple of— It would add like, two days to the, to the thing. The thing that people seem to be worried about is food. That—
+NICK: Right. No, I understand that, but I mean, I was going to say, like, we probably all have enough food to at least get to the tower? So we can go to the tower, fulfill our objective, and then see if we need to swing by Auniq before we leave.
+Right? No?
+ART: I mean, probably? Maybe?
+DRE: Yeah. But I mean, maybe we could find out something about the tower, too, from the elders of the village.
+NICK: Yeah. That’s true too.
+ART: I’m, I’m wary of a situation where we end up having to, you know, do a three person siege on an elven city.
+(NICK and DRE laugh, pause)
+DRE: I really— I think if it came down to it, they would take Throndir but they would not be interested in taking you all.
+ART: Well that’s not— we’re not, that’s not, we’re not doing that. (NICK laughs) We’re not gonna leave you— (DRE chuckles softly) I mean, yeah, that might not be what they’re interested in, but they’re gonna take, they’re gonna take all of us or they’re not gonna take any of us, that’s—
+DRE: I mean, the other thing, and Throndir voices this, like, they know we’re here, someone’s probably— multiple someones are probably watching us right now. We either go on our terms or we might end up being taken there on their terms.
+(pause)
+NICK (as FANTASMO): Gentlemen. May I remind you that you are in the presence of the slayer of the Word Eater. Surely—
+AUSTIN: Oh boy.
+(DRE laughs)
+ART: Oh boy.
+(AUSTIN makes a small pained laugh noise)
+FANTASMO: Surely these people will have some respect for a wizard as fantastic as I.
+ART: I’m really enthusiastic to see this plan now. (DRE and AUSTIN laugh)
+FANTASMO: They are elves, after all, even— partially. (DRE: Wo-ahh.) Tainted thusly—
+DRE: WOAH.
+AUSTIN: …Mmmmm.
+FANTASMO: —the goblin blood, but—
+DRE: Hold on, let me change my bond with Fantasmo—
+(AUSTIN and NICK laugh loudly)
+ART: Oh.
+AUSTIN: Oh, brother.
+DRE: I can see, uh, the word eater taking that pride from Fantasmo has really done a lot for his character. (laughs)
+NICK: Oh—
+AUSTIN: (laughs) I only took a little bit. He only lost a little bit of pride. He didn’t lose it all. There are a lot of synonyms for pride that he still has. (laughs)
+NICK: (chuckles) Yeah, yeah.
+(DRE laughs)
+NICK: Like this isn’t pride, this is just arrogance. (ART laughs)
+AUSTIN: Right. Exactly.
+NICK: Like—
+AUSTIN: Alright!
+ART (as HADRIAN): Yeah no, I think— I think this is, I think, that Fantasmo might be right—
+NICK (as FANTASMO): Surely, being elven, they have a respect for— they still have an innate respect for magic.
+(pause)
+DRE (as THRONDIR): Uh… not quite.
+HADRIAN: But surely Fantasmo must have some point here, they must be thankful that we’ve vanquished the evil that terrorized their land, they can’t—
+THRONDIR: I mean, I grew up here and I had no idea word eaters existed until, until Mee Kosh told us. I— I (HADRIAN: Oh wow) have no idea what has… I’m sure someone knows. (cross) I’m sure someone knew.
+HADRIAN (cross): Well they’ll be— they’ll be especially grateful that we’ve solved— we’ve solved a problem they didn’t even know they had. (THRONDIR (doubtfully): Yeah, maybe.) Or didn’t have a word for. Hey, maybe the word eater ate their word for word eater, and that’s how they didn’t know it was the problem. (NICK laughs)
+THRONDIR: Yeah.
+DRE: I mean I— Throndir is very unsure of what his people will be like with the word eater’s spell kind of like, lifted.
+ART: Did it do that? Did it uneat the words that were gone? I mean I know it did for us, but we were right there, I don’t know how this—
+DRE: Yeah I don’t— listen, I don’t know how word eaters work.
+(NICK laughs)
+DRE: I have no idea.
+ART (as HADRIAN): I’m— I’m s— I really want to see, I need to see what’s happening.
+AUSTIN: Okay.
+ART: I wanna see Fantasmo roll in there and be like, “I’m your hero”—
+AUSTIN: Well, we’re gonna roll in! You guys start, head down the hill, across the, the pines, through the pines, towards the large wooden wall that separates Auniq from the rest of the arctic (??? 39:15) pinelands. Um, I’m guessing there’s a kind of a door with a tower, is that like, a gate with a tower? (DRE: Yes.) Does that seem right, Throndir?
+DRE: Yeah, I think so.
+AUSTIN: Okay. Um,
+One of— I think actually, as you’re approaching, like you don’t get to the— you don’t get to the gate, you get kind of, you know, five minutes away from the gate when suddenly, the sound of bows being drawn is heard and from behind one tree, a… a snow elf in, kind of um, bright, almost white, almost white leather and steel armor slides from behind one of these trees and into your vision, and draws a long, sharp, straight blade. Um.
+AUSTIN (as SNOW ELF): Halt.
+AUSTIN: You recognize him, Throndir. This is uh, (DRE: Yeah) Belador. He holds the rank of Talon, which is high up in the, uh, kind of small militia that Auniq keeps.
+AUSTIN (as BELADOR): (sighs)
+AUSTIN: He sighs.
+BELADOR: Throndir, we— didn’t expect to see you again.
+THRONDIR: I didn’t expect to be back, but. The best laid plans, huh.
+(pause)
+AUSTIN: He’s— kind of… I think he’s trying to gauge your intentions, you can kind of see that in his eyes. Um. He has… uh, kind of, short pulled back black hair and pale eyes. Given the fact that the snow elves are pale, this dude has a little bit of color to his skin. He’s definitely, like you, came up as a hunter, out and about, exploring this area, getting a little bit more of a tan than the people— I, I guess there’s nothing saying that snow places can’t, can’t get tans, right?
+NICK: Actually, they—
+DRE (faintly): Yeah, I mean still have sun, man.
+AUSTIN: Yeah, cause all that light gets reflected, right?
+NICK: Right. Yeah.
+AUSTIN: Yeah, yeah. It seems like, I think that’s how I’m kind of picturing this dude.
+BELADOR: They’ll want you, you know.
+THRONDIR: I know.
+AUSTIN: He shakes his head.
+BELADOR: Come with me.
+AUSTIN: The other snow elves kind of move in, with their bows drawn pointed at you. Uh, and then one of them approaches Throndir with some rope and twine. And gestures for you to put your hands out. Um.
+THRONDIR: We’re not here to fight. Is this really necessary?
+BELADOR: Yes. You are a criminal. You have betrayed us.
+ART (as HADRIAN): Wait wait wait we are… we are heroes of this land. You don’t understand.
+NICK (as FANTASMO) (in an even louder and more pompous voice than usual): I am the slayer of the word eater. I will have you unhand me.
+AUSTIN: He gestures, and they move away from you and towards Throndir.
+BELADOR: The two of you can come in as prisoners or not at all. Throndir is coming as a prisoner whether he wants it or not.
+FANTASMO: Now, wait a minute. This young elf is under my protection.
+(pause)
+AUSTIN: He looks at his, his people, (laughs softly) with a smirk.
+BELADOR: Who are you?
+HADRIAN: Oh, no.
+FANTASMO: I am the Great Fantasmo, (cross) former head of the Re—
+BELADOR (cross): Your mother name you that, or?
+FANTASMO: Mmmmm. Ucgh.
+(NICK laughs)
+AUSTIN: Yeah— okay.
+DRE: Fantasmo, I don’t want to say “I told you so,” but. (laughs)
+THRONDIR: Look. Belador, you know me. I don’t know what they said about me, but I know that you know it’s not true.
+AUSTIN: (pause) Hm.
+BELADOR: It doesn’t matter what you say, or what they say, I have my duty. Now come with me, or I’ll have to hurt you and your friends. And you know I’m capable of that.
+ART: How many of them are there?
+AUSTIN: You know he is capable of that.— You see four. You see him and four others. Uh, uh, Throndir knows that there are more. This close to the gate? Um, here’s what you know.
+Throndir, you know that these groups move in groups of eight. There is a Talon, and then four Feathers and three Beaks. Those are like, the ranks in these like, militia wings.
+ART: Euuhh, wings.
+DRE: Euh.
+ART: Euh.
+AUSTIN: (sighs)
+HADRIAN: Look. We just did these lands a great service, and all me and my dutifully deputized companions need are some simple travelling supplies. 
+[0:45:00]
+HADRIAN: If you could just kindly supply us, we can all move on, with our days, (AUSTIN exhales, amused) and nothing, nothing bad has to happen here.
+AUSTIN: He laughs and shakes his head.
+BELADOR: Here are the negotiations. This is what, this is— I’m saying, you can come with us as a prisoner, and you’re saying you want the things we have. This is bad, is what this is. You are bad at this.
+(DRE laughs)
+BELADOR: Make your choice, you two; Throndir, raise your hands, and you will be tied, and brought to the elders. There isn’t a choice here.
+HADRIAN: (mumbling) I think there’s a choice here. (raising his voice) Um—
+NICK (as FANTASMO): Look here, you backwards buffoons— (HADRIAN (in the background): There we go.) (NICK laughs quietly)
+BELADOR: If you raise your voice again you will be shot.
+THRONDIR: Fantasmo, it’s not— it’s not worth it.
+DRE (quietly): And he puts his arms out.
+BELADOR (loudly, over DRE): Throndir, shut up.
+AUSTIN: They start to tie Throndir.
+BELADOR: You two have five seconds to make your choice. Hands up or leave.
+NICK: Fantasmo is gonna cast Magic Missile, at, (cross) uh, Mr. Thorny Man.
+AUSTIN (cross): Okay. Go ahead. This is, uh, Belador, (cross) is his name.
+NICK (cross): Belador. Yeah.
+AUSTIN: Talon Belador.
+NICK: Talon. (laughs)
+AUSTIN: Yes. Uh, Talon is his rank, so, so Belador is fine.
+ART: Let’s watch this roll.
+DRE: Can I…
+(AUSTIN inhales sharply, NICK laughs)
+DRE: I guess it depends on the roll… Can Fantasmo, er, can (NICK: Oh boy) Throndir do anything to like, jump in front of Belador?
+AUSTIN: I, do—
+DRE: To block those missiles?
+AUSTIN: Uh, no. There’s—
+ART: Traditionally that’s not how Magic Missile works, but I don’t know how it works here.
+AUSTIN: Yeah, it’s not— Magic Missile is a heat seeking, like, it has a target. Um. I guess like if you surrounded him with people though, of course it would hit you and not him, right— (DRE laughs) that seems silly. But no. Especially not with a— not with a roll like six. Um. (laughs)
+It’s quick. Uh… You— You’ve, I don’t think you’ve seen a person move this quickly before. Like a, like a humanoid. You’ve probably seen monsters and creatures move like this, like birds, or, or fast land animals, but Belador rolls under your Magic Missile, which slams into the snow behind him as he stands up, kind of, it billows up behind him. Um, and… where is this, uh… this is, this is gonna seem high for a second, but it’s because of a weird thing.
+Okay. (ART: That’s—) You take… ten damage. This is— his sword is the best of two d8, so it’s one of those two d8, but he rolled two 8’s. I just wanna be clear that that couldn’t have been a better roll. (DRE: Oooh.)
+So you take ten damage as he pops back up, the snow billowing behind him, and slams his sword into you, and pulls it back out, Fantasmo.
+BELADOR: Kill them.
+AUSTIN: What do you do?
+ART: I hit him. I hit him with my, my halberd.
+AUSTIN: Go for it.
+ART: Uh, as hard as I can.
+DRE: Oh boy.
+AUSTIN: That’s a hit.
+ART: That is. Um, and then it’s this plus one. Or plus, uh this plus a d4. (AUSTIN: Mhm.) So that, that’s not good.
+AUSTIN: That’s not great.
+ART: Um, plus…
+AUSTIN: What’s the d4 from?
+ART: Uh, I get one d4 to atta— to damage when I’m on a quest.
+AUSTIN: Oh. Nice.
+NICK: Uh—
+ART: That helped, and then plus one, so seven.
+AUSTIN: Okay.
+NICK: Were we at… full HP at the beginning of this? Or (cross) whatever we were at before?
+AUSTIN: No. You were at— Where were you at— what you were at before. Um.
+NICK: Okay so. I am down. I am at zero hit points.
+AUSTIN: Uh, where were you at before?
+NICK: Eight?
+AUSTIN: I’m trying to remember did you rest in between the two, um, things.
+DRE: Um, we got back to Mee Kosh’s place, we took him all the armor.
+NICK: Yeah.
+AUSTIN: Right. You did take him all that stuff. So yeah, go ahead and— everyone should have rested once, (NICK: Okay) which is uh, I think, you get back… from a rest you get back some amount of, of, something. Uh…
+(ART laughs)
+AUSTIN: Make Camp, uh, here we go. You… half your max HP, is what you get back.
+NICK: Rounded up or down?
+AUSTIN: I always say rounded up, so you get back seven.
+NICK: Okay. Alright. I’m—
+AUSTIN: You’re still in a bad place. (laughs)
+NICK: Yeah.
+(DRE laughs)
+AUSTIN: You’re still at three, three, now. (NICK: Right.) You… cut into, into Talon’s armor, and you feel that you hit, you definitely hit flesh, Hadrian, (ART: Great) but he turns, and looks you in the eye, y’know. His, stare is one that is, uh, there’s a promise in the look he gives you.
+The arrows start (ART: Probably a bad, bad promise) flinging down on you from the unseen places. You should roll… you, meaning, whoever goes next, should roll Defy Danger DEX, or some other sort of Defy Danger, or take the hit. And, and before you do anything else at this point, Defy Danger, you’ll have to Defy Danger, this is kind of everyone at this point.
+ART: Sure.
+(pause)
+NICK: I got hit with arrows.
+AUSTIN: What are you doing? What are you— yeah.
+ART: Oh, no.
+DRE (quietly) Oh, boy.
+NICK: Uh, I guess I’m just trying to run away from the r— like out of the area of effect?
+AUSTIN: Okay.
+DRE (in the background): ’kay.
+(ART laughs)
+AUSTIN: I mean, what was your action going to be? ’Cause what I was basically saying was, to do an action, you have to, roll Defy Danger.
+NICK: Uh…
+AUSTIN: Like, retreating is like, I mean, that would be your action, you know what I mean?
+NICK: Yeah. No, that was my action.
+DRE (in the background): Mhm.
+AUSTIN: At which point, at which point, like whatever, you run away, they’re gonna keep firing at the center, where Hadrian and Throndir are.
+NICK: Sure. (AUSTIN: Uh—) Well, yeah.
+AUSTIN: Alright so, at this point Fantasmo is high-tailing it away, as the ar— under, under threat of arrow fire…
+ART: Suuuure.
+AUSTIN: Back towards the hill and stuff, I’m guessing?
+NICK: Yeah. I mean, (sighs) so, am I getting hit? Like, what—
+AUSTIN: I’m saying, I’m saying I wanna deal with whoever is doing something that is a, either a combatative action, or using a move. (NICK: Oh. Okay) Do you know I mean? Um, I guess, I can treat this as Defy Danger and you can take this damage. If you want that to be the thing we do here (laughs).
+(DRE laughs)
+NICK: No I— yeah, I mean, yeah, I was just, (cross) I wanted clarification either way, I didn’t—
+AUSTIN (cross): I I— Yeah, sorry. Right now, you’re not taking damage, like fleeing isn’t the thing— remember, they didn’t want you. They were saying you can either flee, or you can come in as a prisoner.
+NICK: Oh. Yeah.
+AUSTIN: Originally, right? So now you’re fleeing— that doesn’t mean they’re done with you, necessarily, but, but, when they have two able-bodied characters— or, y’know, enemies in front of them, they… they’re gonna deal with those first.
+So, what about Throndir, what are you doing?
+DRE: Oh, Christ.
+AUSTIN: Remember, you were in the process of (laughing) being tied up.
+DRE: Yeah, yeah. Um… I mean, I think Throndir knows there is no way to win, quote on quote “win” this fight. Like, it’s just gonna go bad. Um… Uhhhh. I’m trying to think of what he can say or do to try and get us out of this mess or at least… keep us in this mess and keep us alive in this mess. (laughing, AUSTIN laughs too) Um.
+God, I think his only shot is trying to appeal to Belador, who’s controlling all of this mess.
+AUSTIN: What are you doing?
+DRE: Umm. (pause) Hmmmmm.
+AUSTIN: I guess, let’s— let’s paint this picture in moments, again, I just wanna paint this picture in seconds. Because that’s what’s happened here, it’s been a matter of seconds. It’s been.. (DRE: Yeah) ten seconds since this started, right? It’s… you’re being tied up, Fantasmo says like, “Unhand him,” basically, Magic Missiles just barely miss, Belador stabs Fantasmo in the gut, pulls back, and then almost instantaneously Hadrian steps in and cuts deep into the upper shoulder of Belador, drawing blood and causing pain.
+This is, and then, mo— and then the arrows start to come in, they just barely miss Fantasmo as he starts to flee, at this point y’know, you’re doing your best to seek, seek some sort of cover, like you’re not getting hit with them right this second, but whatever you do, first you’re gonna need to get to a safe spot if you’re doing something besides— actually, Throndir has to— has to do Defy Danger no matter what he does, (DRE: Yup) um, whereas, whereas, Fantasmo and Hadrian, if they’re fleeing, can just flee, because they don’t give a fuck about you.
+(DRE laughs)
+DRE: Um… Goddamn.
+NICK: I’m sorry.
+DRE: God, Fantasmo, why did you shoot missiles at these people!? (both NICK and DRE laugh) Uh—
+NICK: I mean, me as the player, like Nick, I am sorry,
+DRE: Nononono—
+NICK: Fantasmo still thinks he did the right thing here. (AUSTIN: Yeah, of course, of course.) Even as he’s running away—
+DRE: It’s the perfect move for Fantasmo. Bleeding (NICK laughs) profusely from his gut.
+NICK (laughing): Yeah.
+DRE: Um.
+ART: So, so Fantasmo’s safe? Ish?
+AUSTIN: He’s fleeing. Uh— (exhales) it depends on how this shakes out.
+ART: Alright. (DRE: Mm.) I don’t want to preempt Throndir, but I have a plan of action.
+AUSTIN: If Throndir doesn’t have a thing, or if Throndir’s trying to collect his thoughts, then we should go with your plan of action. D’you know what I mean, like, that’s—
+ART: I would like to Discern Reality.
+AUSTIN: Um… you’ll have to Defy Danger, and— so what does Discern Realities look like for you here, what are you doing to Discern Realities?
+ART: I— I’m trying to, to draw on my experience as, a weapon of war.
+AUSTIN: Okay. Um, w—
+ART: I’m trying to figure out, cause what I said when we walked up here was like, we can’t— the three of us— two of us can’t siege this city.
+AUSTIN: Right. Give me a,
+ART: And I’m trying to figure out if that’s— if I’ve gotten to a point where like, that’s it, right. Even if I keep fighting, I kill all of the people I can see, is it that I have to kill everyone in this city?
+AUSTIN: (laughs) So then, give me a Defy Danger. How are you—
+ART: Dexterity.
+AUSTIN: Uh, dexterity if you’re trying to get out of the way, right? Um.
+ART: Sure.
+AUSTIN: CON, if you’re trying to like, take these hits and deal with it and still perform your action successfully, y’know?
+ART: Sure.
+AUSTIN: But you’ll take that damage, it just means you’ll be also able to Discern Realities.
+ART: Um,— right. Yeah, I guess CON is most—
+AUSTIN: Yeah.
+ART: Cause like dodging and then like, figuring shit out, that doesn’t make sense. To me.
+AUSTIN: I— I think it kind of makes sense, like if you’re dodging behind a nearby rock or tree and then like, okay, okay, okay. Let me peek out— like what’s the situation here. (ART: Alright. That makes sense.) That makes sense to me. I can picture that in cinematically in my head, (ART: Yeah) with Hadrian like, getting behind cover.
+ART: Alright, I’ll try that. I’ll try to get behind a, let’s say, tree.
+AUSTIN: Sounds good.
+ART: Oh, I fucked up. Fucked up real bad.
+AUSTIN: Okay. (laughs) Uh. Christ.
+ART: Still get XP though.
+AUSTIN: Yeah— uh, yeah. Nick, make sure you take an XP. Take, uh, one damage, Hadrian. (ART: Armor—) Armor piercing one, but I think you have two, right.
+ART: I have two armor.
+AUSTIN: Yeah, so, so. The arrows clink off of you as you dodge behind cover. Go ahead and give me your Discern Realities.
+ART: Alright.
+AUSTIN: And then we’re going to go to Throndir, because otherwise, at this point Throndir either needs to have to do something or get hit, y’know.
+(DRE, quietly: Yeah)
+ART: Alright, I got a nine.
+AUSTIN: Okay, on a seven to nine, Discern Realities, uh, you get to ask one of the questions. What question are you asking?
+ART: I think like, like given what I’m looking for, I wanna know what is about to happen.
+(AUSTIN exhales)
+AUSTIN: I think at this point, you know that the, capture of Throndir is imminent and necessary. Everything else can be negotiated. Your death— like, death can be negotiated, death can be stopped. What’s going to happen? Is they’re going to bring Throndir to these elders.
+ART: I surrender.
+AUSTIN: You like, drop your weapon?
+ART: I drop my weapon, and I put my hands up.
+AUSTIN: Okay.
+ART: I’ll go with Throndir, my place is to protect the people I’m with, Fantasmo appears to be safe, Throndir’s in danger, I’m gonna go.
+AUSTIN: Okay. You drop your weapon, the— Throndir, what are you doing, how are you acting?
+DRE: Uh, I mean if I see… if Fantasmo is getting away (AUSTIN: Mhm) relatively safe, albeit bleeding a lot (AUSTIN laughs), um—
+AUSTIN: Yeah, the blood is in the snow, for sure.
+DRE: Yeah, and Hadrian has surrendered, I mean, I don’t need to do any kind of action. I think the only thing that— he would just continue to plead with Belador to not hurt his friends, and I’m trying to think of what sort of, any kind of leverage that Throndir would have to give him to stop, and (AUSTIN laughs) the only thing I can think of is that power.
+AUSTIN: Yeah, I don’t think you have anything he wants, man.
+DRE: Yeah.
+AUSTIN: Yeah— you. You are the thing he wants, y’know? (DRE: Yeah.) Um, it— that’s one way you could negotiate this. You could totally say— I mean, this is the thing, he’s already offering you to let them go. If you went with him. That was on the table already.
+[1:00:00]
+Now, I think he’s— he holds up his hand and the arrows stop, and he gestures toward both you, to you, Throndir, and to Hadrian.
+BELADOR: Tie them up. Bring them in immediately. Let the old elf die in the snow alone.
+AUSTIN: Um,
+ART: I sure hope that doesn’t happen.
+(AUSTIN laughs)
+NICK: Me, too.
+(DRE laughs)
+AUSTIN: They— Throndir, take uh, three damage, they give you just a nice little knee in the gut and shove you into the snow before tying you up. One of them, hm. Yeah, one of them takes your halberd, Hadrian (ART: Yeah), ties you up, and they start leading you guys, you two away into the— into Auniq.
+(pause)
+NICK: Uh—
+AUSTIN: Uh, Fantasmo, you’re at some distance and you can see this happening, I think, probably also from behind a tree or a rock?
+NICK: Yeah. (pause) I am going to—
+AUSTIN: Bleeding is bad.
+NICK: Yeah. Hmm.
+AUSTIN: Like this system doesn’t have any sort of like, automatic penalty for being low on HP, (NICK: Mhm) d’you know what I mean, that isn’t the way Dungeon World works, or actually ’cause it’s not the way D&D works, um, but. I will say that if you don’t get this taken care of in the next day, you’ll start to take debilities. You’ll start to like, become weak, and shaky, and sick, you know, like, that’s, (NICK: Sure) I’ll, will begin to pile those things on. Um.
+But you know, you’ve had a long life, and you know how to at least, like, keep yourself from bleeding out. (laughs)
+NICK: Yeah. Um, and I assume there’s like, something I can bandage myself with in the adventurer’s kit, stuff like that. Uh—
+AUSTIN: Yeah, yeah. Again, like, not to get HP back, but to—
+NICK: Right, yeah, but to (AUSTIN: prevent you from—) keep my guts from falling out.
+AUSTIN: Exactly.
+(ART laughs)
+NICK: Uh—
+ART: I mean, I don’t intend to be a prisoner forever, and I can heal you when I finish here.
+NICK: Okay. Well, um. I am going to, uh, I’m gonna cast invisibility, or at least try to, hopefully I (AUSTIN: Go ahead) roll better than I did next time!
+(pause)
+NICK: 11. Okay, yeah.
+DRE: Yay…
+(collective “Yay” rises from the group)
+(DRE laughs)
+NICK: I’m invisible, so I’m going to try to… uh, follow them through the gate if I can.
+AUSTIN: Okay. You can totally do that.
+NICK: Okay.
+AUSTIN: Um, I think as, as Throndir was explaining before, as you pass through the gate, uh, first of all as you pass through the gate, you get glares from the people working the tower, and then from some of the people working the fields— what fields there are here. What sort of thing grows in a climate like this? And like, we can be ridiculous and magical, but what’s it— what is it?
+DRE: I would say probably a lot of things that like, grow under the ground. (AUSTIN: Okay) Like potatoes, carrots, all those kind of like tubers and stuff like that.
+AUSTIN: Alright. So like, lots of people kneeled, and bent over, checking on crops, and maybe planting some new stuff, um. Maybe it’s, maybe it’s harvest season to some degree, like maybe people are harvesting a bunch of like, sweet potatoes right now. Um, and, some of them give you looks, one elf waves her child, her children back inside to like, their little farm house. And, you’re kind of paraded down the main path towards the center of Auniq.
+These buildings are all, are all made of this kind of pine wood, um. I’m picturing some of it, though, as— I don’t know from woods. Um. (sighs) What— (typing) what’s some, what’s the wood I’m thinking of. Like birch, is actually what I’m kind of thinking of, that, that type of coloring, that like white and black, coloring? You know I’m talking about?
+NICK: Yeah.
+AUSTIN: In, in trees? That sort of coloring, a lot of the buildings have, mixed in with a more traditional dark brown. There is some, some mixing of color here.
+NICK: That fits because birch trees tend to grow in northern climates, actually.
+AUSTIN: Okay. I, I’m— totally—
+NICK: There would probably be a lot of birch and pine and firs.
+AUSTIN: Okay. Sure. Uh. So, man. How long ago did you leave, like two years ago? Throndir?
+DRE: Yeah, I guess so.
+AUSTIN: Okay. Um, things are… things— the space seems mostly the same. Like, there haven’t been many major changes, there aren’t like, all of the things that you thought were there are still there. This isn’t one of those trips home where everything has changed. Um, but to some degree, that makes it even more… weird for you, right, because it’s as if you never left at all; it’s as if your leaving, despite it being this huge deal because no one ever leaves, um, it’s as if it didn’t even matter.
+And, it’s also like, it’s weird being back in the normal part of town. You know, you grew up playing here. And, you can’t see it as a fun place anymore. (DRE: Yeah.) I think that, I’m kind of picturing there being a town center with something in the middle. Probably not a fountain (laughs), um, maybe a tree? Maybe like a single tree in the middle. This is, this is the space that Kindrali talked about where the great divide between the goblins and the elves happened. Like this is where those debates were held, about the future of their civili— of Auniq.
+Fantasmo, it’s weird seeing all of these elves working. Like, doing manual labor, and lots of it. Like, it’s weird seeing anyone work this hard, to live (NICK: Sure). And they’re doing as if it’s no big deal, right. You know, you’ve seen people work this hard before, but in way nicer climates. (NICK: Yeah) So, that— (cross) and, you haven’t seen elves.
+NICK (cross): I mean, I spent time in Velas. Right, yeah.
+AUSTIN: Right, right yeah. It’s, you know, it’s, a nice autumn day in Velas basically all the time (NICK: Sure), like an early autumn day, I’m kind of picturing it. Whereas here, it’s freezing. And most of these people, ninety, one hundred percent of these people (laughs) can’t make them, their bodies warmer with magic.
+NICK: Right. (ART laughs) Yeah.
+AUSTIN: And it’s colder here than it was, where you were earlier, ’cause you’re getting closer and closer to the center. So, it’s— even for you, it’s, um, an accomplishment, or maybe you can view it as like, this is uncivilized, I don’t know, I don’t know how you view it, I don’t want to put words in your mouth. Um.
+They—
+NICK: I think that— I think Fantasmo would definitely have a certain respect, but also, that respect is tempered with questions of why.
+AUSTIN: Right. Right.
+NICK: I respect their accomplishments here, but why don’t they just leave? y’know, is what he would probably be thinking.
+AUSTIN: Right. Alright, so, they take… at a certain point, I think at the town center, they split you into two… um, into two groups, or, I guess not groups, right. Uh, Throndir they begin start taking towards like, the kind of High Hall, where the Council of Elders kind of meet and talk about the future. Um.
+Hadrian they begin to take you deeper into the, into the kind of south, southeast, where things again, you can— even in this like, ten minute walk, you feel it getting colder, and colder, and colder. And eventually you reach a stone structure that has no windows. And they pull open, the big stone door, it’s one that grinds against the ground, and lead you inside. There is torch light in here, there are some holes on the roof to let smoke out and air in, and there’s a bit of sunlight through those holes. And as your eyes adjust, you realize that you are in a prison, or a jail. Um. And—
+(ART: Sure. That makes sense.)
+AUSTIN: The smell of death is strong here. Um. There are— there’s a hallway to your— as you come in, there’s a hallway to the right that, uh, reeks. And, that— based on the body language of the guards leading you in, is— is a place where they don’t even like to think about. But they turn you left, which is, which is nice. (DRE chuckles) Um, and that’s a long hallway of cells. Inside the cells are, goblins, mostly. Um.
+ART: Hm.
+AUSTIN: They take you to the kind of far end of this— I’d say that there are, six cells on this floor, and then there is a, uh, staircase kind of right near the front door also that goes up into another level. But they take you to the bottom floor, the far left side, there’s a cell that they shove you into and close the gate. The gate is kind of an iron, um, that they shove closed. A guard spits. Um.
+AUSTIN (as GUARD): Food will be once a day. Your uh, your toilet needs are in the corner there.
+ART (as HADRIAN): Mm.
+GUARD: Once a week we’ll come by with some hot water. (pause) You need anything, well, then, I guess you’ll be needin’ somethin’.
+ART: Oof.
+(DRE laughs)
+ART: Uh… I, I’m glaring at him.
+AUSTIN: (exhales, amused) Fantasmo, which— when they split, which direction did you go with?
+NICK: Um. I went, uh, with Hadrian.
+AUSTIN: Okay. Did you go inside this structure?
+NICK: It depends, is it obvious from the outside that it’s probably a jail?
+AUSTIN: Huhh. I think from the outside it’s even more ominous, because who even knows. It’s so different than any other structure in Auniq. You know it’s a bad— it’s a place where bad things happen. Like, you get that sense. (NICK: Sure.) Um, there aren’t like, there’s no like, “oh, this is the jail” sign, and there’s no… (NICK: Right) like jail-style windows in this place, there are no windows outside. Uh, into— on the wall of the place.
+NICK: But I can probably surmise that because this building is ominous and that’s where they’re taking him,—
+AUSTIN: Right, but I want to be clear is, you don’t know that, if it’s a jail or something worse.
+NICK: Oh, I see, sure.
+AUSTIN: Like, see what I mean. (NICK: Yeah) You know it’s not a nice thing, but you don’t know where on the bad scale it is. Is this a slaughterhouse? (DRE laughs) Is this a— you know. It’s hard to know from the outside.
+NICK: Hm. Um, yeah, I guess I follow, follow him in then.
+AUSTIN: Okay. There are, let’s say three guards at any point in time, kind of patrolling here. One at the front, kind of recessed into the back, I should just map this out for you guys, now that there’s like, a building.
+ART: Do the guards, do the guards appear, do all of the guards appear to have keys?
+AUSTIN: Uh… there are keys… Okay. I’m going to draw it out for you guys. Sorry podcast listeners, this is maybe—
+ART: That’s okay, I’m gonna make really short work of this whole situation.
+AUSTIN (incredulous): Yeah?
+(NICK and DRE laugh)
+ART: Yeah. I’m gonna be out in ten minutes.
+AUSTIN: You only do two days, right?
+Ah, you should be on a blank page right now, you see that?
+ART: Mhm. Yeah, yeah.
+AUSTIN: Okay. So, uh, what’s the zoom level I want here. Roll20 is neat, but, sometimes weird.
+(NICK laughs)
+DRE: As are most handy things on the internet.
+AUSTIN: Yeah, exactly. Um, and kind of, picturing this going back up this way, and then… uh… there, oop that did not go as far as I wanted it to. So, it’s kind of a long rectangle, horizontally, is what I’m seeing. Man, this is— okay. Get rid of that. Okay. So. Long rectangle horizontally.
+On the, left side, which is where they’ve taken you, there are six cells, um. Three on the top side, three on the bottom side, why is this not doing the thing I want it to do,
+You guys are seeing this, right? Just want to be clear.
+ART: Yeah.
+AUSTIN: Okay.
+NICK: Yup.
+ART: Oh, and did they untie my hands, or are they just like.
+AUSTIN: Um, yeah. Yeah, they untied your hands once they threw you in there.
+ART: Sure. I mean, that hurts a little bit of my, my mystique coming up, but it’s okay.
+AUSTIN: You, right, your—
+ART: I’m gonna be out in two seconds.
+AUSTIN: (LOUD) Uh— (normal) hm. The other thing that they do is— Oh, that’s too many, that’s too many cells. Eh, fuck it, there’s eight cells. (laughs) There’s eight cells and two of them are empty. Doesn’t have to be one goblin per cell, that’s, that seems silly.
+(DRE laughs)
+ART: Yeah, what, they didn’t just happen to have the only empty cell.
+DRE: Pretty spacious accommodations.
+AUSTIN: Right, exactly, that’s really silly. Um. And then over here, on the right— so, so on the right side, it’s a long hallway that leads to a door, on the far right side, and you don’t know what’s beyond that door.
+ART: Sure, something worse.
+AUSTIN: So— Something worse.
+ART: Their, their slaughterhouse.
+AUSTIN: Right, and then at the top here, up here, are stairs. I’ll just freehand these stairs real quick. Hot stairs. (pause) Aw, these are shitty stairs. (ART: I’m not sure that’s—) Undo that.
+ART: That’s fine.
+DRE: You tried real hard, that’s what matters.
+AUSTIN: But— No, that’s even worse. Ah, whatever. That’s— These are stairs. Uh (NICK laughs) and then there’s—
+ART: That’s a—
+AUSTIN: (laughs) That’s a single stair.
+ART: And there’s more stairs going that way, yeah, I got it.
+AUSTIN: Yeah (DRE laughs). And then, back in this corner…
+[1:15:00]
+AUSTIN: …There is a desk and a man and a pair of keys. There’s always a desk and a man and a pair of keys. Um, and he’s kind of back in this recessed corner.
+NICK: I love that part of Bioshock.
+AUSTIN: (laughs) Yeah, exactly. And Art is in this one.
+ART: Oh. Okay.
+AUSTIN: And then, there’s goblins… there’s a goblin across from you, uh, big G, thatta G, there’s one next to you, big Geee (voice makes swooping inflection like it’s a question), uh. And then here, one two three, right there should be two empty ones, right? Yeah, okay. One here, one more.
+ART: Okay. So one horrible mistake, I made coming into this whole thing—
+AUSTIN: Right.
+ART: Uh, what here is evil?
+AUSTIN: Oh yeah, you should have asked that like, man, a long time ago.
+NICK: Yeah.
+ART: Yeah, it’s fine. I’m making up for lost time. I should’ve done both of these things.
+AUSTIN: Um, nothing in this space. No one here, no one in your immediate vicinity is evil.
+ART: That’s good to know. Next—
+AUSTIN: Um, including the guards, including like, yeah.
+ART: Yeah, they’re just following orders.
+AUSTIN: The— (amused) yeah. They’ve taken your armor, they’ve— your weapon was never even with you, here. (ART: Sure.) They didn’t even, um. And, they’ve taken your holy symbol from your hand.
+ART: It doesn’t matter. I’m a living holy symbol.
+AUSTIN: Sure.
+ART: The divine rushes through me.
+AUSTIN: Does it?
+(NICK starts to say something but stops)
+ART: Um, I mean, always, I am a, a fire hydrant of, (DRE bursts into laughter) (AUSTIN: Mm.) of divinity. (NICK laughs)
+AUSTIN: Okay.
+DRE: Can you add that into your name?
+ART: I wish I had come up with a period-appropriate reference, but uh.
+AUSTIN: Yeah, me too, okay.
+ART: We’ll figure something out.
+AUSTIN: Okay.
+DRE: Font of divinity.
+AUSTIN: Let’s go over to Throndir while you scheme, Art.
+ART: I mean, my scheme’s done, but yeah, go ahead.
+AUSTIN: Okay. (DRE laughs)
+DRE (in the background): Ah, stuck in here, ah—
+AUSTIN: Hadrian (he means Throndir), they similarly take your stuff from you, the difference is that like, they just go store it in another room. You’re in the like, council room, which you’re very familiar with, you’ve been here many a time as a boy, as a teen, as they started to inquire about your, your, or like as an elf teen, whatever age that is. (ART: Mmfh.)
+It’s the same as it ever was, which means a lot of waiting around. They kind of put you in a waiting room, um.
+DRE: At the elf DMV.
+AUSTIN: Right, exactly. Uh, and (DRE laughs quietly) I’m actually kind of picturing this as not a waiting room in the DMV sense, so much as like, a therapist waiting room, d’you know what I mean? Um, or like the room attached to a receptionist area, in a sense? Where like, the judge’s chamber would be behind that door, or something, or a governor’s room, or something? And you’re just kind of like, it’s a small room, there’s some wooden tables, there’s a fire in here, roaring, to keep you warm. Um. (DRE: Yeah.)
+And, uh, there’s no one else in this room with you, but the door is certainly locked. And this structure is a combination internally of like, very nice, smoothed, uh stone, lacquered wood, like, this place is rad compared to everywhere else. (DRE chuckles quietly)
+After… I mean, so, thirty minutes, are you doing anything? Are you just like, waiting patiently?
+DRE: Uh,
+AUSTIN: You’re still tied up, and stuff.
+DRE: Yeah. Can I try and loosen the bonds a little bit, like I don’t want to take them off.
+AUSTIN: Yeah, I think over that thirty minute period you can get it to where, um, you could break free, quickly. D’you know what I mean?
+DRE: Yeah, like, I don’t want to break free at that moment (AUSTIN: Yep) but I wanna be like, this is loose enough that if something happens, I can like (cross) break free pretty quick.
+AUSTIN (cross): If something— right. If something pops off. Yeah.
+Uh, after about thirty minutes of waiting here, the back door opens, and you’re brought into a long kind of council room. Like a, I’m picturing almost like a conference call center? Like a long table (DRE: Yup. Mhm), everyone’s kind of seated around. Um, and they… you’re seated in, a chair kind of surrounded by members of the council. Hey. Uh, Throndir. (DRE: Yeah) How old are you, actually?
+DRE: Uh, that’s a good question. So we said, that Fantasmo’s about a hundred?
+AUSTIN: Yeah.
+DRE: Um, I’m gonna say that Throndir’s about… sixty…?
+AUSTIN: Cool, what’s your father look like?
+DRE: Oh, man. Uh, I would say he’s probably, he’s a big stout man. (AUSTIN: Okay) He is, like— he is a man who grew up on a farm and (AUSTIN: Okay) always wanted to stay on a farm.
+AUSTIN: Okay. What’s his favorite color?
+(long pause)
+DRE: Purple.
+AUSTIN: Alright so, among the people seated here (the waves of Autumn not Winter start fading in), there’s seven or eight people here— one of them is your father, wearing very fine purple robes, (piano starts) something you could never imagine him wearing before, despite his love for purple. Um, he is seated kind of off to your left, at this long table.
+He’s definitely, his presence here, is official. He hasn’t been brought— this isn’t like, well, we called your dad, y’know, have a sit down (DRE laughs). Uh, the principal will be in—
+DRE: To the principal’s office.
+AUSTIN: Yeah, exactly, no this is like, he would be here no matter who it was. Um. But there is still a tension in the air because of who you are, and because of— (DRE: Yeah) because of who he is, um. But someone else speaks first.
+She is, she is getting up there in age, and she was in the room where you saw the other elves being tortured.
+AUSTIN (as ELF): What a surprise! Throndir. We thought you’d left us forever.
+(music finishes playing, waves fade out)
