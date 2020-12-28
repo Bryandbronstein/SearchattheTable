@@ -22,7 +22,7 @@ AUSTIN: Andrew Lee Swan.
 DRE: Hey, you can find me on Twitter @Swandre3000.
 
 
-AUSTIN: Sylvia[a] Clare.
+AUSTIN: Sylvia[1] Clare.
 
 
 SYLVIA: Hi, uh, you can find me on Twitter @captaintrash.
@@ -3051,4 +3051,5 @@ SAMOT: Good.
 [“THE KILLING OF THE KING-GOD SAMOTHES BY THE TRAITOR PRINCE MAELGWYN, OR THE MARIELDA SUITE” PLAYS OUT TO THE END]
 
 
-[a]The name in the audio recording is no longer in use.
+________________
+[1] The name in the audio is no longer in use, hence the audio/transcript discrepancy.

@@ -1,2873 +1,2233 @@
-﻿COUNTER/Weight 40: The Storm Over September
+﻿COUNTER/Weight 38: Found Footage
+
+
+Transcriber: Glen Campey (gmcampey/@campey_g)
+
+
+[00:00]
+ 
+AUSTIN (narrating): Nine months after The September Incident… After negotiations and debriefings; after concerts and confrontations; the future of The Righteous Vanguard had been determined.
+ 
+[MUSIC – The Long Way Around – begins]
+ 
+AUSTIN: It would happen tomorrow night: all pomp and theatrics. Aria Joie would lift her arm, bright and golden, say a few inspiring words, and then: the party would be hers. In some ways, it had been hers all along. That’s what Ibex said, anyway… Jacqui Green ran her fingers along her partner’s brilliant new limb.
+ 
+AUSTIN (as JACQUI GREEN): So… I have a question… Are you upset that… Paisley won’t be here?
+ 
+ALI (as ARIA JOIE): [scoffs] I’m more upset Jamil won’t come…
+ 
+JACQUI: I mean… she’s… just… [scoffs] that’s understandable, don’t you think?
+ 
+ARIA: No… I mean… why are you asking about Paisley?
+ 
+JACQUI: I just… you know… you… you saved him, on September, after he… Whatever he became… He’s not even a man anymore.
+ 
+ARIA: [sighs] he meant a lot to me once, and… I… It’s… my fault? So… I don’t know… I… couldn’t just leave him there; if there was a chance that I could have helped him, I would’ve…
+ 
+JACQUI: [sighs] I’m worried for you, Aria…
+ 
+ARIA: Why?
+ 
+JACQUI: You know you can’t save everybody, right?
+ 
+ARIA: Yeah, but I can try to…
+ 
+AUSTIN: She laughs.
+ 
+ [01:38]      
+        
+JACQUI: I thought that too, once… Anyway; good luck: I’ll be there for you.
+ 
+                ARIA: Thank you…
+ 
+AUSTIN: And she stands up, and walks out the door.
+ 
+[MUSIC ends]
+ 
+AUSTIN: Hey everybody, welcome to Friends at the Table, an actual play podcast focussed on critical worldbuilding, smart characterization, and fun interaction between good friends. We are presented by Streamfriends dot TV… nope! We are presented by streamfriends dot cool now, [Keith laughs] because we lost Streamfriends dot TV…
+ 
+ALI: Hmm-hmm…
+ 
+AUSTIN: By we, I mean… Streamfriends… [scoffs] Streamfriends is complicated… And Runbutton dot net.
+ 
+KEITH: Hi; Runbutton’s not complicated! [Ali laughs] It’s very stable; check us out.
+ 
+AUSTIN: Contentburger dot biz…
+ 
+ART: I hear it’s Runbutton dot coffee now? Go there for… [Ali and Austin laugh]
+ 
+AUSTIN: That sounds OK…
+ 
+KEITH: Runbutton dot coffee does sound pretty good… Find some guy… Giant Bomb has all that hot custom beer; I should get roasting some nice… Runbutton Beans.
+ 
+AUSTIN: Yeah… Runbutton Beans! That sounds OK! We are playing The Sprawl by Hamish Cameron, welcome back to Ali, Art, Keith, and Jack.
+ 
+ART: Hey.
+ 
+ALI and JACK together: Hi.
+ 
+AUSTIN: It has been a while since we played: we had a Faction Game, and I did a weird… short story game… where I just read some short story I wrote? It’s not really a game… It’s just, kind of, me reading short stories… [Jack laughs].
+ 
+ART: Yeah, sorry about that guys…
+[03:02]
+ 
+AUSTIN: Naah, it’s OK: it was me too, so… The Agenda for today is: to make The Sprawl dirty, hi-tech, and excessive; to make the big things bigger, and the small things smaller; to fill the characters’ lives with action, intrigue, and complication; to entangle them in The Sprawl; and to play to find out what happens. Your personal directives, cos it’s been a while… Aria: When you value heroism over the mission, mark experience; when your desire for fame draws unwanted attention to the mission, mark experience. AuDy: when you discover more information about the cause of your sentience, mark experience; When you continually broaden horizons, look for hidden… Oh… Continually broaden horizons, look for hidden things, cultivate saplings… when these hinder the mission, mark experience. Cass: when your former membership in the Apostolosion royalty hinders the mission, mark experience; and when you harm a Divine or their interests, mark experience. And Mako… Deceptive: when your smart-ass mouth… that’s not deceptive at all! Just, in general… is that still the thing? When your smart-ass mouth ruins the mission, mark experience?
+ 
+KEITH: Yeah, yeah…
+ 
+AUSTIN: OK… And when you take something The September Institute wants, mark experience. Your mission directives are: You took experience when you took the job? When you gain actionable information on Rigour, take XP; when you locate and secure Maryland September, take XP; and if every member of The Kingdom Come leaves September alive, take two XP: and when you get paid, take XP… and then you’re gonna get rich from this, if I remember correctly… At least; that was the promise that Ibex made you. When we last left off… it was pouring close to Maryland’s cabin in the woods, but it was a beautiful day throughout the rest of Mode City. So… Aria, you dropped Paisley off at the hospital, where he’s being taken care of; Mako you’ve recently discovered that an old classmate of yours, Maritime Lapel [raucous laughter from Art], was found dead… Do you not remember her name was Maritime Lapel?
+ 
+ART (overlapping): I’d forgotten that name; oh my god!
+ 
+ALI and KEITH: [inaudible comments regarding Maritime Lapel’s name].
+ 
+AUSTIN: It’s so good… Maritime Lapel… was found dead months after you left The September Institute.
+ 
+KEITH: And I had seen her…
+ 
+________________
+
+
+[05:09]
+
+
+AUSTIN: You saw her just walking through… yeah; from your, like… bedroom window… from your dorm room window. She is, umm… just to re-paint that picture of her… Deep brown eyes; dark shoulder-length hair, with, like… streaks of grey and white; kind of world-weary look to her? But like… not too good for anybody, do you know what I mean? Like… she isn’t… it isn’t that she’s like… “Ugh… everyone here is beneath me…” It’s just, like… she isn’t super interested? She’s never been super interested in, like… the day-to-day goings on? She’s always been, like… head in the clouds a little bit?
+ 
+KEITH: Right…
+ 
+AUSTIN: But, like: head in the clouds in a real depressed way.
+ 
+KEITH: You’re talking about ennui?
+ 
+AUSTIN: Hmm-hmm…
+ 
+KEITH: Well then, I guess I’ve gotta stop studying and go find her; this takes precedence over my final [Jack laughs].
+ 
+AUSTIN: Yeah, yeah… And you’re very much existing, at this point, in this strange state, of like… knowing that, at least some of this, isn’t quite real, but also still feeling the pull of it? I think I described it as being similar to the time that you were in Order that time? Of just, like…  “Oh! I want to just do the thing! I just have to do the thing that it wants me to do, because that’s the thing I’m supposed to be doing.” But you’re a little bit more in control here, and you can, like… just… you can keep it together a little bit, at least.
+ 
+KEITH: Got it…
+ 
+AUSTIN: So I think you were... looking at the map, you were in House Rosemoon, here. And Aria; you were leaving the University Hospital, here… A real convenient thing I can do, as a GM, is just “Oh! Also… you see Aria, Mako!” And she is kitted-out in… in… her… her… House Blueworld seafoam uniform.
+ 
+KEITH: OK… uhh…
+ 
+                KEITH (as MAKO TRIG): Why aren’t you studying?
+ 
+AUSTIN: Good… good! [Ali laughs]
+ 
+                ALI (as ARIA JOIE): What?
+ 
+[07:02]
+        
+MAKO: We should all be studying!
+ 
+ARIA (confused): [stumbles] I just bought Paisley to the hospital, what are you talking about?
+ 
+MAKO (slowly and impatiently}: For the Finals? [Art and Austin laugh].
+ 
+ARIA: Mako, are you OK?
+ 
+MAKO: Yeah, we got… I was studying for the Finals, like you’re supposed to be doing, and then I remembered that… my friend might be dead, so I had to make sure that she’s OK…
+ 
+ARIA: Wait, wait… Who might be dead?
+ 
+MAKO: This girl that I went to school with? She died after I left, uhh… So I had to make sure that she’s still alive, so that we can…
+ 
+ARIA: You just said that she was dea… wait: who?
+ 
+MAKO: Maritime Lapel? [Austin laughs].
+ 
+ARIA: Wait… I just spoke to her.
+ 
+                MAKO: Yeah; she… I think that she might have died…
+ 
+AUSTIN: Oh right! Cos she ratted… That’s what happened: I just remembered the thing that specifically happened… Was she the one? She helped you carry Paisley…
+ 
+ALI: Yes…
+ 
+AUSTIN: And then also told C-Sec… that someone had been shot; right?
+ 
+Ali: RIght… Yes.
+ 
+AUSTIN: Correct. OK; good… Which is why campus is on lockdown, currently.
+ 
+ALI: OK…
+ 
+AUSTIN: It has been… it has been... over a month since we last recorded, so apologies… [Ali laughs].
+[08:12] 
 
 
-Transcriber: Cy @vlasdygoth
+MAKO: Yeah, so… I’ve gotta … I’ve gotta go find Maritime to make sure that she didn’t die when I went here years ago, so that I can go back to studying for my Final.
+ 
+AUSTIN (sympathetically): Oh Mako…
+ 
+ARIA: Umm… Well I came here to find you… cos this is really weird… And also… OK… We should find her? I guess; yeah… Let’s go do that…
+ 
+MAKO (Overlapping): Yeah, OK…
+ 
+AUSTIN: I’m trying to think how you would find her? Like… what’s your… how are you looking for her?
+ 
+KEITH: Well… it’s Finals week, so she might be in the Library…
+ 
+AUSTIN: That’s a good… that’s a good pick. You know; I’m gonna give this one to you, cos that’s where she is [Ali, Jack, and Keith laugh]. That is, in my head, where she was gonna go next… And you both know her; so… you know… it’s… she has a little alcove that she goes to on the seventh floor of the Library that’s just, like… what’s a really boring subject? Cos that’s the floor that the seventh floor is, like… no one is ever there…
+ 
+KEITH: Umm…
+ 
+JACK: Accountancy. 
 
 
-AUSTIN: 44 months after the September Incident. Chief Emergency Executive Orth Godlove slides calmly across the temple floor, stepping between broken columns of polished sandstone and wading, carefully, in the shadows of sullen statues. He’d snuck away from so much; his security detail, the photo drones, the EarthHome megastar assigned to be his guide during his visit. The entertainment company, still struggling in the years since Petrichor’s hostile takeover, had petitioned him to come see their new and improved Joypark, a last ditch attempt to get in his good graces. But Orth had made up his mind years ago.
+AUSTIN: It’s accountancy; the Accountancy Floor [laughs]. Which is weird, like… “robots just do that for us now... why do we…?” “Well… we’ve gotta keep a library; we can’t get rid of these books, so…” Maybe it’s not actually books at all.. It’s probably just lots of little…
 
 
-AUSTIN (as Orth): Come on, Cass. You know I don’t have all day for this.
-ART (as Cass): You’re not the only busy person here, Orth.
-AUSTIN (as Orth): Good to see you.
-ART (as Cass): Good to see you.
+KEITH (overlapping): Wall-to-wall full of Kindles?
 
 
-AUSTIN: He looks around, at the ruined temple.
+AUSTIN (laughing): Yeah; it’s wall-to-wall full of Kindles… [Ali laughs]. 
 
 
-AUSTIN (as Orth): It’s beautiful here. I’m sorry we—  war is terrible, but this is… this is something else entirely.
-ART (as Cass): I don’t think it is, I think this is just a terrible consequence of a terrible war. 
+KEITH: But each Kindle is a designated book… You can’t... In the future, each one has its own control.
 
 
-AUSTIN: He grins.
+________________
 
 
-AUSTIN: (as Orth): You are a very and noble and humble leader, Apokine.
+[09:35]
 
 
-[MUSIC: -​.​-​- -​-​- .​.​- .​-​. / .​-​- -​-​- .​-​. .​.​. - / -​.​. .- -​.​-​- .​.​. ]
+AUSTIN (overlapping - laughing): That’s very inefficient! [Jack laughs]. It’s probably lots of, like… very specific… it’s probably just, like… server banks… through the whole thing? And they are organised, still, by subject? And… and... if you want to go and consult with one of, like... the virtual intelligences, like… the kind of, like… recorded… things that we’ve been seeing throughout the entire season, of just like… “Oh! This is a waitress!” Like… it’s still those… as librarians of different subsections? The accountancy ones are just great, let me tell you… Real… real interesting people. So yeah… you know that she studies up there. And I think you just… you probably just find her… I think her shoes are off, and she’s resting her legs on a chair that she’s pulled over as, like… a makeshift otteman… and she has a couple of screens up around her, like… and she’s reading from a couple of different sources at once… She doesn’t even see you coming up.
 
 
-AUSTIN: And he does a little fake bow.
+        MAKO: He… Hey!
 
 
-[Art, as Cass, laughs.]
-AUSTIN (as Orth): Anyway, I have the paperwork. It’s all settled. A couple of signatures… stamps, I don’t know what you all use.
-ART (as Cass): We sign our names in Apostolos too, Orth. 
+        (AUSTIN as MARITIME LAPEL): Mako? Wha… Aria? Hey! Hi!
 
 
-AUSTIN: He reaches into an inside pocket and pulls out a couple of papers and hands them over to you.
+        ARIA: Hey…
 
 
-ART (as Cass): I’m so relieved there’s not gonna be a big ceremony, I’m so tired of ceremony at this point.
-AUSTIN (as Orth): It’s the worst, isn’t it? It’s nice to be able to make things better, but… sometimes I think the pomp gets in the way. 
-ART (as Cass): Yeah. 
-AUSTIN (as Orth): Anyway. It’s yours. 
-ART (as Cass): [sigh] What a— what a project.
-AUSTIN (as Orth): Good luck. There’s a lot of garbage on this planet, needs cleaning up.
-ART (as Cass): Do you happen to have a forwarding address for, for Aria? I think... I think she’d like some of all this stuff.
+        MARITIME: How’s it going?
 
 
-[MUSIC fades out.]
+        MAKO: I’m sorry… I wanted to check you were OK.
 
 
-AUSTIN: So, Rigour? Huh. Where is everyone?
+        MARITIME (overlapping, to Aria): Is your friend OK?
 
 
-KEITH: Uh—
+        ARIA: Umm, yeah… he should be fine…
 
 
-ART: In the warehouse.
+        MARITIME: That was scary!
 
 
-AUSTIN: Good.
+        ARIA: Yeah…
 
 
-[Ali sighs]
+        MARITIME: I don’t know about this place sometimes…
 
 
-AUSTIN: AuDy is ne—
+        ARIA: Me neither…
 
 
-JACK: [cross] Outside the warehouse. 
+        MAKO: Anyway, speaking about it… I read a thing that said you had died! 
 
 
-AUSTIN: Yep. And—
+        MARITIME (laughing): Excuse me?!
 
 
-KEITH: [cross] Outside the Pavilion. 
+        MAKO: Yeah, I saw a thing…
 
 
-AUSTIN: Well, one of you is, the other of you chased Maritime to like, here. 
+        ARIA: Mako!
 
 
-KEITH: Right.
+[10:59]
 
 
-AUSTIN: Where she was shot and killed.
+MAKO: After I left… the school… I read a thing that said, a few weeks after that, that you had died… So; I was studying for my finals…
 
 
-ALI: Right. 
+MARITIME: Mako, have you been hanging out with Ted?
 
 
-AUSTIN: And then… Rigour is somewhere here? And up is, it’s… Rigour is very big.
+MAKO: Ted? Not… more than usual… [Ali laughs].
 
 
-KEITH: Sorry, where?
+MARITIME: Well, I’m fine… OK? Just… I’m fine. 
 
 
-AUSTIN: North? It’s the north.
+MAKO: OK…
 
 
-KEITH: Okay.
+MARITIME: Let me study. 
 
 
-AUSTIN: Like… Like, there is no more Bacchus Biotech Recreational District. 
+ARIA: Wait; how… how do we know each other?
 
 
-ALI: Oh, the mall!
+MARITIME: What? What are you…? Rude… We auditioned together…
 
 
-AUSTIN: There is no more, there is no more Slate Mineral Cooperative. 
+KEITH: They’re in the same house?
 
 
-ALI: Shucks.
+AUSTIN: Yeah… we’re in the same house: out of character: they’re in the same house. But yeah, she says:
 
 
-AUSTIN: Yeah.
+MARITIME: Rude… We’ve been friends ever since we auditioned together; since the first week at school. I’m… kind of mad that you forgot that.
 
 
-KEITH: Can I, can I, can I reach out to it?
+        ARIA (overlapping): I’m sorry…
 
 
-AUSTIN: Oh, buddy.
+        MAKO: Yeah, Aria… that’s super cold.
 
 
-ART: [cross]  That sounds like a terrible idea, Jesus Christ. 
+        MARITIME: Thanks... 
 
 
-KEITH: I don’t want it to know I’m there, I just wanted to see what’s going on.
+        ARIA: I’m s… I don’t think…
 
 
-AUSTIN: You wanna— yeah, so what do you wanna feel for, what’s your question?
+        MARITIME: Are you two OK?
 
 
-KEITH: I… I wanna feel for… I guess this is, this is a decision that is, I think, mired in not understanding what’s… the depth and the seriousness of what Rigour is? But I guess I wanna search for like… a motive? 
+        MAKO: Yeah, I just needed to… I just really feel like I have to get back to studying.
 
 
-AUSTIN: Sure. You— Let me look at the assess questions and see if there’s anything there that could give you that, because that is a thing that it has. It has a motive.
+        MARITIME: Alright, well…
 
 
-ART: Is Rigour in between us and the Kingdom Come? Isn’t the Kingdom Come up here?
+        ARIA: Mako, we don’t have a test.
+[12:03]
 
 
-AUSTIN: Sure. Sure is.
+        MAKO: What are you talking about?
 
 
-KEITH: Yeah. Yeah yeah yeah. 
+ARIA: We have, like, a mission that we have to do: Cass and AuDy are waiting for us? Do you remember Cass and AuDy?
 
 
-AUSTIN: Let me look at Assess really quick. … Yeah, you give me an Assess.
+MAKO: Yeah, we were going to meet them in the library after I’d finished studying [Austin laughs].
 
 
-KEITH: Okay. Guys, I’m not good at assess, so.
+ARIA: No…
 
 
-AUSTIN: That’s good!
+MAKO: So… you’re saying that they’re here already?
 
 
-KEITH: [cross] Do I still have that whole one going forwards? Plus one? That’s research, that’s research.
+ARIA (laughing): No! They’re, like… off campus.
 
 
-AUSTIN: From what? That’s research, no, yeah.
+MAKO: Why? There’s, like… a test... tomorrow.
 
 
-KEITH: [whistles] Alright, here we go.
+ARIA (slowly): We’re not students!
 
 
-AUSTIN: Eh, partial, partial success.
+MAKO: Well, if we’re not students, then how would I know that she was going to die after I gradua…. Whoooa! [Ali and others laugh].
 
 
-KEITH: Okay.
+MARITIME: I’m gonna go… You’re… I’m trying to study… And this isn’t… you’re both scaring me; a lot.
 
 
-AUSTIN: So, yeah, it sounds like what you’re asking me is, is “What do I notice despite an effort to conceal it?” It wants control of Voice. 
+AUSTIN: And she, like… hits a few buttons, and her screens, like… her screens fold down into each other, and then, like… go into a little… like a zip-lock bag that she closes and puts into her back pocket [Keith laughs].
 
 
-KEITH: Okay.
-
-
-AUSTIN: It’s just kind of… So it’s not so much that the— It doesn’t vocalize that in any way. When you like, reach out for it… you can feel its intensity is directed, and it’s directed towards the September Institute, and towards like, the Mesh around the September Institute, which is held together by Voice. There’s a moment where it reaches up from the ground and breaks its hand through the kind of holographic glass ceiling above everything, letting more rain in and it grabs one of the ships out of the air and slams it down into the September Institute, setting the undergraduate, that—  this whole southwestern area, which is like, very close to y’all, is just destroyed and on fire. Reminder, those ships were like in low orbit, you know?
-
-
-KEITH: [sighs] Yeah. That’s bad, because that means this thing is really tall. 
-
-
-AUSTIN: It’s very tall.
-
-
-KEITH: I’m gonna get on my board.
-
-
-AUSTIN: Good call.
-
-
-ALI: Huh—
-
-
-AUSTIN: Sure. 
-
-
-KEITH: How fast is Rigour?
-
-
-ALI (as Aria): [cross] Mako, where you goin’?
-
-
-AUSTIN: Yeah, Aria, Mako’s on his board?
-
-
-ALI (as Aria): Hey, hey Mako?
-KEITH (as Mako): Hey, hey yeah? 
-ALI (as Aria): Where you going?
-KEITH (as Mako): Oh sorry, I just got really focused and I was gonna like jet towards it. Is that not good?
-
-
-AUSTIN: Oh my God.
-
-
-ALI (as Aria): Oh, w— We should jet towards our friends?
-KEITH (as Mako): I guess that’s a good point, I think that I, I thought I was just gonna take it down, I think we should go to our friends first.
-ALI (as Aria): Mako—
-KEITH (as Mako): Yeah?
-ALI (as Aria): Mako, we gotta go.
-KEITH (as Mako): Okay.
-
-
-AUSTIN: AuDy and Cass—
-
-
-KEITH: Wait, hold on, is Tower okay? 
-
-
-AUSTIN: You don’t know where Tower is. Tower was looking at the Ordennan ships the last time you looked. 
-
-
-JACK: What are the people doing? 
-
-
-AUSTIN: Which people?
-
-
-JACK: The real, living— the people.
-
-
-AUSTIN: Where? Near you, it’s just— 
-
-
-JACK: On campus, I mean, just on campus.
-
-
-AUSTIN: No one’s on campus now to see.
-
-
-JACK: [sputters] Sorry?
-
-
-AUSTIN: No one, none of the players are on campus right now.
-
-
-JACK: No, I mean— Oh, so you can’t tell us? I just meant like, NPCs. 
-
-
-AUSTIN: [cross] I’m not gonna tell you. No, I’m not— 
-
-
-JACK: [cross] Okay, bad things.
-
-
-AUSTIN: Twelfth is very excited, and very stupid. 
-
-
-JACK: Yeah. [laughs] And he’s also in control of a divine!
-
-
-[Ali hums]
-
-
-AUSTIN: Yes. 
-
-
-JACK: Oh God, okay.
-
-
-AUSTIN: Thinks— thinks he is, anyway. 
-
-
-JACK: Yeah. Mm—
-
-
-[pause]
-
-
-ART: Ah… oh, fuck. 
-
-
-JACK: How far are we from Kingdom Come? Or, do we— The Kingdom Come might just not exist anymore, right? 
-
-
-AUSTIN: The Kingdom Come has not been destroyed.
-
-
-JACK: Okay.
-
-
-AUSTIN: You can sense it still. It’s buried pretty deep underground, part of its safety mechanism?
-
-
-JACK: [laughs] Our ship has a safety mechanism that buries itself?
-
-
-AUSTIN: No, no, that base that you were landed at. 
-
-
-JACK: Oh, oh I see! Okay, sorry.
-
-
-KEITH: [laughs] Oh, Jack, did you think that Rigour buried it when he* exploded from the earth? 
-
-
-JACK: Yeah, I thought that there had just been just like gigantic movement of earth and trees, or whatever, that had…
-
-
-KEITH: Okay.
-
-
-JACK: Okay, so… do we wanna try and circle up round up the left of the map to try and get to it?
-
-
-ART: That’s certainly an id— I’m worried that using this mech will, will draw an awful lot of attention, and also I’m not super interested in leaving this here.
-
-
-AUSTIN: The mech?
-
-
-ART: Yeah.
-
-
-AUSTIN: Yeah. 
-
-
-JACK: Hm.
-
-
-AUSTIN: The mech is bigger than the Kingdom Come, by the way. 
-
-
-ART: Do I think it can, it can, can it get off world? Is it interstellar? 
-
-
-AUSTIN: So you got into it, right? Yeah, it could…
-
-
-ART: [cross] Yeah.
-
-
-AUSTIN: It’s like a divine. It’s like a divine in a lot of ways, and it actually probably makes you feel super uncomfortable.
-
-
-ART: I, yeah.
-
-
-AUSTIN: I guess that’s up to you to decide, not me.
-
-
-ART: This is an important cultural artefact that I’m not gonna leave on this planet with Rigour, God! I’m pissed at Maryland. 
-
-
-AUSTIN: [cross] Yes, Yeah. You lift yourself— you’re able to lift yourself out of that warehouse, very easily. And like lift like… as if flying, but without any clear mode of lift, without any clear, like engines or anything. 
-
-
-ART: [cross] Sure.
-
-
-AUSTIN: You just kind of hover, off your back, arms hanging down, up through the top of the warehouse. And like, you push through it like it’s papier-mache.
-
-
-[Art hums]
-
-
-AUSTIN: AuDy, above you there’s a giant statue man. [laughter] I think it probably has like— I guess in my head it’s like… a face with a beard and then like, a plumed helmet. It has like, some weird like, spear, javelin things on its back, and like a shield on its arm. I think it has like a— not metallic, like a marbled, it’s all a weird marble-y metal. But like, it has kind of a long skirt, that is… it looks like it’s armored, like an armored skirt, basically? But it basically looks like a big— it looks more human than a lot of the other robots we’ve seen, a lot of the other mechs we’ve seen. 
-
-
-JACK (as AuDy): Cass.
-ART (as Cass): Yeah?
-JACK (as AuDy): Is this maybe the time to kidnap Maryland? 
-ART (as Cass): Oh, I don’t know that we need her anymore? 
-JACK (as AuDy): Okay, so we’re just— we’re just going.
-ART (as Cass): I think we should— 
-
-
-KEITH: [cross] You should maybe just re-ask her, like “Hey do you still think we’ve still got this?”
-
-
-[Ali giggles]
-
-
-JACK: Oh, that’s a really good question!
-
-
-ART: Yeah, maybe that’s not a bad idea, does she still wanna stay?
-
-
-JACK: [laughing] That’s a good question!
-
-
-ART: It sucks here now.
-
-
-JACK: No, actually, she said she’d be happy to die on her home. She’s not coming.
-
-
-ALI: [cross] Yeah.
-
-
-KEITH: But I don’t think she believed you when you said ‘tomorrow’?
-
-
-JACK: [cross] Well, she does now.
-
-
-KEITH: So, definitely today is out of the question. When you said ‘tomorrow’, you meant 
-‘in ten minutes’. 
-
-
-JACK: [cross]  Well I don’t know how we— 
-
-
-ART: You can offer again. 
-
-
-JACK: No, she’s gonna stay, it’s— she’s done. Like...
-
-
-AUSTIN: She’s sca— I think Cass can see her. And she just like looks at Cass and says:
-
-
-AUSTIN (as Maryland): The dawn will rise soon. 
-
-
-AUSTIN: And walks away.
-
-
-KEITH: That’s not helpful enough, Maryland. 
-
-
-ART: Yeah, that’s, that’s… what?
-
-
-ALI: Guys, come on. 
-
-
-AUSTIN: Thanks Ali. Ali, you cut this show together, so you’re the only one who really remembers things.
-
-
-ALI: Well, that’s also what Jamil said.
-
-
-AUSTIN: It is. 
-
-
-JACK: Okay, so. 
-
-
-JACK (as AuDy): Cass, do you want to try and draw off Rigour? Or do we wanna  just... go?
-ART (as Cass): We could, we could very quickly discover that to Rigour, this is tissue paper. I could try to distract Rigour and it could last ten seconds. 
-JACK (as AuDy): Yeah.
-ART (as Cass): Okay, just so we’re clear.
-
-
-ART: How, how strong is this? Like, what— what’s in here?
-
-
-AUSTIN: It’s hard to know.
-
-
-ART: What’s my HUD look like?
-
-
-AUSTIN: It’s something you feel, there is no HUD. It’s like, it’s— you know how far you can go, you know how much energy you have left. It’s like your body. Like… what, what’s the head’s up display for your body? The user interface in this is really well integrated. 
-
-
-ART: Okay, how strong do I feel?
-
-
-AUSTIN: The strongest you’ve ever felt in your life. … But like, what’s that mean?
-
-
-ART: I mean, it’s, I’m, it’s something.
-
-
-AUSTIN: Right.
-
-
-ART: Can I… Can I transmit?
-
-
-AUSTIN: Sure. 
-
-
-ART: Can I transmit to… to Sokrates?
+KEITH: Can I… um… can I do an Assess roll?
 
 
 AUSTIN: Totally.
 
 
-ART: This says it’s the will of the people.
+KEITH: OK… [pause] I would like to know… 
 
 
-AUSTIN: Totally. Sokrates sits in the throne back on Apostolos, so yes.
+AUSTIN: Roll it first so we know how many things… you get.
 
 
-ART (as Cass): Sokrates, I’ve— I have it.
-AUSTIN (as Sokrates): Bring it home.
-ART (as Cass): Rigour’s here. Rigour’s between me and home.
-AUSTIN (as Sokrates): Cass… I can’t lose another one of you. I can’t lose….
-ART (as Cass): I’m— I’m sorry. I’m sorry that we weren’t a better family. 
-AUSTIN (as Sokrates): I love you.
-ART (as Cass): I love you.
+KEITH: OK.
 
 
-AUSTIN: In their throne room, I think Sokrates, like, does the like, lean forward and like, rest their head on their hands and thinks hard about what Ibex requested. And then, like, nods to themselves and hits a couple of buttons. And like, a holographic map on the table in front of them lights up and ships start moving towards Counterweight. 
+AUSTIN: Roll Edge.
 
 
-ART: Cass salutes. And says…
+KEITH: Edge, yeah…
+[13:12]
 
 
-AUSTIN: Is that salute like a cool like, spear in the air and chest thing?
+AUSTIN: Unless you have a thing that changes that. Boom! Take three hold.So this edge is… so you’re sizing her up? Are you studying a person, place, or situation? So… are you studying her? Are you studying the library? Are you studying this specific encounter?
 
 
-ART: I think it is, I think it is, it’s kind of like—
+KEITH: For my first hold, I am studying…
 
 
-AUSTIN: And I know we’ve been saying they’re Greek, but now it’s Roman. It’s just Classical.
+AUSTIN: It is… it is the same… you have to study the same one thing.
 
 
-ART: Yeah. It’s been so long, no one knows, and it’s all lies.
+KEITH: Oh, for all three?
 
 
-[laughter]
+AUSTIN: Yeah, and then you can ask questions about that thing. The reason I ask this is because, like… if it’s about her, then you can hold that… hold for a future scene? Whereas, if it’s just about this situation? Then once you leave this situation it will go away. 
 
 
-ART (as Cass): I’m gonna do my best. I'll see you soon.
+KEITH: I’m gonna do… I’m gonna do the situation.
 
 
-AUSTIN: Sokrates, like, nods to themselves and says:
+AUSTIN: OK. So go ahead and… three questions, then. Three hold.
 
 
-AUSTIN (as Sokrates): See you.
+KEITH: What do I notice despite an effort to conceal it?
 
 
-AUSTIN: And then we get the shot of Integrity… closing up around Sokrates’ body and them standing and turning to walk out into the sunlight on Apostolos. And then probably just like, throngs of people… and they just say like:
-        
-        AUSTIN (as Sokrates): My people!
+AUSTIN: [pause] can we… let’s wrap back around to that for dramatic reasons [quiet background laughter].
 
 
-AUSTIN: And then we cut back to… Aria, what are you doing?
+KEITH: OK. Then, instead… I want to know… What potential complication do I need to be wary of?
 
 
-ALI: I know we’ve been in the storm forever, but… Is, like, are our signals still fucked up? Like would I have a connection to the Brilliance?
+AUSTIN: [pause] you get the sense that… in… if this… things are playing out according to some… some… history? Some past?
 
 
-AUSTIN: Sure. It’s still fucked up, but it exists. 
+KEITH: yeah…
 
 
-ALI: Okay...
+AUSTIN: And tinkering with that could… mess up wi… mess up the, sort of… machine that’s at work. It could set things off balance? So that’s a risk… it might be a risk that you’re willing, or that’s necessary… that you’re willing to take, or that you think is necessary to take. But you get the… you get the sense that, like… the way she’s reacting? It’s almost like you can hear the computer thinking. Instead of… when she normally talks, It plays out as if it was an easy answer for… for… her to arrive at.
 
 
-AUSTIN: You’re in that moment between the smaller— as the smaller storm ends and the bigger storm is arriving. So yeah, things are cleared up a little bit.
+KEITH: Then, uhh… who or what is in control here?
 
 
-ALI: I wanna like, call it to me?
 
 
-AUSTIN: Okay.
+[15:15]
 
 
-ALI: It’ll probably take a while before it gets here, but like—
+AUSTIN (slowly): She is… But she isn’t alone? Like… she’s in control of herself. But there is a second presence there that you don’t have direct access to. You can tell… it reminds you of when AuDy checks… checks... their data banks for something.
 
 
-AUSTIN: Yeah. Yeah.
+KEITH: OK.
 
 
-ALI: That’s kinda what I wanna do? And then did Mako actually fly away, or are we going towards…
+AUSTIN: That’s the impression you get. Now… the thing that you notice despite… efforts to conceal it is… it’s like… out of the corner of your eye that you spot it first, which is… you see… her walking past you, while she’s also in front of you. She’s a little out of focus, and she’s carrying her books… and then, she’s in the elevator at the end of the hall, and she’s going down, and you get… you suddenly realise that this is her at different times? And… that if you… that if you touch The Mesh just right… you could scrub through history here, as if it were... a videotape.
 
 
-AUSTIN: It sounds like you were heading— It sounded like Mako did not fly away?
+KEITH (lightly): OK… Then… can I… Jack In? 
 
-KEITH: No, I did not fly away.
 
+AUSTIN: Totally…
 
-AUSTIN: It sounded like you caught him and said like, “Hey, no. Don’t.”
 
+KEITH: OK… [adopts sing-song tone] I am going to do that… And to do that, I roll this one… this button here…
 
-ALI: So, we should go towards where we know AuDy… or where we think AuDy and Cass— Or…
 
+AUSTIN: That was a lot of… that was a lot of noises [Ali laughs]. That’s an eight. Are you going to do the thing that you always do? Which is… you’ve jacked in, and then… you can roll… because you rolled an eight, I get to activate a thing? But then you’re gonna roll Console Cowboy…
 
-AUSTIN: Yeah.
 
+KEITH: Right... 
 
-ALI: Yeah.
 
+AUSTIN: So do that; so roll your Console Cowboy… you also get an eight, so then you’re going to immediately spend that to stop the…
 
-AUSTIN: You know where— You know basically…
 
+KEITH: Yeah; please don’t do the ICE, please… 
 
-ALI: Right, yeah.
 
+AUSTIN: Please don’t do the ICE, OK… [pause] So I think jacking in here… again; all of the campus has this… the whole, like… multiple levels of different… Mesh visualisations happening? But because you’re in the mode you’re in now, everything just gets that really good, like… slight static-y look? As if it were a videotape. Everything becomes, kind of, holographic, except, I think, you and Aria. And… No; just you and Aria are the only ones who… who… seem to still have a physicality. Even some of the tables and chairs look like… there’s a couple of times that you can see a chair? And then you can see another holographic chair right next to it? 
 
-AUSTIN: Oh, I mean also, hey, there’s a big man standing in the woods!
 
+[17:40]
 
-[laughter]
 
+AUSTIN (continued): Or like… like… overlapping with it? From when… from, like... the moment when you’re zipped in… kind of… plugged into… in history, here. And now you can… I’d say… give me a Manipulate Systems if you want to… kind of, scrub back and forward through time here. 
 
-ALI: Oh, right! Okay, yeah.
 
+KEITH: That I definitely do… I also have… the thing that gives me extra hold when I…
 
-AUSTIN: You can see that! 
 
+AUSTIN (overlapping): Oh! Don’t do Manipulate Systems at all, I’m just gonna let you use the Research move, and then take plus one ongoing to that, because of… because of Sift.
 
-ALI: We can.
 
+KEITH: OK... Wait… what is Sift?
 
-AUSTIN: Like, in fact, in fact, I think it… the way you see it is that some of the big tall holographic stuff like, disappears to reveal much shorter buildings? And oh, there’s just a big marble man back there. Good!
 
+AUSTIN: It’s a… that’s a program that you run? That gives you plus one ongoing to Research in a secure database.
 
-KEITH (as Mako): I hope that’s a friend, let’s go!
 
+KEITH (overlapping): Oh! Right, OK... I didn’t know the name of it… didn’t know the name of Sift.
 
-[Ali laughs]
 
+AUSTIN: So, if you want to Research… If you want to ask questions from the Research thing… you can do that. And now that you’re jacked in here? You can continue doing that, until you like… fuck up and draw some attention, you know…
 
-KEITH (as Mako): If not, at least we should attack the smaller man first. 
 
+KEITH: OK… And I’m still asking questions about this specific situation? 
 
-AUSTIN: Right, good. AuDy?
 
+AUSTIN: Uh, no… this is now: “When you investigate a person, place, or object, or service, using a library, dossier, or database, or combination of them, ask a question from the list below and roll Mind.” But now you’re jacked in, this is just a thing that you can do… I’m just giving you this for the rest of the episode? With regards to stuff at September, that you can look… that you can, kind of, like… move through in this way. In this timeline way. 
 
-JACK: [groans] I can’t remote pilot the Kingdom Come.
 
+KEITH: OK…
 
-AUSTIN: No.
 
+AUSTIN: It’s in the Basic Moves list. 
 
-JACK: Especially since it’s in a building.
 
+KEITH: Oh, OK, I see it.. .sorry: you were saying Research, and I was hearing Assess…
 
-AUSTIN: Yeah, well.
 
+AUSTIN: OK; gotcha.
 
-JACK: You said that those buildings where the tunnel was are gone now?
 
+KEITH: OK, so I guess I’m going to use one now… 
 
-AUSTIN: Oh yeah, they’re flattened.
 
+AUSTIN: Go for it…
 
-JACK: How do I access the building?
 
+[19:18]
 
-AUSTIN: You’d have to go to where it actually is in the woods, where you first landed.
 
+KEITH: Yeah, ummm…
 
-JACK: Okay. 
 
+AUSTIN: So you have a plus one to it no matter what, but you still have to do a roll for Research. 
 
-JACK (as AuDy): Cass, what are you doing?
-ART (as Cass): I’m gonna go try something. If you want a, if you want a ride, I can give it to you, probably, who knows?
-JACK (as AuDy): Yeah, alright. Okay.
 
+KEITH: OK.
 
-AUSTIN: Alright, I think there’s probably a compartment, for like, people? It’s like— 
 
+AUSTIN: It’s just that I’m giving you this as a database that you have access to: that make sense?
 
-ART: And just to be clear, we don’t have— It’s not a literal divine, we can’t, we can’t use that.
 
+KEITH: Yeah, yeah...I’m gonna roll Mind? 
 
-AUSTIN: No, it does not have that, the open portal stuff, no.
 
+AUSTIN: Lots of rolls… there’s a nine, so that’s uh… OK, so you get… Oh yeah! It’s plus one ongoing; nice! 
 
-ART: Alright.
 
+KEITH: Yeah...
 
-AUSTIN: AuDy does.
 
+AUSTIN: Yeah, OK… So you’ll take Intel from whatever you ask me here.
 
-JACK: Yeah, I do!
 
+KEITH: Great.
 
-ART: But we don’t have Voice.
 
+AUSTIN: And you can ask… you can also ask a follow-up.
 
-AUSTIN: No… there are… there’s another divine on September we forgot about.
 
+KEITH: OK. Who or what is Lapel most valuable to? 
 
-JACK: There is, there absolutely is. Do we know what they’re doing? Can I reach out to them?
 
+AUSTIN: [pause] Alright… [pause] [light background chuckles]. I think this is, like… 
 
-AUSTIN: Yeah, they’re just waiting. Watching. Which is what they always do, right?
 
+KEITH: Or is it a stretch that this is something that I could find within this system?
 
-JACK: They’re just hoping that it’s gonna fall out in a way that is favorable to them?
 
+AUSTIN (overlapping): No, it totally is… 
 
-AUSTIN: I think so.
 
+KEITH: OK, great…
 
-KEITH: Wait, who is it?
 
+________________
 
-JACK: [cross] God.
 
+[20:01]
 
-ALI: Now hang on… 
 
+AUSTIN: But… we’re gonna answer it… I think, what we get here is a shot of you and Aria scrubbing through time? And watching her come and go? And, like… leave… walk… You scrub forward and walk past her out? Back-and-forth, back-and-forth, back-and forth, back-and-forth… And then… and you see like, the… kind of… day counter going up in the corner? As if it was security camera footage? And then one day she stops. And you go back a day before, and start following her from there. And… you see… all over campus, it says, uh… “Spring Formal.” And everyone around campus just has this, like… air of like: “Oh man, it’s party time!” And she has, like… a real dour look, like she’s seen some shit… And she starts walking down one of the main thoroughfares here, towards this, like… the kind of, uh… cul-de-sac. And then we cut to, back to uh… the woods. Cass and AuDy… AuDy, you’re on the porch when Cass arrives? With Maxine Ming? What do you do?
 
-AUSTIN: This is Detachment.
 
+JACK: So I’ve identified… I can identify that Maxine is a Divine? But I don’t know what…
 
-ALI: Oh, ohhh. God.
 
+AUSTIN: You can identify that, when Maxine walks in, you feel the presence of a Divine. 
 
-KEITH:[cross]  I thought that— I thought that, that Detachment was Ibex’s brother?
 
+JACK: OK… Fine… I’m going to stand up...
 
-ALI: They’re on the Kingdom Come.
 
+KEITH (overlapping): AuDy points: “Divine! Divine!”
 
-AUSTIN: It was Jerboa’s, it was Jerboa’s divine, and that divine is just in the Kingdom Come now.
 
+JACK (overlapping): [chuckles] I’ll stand up, and wave at Cass, and say… and say to both Maxine and Cass:
 
-KEITH: Oh, right! In the King— I thought, okay, got it.
 
+        JACK (as AUDY): I am experiencing a crisis of loyalties right now [Austin and Ali laugh].
 
-ART: We left a lot of cool stuff on the Kingdom Come.
 
+AUSTIN: Oh AuDy!
 
-[Austin and Ali laugh]
 
+        ART (as CASSANDER TIMEUS BERENICE): What? [Austin laughs].
 
-AUSTIN: You did. So yeah, that exists, that’s there, that’s a thing to keep in your back pocket.
 
+ART: I, like… back away… [Ali laughs]
 
-KEITH: Maybe try— I mean, maybe take it out of your back pocket now because it might take some convincing to get Detachment to do anything.
 
+KEITH: What a time for a crisis of loyalties!
 
-JACK: Can I not just portal to Ibex? Oh no, that would actually be very bad.
 
+ART: Yeah… what an… upsetting thing to say!
 
-AUSTIN: Oh, you want to open up a portal to Ibex? 
 
+AUDY: Cass; things have rapidly become difficult, and I need to speak to you… inside the cabin… but just you…
 
-JACK: No, because then Rigour can just— Well, Rigour can kind of go anywhere he* wants, I guess.
 
+CASS: You’re being so rude right now… Maxine…
 
-KEITH: And right now, Rigour wants Voice, not Ibex. 
 
+AUSTIN (overlapping, as MAXINE MING): Who’s your friend? Why are they a robot?
+[22:09]
 
-JACK: Why does Rigour want Voice?
 
+CASS: Uh… that’s… that’s AuDy; they*... work with me on some outside projects. It’s alright… I’m… I’m sorry they’re* being so...
 
-AUSTIN: Good question. 
 
+AUSTIN (overlapping): AuDy, you can feel her touching your, like… consciousness, like… probing at it just a little bit. It’s, like… the sort of thing Mako did once? And then you gave him that look? And he never did it again... 
 
-JACK: Is that something we should be… very concerned about.
 
+        AUDY (with urgency): Cass!
 
-AUSTIN: Sure.
 
+        CASS: Yeah, I’ll be right there…
 
-KEITH: [cross]  I mean, there’s something fundamentally different about Voice than any other divine.
 
+AUDY (overlapping): We’ve experienced many emergencies! [background laughter] This is… we need to talk! Now!
 
-ALI: Yeah, he would have like, more control over a ton of stuff if he had Voice. That kinda makes sense.
 
+CASS: Yeah! Yeah… I’ll be just… give me a second, I’ll be in there… I’ll be in there in thirty seconds [Jack laughs]. Maxine, I need to uh… I need to talk to AuDy for a second… they* seem to have something private to say… I’ll be right back. 
 
-JACK: I definitely have a horse in this race.
 
+MAXINE: OK… OK.
 
-ART: Well, you’re the one who can do it. Satisfy your horse.
 
+CASS: Alright… 
 
-AUSTIN: Ah— Ha— Hm.
 
+MAXINE: I’ll be right here.
 
-KEITH: Speaking of horses, there is—
 
+ART: And I go… I go inside.
 
-AUSTIN: Jesus Christ.
 
+        AUDY: Cass, as I understand it, you have had a checkered history with Divines.
 
-[Ali loses it]
 
+CASS: Uh… [Ali and Keith laugh] yeah… there was a war [Ali and Austin laugh].
 
-KEITH: [Getting quieter] I just wanted to remind you that my birthday is coming up and… if uh, I could just have one blue horse from you, I’d be okay with that as a gift. One blue horse.
 
+AUDY: Maxine is one. 
 
-JACK: [laughing] Can I— I’d like to climb into the Apokine, please.
 
+CASS: Oh! Something really weird is happening on campus, and she was… she was real helpful getting out of there...
 
-KEITH: Are you just gonna ignore me about the horse? Okay.
 
+AUDY: What help did she offer?
 
-AUSTIN: You’re placed into like, a little chamber at the heart of Apokine. And I think, just like, have a nice seat in there. Strap yourself in, if you’d like. 
 
+CASS: She knew the way out of the locked-down campus. 
 
-JACK: So my goal here is to essentially be carried as far north as I can, to get myself into, onto some sort of line? With the Kingdom Come?
 
+AUDY: Actually, I have another question: what is happening on campus?
 
-AUSTIN: Mhm, yep. Aria and Mako, what are you doing? Are you just waiting for the Kingdome Co— or, for the Brilliance to show up?
 
+[23:47]
 
-ALI: I assumed we were heading towards like, where the cabin was? And then I was gonna like meet it, like we were all gonna meet there together. 
 
+CASS: Oh… I don’t… OK; so… [pause] You ever, like… you ever seen that episode of Buffy the Vampire Slayer? [several laughs] Where...
 
-AUSTIN: Give me a… God, how do you, how do you pilot? I guess give me a Act Under Fire, synth? For… managing to get the Brilliance to you.
 
+AUSTIN (overlapping): Wait… Wait! [more laughter] Time out! Is this in character? [laughing continues].
 
-ALI: Sure, so that’s just rolling synth?
 
+ART: I don’t know! It’s just the best example…
 
-AUSTIN: Oh, you know it is still cool, it’s cool plus your vehicle’s power.
 
+AUSTIN (overlapping): OK, it’s in character… go!
 
-ALI: Okay.
 
+KEITH: It’s no weirder than someone being a big fan of Dave Attell…
 
-AUSTIN: Yeah.
 
+AUSTIN: That was off-mic; no one heard that bit!
 
-ALI: So it’s gonna be this plus one.
 
+KEITH: I was recording... 
 
-AUSTIN: Okay. Okay! You got an eight— or you got a nine, sorry. So you can— the Brilliance can totally meet you wherever you want, but it will draw the attention of Rigour. But it will manage to avoid any attacks from Rigour on the way.
 
+AUSTIN: OK…
 
-ALI: Okay, yeah. 
 
+ART: It’s no weirder than someone being a big fan of Dave Attell now, honestly… [Ali and Austin laugh]. That’s my new plan for us to get a little more exposure: I want us to have… to start beefing with other… entertainment personalities [background laughter].
 
-AUSTIN: Okay, so I think you get like, halfway? You get to like, this big road here, or you get to the library! Remember the library, where you got sniped at that time? You get there, and the Brilliance just like, is like, flying through the air dodging attacks from Rigour, some of which are just giant swipes, and others are just like, shots from the innumerable cannons it has built into it shoulders, and fingers, and everywhere. And like, the whole city is just getting devastated all around as its doing this, just like, buildings are getting torn apart and the Brilliance just like slams full speed into that library and like, comes to a sliding stop right in front of you, and like opens up its cockpit so you can very quickly hop in it and take off.
 
+AUSTIN: I think we might have a bigger following than Dave Attell these day; honestly… [Ali and Jack laugh].
 
-ALI: Yeah, Aria is like, on Mako’s like board, I guess? And does that think where she like does a flip off of it and like lands into the cockpit.
 
+KEITH: Hi; my name’s Adam Barolla… [laughter]
 
-AUSTIN: Nice, good. And then like, takes off immediately again, yeah perfect. So now you’re, three of you are on your things, it’s good. You’re making it, you’re making moves. So… I guess… where are you headed as a group? Are you headed back to the ship, is that the plan? 
 
+AUSTIN: Dave Attell looks good! He’s doing alright for himself… he has a good beard. 
 
-KEITH: I don’t think that we can let Rigour get Voice, is what I think.
 
+ART: Oh, that’s good! 
 
-ALI: Shouldn’t do that.
 
+ART/CASS (partly in character?): So there was that episode of Buffy the Vampire Slayer, the show that I know we’ve all seen, because it’s really… held the test of time, and definitely didn’t feel… dated in 2016 [laughter]. Uh… Where Buffy and Angel are, like… reliving this… this abusive… couple? Going to prom? And they, uh… they keep… they know they’re, like… not doing it, but they keep reliving these events and shooting each other… It’s kind of like that. It’s definitely some sort of… trick being played on people that makes them think that they’re students there when they weren’t… There’s costumes… there’s a prom… It’s all sorts of fucked up, man… 
 
-AUSTIN: Okay! So what are you doing?
 
+        AUDY: Your friend is a Divine. 
+[25:45]
 
-KEITH: Where’s Voice?
 
+CASS: Yeah, I… I… I just thought she was a computer programme, I’ll be honest with you… [Ali and Jack laugh]. I don’t know… do you want me to go shoot her? I don’t… [Ali laughs].
 
-AUSTIN: Good question. Voice is September, right? The September Institute, at least. It’s as built into the infrastructure here as Rigour was above.
 
+AUDY: No, no, no, no… not even a little!
 
-KEITH: [sighs] But then like, okay, hear me out on this: Voice kinda sucks though? Like, controlling everybody and secretly being a weird school that clones people, and…
 
+AUSTIN (as MARYLAND SEPTEMBER): You’re not going to shoot anybody in my front y… l… y… uh… front yard.
 
-AUSTIN: Is Voice doing that?
 
+AUSTIN: I don’t know what my words are! I’m Maryland September! [Jack laughs]. It’s me! Maryland September!
 
-KEITH: [cross] Is Voice doing that?
 
+        CASS: I’m sorry Doctor September, that was very rude of me…
 
-JACK: [cross] No, Voice is super not doing that!
 
+        MARYLAND: [sighs] Who are you?
 
-KEITH: I mean, Voice is involved.
 
+        AUDY: This is Cass… they* are a doctor.
 
-JACK: Twelfth is doing that, Voice is a kid.
 
+        MARYLAND: Hmm… OK… well… 
 
-ALI: No, no no, Loyalty is a kid.
 
+        CASS: The other kind of doctor, though…
 
-JACK: Oh, I’m sorry, yes, you’re right.
 
+        MARYLAND: Oh. Well… that’s less impressive. 
 
-AUSTIN: Voice is a kid.
 
+CASS (incredulous - probably out of character?): How dare you… No, it’s fine…
 
-ALI: Voice is also a kid?
 
+MARYLAND: So you’re with AuDy then?
 
-AUSTIN: Voice is like… for the age of a divine? Voice is a child.
 
+AUDY: Yeah…
 
-KEITH: [cross] Right.
 
+CASS: Yes, we work together…
 
-ALI: Oh, oh okay. Yeah.
 
+MARYLAND: Alright, well… come inside and sit down, and once the storm passes, you guys can both be on your way.
 
-AUSTIN: Y’know? 
 
+CASS: Should we... 
 
-KEITH: Not just programmed as a child. 
 
+AUDY (interrupting Cass): Cass, Maryland is not… Maryland is not fond of our plan. 
 
-AUSTIN: No, no. The candidate of Voice is a bunch of people, including children. And, but Voice itself is very young for a divine.
 
+CASS (surprised): No?
 
-KEITH: Okay… I think that we should not let— I think we gotta do it as a thing. We gotta do something.
 
+[26:53]
 
-AUSTIN: Gotta do a thing, gotta get off the boat. 
 
+        AUDY: Not at all.
 
-JACK: Yeah, I’m really— I’m really con— 
 
+CASS: Does… does she know… [drops to a whisper] does she know about… does she know about Rigour?
 
-KEITH: [cross]  I’m gonna go get him, I’m gonna go get this big thing! Boom, jet off towards it!
 
+AUDY: She thinks it’s* a myth. 
 
-JACK: Oh, Jesus Christ.
 
+MARYLAND: [sighs] and if it’s* true, then I’d rather die here in my home than on some cold ship somewhere. 
 
-AUSTIN: And Mako is zipping through the sky.
 
+AUDY: See what I mean?
 
-ART: Okay.
 
+        CASS: No one’s gonna die… on our ship.
 
-AUSTIN: Again, give me a, give me an Act Under Pressure, cool? [KEITH: Um] Partial success, okay. You’re able to get to Rigour, but, but you’re able to get very close, close enough to get onto Rigour, but then you will have been knocked off your board. Or you can stay safely at a distance.
 
+        AUDY: Several people have died on our ship.
 
-KEITH: Knocked off my board and onto Rigour.
 
+CASS: You’re… what? Whose side are you on? [Ali, Austin, and Jack laugh]. This isn’t how you get someone to go on the ship!
 
-AUSTIN: And onto Rigour.
 
+KEITH (overlapping): He did say “crisis of loyalties…”
 
-KEITH: Done.
 
+CASS: Also… I think most people die… being pushed off of our ship [Ali, Austin, and Jack laugh]. Our on-ship mortality rate, I think, is pretty good! [more laughter] Well better than most ships in the fleet…
 
-AUSTIN: It hurts so bad, oh my God. Take one harm—
 
+MARYLAND: I’m sure it’s a very nice ship…I’ve heard Orth used to… captain that ship, and…
 
-KEITH: Okay…
 
+CASS: No; it’s a shit pile… [Ali laughs] don’t… don’t… don’t bother…
 
-AUSTIN: For being on Rigour. And just like… you know when you have like a really bad headache, and someone is like, [mocking voice] “Oh just take some Tylenol,” and then you’re like, “I’m gonna fucking murder you?”
 
+MARYLAND: I respect your honesty all-around. 
 
-[Laughter]
 
+CASS: But you… you can’t… can’t stay here, and die here… it’ll… it’ll kill Ibex, and only I get to kill Ibex [Austin laughs]. And probably… not yet.
 
-KEITH: Yeah, yeah yeah yeah. 
 
+AUDY (overlapping): No...  That might have been the wrong thing to say...
 
-AUSTIN: It’s that. It’s like that times, it’s like the worst that. So, just being on its presence is like, so overwhelming, and it's just… it’s nothing like any of the other divines— that’s not true, it’s a lot like the other divines in that it’s touching you on that same wavelength—
 
+        MAYLAND: Well… he always was... very good at making friends.
 
-KEITH: Right. But so much stronger.
 
+        CASS: No, that’s the opposite of what I’m saying… to you...
 
-AUSTIN: It’s not that it’s stronger, it’s that it isn’t… it’s that its undefined. It’s that it’s like raw energy and noise and violence whereas the other ones build themselves alibis and like, live those alibis, and so it’s easy to like, walk around them a little bit. 
 
+[28:19]
 
-KEITH: God, why would anybody build this thing? 
 
+MARYLAND: It was sarcasm, it was… I… believe me… believe me, I know… better than anybody. But I’m staying here, and that’s it…
 
-AUSTIN: It was a different time.
 
+CASS (overlapping/underneath): You should chat to my brother… 
 
-KEITH: Okay. So, here’s what I would like to ask. Can I use the method that I normally use to jack into the divine—
 
+ART: Sibling; sorry!
 
-AUSTIN: [cross] Right.
 
+        CASS: Alright… it’s really… it’s [sighs]...
 
-KEITH: —to instead separate myself from that feeling.
 
+MARYLAND: Sit down, and… dry off…  
 
-AUSTIN: Oh, you’re— that feeling’s— I’m not gonna keep hurting you through that feeling, but it’s going to be a constant thing, like visually and narratively?
 
+ART: I wish AuDy had texting, so badly… [Ali, Jack, and Keith laugh] I wish I could text AuDy… [laughter continues]. Cos there’s like, I don’t feel like I have a way to, like… wordlessly communicate with AuDy, cos I just don’t… I just don’t know that I trust them* for like… you know… body language signals, like… 
 
-KEITH: Okay.
 
+AUSTIN: Sure…
 
-AUSTIN: That just, that one harm represents the damage done through this scene of you being on or near Rigour.
 
+ART: Like… (whispering): “Hey Audy, we could probably, just…”
 
-KEITH: Got it, okay.
 
+AUSTIN (sternly): Uh-huh? [Austin and Jack laugh].
 
-AUSTIN: And, and being tuned to this thing.
 
+ART: I just like, I kind of like, go over to AuDy and, like… whisper, like…
 
-KEITH: [cross] Yep.
 
+        CASS (whispering): We could… we could take her… [several snorts and laughs].
 
-AUSTIN: This is the same reason Maxine held her head, and why all of the other Strati did throughout the campus.
 
+        AUDY: Shall we speak to your friend?
 
-KEITH: Okay.
 
+CASS: Yeah! Sure…
 
-AUSTIN: Cass. What are you doing?
 
+AUSTIN: From a back room, Jacqui kind of… it’s not a skip, really… but it’s definitely a bound. She kind of bounds out of the back room and is, like…
 
-ART: So, like, I still don’t have a great idea of what this thing does.
 
+AUSTIN (as JACQUI GREEN): Oh, hey! Everybody’s… Oh… just… uh, hey Cass… where are… where’s Ari… where’s Aria and Mako?
 
-AUSTIN: [cross] Sure. Has some spears, has a shield.
 
+CASS: Oh… Aria took Paisley to the hospital, and…
 
-ART: [cross] But like, I’d sort of like to test it a little bit?
 
+JACQUI: What?
 
-AUSTIN: Sure.
 
+CASS: And Mako was tricked by the… by the reality virus... [Keith laughs].
+[30:03]
 
-ART: You know that feeling when you’re like a kid, and you read like a comic book and you like, you see a cartoon, and like, Wolverine like, pops his claws out and you’re like “I understand what that would be.”
 
+        AUDY: Have you seen Buffy the Vampire Slayer? [all laugh].
 
-AUSTIN: [cross] Yeah.
 
+AUSTIN: Fuck!
 
-ART: Right, like I know what I would have to flex to make that happen? Like... what happens if I like, do that, right? Like, what if I do like, my—
 
+[laughter continues]
 
-AUSTIN: [cross]  Tell me what happens.
 
+        AUSTIN (maybe in character as JACQUI?): Big fan… Big fan actually…
 
-ART: My, this is what it would feel like to… to… 
 
+AUSTIN: Uhm… alright…
 
-AUSTIN: Be powerful, and strong, and awesome?
 
+KEITH: Jacqui’s only seen Angel. 
 
-ART: Sure.
 
+AUSTIN: Yeah, she’s… it’s weird, it’s weird… She filled in the gaps, though. Are you heading back outside to… that’s a really good end of set bit? But I’m not quite ready to go back to The September Institute quite yet, so… I think the next shot is… you going back outside to get Maxine? 
 
-AUSTIN: What, what does happen? 
 
+ART: Yeah…
 
-ART: So like… it’s a, it’s a shield and a sword?
 
+JACK: OK…
 
-AUSTIN: I’ve been thinking of it as spears, but sure, it has a shield, or has a sword.
 
+AUSTIN: And also, Maxine is gone? Cos… you didn’t leave anybody behind to… watch her?
 
-ART: Spear, spear is fine. No, spear is good.
 
+ART: I asked her to wait… rude…
 
-AUSTIN: Yeah, yeah.
 
+AUSTIN: Yeah, well… Roll some dice next time you want it to stick.
 
-ART: So like, it holds out the spear, and like… points it, and like, flexes through the spear, and it like shoots a… a, a beam of this purple energy, and it like crackles around itself and it, it darts out at Rigour and it hits it. 
 
-
-AUSTIN: Okay. What’s your objective?
-
-
-ART: I want Rigour to hurt.
-
-
-AUSTIN: Oooh, okay. Give me a Mix It Up roll, which is Mix It Up plus, plus… sorry it’s meat plus the power of your machine, which in this case is three.
-
-
-ART: Okay…
-
-
-KEITH: [whistles] That’s a strong machine. That’s a mean machine.
-
-
-AUSTIN: Yeah.
-
-
-ART: That does not have the three on it so it’s only a… six. Dammit!
-
-
-[Giggles]
-
-
-AUSTIN: Oh, buddy. Wait, how did that happen? How did this happen?
-
-
-ALI: [sympathetic] Aww!
-
-
-ART: [cross] Well, it’s a two and a one, and then three more.
-
-
-AUSTIN: Oh, it’s not meat, it’s not meat, it’s not meat! It’s synth ‘cause it’s a robot, it’s not meat.
-
-
-ART: So it’s a seven, it’s a seven!
-
-
-AUSTIN: So it’s a seven, phew! So choose two, you make too much noise, advance the relevant mission clock, you take harm as established by the fiction, or an ally takes harm as established by the fiction, or something of value breaks. You choose two.
-
-
-ART: Let me— let me look at that list while I ponder this for a second. 
-
-
-KEITH: Be careful.
-
-
-ART: Well, you’re the ally established by the fiction, Mako.
-
-
-AUSTIN: [cross] Yes.
-
-
-KEITH: Yeah. 
-
-
-ART: Make too much noise…
-
-
-AUSTIN: Yep.
-
-
-ART: This seems pretty noisy, that feels… relevant. And I mean…. [sigh] And I’ll take harm. Logically I feel like it should be an ally, because that feels like what would happen, but I’m not— I’m not willing to, I’m not willing to put the knife in Mako’s heart.
-
-
-AUSTIN: Sure, so—
-
-
-KEITH: What were the other choices? There’s gotta be a better choice.
-
-
-AUSTIN: No, take harm as established by the fiction, an ally takes harm, or something of value breaks. 
-
-
-KEITH: Okay.
-
-
-AUSTIN: So I think it just… I’m trying to think if it’s that Rigour—  no I don’t think Rigour hurts you at all, I think it’s just the thing you just did. Like, you’re drawing on… okay, here’s what’s happening. Apokine draws on its people to, to do this, right? To, to defend them? And in this case, the people of Apostolos are giving you power, y’know, totally for free, right? Like, oh yeah, sure, totally. But the people here… are still tied into Voice. And Voice is not allied with you, yet. Or at all, or will it ever be, or will Rigour get it. And so, it’s Voice that is hurting you. Not Rigour. It’s that like, you have to like, you’re drawing on the same kind of… biological essence that Voice is tied into here. 
-
-
-[30:27]
-
-
-KEITH: So you’re saying that Voice is mad that you’re stealing his* batteries?
-
-
-AUSTIN: It’s not even mad, it’s just, like… It’s like a chemical reaction is happening, where you’re like “Oh, I’m grabbing some of this” and you broke this thing open, and now it’s burning you inside. And that same, that same, like… the same weird headache shit that’s been happening to everybody here as all this fall— as reality falls apart all around  you. But, you hurt Rigour. Like, the bolt slams into Rigour’s… again, let’s say right under Mako? And like tears through bits of Rigour’s metal and like, all the way through, you can see the sky behind it. And in fact, you can see the ships from the scavenger fleet above, as they descend through the clouds, through the hole blown through Rigour’s shoulder. Mako, you can also see it immediately begin to repair itself slowly. It’s like, stitching itself back together. And you can see that it’s like, as it does that, way far down, from the ground, the ground cracks and dies around it as it does so.
-
-
-KEITH: Can I… slow or stop that process?
-
-
-AUSTIN: Sure. Just give me a synth roll. If you… ten plus, you’ll, you will stop it, seven to nine, you will slow it, under a seven, I will make a hard move. … That’s an eight. So yeah, you’re able to slow it down. It hurts while you’re doing it, like this pain I’ve been describing doesn’t stop. It… it feels like the impulse to not exist, like… I don't, this isn’t, I don’t, it would be better to be dead than this. But… you’re able to keep grasp on this, and like, you’re basically able to hack the little nanomachines separately from Rigour, like without engaging its full defenses to keep that wound there. Aria, what are you doing? And then we’ll go to AuDy.
-
-
-ALI: Is it.. Is it just Rigour, right now? Are there like, people coming from it like in the Tower game, or…
-
-
-AUSTIN: It is just Rigour. 
-
-
-ALI: Okay. I feel like, really… insignificant. [laughs]
-
-
-AUSTIN: Yeah. I mean, everyone is.
-
-
-ALI: Right. 
-
-
-AUSTIN: It just doesn’t necessarily seem like that quite yet. But maybe that, yeah. Yeah.
-
-
-ALI: Because I feel like I wanna attack it, but like, I don’t know… Can I do an assess, actually?
-
-
-AUSTIN: Sure. And I’ll let you make another move after that, too. 
-
-
-ALI: Okay, cool. Cause this is just like me— oh.
-
-
-AUSTIN: Yes.
-
-
-ALI: Looking for like—
-
-
-AUSTIN: You don’t have any bonuses, you don’t have any intel, or any forwards, or any…
-
-
-ALI: I have to have something.
-
-
-KEITH: Yes, you have to have something. 
-
-
-AUSTIN: Oh boy.  Oh, oh here’s a thing you should’ve done. You should do Hotshit Driver right away to do—
-
-
-ALI: [cross] Yeah? Okay.
-
-
-AUSTIN: Roll edge to get those holds, theoretically. Do well on this edge roll. There you go.
-
-
-ALI: Okay.
-
-
-AUSTIN: So you get one hold, you may spend one hold to do one of the following: avoid one external danger, escape one pursuing vehicle, maintain control of the vehicle, impress, dismay, or frighten someone. Those might not come into handy right this second necessarily, but I wanna make sure you did that before we forgot.
-
-
-JACK: [cross] Let’s try and impress Rigour!
-
-
-ALI: Yeah, can I impress Rigour?
-
-
-AUSTIN: Do you wanna try?
-
-
-ART: What does that even— what do you think happens when you do that?
-
-
-[Ali and Jack laugh]
-
-
-AUSTIN: Tell me.
-
-
-KEITH: “Wow. She’s a hotshit driver! I better back off a little bit.”
-
-
-ALI: [laughs] But yeah, I feel like that’s what Aria does and probably my best thing to do right now is just be a distraction.
-
-
-AUSTIN: Yeah, so I think that that’s actually…
-
-
-ALI: Yeah.
-
-
-AUSTIN: So what is— how is she doin’? What’s the most Aria fuckin’, like…? What’s the most big finale— not that this is the finale of the show necessarily— but, like. Action hero, anime hero, mecha shit that you can do?
-
-
-ALI: [Laughs] God, I’m trying to think of something.
-
-
-AUSTIN: I have a suggestion.
-
-
-ALI: But I’m… Yeah I think I’m too focused on like, what would Rigour actually be impressed by?
-
-
-AUSTIN: Like… the thing I think Rigour would be impressed by is you seizing that moment? 
-
-
-ALI: Yeah.
-
-
-AUSTIN: And like… cutting its arm off. 
-
-
-[Ali laughs]
-
-
-AUSTIN: I just really like this notion of Aria in the, in the Regent’s Brilliance drawing Jace’s blade, like that white-hot superblade?
-
-
-ALI: Yeah…
-
-
-AUSTIN: And then like, charging forward, cutting its arm off, which doesn’t actually hurt it in any meaningful way. Because, like, there are some infinities that like… it’s an infinitely powerful thing, right? Like, it’s...
-
-
-ALI: Right.
-
-
-AUSTIN: There are some numbers so big that cutting off a third… they’re still the biggest number you’ve ever encountered. And then just like, sheathing the blade. But you also failed that roll, so that means I get to do something.
-
-
-ALI: [laughs nervously]  I was gonna initially suggest that I would cut like a finger off, I’m glad that you gave me the arm.
-
-
-AUSTIN: [cross] Oh, no, fuck it, this is, this is…
-
-
-ALI: [cross] That’s very generous of you.
-
-
-AUSTIN: It’s also really good ‘cause it mirrors Grace getting her arm cut off.
-
-
-ALI: Okay, yeah. 
-
-
-AUSTIN: Which I like a lot. … So you cut it off and then the other arm of Rigour just… reaches out and pins the Brilliance. Not just to the ground, but like it spins and turns and slams the Brilliance deep into the Mineral Cooperative Mine. Like, thirty, forty, fifty flights down into the, into the planet. And then it slowly stands back up. Take two harm.
-
-
-ALI: Cool, I will do that.
-
-
-AUSTIN: The Brilliance is not doing great, but I’m not gonna like, shut it off in this big fight. Think about this fight as like, the WWE, like, World Championship fight? Where the refs are gonna give you a little bit of leeway, like they’re gonna count extra slow in the, when you’re outside the ring? Y’know, maybe they don’t DQ you if you do something a little dirty, ‘cause it’s the big one? AuDy, what are you doing?
-
-
-JACK: How close am I, okay, so as we… I’d like to do two things.
-
-
-AUSTIN: Sure.
-
-
-JACK: I’d like to… exit the Apokine as we pass the ship. Or the location of the building. And I’d also like to… I dunno, I’m trying to like, I’m trying to think about… when I scan the Liberty and Discovery databank…
-
-
-AUSTIN: Mhm.
-
-
-JACK: No, I’m trying to think how this is gonna be useful to me. ‘Cause like, if you’re being attacked by a mountain lion, don’t try and Google how to fight a mountain lion. 
-
-
-AUSTIN: Right, but if you’ve been bitten by a snake…
-
-
-JACK: Sure, but that’s… 
-
-
-AUSTIN: I don’t know, is Rigour a mountain lion or a snake? 
-
-
-JACK: Is that my— Is this my own, also is this my, my databank, or the company’s databank? I mean it’s the same thing, right?
-
-
-AUSTIN: It’s your— Yeah, yeah it’s the same thing. It is Liberty and Discovery for 80,000 years.
-
-
-JACK: Okay! 
-
-
-AUSTIN: It is the databank of everything Liberty and Discovery’s ever done. 
-
-
-JACK: Okay, I’m gonna roll it.
-
-
-AUSTIN: Mhm.
-
-
-JACK: I’m gonna roll and then pick questions. And it’s synth, which again, I’m not very good at, so let’s give this a go.
-
-
-KEITH: Nice.
-
-
-JACK and AUSTIN: That’s a ten!
-
-
-AUSTIN: Good fuckin’ hustle.
-
-
-[Ali sighs in relief]
-
-
-JACK: Okay, so I’m doing this as I’m…
-
-
-AUSTIN: As you’re in the, the heart of Apokine, yeah.
-
-
-JACK: Oh no, I’m doing this as I’m, as I’m— So I think what happens is for the first time in what feels like ages, the body that was AuDy feels Liberty and Discovery pull back a little.
-
-
-AUSTIN: Oh, okay.
-
-
-JACK: And for a moment, they’re really happy about that, until they realize that they’ve only pulled back to let them be the driver while they work out, you know.
-
-
-AUSTIN: Gotcha.
-
-
-JACK: Like, “You do this, we’ll work out how this works.”
-
-
-AUSTIN: [laughs] Okay. 
-
-
-JACK: So, AuDy is running through the building towards the ship while Liberty and Discovery is searching for this data.
-
-
-AUSTIN: Mhm. So take intel, by the way. 
-
-
-JACK: Yes.
-
-
-AUSTIN: Which you can then spend on— you can ask me another thing with that intel, basically.
-
-
-JACK: Hm. Right, I’m going to ask how is Rigour vulnerable to me? But I’m going to frame the question based on presumably, 80,000 years of experience of scrapping with divines.
-
-
-AUSTIN: Yeah.
-
-
-JACK: Not necessarily Rigour, but like, there’ve probably been a lot of skirmishes, and I’m trying to call that information.
-
-
-AUSTIN: So, there is a thing. There is a way. The ways that divines— So. One, I think the things that Maryland told you probably start to feel a little true to Liberty and Discovery as they dig through the databanks, that at any single moment, a divine is divine. That like, this is an overwhelming thing, this thing is more than mortal, this thing is more than a machine, but when it’s reduced to data, like everything is in Liberty and Discovery’s databanks, they are tools. And they are machines. And they have consciousness, but, like so do humans, and humans are killed regularly, and they fail regularly. And when you take the wide view, so do divines. Otherwise, the Diaspora would be perfect, and it would rule everything, but the divines bicker and fight, and kill each other, sometimes. … And often, that ends up being about positionality and about controlling when and how to disengage. There was a time when, when  a divine… even your data records probably don’t have the specifics, it was Justice, or it was… it was a thing like a Righteousness. Maybe it was Righteousness, even, itself. There are times when one of those was fighting, and instead of killing it, because it was still kind of a big deal to kill divines, you locked it away. And the thing about that is, that was a real sacrifice for society, because it took three divines to lock— it took two divines to lock a third away. You open the doors, you force it in, and then you walk through the doors too, closing them behind you. For some amount of time. Liberty and Discovery never did it, so they don’t really know what’s in there? 
-
-
-JACK: Hm.
-
-
-AUSTIN: But you could do that to Rigour.
-
-
-JACK: Why hasn’t Righteousness tried that? 
-
-
-AUSTIN: Righteousness isn’t Liberty and Discovery. 
-
-
-JACK: So it just doesn’t know?
-
-
-AUSTIN: Or it doesn’t want to.
-
-
-JACK: Hm. Okay, question two— [cross] Oh, no go on.
-
-
-AUSTIN: [cross] Also— also, Righteousness is piloted by Ibex, and people often dislike Ibex. [Jack laughs] That’s a hell of a thing to ask. “Hey, disappear with me for a while so we can slow this thing down.”
-
-
-JACK: Yeah. Okay, thing two: Where can I gain the most advantage?
-
-
-AUSTIN: The future. Like, far away in time. This is not the battlefield to fight Rigour. You need time. LIke, now that you see it as just— now that you’ve seen its arm get cut off, like yeah, we can kill Rigour, but you don’t have what you need here. I think like, as this is happening, Rigour is like, smashing its hand through— Or it’s actually not even doing it, it’s probably ranged attacks too, just like— missiles coming out of it and like, corkscrewing through the air up into the atmosphere, and just huge ships sinking into the atmosphere and burning up, and then crashing into the sea through the storm in the distance.
-
-
-JACK: [quiet] God. Okay, I think I’m gonna hold onto my in….
-
-
-AUSTIN: Your intel?
-
-
-JACK: Yeah, anybody got any thoughts about the use of this intel? Specifically based around the information—
-
-
-AUSTIN: [cross] So, I will read again what it— what it says. When you reveal your knowledge of the opposition’s preparations, dispositions, environment— or environment, describe how you discovered that information, which we know, and spend intel. You must spend intel to reveal knowledge. Take plus one forward to exploit the opportunity offered by that information. So yeah. You’ll get a plus one when you use it. 
-
-
-JACK: Anybody got any thoughts about the use of that?
-
-
-KEITH: I don’t know, you might have... somewhere in the history of Liberty and Discovery maybe there’s something where somebody put some time into, like, emergency countermeasures against Rigour?
-
-
-AUSTIN: No. 
-
-
-KEITH: Never?
-
-
-AUSTIN: I mean, yes, [cross] and those answers were the last episode. 
-
-
-JACK: [cross] I mean I think, I mean I think the closest to that was lock it away? Or, yeah it was...
-
-
-AUSTIN: [cross] It was— It was lock it away, and destroy trillions of lives to try to blow it up and wind up only launching it deeper into space, which is what happened. But you knew that, that you knew. The first time the Diaspora dealt with Rigour, it blew up the bridge behind it and Rigour took over OriCon. The second time, they worked with OriCon rebels to launch it into space with the same tool that destroyed all of those stars. They thought they were killing it, they did not kill it. But that was 20,000, 40,000 years ago, so. 
-
-
-KEITH: Art managed to put a hole in it!
-
-
-AUSTIN: Yeah. Technology does change over time.
-
-
-JACK: One of its arms is gone, I mean… 
-
-
-AUSTIN: It’s repairing itself, but yeah.
-
-
-JACK: [cross] [dejected] Oh.
-
-
-AUSTIN: One of its arms is like, falling slowly like a building. 
-
-
-ART: [cross] Yeah, but—
-
-
-AUSTIN: [cross] Down.
-
-
-ART: Theoretically, we could— we could reduce it to, to dust, right? And just see how long it takes the dust to reassemble itself. 
-
-
-AUSTIN: Mhm.
-
-
-ART: Days, weeks, years, centuries? Who knows! But— but it doesn’t seem like a… I think we’ll all die in the attempt. And the whole planet could die in the attempt.
-
-
-AUSTIN: There’s a thing happening that I want to explain. So I have to break my rule about not showing you things offscreen, which is: In an office, that’s on fire, Twelfth is like, hurriedly typing things, and like, trying to send messages to Rigour as it marches towards the September Institute.
-
-
-[Jack laughs]
-
-
-ALI: Oh, golly.
-
-
-AUSTIN: And Paisley Moon just kicks in the door and shoots him in the head. 
-
-
-ALI: Good. Aww… 
-
-
-AUSTIN: Paisley Moon does not have that look that people have in his eyes anymore. [Jack hums] He goes over and like, scans the body. And then sits down.
-
-
-JACK: I thought that was gonna be g— you see I thought that was one of those sentences that was gonna be good, and then about halfway through it changed into a sentence that I think is bad.
-
-
-AUSTIN: Yeah.
-
-
-KEITH: Tried to warn you guys.
-
-
-ART: There’s, there’s like, a very— Oh my God.
-
-
-KEITH: I wanna get inside it. 
-
-
-AUSTIN: Okay.
-
-
-ART: Alright, that’s—  [cross] that’s probably better than what I had.
-
-
-AUSTIN:  [cross] You can crawl through— Yeah? Jeez you must’ve had a shitty idea.
-
-
-[laughter]
-
-
-AUSTIN: You could crawl in through the side hole that Aria cut in from the arm. 
-
-
-KEITH: Okay, yeah, I was gonna crawl through Art’s hole, but either hole is good.
-
-
-AUSTIN: That’s the same hole, that’s the same hole. The hole— Art opened the hole, then Aria cut it into like, the broken— the arm being gone. And so now, yeah, you can crawl through it. It’s really icky. It’s like, gooey and mechanical all at once. And you’re like, pushed through it like it’s musculature.
-
-
-KEITH: Okay. Let’s see. Here’s… the thing. I wanna— I wanna know if there’s… I guess I wanna know if being inside it is gonna give me a better access into it. Like—
-
-
-AUSTIN: No.
-
-
-KEITH: No?
-
-
-AUSTIN: No.  It will lead you to where whoever’s controlling it is controlling it, though.
-
-
-KEITH: Oh yeah, I guess someone’s controlling it, good point. I guess I just assumed that it was walkin’ all on its own, that Rigour didn’t need a candidate, but… so I’m gonna do that. 
-
-
-AUSTIN: Nope. It has a candidate.
-
-
-KEITH: Alright, great. …. God if it’s a clone of me I’m gonna be so pissed off.
-
-
-AUSTIN: Oh, it’s not. I think you just kind of like work your way into… it’s not even a cockpit, it’s just like— it’s just…
-
-
-KEITH: Like, a town.
-
-
-AUSTIN: It’s a town in there! No, it’s more of this like, weird, you’re being held in place by Rigour, that is this weird mix of like, nanomachines and goop. But it opens up enough space to like, breathe and see, and you see Natalya Greaves, like, death in her eye, look back at you.
-
-
-KEITH: Okay. … Can I cut her down?
-
-
-AUSTIN: She’s not— she’s standing. 
-
-
-KEITH: Oh, okay, I thought you said she’s being held in place by… [unintelligible]
-
-
-AUSTIN: I mean, she’s being held in place, in the sense— sorry, she’s being held in place by Rigour. Like she isn’t, she isn’t captured, she’s piloting Rigour. But like, to do that, it’s just thought and will.
-
-
-KEITH: Can I try to talk to her?
-
-
-KEITH (as Mako): [cross] Hey, Natalya! 
-
-
-AUSTIN: [cross] I mean you could cut her down in the other sense, I guess. She doesn’t respond.
-
-
-KEITH: Okay. 
-
-
-AUSTIN: I guess maybe her head slowly turns towards you.
-
-
-KEITH (as Mako): Stop— stop doin’ that! Stop being the— stop being the pilot of this.
-
-
-AUSTIN: Nothing.
-
-
-KEITH: Can… Can I jack into her specifically and not Rigour?
-
-
-AUSTIN: No.
-
-
-KEITH: No?
-
-
-AUSTIN: There is no difference. 
-
-
-KEITH: Okay.
-
-
-AUSTIN: Rigour doesn’t stand for individuality. 
-
-
-KEITH: I guess… okay, I’m... Guys, here’s what I’m worried about. I’m even more worried about saying it out loud, so I think by saying it out loud, I’m committed to not doing it. I’m worried that if I kill her, I— they’ll— Rigour will try to make me be the pilot.
-
-
-AUSTIN: It would be very hard to resist that.
-
-
-KEITH: Yeah.
-
-
-JACK: Good call Keith, in not doing that.
-
-
-AUSTIN: Like, recall that I have moves that are just, oh, when this happens, this other thing happens. 
-
-
-KEITH: Yeah.
-
-
-AUSTIN: So.
-
-
-KEITH: I’m not going to… do that. But. 
-
-
-ART: Are you a worse pilot, is this our solution?
-
-
-KEITH: You’re saying that I should kill Natalya [cross] to be a worse pilot so that you guys can take down Rigour more easily? 
-
-
-AUSTIN: [cross] That’s pretty funny.
-
-
-ALI: Mhm.
-
-
-AUSTIN: She’s probably a worse pilot. 
-
-
-KEITH: Yeah.
-
-
-AUSTIN: She was a really good spy, and a really good technician, but not a good pilot.
-
-
-KEITH: Can I get in there and try to confuse the visuals of Rigour so that Rigour cannot see and respond to things as well?
-
-
-AUSTIN: You could give me a roll.
-
-
-KEITH: Am I doing Jack In, first, or?
-
-
-AUSTIN: Nah, just Manipulate Systems. You’re as jacked in as there is.
-
-
-KEITH: Yeah, yeah. … Boom.
-
-
-AUSTIN: Okay. The way you figure out to blind it is to give it your sight. Which means it’s just seeing it’s internals, but now it’s just flailing around in— in September, on September, and is like, stepping and crushing but like, with less—  with less accuracy, and it’s not moving towards the Institute directly.
-
-
-KEITH: [cross]  Right, it’s still— it’s still causing damage, it’s just causing random damage.
-
-
-AUSTIN: Take another harm.
-
-
-KEITH: Another— another harm? Why?
-
-
-AUSTIN: Yeah. Because you are fucking in Rigour trying to jack into Rigour. You could, you could not take harm if instead, you wanted to become Rigour’s candidate. 
-
-
-KEITH: No, I’ll not do that.
-
-
-AUSTIN: Okay.
-
-
-KEITH: Unless I get to keep my hold over a subsystem.
-
-
-AUSTIN: [laughing] No. 
-
-
-KEITH: Okay. … Is there a way to use one of the holds to prevent taking this harm? 
-
-
-AUSTIN: No.
-
-
-KEITH: No?
-
-
-AUSTIN: No. 
-
-
-KEITH: If I continue to u— do— anything—
-
-
-AUSTIN: Anything, you will continue to be hurt. The moment at which you’re knocked out, it will consume you and either make you its candidate, or devour you.
-
-
-KEITH: [cross] Okay, well I guess I’m gonna get out of it.
-
-
-AUSTIN: [cross] Depending on if it judges you as being— you’re gonna get out of it?
-
-
-KEITH: I guess, if I do anything inside it, I’ll die!
+JACK: Can I reach out to her?
 
 
 AUSTIN: How?
 
 
-KEITH: I’m gonna go back the way I came.
+JACK: I’m a Divine. That’s a thing we can do.
 
 
-AUSTIN: What way? 
+AUSTIN: Sure: what do you… what’s… how are you… so you’re… I guess; here’s the thing. You’re opening up that channel, so to speak? [Jack groans, Ali and Jack laugh].
 
 
-KEITH: Behind way.
+JACK: Uhh…
 
 
-AUSTIN: There— It’s a wall of weird nanomachines and goop.
+ART: It’s probably fine. 
 
 
-KEITH: That’s annoying. Can, I’ll find a different way!
+JACK: No… actually, in that case? Yeah… I think I’ll…
+[31:16]
 
 
-AUSTIN: Okay. [cross] Let’s go to— Let’s go to AuDy. 
+AUSTIN: Are you sure? You don’t want to just… peek? Peek a little bit? 
 
 
-KEITH: [cross] There’s gotta be a hallway. There’s a giant hole.
+JACK: This sounds like you’re gonna… add some exclamation marks!
 
 
-AUSTIN: Right, that hole is— was open for you to get in, and then it sucked you in like weird, like a weird intestine.
+AUSTIN (overlapping): I won’t… I won’t add any exclamation points, or Alerts to the thing... if you just peek. Now; what you do after that… is up to you. 
 
 
-KEITH: Mhm.
+ART: Do it… Do it!
 
 
-ALI: Ugh.
+JACK (lightly): OK, I’ll do it.
 
 
-AUSTIN: Yeah. AuDy, you’re at the ship.
+AUSTIN: Alright. So… I think, normally, when you do this, there are… there’s kind of a distinctive… like, a signature? That you’re able to hone in on… like a sound that identifies another Divine; in the, kind of… communication network. So, you know… with Grace, it’s this, like… beautiful, high… like… rising tone. And you’re able to, like, zero-in on that. With… with… you know, Righteousness, it’s this, like… hard, like… strumming… dedicated, like... repeated… riff that’s hit over, and over again. With… here… here on September, there are two sounds, currently. There is the sound of a number of voices chattering. It’s like an orchestra warming up. It’s… it’s… not in tune; it’s not quite beautiful, but there is something attractive about it? There is something… even though it’s not… organised… it’s still, kind of... appealing. And then there’s another sound, and it’s a sound you know well enough that I don’t need to describe it. And that sound is far away: but it’s getting closer. You can find… you can feel a… uh… that one of the many instrumentalists, let’s say, of the… large… kind of… diverse… Divine voice… is by itself? And is just, kind of, like… it’s doing scales? It’s just doing scales; and it’s back around side of the cabin. 
 
 
-JACK: Alright, I’m just gonna … Where are Orth and Jacqui?
+JACK: What’s around the back of the cabin?
 
 
-AUSTIN: I’ll give you, they got in the heart with you.
+AUSTIN: It’s like… to the side of the cabin. If you go right, and turn right again, you would come to it.
 
 
-JACK:  Okay, so they’re with me.
+JACK: OK… I’m gonna relay this information, in totality, to Cass. And, I guess, to Orth and Jacqui. 
 
 
-AUSTIN: Yes. Well, how did you get off?
+AUSTIN: I think they stayed inside; they don’t want to go outside in the rain… 
 
 
-JACK: Oh.
+ART: That doesn’t mean it’s close, does it? 
 
 
-AUSTIN: Because I was kind of assuming you were jumping from a great height ‘cause you were a rad robot?
+AUSTIN: Rigour?
 
 
-JACK: [cross] Yeah, I think so.
+ART: Yeah…
+[34:06]
 
 
-AUSTIN: I think they’re probably still with Cass. 
+AUSTIN: I don’t know...Art, in the chat said, by the way, Righteousness is the guitar line from the Nirvana cover of The Man Who Sold the World, and that’s about right… [Jack laughs] Yeah. That’s about right.
 
 
-JACK: Okay, I’m— at least we know where they are. 
+ART (overlapping): Yeah… It’s only a couple of notes, but it really drives. 
 
 
-AUSTIN: Mhm.
+AUSTIN: Yeah… So this… At the North end of this cabin, is where you’re at… that, like… lone voice is over here.
 
 
-JACK: Which is an improvement to most of the previous episodes!
+ART: Let’s go… peek around the corner, then. Cautiously, you know… Cos…
 
 
-AUSTIN: Mhm!
+AUSTIN: Sure…
 
 
-JACK: I’m just going to— I’m just going to power up the Kingdom Come and try to get it in the air as quickly as possible. 
+ART: Cos maybe she’s… maybe she’s dangerous afterall. 
 
 
-AUSTIN: Done. It’s like your hands are lightning, you’re just, you’ve got this all the way.
+AUSTIN: You see Maxine Ming. like… miming? About twenty-five feet in front of you… Like… invisible wall-touching? Like… “Oh! I’m trapped in a box!”
 
 
-JACK: Right, okay, I am… Let me just run over what weapons I have again.
+ART: That’s weird…
 
 
-AUSTIN: Very— Okay.
+AUSTIN: But away from you, like… to the south… she’s not facing you, like… “Oh no! Help me!” She’s just, like… pushing up against something that isn’t there. 
 
 
-JACK: Yeah, like, look.
+ART: I… I… call out:
 
 
-AUSTIN: Not many.
+        CASS: Maxine! What’s…
 
 
-JACK: I’m not... I have like, a cannon?
+MAXINE: Come and look at this! Just come over here… be careful, there’s… you can’t see them, but there are wires on the ground. I think... 
 
 
-AUSTIN: [cross]  Yeah, mhm.
+AUDY: Cass; be very careful…
 
 
-JACK: I have like, a burst cannon. But shooting Rigour with a burst cannon is like…
+ART (overlapping): What? Can I see these wires?
+        
+AUSTIN: You don’t see any wires…
 
 
-AUSTIN: Yeah, it’s not going to do anything. [cross] Like, the reason— 
+ART: I think I’d like to make a roll! [Ali and Art laugh]
 
 
-JACK: [cross] Shooting an elephant with a water pistol.
+AUSTIN: Hm-hmm? I like it when players make rolls...
 
 
-AUSTIN: Right. The reason I’m letting Aria and Cass do it is because they’re using what is, like the equivalent of the highest tech shit? And like— 
+JACK (overlapping): Am I able to aid them*?
+[35:20]
 
 
-JACK: [cross] Yeah, and when I just have, like, a kind of crappy spaceship. 
+AUSTIN: Sure, let’s do that roll first. How are you aiding them?*
 
 
-AUSTIN: Like, you could crash the Kingdom Come into it to do some damage, but boy, that would be a shame.
+JACK: Umm…
 
 
-JACK: [laughing] That seems like a, seems like a really bad move.
+ART: It’s an Assess roll…
+
+
+AUSTIN: Sure...
+
+
+JACK: I am… I think that this is just the version of a , sort of, like… Crystal Maze-style; one person walking very carefully, and another person going: “Oh! No! No!” [Austin and Jack laugh]
+
+
+AUSTIN: Uh… Crystal Maze is a game show we didn’t have in North America, and I wish we did…
+
+
+JACK: Oh, OK…
+
+
+AUSTIN: But go and look that up on the Internet, listeners.
+
+
+JACK: So… What do I roll here?
+
+
+AUSTIN: Uh, you road… [aside] road… It’s been… it’s been a long month. Roll your… plus your… you’re rolling plus two, because you have two Links with Cass.
+
+
+JACK: I’m just… two D6 plus two? 
+
+
+AUSTIN: Yep.
+
+
+JACK: OK…
+
+
+AUSTIN: Not a bad one…
+
+
+JACK: No…
+
+
+AUSTIN: Whew! Goddam, that was close! [sounds of relief from Art]. Cass, take a plus one to your Assess, but, um… 
+
+
+JACK: I rolled a seven.
+
+
+AUSTIN: Yeah, but if… yeah, sorry… Jack rolled a seven. If you fail, then AuDy is also implicated in the result.
+
+
+[36:20]
+
+
+ART: OK, I’m just gonna roll it, and we’ll add one to it manually. 
+
+
+AUSTIN: Sure.
+
+
+[Keith, Art, Jack, and Austin all overlap here]
+
+
+KEITH: Nice…
+
+
+ART: Boom!
+
+
+JACK: Nice! Nice! Nice!
+
+
+AUSTIN: Nice! Good work! OK…
+
+
+[overlapping ends]
+
+
+ART: I’m the best assessor. Call me Real Estate, cos I’m an... assessor...
+
+
+AUSTIN (overlapping): You’re a pretty good assessor…
+
+
+ART: Don’t call me that… Just everyone forget I said that! [Ali, Jack, and Keith laugh]
+
+
+AUSTIN: Alright. So, what do you… what’s up?
+
+
+ART: I’m gonna… I get three?
 
 
 AUSTIN: Yeah.
 
 
-JACK: Okay… [sighs]
+ART: OK.
 
 
-AUSTIN: You could turn the whole thing into a portal with Detachment. 
+AUSTIN: Are you studying the situation, I’m guessing?
 
 
-JACK: Oh, shit, I’ve got Detachment. How conscious is Detachment right now?
+ART: Yeah… this situation.
 
 
-AUSTIN: Totally conscious. 
+AUSTIN: Or you… OK.
 
 
-JACK: Hundred percent?
+ART: I’m gonna start with… who or what is my biggest threat in this situation? And then keep the other two for a minute.
 
 
-AUSTIN: Hundred percent. Wishes it had a candidate, though.
+AUSTIN: That’s a hard question to answer…
 
 
-JACK: I can’t do that.
+[37:03]
 
 
-AUSTIN: No. Well. Why not?
+ART: I can ask another one if you want, I’m (inaudible under Austin - possibly “willing to take”) a second choice.
 
 
-JACK: ‘Cause— [laughs] Can I do that?
+AUSTIN (overlapping): Yeah, ask another one… Eh? No; you asked that: I like that one. You have three questions here, right?
 
 
-AUSTIN: Why not? Like, this is it, like that’s the test of if Maryland is right about this. Like, is it just technology, or is there something magical about this shit? 
+ART: Yeah.
 
 
-JACK: Yeah, alright, okay, I’ll give that a try, I’ll go down to the hold. I’ve just put Liberty and Discovery into kind of cruising altitude—
+AUSTIN: Maryland September?
 
 
-AUSTIN: You mean the Kingdom Come? 
+ART: Oh!
 
 
-JACK: Oh, sorry, the Kingdom Come.
+AUSTIN: She has an ease, and it’s her home turf… and doesn’t want to be taken, and it’s your job to take her away from here.
 
+ART: And remember how subtle I was about implying that we could just beat her up and take her?
 
-AUSTIN: Yeah.
 
+AUSTIN: Oh yeah… super subtle.
 
-JACK: I’m going to go down to the hold.
 
+ART: [pause] What potential complication do I need to be wary of? Is that too much the same question? Or just…
 
-AUSTIN: [cross] Yeah.
 
+AUSTIN: No, no… there’s different things there… there’s different things there. I guess, as you, as you watch Maxine touch this invisible wall… it re-occurs to you that, like… September is a weird place… where lots of super-science experiments were done? And what seems real, and what is not is… deeply up in the air right now. And you… you suddenly get the… it comes to your… to the forefront of your mind that maybe it’s not a good idea just to think “Oh! I made it here now… I’m safe here...” and, in general, you should never take… what seems like the real thing on September for granted… As being real.
 
-JACK: And I’m gonna try and… I guess jack into Detachment?
 
+ART: Oh boy... That was a… that was a bigger one than I [chuckles]... hoped for.
 
-AUSTIN: Yeah, you just, you totally get into it. It’s also missing an arm! A lot of divines end up losing their arms, interesting.
 
+AUSTIN: Mmm-hmm?
 
-[Ali giggles]
 
+ART: And what I hope is the coup-de-grace; where can I gain the most advantage? [Jack chuckles]
 
-JACK: Does this give me anything?
 
+________________
 
-AUSTIN: And so did Hadrian almost lose his arm, weird! Lots of arm loss in Friends at the Table.
 
+[38:41]
 
-ART: Hadrian’s a robot god confirmed, everyone just—
 
+AUSTIN: Fucking… back on The Kingdom Come? Like… In this case, this just means… I think it… what I’ll say is: you’re able to approach here quickly and easily without being noticed by… anybody you don’t want to be noticed by. Specifically, I’ll say: you’re able to do this quickly without Maryland noticing what’s happening. You get close… and it becomes clear… it looks like it’s raining in front of you, but you don’t feel that it’s raining there. And you don’t feel any drafts of wind from that direction. And you realise that there’s an invisible building back to, like… the side where the cabin should be… over? Where the cabin ends. There’s a wall there, and it’s, like… hard concrete. In fact: you touch the logs of the log cabin, and your hand dips into them for a moment. And it too is a projection. 
 
-AUSTIN: I mean he almost was! ‘Cause that’s the thing right?
 
+ART: Oh fuck…
 
-JACK: [cross] Yeah! Pretty much was. 
 
+JACK: Oh Jesus Christ… Umm… can I see this?
 
-AUSTIN: Because if he had let his arm go all the way through, it would’ve— he would’ve become a robot! So, it’s weird.
 
+AUSTIN: Now that… yes… yes: now you can all see this. I mean - it doesn’t go away, you know? But you can see Cass’ hand dipping into the logs. Maxine says, like…
 
-KEITH: Friends at the Table subscribes to the Star Wars theory of limb loss.
 
+        MAXINE: What the hell is this? Where did you...? Why are we out here, Cass?
 
-[Laughter]
 
+        CASS: I needed to talk to Doctor September.
 
-AUSTIN: Alright.
 
+        MAXINE: Doctor September is here?!
 
-JACK: Okay, does this give me anything that I can distinguish as new, or like Maryland September suggested, am I just in a slightly different machine?
 
+        CASS: She’s in the… she’s in… 
 
-AUSTIN: I mean, you’re just two machines now. Yeah, you’re just in a bigger machine.
 
+ART: And I just, like… I like… stop short of saying “the cabin,” and I just… point.
 
-KEITH: Actually, he’s* just three machines. 
 
+        MAXINE: She’s been… gone for… years now.
 
-AUSTIN: Yeah, it is three machines, shit! And you’re in a spaceship, so you’re three machines in a fourth machine. But you’re three conscious machines. 
 
+        CASS: Yeah… Weird...
 
-JACK: Okay.
 
+AUSTIN: Let’s cut back to The September Institute. So… where are you going? I was answering a question, right? 
 
-AUSTIN: Or, you’re four conscious machines. You’re Liberty and Discovery— You’re Liberty, Discovery, AuDy, and Detachment.
 
+KEITH: Yeah…
 
-JACK: [cross] Five.
 
+AUSTIN: I was answering… 
 
-AUSTIN: And God, if Voice could get in there, Voice would be cool with that.
 
+ALI: We were going to the dance to tail... Maryland? No, not Maryland… Maritime.
 
-JACK: I assume— [laughs] I assume Detachment just wants to go. 
 
+AUSTIN (overlapping): You were tailing, uh… Maritime… yeah.
+[40:53]
 
-AUSTIN: Detachment wants to leave.
 
+KEITH: We’re dealing with Maritime, Maryland, and Maxine…
 
-JACK: Yeah.
 
+AUSTIN: Yup… Lots of M’s… and Mako!
 
-AUSTIN: Yeah.
 
+KEITH: Yeah…
 
-JACK: I’m not prepared to leave on my own.
 
+AUSTIN: [pause] I thought there was a specific… question that we were, sort of, answering with this thing, but I don’t remember what. So yeah: you… you… you’ve kind of figured out that she went missing on the night of this… prom. And I’m gonna say, it’s getting to be night time.: it’s, like… sunset; people are starting to arrive; it’s in this big pavillion here? So… for people listening at home, there’s just, kind of, a big cul-de-sac, which is pretty near to where Paisley’s café was… And to the North-East of that, there’s this big pavillion, and, like…
 
-AUSTIN: But there’s enough of you to just… calm it.
 
+KEITH: That’s where that guy had two snowcones, right?
 
-JACK: [cross] To just like, no, yes.
 
+AUSTIN: Right: that is where the guy had two snowcones! Exactly... 
 
-AUSTIN: And again, the thing about Detachment, is that there’s a moment for action. Detachment gives you a critical view, it’s built to have a critical view—
 
+KEITH: Yeah…
 
-JACK: And it’s saying not now.
 
+AUSTIN: But then, further North, towards the, kind of, rocks… towards the, kind of, big basalt… formations… these, like… big, red, geometric-looking rocks… looking out onto the ocean, while the sun hits it from… a direction… I don’t know… I don’t know what direction September rotates… it’s very pretty: and, all through the, kind of… grassy area here? On the way to the pavillion? There are all of these, like… pillars? And… and, like… towers that have been erected? That are like… themed for prom? So… it takes you a few seconds to notice this, but, like… a lot of the students you see are dressed up in really goofy costumes? I think the first one you see is just, like… Someone in a long robe; and then someone else walks by with, like… strange, like… like, a weird metal suit? With a big metal helmet on? Like.. no one would ever wear that? Someone has a sword! It’s very strange… [Ali laughs] And then you get close enough, and you see a banner that says, like… what would it say…? It would say: “Sunset by the Sea: a Fantasy Prom.” And everyone here is… is, like… cosplaying for their prom as some fantasy show that you’ve never watched. Something about Hieron? You’re not sure… 
 
-AUSTIN: It’s saying, I think maybe even Detachment is saying… I think Detachment is reaffirming what I told you before, which is, this is not a fight we— This is a fight we can win, this is not a fight we can win now. 
 
+KEITH: Gasp… [Ali laughs].
 
-JACK: Okay. I reckon we should try and leave. I reckon I’m gonna try and transmit to everybody that this is, this is, this is the moment. 
 
+JACK: Fuck you, Austin!
 
-AUSTIN: Mhm.
 
+AUSTIN: Hey! Hi…How’s it going?
 
-ALI: [sighs] Yeah. Hm. 
 
+JACK: I’m in the woods!
 
-AUSTIN: So—
 
+[43:28]
 
-JACK: I can try and— I can try and lock it in… as we leave? But I feel we’ve gotta, we’ve gotta make a decision before I do that, right? 
 
+AUSTIN: Yeah… you’re in the woods [Ali and Keith laugh].
 
-AUSTIN: Yup. Let’s make the decision.
 
+ALI: You didn’t give us a chance to dress up for this…
 
-KEITH: Can we get—
 
+AUSTIN: Yeah…
 
-AUSTIN: [cross] And what’s up with Mako?
 
+JACK (overlapping): Aria; find me a Divine and I’ll teleport to them [Ali and Austin laugh].
 
-KEITH: Can we, well, first, I’m stuck in the big guy.
 
+AUSTIN: But one of the robed figures walks up to you:
 
-JACK: Yeah.
 
+ART: [inaudible in background, but mention Rigour].
 
-KEITH: That’s the first problem.
 
+AUSTIN (as a new character):Yo, what are you doing?!
 
-AUSTIN: You’re stuck in Ryback, got it.
 
+AUSTIN: So, it’s a… it’s a robed figure who’s, like… has, like, a robe up, over his head, and there are, like… some floating Kindles [laughs] behind him… [Ali and Keith laugh]. Uh… And he flips the hood over, and it’s Lazer Ted! [somebody applauds].
 
-KEITH: [laughs] Yeah.
 
+        ARIA: Hi!
 
-ALI: Oh, boy. 
 
+        MAKO: LT! What’s good?
 
-KEITH: Can we— Can we get Voice to chime in on this?
 
+        AUSTIN (as LAZER TED): How you doin’?
 
-ALI: Yeah, do we wanna leave Voice behind? ‘Cause I feel like we should destroy it and go, but that’s probably gonna be a whole thing.
 
+        MAKO: I’m doing good!
 
-ART: Is Voice a thing, could we take Voice? What’s Voice look like?
+        TED: Why aren’t you in costume?
 
 
-AUSTIN: Voice is like Righteousness. In that it’s an algorithm.
+        MAKO: I was studying, and then I realized that this wasn’t real…
 
 
-ALI: [cross] Yeah, okay.
+        TED: Yeah… what is, though?
 
 
-AUSTIN: That currently is set up to run— I guess it isn’t any more, it’s free now because Twelfth is dead. Yeah. I think Voice calls out, and I think everyone hears it. No one misses this voice. I think it stuns everyone all at once. It stuns, it stuns Mako because he’s inside of Rigour, and it stuns Rigour itself. It stuns Cass because, because Apokine is built to listen to those who are hurt. It— it hits Aria because it rises up through, like, the earth itself? And I kind of like it propelling you back up through the mines where you kind of explode up through Rigour’s arm as it falls away. And, and it hits AuDy, because like, AuDy, you are a divine and you are inside of other divines. 
+        MAKO: Yeah…
 
 
-JACK: [laughs] Mhm.
+        TED: A’ight… so do you need some… do you need some looks? What do you need?
 
 
-AUSTIN: And, y’know.
+        MAKO: Yeah… ah man; you got looks for me?
 
 
-JACK: And the effect is compounded.
+        TED: Yeah…
 
 
-AUSTIN: Right. You’re hearing the candidates of Voice, which are the citizens of September.
+        MAKO: OK, let me see…
+[44:19]
+        
+        TED: Well, come with me to the museum [Ali laughs].
 
 
-JACK: What are they saying?
+        MAKO: You’ve got a museum? 
+        
+        TED: I mean… there is a museum… I have access to it.
 
 
-AUSTIN (as the candidates of Voice): Help.
+        MAKO: OK…
 
 
-JACK: Oh, great. 
+AUSTIN: And he leads you off…
 
 
-AUSTIN: And— 
+KEITH (overlapping): That’s what you call…
 
 
-KEITH: [cross] [sarcastic] That’s annoying, yeah, Jack, I’m with you!
+AUSTIN: Yeah…
 
 
-AUSTIN (as the candidates of Voice): Let us help.
+KEITH (some of what Keith says lost in cross-talk): closet at the museum…
 
 
-ART and JACK: [cross] How?
+TED: It’s the Magenta Museum; that’s where I live [Keith laughs]. I’m kinda the janitor there, but they let me live there too, it’s good… it’s good...
 
 
-AUSTIN: [cross] There is something there that is like, there’s a willingness because they’ve seen so much to do whatever it takes. There are people here who used to be slaves to a divine. Who are still alive, and who grew up to see like, a cool university get built, and there like, are summer festivals, and a shitty mall but like, they used to be slaves. To a divine. Fuck that.
+AUSTIN: So, he leads you to the side, and he’s going to hook you up with some costumes for this… for this… fantasy prom.
 
 
-JACK: But are we just— okay, but like…
+KEITH: Dope...
 
 
-AUSTIN: They don’t know how.
+AUSTIN: What do you look like? Also: it’s not actual costumes… It’s... just, like… weird holograms, like what he gave AuDy that time [Ali laughs]. When he made AuDy a Republican [Keith laughs]. So talk to me about fantasy Mako and fantasy Aria; talk to me about… who in Hieron they’re cosplaying as [Ali laughs].
 
 
-JACK: Right, but if we were to use them to close the door on Rigour, we’d just be locking them in there with another one.
+KEITH: OK… So… 
 
 
-AUSTIN: Yeah.
+KEITH/MAKO (unsure if in character): I’m thinking of myself, sort of… as… I don’t know, like… uh… a sort of rough-and-tumble, but goes with the flow… sort of… trying to forget my dangerous past, pirate sort of guy?
 
 
-JACK: Do they know the cost?
+AUSTIN: Oh, really? OK…
 
 
-AUSTIN: No. They’re emotion. And anger, and just enough intelligence to be dangerous to themselves. Which is probably true for a lot of people at war. [Jack hums] Forced into war. 
+KEITH: Yeah.
 
 
-JACK: [cross] What do you think?
+AUSTIN: So is like, your neck all jacked-up? [Ali laughs]
 
 
-ART: Can we— [cross] Could any of us communicate with Voice? Can all of us communicate with Voice?
+[45:28]
 
 
-AUSTIN: Yeah. You could all communicate with Voice.
+KEITH: Yeah, my neck’s, like, all jacked-up.
 
 
-ART (as Cass): What do you— what should, what do you want? How can we do it?
+AUSTIN: OK…
 
 
-AUSTIN: It doesn’t have… answers. It like, when you ask it a question like that, it has just… it, you answer back. Like, and so do all the other voices of just like:
+MAKO: Maybe like a… ghost… like a… ghost pirate, king pirate?
 
 
-AUSTIN (as the candidates of Voice): We have to stop it! We have to get out of here! Whatever it takes!
+TED: Oh yeah, cos it’s, like… a hologram! I got the best idea! Hold still!
 
 
-AUSTIN: Like, it’s just a mess of voices. This, perhaps, is why there are singular candidates. Because when they are not all together… I think if anyone could talk to Voice and organize it, it’s probably Aria? 
+AUSTIN: And the he, like… slaps you once? And… your… your… regular body turns shimmery and clear. And now you’re, like… a hologram ghost pirate [Ali laughs].
 
 
-JACK: [cross] Vision thing, right?
+MAKO: Do I get, like… do I get, like… a… some sort of animal companion? Like, a seafaring friend?
 
 
-ALI: [cross] Yeah.
+        TED: Nah, that’s extra… [Ali laughs]
 
 
-AUSTIN: Yeah, vision thing.
+        MAKO: That’s extra?
 
 
-ALI: Yeah. I don’t know, what are we going to do with it? Would we be able to use Voice and Detachment to open… no, that’s the same problem, to open the portal?
+        TED: Yeah…like… if you’ve got a credit or two, like…
 
 
-AUSTIN: No, you could totally open that portal, yeah. And then—
+        MAKO (overlapping): We go way back!
 
 
-ALI: And then leave through it?
+TED: Yeah, but, like… so do my… my debts go way back too, you know? [Keith laughs]. So I’m tryin’ a pay those off [Ali laughs]. Get my credit right.
 
 
-AUSTIN: No, you couldn’t leave through it, but you could trap Rigour in there. And probably all of September.
+KEITH: OK… So Ted’s looking to get a secure credit card?
 
 
-[beat]
+AUSTIN (laughing): Yes!
 
 
-ALI: And then what… what happens to us?
+KEITH: So he can get a house?!
 
 
-AUSTIN: You, you fly away.
+        TED: I’m just tryin’ a get an apartment… [Ali and Keith laugh].
 
 
-ALI: Well, shucks. That’s really our best option, though.
+AUSTIN: So, what about Aria?
 
 
-AUSTIN: It’s not the only one, I will say that. I don’t think that’s the only— 
+ALI: Umm… I think that Aria doesn’t know how to make sense of this?
 
 
-KEITH: [cross] How many…
+AUSTIN: I think Aria might be the only one who knows what this is, actually [Ali laughs]? Cos this is definitely an EarthHome property.
 
 
-AUSTIN: I think fleeing is also a totally acceptable answer.
+ALI: Yeah…
+[46:38]
 
 
-JACK: Yeah, we could just leave, right?
+AUSTIN: Right? Or, like… it wasn’t for a long time, and then the EarthHome version is the one everyone knows now?
 
 
-AUSTIN: But, that also means Rigour just gets to be.
+ALI (laughing): Right… God...
 
 
-ALI: Right. 
+AUSTIN: She probably auditioned for a part, and didn’t get it…
 
 
-AUSTIN: Or you could keep attacking it, and maybe do enough damage for, to save some, yeah. There’s a lot of long shots.
-
-
-KEITH: How, how many— can I ask Voice how many of them are… strati?
-
-
-AUSTIN: Couple dozen.
-
-
-KEITH: Couple dozen?
-
-
-AUSTIN: Yeah.
-
-
-KEITH: Can I ask them to… help me find a way out of Rigour?
-
-
-AUSTIN: [cross] Yes. Absolutely. 
-
-
-KEITH: ‘Cause I can’t— I can tell them what to do so that I don’t die doing it myself.
-
-
-AUSTIN: [cross] Yes. Yeah, I think that they help peel away layer after layer of Rigour to get you out. And you’re like, yanked  through it, down through its like, its whole length, take another harm. Actually, where are you at? Let’s see where you’re at.
-
-
-KEITH: [cross] I’m at 2300 right now.
-
-
-[1:00:00]
-
-
-AUSTIN: ‘Cause you’re gettin’-- You’re very hurt. Mako is very hurt. And like, are pulled through it so you don’t just die from being launched from the top of a skyscraper. [Keith laughs] ‘Cause you don’t have your board anymore.
-
-
-KEITH: No, I don’t.
-
-
-AUSTIN: Aria, you see Mako on the ground, like crawling out of Rigour’s leg, and you see Voice. I think, I think you have to make a call.
-
-
-ALI: Yeah, I think we knew that we were gonna lose September, regardless, and like, I don’t know! Like, it’s like a horrible sacrifice, but it’s one that like, buys the entire galaxy a lot of time.
-
-
-AUSTIN: Mhm.
-
-
-ALI: And I think that like, Aria has to confront that like, action takes sacrifice? 
+ALI: Uhh, probably…Oh… poor Aria! I think… OK… No. So… she, like… recognises this property, and auditioned for the part? And, like… has the opportunity now to…
 
 
 AUSTIN: Right.
 
 
-ALI: … So I think that the… [sigh] The thing that Aria asks Voice is like,
+ALI: To be that person. She looks at Lazer Ted, and then claps her hands together and be like:  
 
 
-ALI (as Aria): Help us leave. So... this isn’t just a waste, so we still have a shot.
+        ARIA (clapping): Can I be the Queen? Do you have a Queen of Pearls outfit?
 
 
-AUSTIN: Give me a, give me a vision thing.
+TED: You know… I was saving that one for later, but… a’ight; for you… for you, Aria.
 
 
-ALI: Oh god.
+ARIA: I’d look so good in it!
 
 
-AUSTIN: Style, it’s style.
+AUSTIN: And, like… he’s like…
 
 
-ALI: It’s style! ... And that’s a seven?
+        TED: One second.
 
 
-AUSTIN: That’s a seven. You gain one hold. So spend one hold to have the target NPCs give you something you want, do something you ask, fight to protect you or your cause, disobey an order, give authority or leverage over them, it’s yeah. Yep! So I think this is, this is what happens. I think Voice opens that portal, and in the, two Faction games ago we talked about each of the… each of the divines having like, a different visualization for what the door looks like. And I think, so it’s Detachment and Voice doing this?
+AUSTIN: And he comes out with a real dress? From just… a room in this museum [Ali and Jack laugh]. Uh…
 
 
-ALI: Yeah.
+        TED: But you gotta give it back by tomorrow, though.
 
 
-AUSTIN: AuDy, are you out of Detachment at this point? Or are you still in it to make it do this thing?
+        ARIA: Ted… You know I got you.
 
 
-JACK: I think I’m in it to make it do the thing.
+        TED: Yeah. I know.
 
 
-AUSTIN: Yeah. I think so too. So, AuDy, what’s your door look like, did we decide— oh, it’s Liberty and Discovery, it’s literally doors opening. It’s literally a door appearing and opening because it’s Liberty and Discovery. With Voice, I think that it’s, it’s like the world just, it does the thing that it’s always done with the mesh, where it paints a new world over the world it is, until it’s the one that would be on the other side of the portal. And I— those two doors like, grow in size. So on the Liber— on the September one, it’s just an image of September in ruins. It’s just like, devastated. But the good news is that a number of people can get through that portal and onto Kingdom Come where Detachment is before it’s too late. If I give you… three people. Who do you save?
+AUSTIN: And yeah… you’re just, like… dope, like… whites and opal colours… and, like… weird pearls, and like… it’s good. It’s a good look. Aria’s dressed to the nines right now… [pause]. So, you get to go into this weird prom! You don’t… in your… in your hurry to get dressed for prom, you don’t know where Maritime Lapel is! [Ali, Jack, and Keith laugh].
 
 
-ALI: Of the party, or just in general?
+KEITH: Can I…
 
 
-AUSTIN: No, the party’s fine.
+        MAKO: Hey, Ted; have you seen Maritime?
+[48:07]
 
 
-ALI: Okay.
+TED: Nah, she didn’t want a costume. I tried… I thought she’d be a real good, like… you know… them girls with the laser guns? Like… she’d be one of them; they’d be a’ight, but… she said she wanted alone.
 
 
-AUSTIN: You’re able to pick up— also, what’s Aria do? Let’s slow down, wait a second, what’s Aria, yeah, do you just say help us? What’s that, what’s that visually look like? Are you shouting it, are you saying it calmly? 
+MAKO: Huh… You know if she’s here? If she’s…
 
 
-ALI: No, she’s definitely not shouting… I think it’s more like, the, the cadence that a performer has before their last song?
+TED: I don’t know, like... I… I know no one asked her, but… I don’t know; she’s been creeping around a lot of places lately, so… She might be around? She might could be, I don’t know…
 
 
-AUSTIN: Okay, yeah.
+MAKO: Creeping around?
 
 
-ALI: Because that’s what it, it feels like, right? Like, being able to see it or, or really more being in the presence of it, it feels like an audience?
+TED: Yeah, like… she’s, like… I don’t know: she came to me a couple of weeks ago talking about secret laboratories and shit, I don’t know… 
 
 
-AUSTIN: Yeah.
+MAKO (excited): Secret laboratories! That means we’ve gotta go to the Theoretical Science and English department… 
 
 
-ALI: So she feels comfortable, but… [sigh] She knows she has to say goodbye, and she knows that she is in their debt, and I think that she knows well enough not to drag this out. [deeper sigh] So she says…
+TED: No, that’s where my secret laboratory is; that’s where I grow that real stuff [Ali laughs].
 
 
-ALI (as Aria): It isn’t easy of me to ask this of you. This world is really beautiful and I won’t ever forget the smell of the sea, or, or the feeling of the rain, but… this is the only way. I will fight to make sure this sector knows what you’ve done for it. To make sure the opportunity that you’re giving us isn’t wasted. Thank you. Thank you so much. 
+KEITH (laughing): OK…
+        
+TED: I keep it there ‘cos no one would look there; that’s just books [Ali and Keith continue laughing].
 
 
-AUSTIN: Okay. Yeah, I. Here’s what it actually looks like. It looks like the same scrubbing stuff that you were doing before through, through the file of September. As it just like, it scrubs itself back and forward as if it’s trying to work— as if Voice is trying to work out alternate outcomes until it hits the one that is like, Rigour locked in place between the two doors. So yeah, of the, of the people who, who get through this door, of all the NPCs on this planet, who do you save?
+MAKO: Wait, you’re saying nobody uses that whole building?
 
 
-ALI: Do Orth and Jacqui count as two, or do they…
+TED: No but, just like… why would my weed be there? [Ali, Jack, and Keith laugh]. Alright; I gotta go dance.
 
 
-AUSTIN: No, Orth and Jacqui are fine.
+MAKO: OK; you go dance.
 
 
-ALI: They’re fine, okay. Is this just my choice? I was expecting to save Jacqui 
+KEITH: Maybe… Maybe… Ah! Can we… can I use the thing to scrub through again?
 
 
-AUSTIN: No, no I think everybody but AuDy gets a choice.
+AUSTIN: Sure.
 
 
-ALI: Okay.
+KEITH Maybe we could see her… doing a thing. Do I have to roll for that? Or can I just…
 
 
-AUSTIN: Because AuDy hasn’t made their choice.
 
 
-ALI: I feel like mine is Paisley?
 
 
-AUSTIN: Huh. Okay.
+[49:23]
 
 
-KEITH: Wait, hold on, what about the, that he’s got, he’s got dead eyes now.
+AUSTIN: No… I’ll just say, like… you’re able to do… cos you basically succeeded at that earlier… She’s definitely in that pavillion. She went in earlier today? Before, like… as things were still in the setup phase? Has not yet come out from there… but is… definitely… she definitely went in and was not in costume.
 
 
-AUSTIN: He does have the dead eyes.
+KEITH: So I guess I’ll just look around and…
 
 
-ALI: Oh, Aria’s like, definitely still in love with that guy, so.
+AUSTIN (overlapping): Oh! And then you come back, and because you fucked with this? Now [laughs]... You’ve… you go to hit play again basically, as she goes in? And… Fantasmo Ted comes back up to you? And he’s like:
 
 
-[laughter]
+        TED: Yo, good outfits! I really like those! [Ali and Keith laugh].
 
 
-AUSTIN: Oh, buddy. Oh, pal. 
+MAKO: Hey! Do you have, like… an animal companion or something? Or maybe some sort of creature of the sky that I could have?
 
 
-ALI: [laughing] Yeah, it’s too bad.
+TED: Yeah, I got you… don’t worry; give me a second [Ali and Jack laugh].
 
 
-AUSTIN: Okay, that’s a shame.
+MAKO: Nice…
 
 
-ART: If it makes you feel any better, I think Paisley was on my shortlist too.
+AUSTIN: And he just gives you, like… a big, black, like… stuffed bird? [Keith laughs]. And just puts it right on your shoulder. 
 
 
-[Ali laughs]
+        TED: That looks good…
 
 
-AUSTIN: Okay, you’ve got some respect for him. Alright. Cass?
+MAKO: Thanks Ted…
 
 
-ART: Who do I like on this planet? Ali’s typing… Nope. No, that’s not mine. [Ali wheeze-laughs] That can be Mako’s. That guy said a rude thing to me when we met him. 
+AUSTIN (laughing): But it’s not… it’s not, like… see-through? So it’s just hovering on your weird see-through shoulder? [Keith laughs].
 
 
-[Jack laughs]
+        TED: One second… 
 
 
-KEITH: Yeah, but he helped us so many times!
+AUSTIN: And he, like… reaches inside of his big robe pock… uh, not pockets… the sleeves? And gets some, like… twine? And he, like…
 
 
-ART: He hasn’t helped me once!
+        TED: I gotta tie this on for you real quick. I gotta make sure you look good. 
 
 
-KEITH: And who’s better?
+AUSTIN: And, like…
 
 
-ALI: I made my shitty character choice. 
+        TED: Alright; good.
 
 
-AUSTIN: Yeah.
+[50:46]
 
 
-ALI: I played honestly! But, [laughs], as like, a person and fan of the show…
+MAKO: This reflects back on you, Ted.
 
 
-KEITH: I, listen, I needed one of you guys to pick Ted so that I could pick Tower, but if Art doesn’t pick Ted, then I have to pick Ted.
+TED: Yeah, exactly. My merchandise has to look good. I’m an entrepreneur? I got, like… seven businesses. A’ight… business number one: Costume Shop. 
 
 
-ALI: [cross] Oh nooooo….
+MAKO: One of them’s gonna fucking take off, I can... feel it. 
 
 
-ART: [cross] I’m not pickin’ Ted. Oh, was what’s her name real? Why do I forget her name.
+TED: Business number two: I sell drugs sometimes [Jack laughs quietly].
 
 
-AUSTIN: Maxine. [cross] Yeah, Maxine’s real. Yeah.
+MAKO: Yeah, I got it…
 
 
-ART: [cross] Maxine. Maxine, I’ll take Maxine. 
+TED: That was a mistake though. But, like… mostly, it’s for me. Business number three: I have my own 3D Printing company [Ali laughs].
 
 
-AUSTIN: Okay, Maxine Ming, from Kesh.
+MAKO: Oh yeah? 
 
 
-[Keith sighs]
+TED: Yeah… I got a printer, and now I can do whatever I want. Four...
 
 
-ART: She’s my friend. 
+MAKO: Where did you get the printer?
 
 
-AUSTIN: Sorry Tower, or sorry Ted. And sorry Maryland, I guess, but like, hey, it’s what she wanted, I guess.
+TED: Wh... you know that… Four: uh… I’m a janitor? But like… Independent Janitorial Services. You know…
 
 
-ALI: [cross] Yeah.
+MAKO: Right…
 
 
-ART: [cross] She didn’t wanna go, I wasn’t gonna, I gave her, I gave her a shot.
+TED: I clean things up; five... 
 
 
-AUSTIN: I don’t blame you.
+ARIA: That makes sense…
 
 
-ALI: I’ll give her that death, like she’s earned it.
+TED: Obviously, I am an Entertainer. Six: I make music. And seven: I am a rapper, so… that’s seven different jobs I got.
 
 
-AUSTIN: Yeah.
+MAKO: And the mu… so, you make the music for the rapping? 
 
 
-ART: I hope Righteousness understands. [Keith sighs] 
+TED: Nah, it’s different. 
 
 
-AUSTIN: Oof.
+MAKO: OK…
 
 
-ART: We’re not getting paid, are we?
+TED: I… I buy my beats; I try to give back like that [Ali and Keith laugh].
 
 
-AUSTIN: No. [laughter] Well. A little.
 
 
-ART: Is it ‘cause we suck? Is that why?
+[51:50]
 
 
-AUSTIN: No, I mean, you fuckin’ stopped Rigour. It seems, for now. God I— hm. Okay.
+MAKO: Can I tell you; can I give you… I feel like, maybe you don’t want to do this consolidating… but maybe you could… save a little bit of money if you just made your own beats.
 
 
-ART and ALI: [cross] Yeah.
+TED: Nah, that’s… I want to double the number of businesses I own. 
 
 
-KEITH: Better than anybody else has ever done. 
+MAKO: Oh… OK…
 
 
-AUSTIN: Yeah. Let’s— 
+ARIA: You want to own fourteen businesses?
 
 
-KEITH: Across 80,000 years. Alright, hold on, let me—
+TED: Fifteen.
 
 
-AUSTIN: Is it, is it Ted? 
+ARIA: Oh…
 
 
-KEITH: I don’t know…
+MAKO: Round-up?
 
 
-AUSTIN: Is it Ted, or is it the boy you danced with?
+TED: Yeah; gotta round-up. Round-up to the fives.
 
 
-KEITH: I guess it’s… [whispers] it’s—
+MAKO: Do you know what the next seven are gonna be?
 
 
-AUSTIN: It’s up to you.
+TED: Yeah. Of course.
 
 
-KEITH: [whispers] It’s Ted.
+MAKO: Yeah? 
 
 
-AUSTIN: [amused] Did you just whisper something? 
+TED: Uh… a’ight… [general laughter] So, that was the first seven… Eight…
 
 
-KEITH: [mumbling] Yeah, I said it was [unintelligible]
+MAKO: Eight…
 
 
-ART: Yeah, no one heard you! 
+TED: Windows… like… you see through ‘em, and they’re pretty… you can stain them sometimes, but like… with lasers… So that’s, like… look at that dope...
 
 
-AUSTIN: I can’t, wait, one more time?
+MAKO (overlapping): Laser stained glass windows?
 
 
-KEITH: [whispers] Ted. 
+TED: Laser stained glass windows: you see it. Nine: like… Windows, like… the operating system; I’m gonna bring it back. I have a Windows phone… no one…  People need to understand: Windows phones are dope! And… I’mma make ‘em understand. 
 
 
-[laughter]
+MAKO: OK…
 
 
-AUSTIN: I can’t, I can’t— Is Keith still here?
+TED: Uhh… that’s number nine, yeah… Ten: uhh… I’mma do stage shows, like… for other people, like… pyrotechnics, and what-not? 
+[52:57]
 
 
-KEITH: [the tiniest voice] Hi. 
+ARIA: Oh!
 
 
-AUSTIN: Oh, it’s a little boy, it’s a little Keith! 
+TED: So, you know…, Aria; you hit me up.
 
 
-KEITH: [whispers] Um, Ted.
+ARIA: I will… 
 
 
-AUSTIN: Hi, Little Keith.
+TED: Eleven… uhh… So I already do costumes… and now I’m also gonna do costume cleaning; as a separate business. That way, when you’re done with your costume…
 
 
-KEITH: [whispers] Hi. Ted. 
+MAKO (overlapping): [beginning inaudible, but encouraging tone]... you’re monopolizing on that.
 
 
-AUSTIN: Who do you wanna save? 
+ARIA (overlapping): That makes sense...
 
 
-KEITH: [whispers] Ted. 
+TED: Yeah; monopolies are allowed on September; that’s one of the reasons I moved here. Thirteen… is that right, thirteen?
 
 
-[laughter]
+MAKO: That…
 
 
-AUSTIN: I think he said Ted.
+ARIA (overlapping): You were up to eleven.
 
 
-KEITH: [whispers] I said Ted. I think I said Ted.
+MAKO (overlapping): We’re on number twelve.
 
 
-AUSTIN: [stage whisper] Welcome to the Ted x ASMR hour. [normal voice] Alright.
+TED: Well, OK; thirteen [Ali and Keith laugh]: I’m gonna do fortunes. I’m gonna tell people fortunes, like… oh yeah; you gonna have a good day. Like that.
 
 
-KEITH: [laughing, normal volume] That’s his, that’s his fifteenth business. 
+MAKO: OK…
 
 
-AUSTIN: [laughing] Uh huh. Oh, no, his fifteenth business, is, when you get to fifteen, what I was supposed to say was:
+TED: That was your fortune just now. 
 
 
-AUSTIN (as Lazer Ted): Y’all ever watch Buffy?
+ARIA: Well, thank you!
 
 
-[Laughter]
+MAKO: Yeah, wait; which one of us?
 
 
-[Clap]
+TED: Aria…
 
 
-KEITH: He also skipped one, so he has room for another one, it’s an ASMR channel.
+MAKO: What about me?
 
 
-AUSTIN: Yeah, so yeah. The people who have survived are, are scrambling away from Rigour. Both from it and from the portal opening below them. And I think you see that, AuDy, you see the people fleeing and Rigour reaching through the portal, and you realize what’s happening. You see what it’s doing. And then it’s plan becomes clear to you, AuDy. It wanted Voice so that it could open a door to the other divines. To break through the way Voice had broken through with Loyalty all those years ago. To step through the portal, and devour them all. Why not? And this hits you like a wave, you are a divine too, and though it is weakened now, it might eat you. Why not? And something deep and old in you wants to leave now. What do you do?
+TED (overlapping): Mako… yn…. yn… not… Mako…
 
 
-JACK: So I’m inside Detach— I’m inside the, the mech body of Detachment, right? 
+MAKO: Yeah?
+[53:44]
 
 
-AUSTIN: Yeah.
+        TED: Not…
 
 
-JACK: At this point. Okay, so I think that, I think that…
+        MAKO: My god… what?
 
 
-AUSTIN: And that’s missing an arm too, right? [cross] You’re missing an arm, it’s missing an arm.
+        TED: Yeah… anyway… I’ll see you all inside!
 
 
-JACK: [cross] Right, I’m missing an arm, and it’s missing an arm. I think that, I think that it’s the opposite of those beautiful mech intros and exits in Titanfall, and I guess how we’ve been describing the show beforehand as well, where it’s not smooth and it’s not well timed or immaculate, it’s just this sort of… fly against the glass almost, trying to get out of the Detachment body. So I guess the AuDy unit, the body, flings itself out of the seat and tries to, begins to beat against the glass and tries to find the release handles and the hatches. But I guess because it’s a divine, there aren’t?
+        MAKO: Wait; what is it? Hey!
 
 
-AUSTIN: No, why would there be? Like, we, we… AuDy— Liberty and Discovery opened Detachment all those…
+        ARIA (overlapping): Wait!
 
 
-JACK: Yeah.
+        TED: Yeah, uh… thanks so much y’all!
 
 
-AUSTIN: Months ago, now. But if it doesn’t want to be opened here, like it opened to Liberty and Discovery then because it was like, oh, it’s you! It’s you, it’s a friend, it’s Liberty and Discovery. And now it’s not interested in opening.
+        MAKO: What’s the last one? What’s the last one?!
 
 
-JACK: I guess is the other thing about divines, right, which is that you don’t need any emergency hatches because firstly, it’s very unlikely that you’re going to be in an emergency that’s very dangerous for you, and also, if there is an emergency, you’re going down with the ship, right?
+        TED: I forgot…
 
 
-AUSTIN: Right, right.
+ART: Monopoly; I’m bringing that board game back! [general laughter].
 
 
-JACK: Candidates don’t get to get out of their divines and go, mm no, the battle’s over, that’s—
+AUSTIN: That’s the last one! Alright… He goes inside. I’m guessing you’re going inside also? But let’s cut back here… I guess; you go inside, and are able to… like… immediately, it’s just, like… lots of people are in there, getting ready for things to pop off. And that’s where we’ll go back to the woods. So what are you guys doing outside?
 
 
-AUSTIN: [cross] There is no, there is no escape lever, there is no ejection seat.
+ART: Hey, AuDy, real quick: if we were at a hypothetical Hieron-themed formal right now [Jack laughs], who do you think you would be dressed up as?
 
 
-JACK: Right. And, and so I think that, that AuDy is… or no, I don’t think that it’s AuDy, I think that Liberty and Discovery… The part that— the partition inside the AuDy frame is, is scrambling for these, these,  the escape levers, and they’re probably trying to radio back to the Chime, but by now I think the effects of the portal are too great.
+JACK (laughing): We’re not allowed to answer that question! [more background laughter] We make bad decisions! [pause for laughter] in our lives… That would be cheating. But who would you dress up as? 
 
 
-AUSTIN: Yeah. We, we started to describe the different portals I think, earlier, and I, I wanna redescribe the, there’s a better idea for, for the… for the one from below, from the one that, that Voice is actually putting out. So just picture like, Detachment here with one arm, Rigour with one arm, AuDy with one arm, and below them all, the floor, the ground under the September Institute takes on the shape of stained glass. Like, just… reds and blues and yellows, primary colors mostly, and just, just geometric shapes. No, no figures, none that, no intentional figures anyway. Maybe you, you see one, maybe you think there is one there.
+ART: Oh, I don’t know… it hurts that Lazer Ted took Fantasmo… [Ali and Jack laugh]. 
 
 
-JACK: [cross] No, I totally— I think I know what it is, in that it’s… you ever have horrible abstract nightmares?
+JACK: There are no… there are no robots in Hieron… 
 
 
-AUSTIN: Yeah.
+AUSTIN: That’s not true…
 
 
-JACK: In which you’re not dreaming of anything in particular, but something about a pattern of colors or shapes or sounds is in its own way horrifying. And I think Liberty and Discovery looks down through the—
+JACK: Yeah? Don’t tell me… I’m wracking my brain… Look… I’ll…. If we can get there, I’ll… I’ll… 
 
 
-AUSTIN: [cross] Yeah.
+AUSTIN: OK.
 
 
-JACK: Through the bottom of the cockpit, and sees this opening up and something inside it is just, is absolutely terrified.
+[55:08]
 
 
-AUSTIN: Yeah. 
+JACK: OK; so… Cass… [this exchange between Jack and Art possibly in character? It seems neater if it isn’t?]
 
 
-JACK: [cross] And then I think that—-
+ART: Yeah…
 
 
-AUSTIN: [cross] Do you think it’s the multiplicity of it? Do you think that it’s… because Liberty and Discovery are two people, or sorry, two divines that are one, but without a candidate, and then Voice is this thing that is… a thousand candidates, and, and barely a divine at all.
+JACK (laughing): Do we want to split up?
 
 
-JACK: Yeah, I think that it’s just that it’s… I think that Liberty and Discovery, having spent so much time in the sector and further than the sector, thinks they understand what multiplicity looks like, or thinks that they can find patterns, and looking down at this they realize that there’s no getting out of this one. [cross] But they’re trying.
+AUSTIN: Oh boy…
 
 
-AUSTIN: [cross] No. I also like that it’s stuck, it’s stuck between these two portals that represent things that Liberty and Discovery either internally or historically has been opposed to in a way, right? Where, you know, Voice is again, all these different candidates when Liberty and Discovery decided they didn’t want any. And then Detachment is… this is what Detachment’s fine with. Like, yeah, I’ll go, I’ll, yep, sure. I’ll vanish for a while, why not? I’m basically not here anyway, I don’t need to go anywhere. Whereas Liberty and Discovery are fundamentally about leaving places.
+ART: No! What!? We’re in such insane danger right now!
 
 
-JACK: But I think what we’re seeing here at the moment is, at least for a moment…
+JACK: OK… Uhh… I’m just worried about Maryland now?
 
 
-AUSTIN: Mhm.
+ART: I’m super worried about Maryland…
 
 
-JACK: [clears throat] Sorry. Detachment… Detachment is acting.
+JACK: OK… but you still wanna… you still wanna go with Maxine?
 
 
-AUSTIN: [cross] Right.
+ART: Can we bring Maxine inside?
+        
+        MAXINE (overlapping): Things got worse when she left.
 
 
-JACK: And it’s acting by not opening the cockpit. And it’s not saying anything at all—
+        CASS: What?
 
 
-AUSTIN: [cross] Right. 
+        AUDY: Yeah…
 
 
-JACK: It’s just, it’s just, it’s not opening. And this is— 
+MAXINE (slowly): Things got worse… when she left. It wasn’t… [pause]. You know, when I was here in my first year, one of the early ones, she was still teaching? And she was great. We had, like… a seminar. One of those, like… you know, uh… you’re new, but… here, you’re gonna get to learn from, like… a really good professor type-thing, and it was a… mixed-ages thing, and she was really inspirational. And then she left, and I don’t… Everything… everything got weird after that. 
 
 
-AUSTIN: Yeah. We’ve never heard Detachment speak at all, actually, have we?
+ART: I really wish there was a polite way to ask her if she was real… Are these Maxine’s real memories? Or...
 
 
-JACK: [cross] No. 
+JACK (overlapping): I could do that?
 
 
-AUSTIN: That’s appropriate.
+ART: Has Maxine always been this Divine?
 
 
-JACK: No, we haven’t. 
+JACK: OK… So… here’s what I’m gonna do: 
 
 
-AUSTIN: I don’t think, I don’t think we have, yeah.
+[56:32]        
 
 
-JACK: We’ve heard Quentin speak, but never, never Detachment. 
+        AUDY: Maxine.
 
 
-AUSTIN: Yeah.
+        MAXINE: Yeah?
 
 
-JACK: And I think Liberty and Discovery knows, knows what’s happening here. And so it’s trying to use, it’s trying to use really, the only sort of way of physical enacting that it can, which is the body of the, of the AuDy unit. And then I think that, just like… like when an anestheologist says— anestholo— anesth—?
+        AUDY: We know what you are, even if you might not…
 
 
-AUSTIN: You got it.
+        MAXINE: I don’t know what you mean…
 
 
-JACK: Did I say it right the first time? 
+AUSTIN: And there’s something with her that is, like… coiling back from you. 
 
 
-AUSTIN: Anesthetologist? Aneste— Anestetologist.
+        MAXINE: I know what you are. I’ve learned about you… You’re the one there’s two of. 
 
 
-JACK: Anestheologist?
+        CASS: Did Maryland tell you that?
 
 
-AUSTIN: Anes— Anestheo—  Yeah.
+JACK (overlapping, laughing): I’m just, like… looking at Cass. 
 
 
-JACK: Anesthetician? 
+        MAXINE: No, that was later. I learned that later. 
 
 
-AUSTIN: That’s it. [laughs]
+        CASS: Do you think Maryland wants to see you?
 
 
-JACK: When an anestheologist says “Countdown from ten for me?” And you feel your limbs getting heavier. Or just like, when you’re starting to sleep and you feel your limbs getting heavier, I think Liberty and Discovery realizes in this moment that something horrible and unexpected is happening. Which is that for the first time since floating in space outside of this machine they’re trying to escape, they can feel AuDy pushing back against them.
+MAXINE: I don’t know? It’s been a long… she probably doesn’t remember me.
 
 
-AUSTIN: Okay.
+CASS: I don’t know… I think professors usually recog... remember their good students… [pause]
 
 
-JACK: And the servos in their arms begin to act a little less, and the servos in their legs begin to act a little less, and maybe they even begin to lose a little vision, because why is vision important when you’re gonna be here for so long, you know?
+MAXINE: I could’ve been better… I was always goofing off. 
 
 
-AUSTIN: [cross] Right, right. Settle in.
+AUSTIN: She’s like… she like… lowers her head a little bit? She’s like… looking at AuDy from different angles, and like… walking towards them. 
 
 
-[1:15:06: MUSIC: The Third Time]
+        MAXINE: So, what are you doing here? [pause] Both of you...
 
 
-JACK: Right. And I think that’s what they do. 
+        AUDY (overlapping): We have been sent here on a mission.
 
 
-AUSTIN: [cross] Alright.
+        MAXINE: Wait a sec… [laughs] I don’t know… I don’t… know… either… 
 
 
-JACK: I think, I think AuDy sits back inside the chair as the stained glass blossoms underneath them.
+AUSTIN: She’s, like… coming-to a little bit here? And steps… back suddenly, after, kind of… walking towards you, AuDy? 
 
 
-AUSTIN: And then from them, there’s a shadow that I think pulls out over Detachment that slowly covers up the light from above. So, the doors close behind you as those on the September— as those on the Kingdom Come— God, I guess Orth, Orth asks to be dropped at the Kingdom Come, and like, lowers from a ladder from Cass’ weird robot to the Kingdom Come with Jacqui, and goes in and he’s like,
+        MAXINE: I should go back…
 
 
-AUSTIN (as Orth): AuDy, where are you, you—  AuDy? AuDy? [muttering] Where is that…
+[57:56]
+        
+        AUDY (overlapping]: Look out for the wires…
 
 
-[Ali whines]
+AUSTIN: She [scoffs] at that moment, trips and stumbles over them. And falls, and, like… her… her… dress gets very muddy. Remember she’s, like… in Kesh clothing, basically? She’s in… she’s in the colors of, uhh… Whitestar, but it’s still, like… dressed like… the, kind of…
 
 
-AUSTIN: And he goes and he waits, and he sits in the copilot chair and waits.
+JACK (overlapping): Oh yeah…
 
 
-JACK and ALI: [distraught] Oh!
+AUSTIN: Nineteen… the earl… the late Nineteenth Century clothing of Kesh… And is like… very close to losing her shit, and having a panic attack. Very deep breaths, and… then, like… holding her breath? And then, like… struggling to get back onto her feet in the mud.
 
 
-AUSTIN: And then you’re in space, right? Because… whether or not you got there or not, the portals dragged land into them. And now where you are, it’s space. 
+        CASS: Maxine! Maxine! It’s OK… It’s OK!
 
 
-[MUSIC: The Third Time ends] 
+MAXINE (sternly): I don’t know who you are! I know one of you is a Divine, and… what are you doing on September? I should tell security… this is…
 
 
-And inside the Kingdom Come, I think activity swells, and it’s kind of chaotic, right? I suspect Mako is dragged to Cass’, to Cass’ medical bay, but Cass isn’t there right, Cass is on the Apokine. And, and they have no idea what’s happening on the Kingdom Come. 
+AUDY: Please don’t tell security. We mean nobody here any harm. This is Cassander Berenice, they* are a doctor, and a soldier; they* have landed on this planet in an attempt to make things better. You know who I am. 
 
 
-[1:16:40: MUSIC: This Is A Delay]
+MAXINE (worried): I know who you are… Who’s the other voice?
 
 
-I think Orth finally, like, his instincts kick in, and he starts going to work, and piloting the ship away from the portals before it’s sucked in. Though I think maybe for a second there, there’s a bit of a risk, right? It’s like, will he wake up— yeah, ok he got it, phew, that was close. 
-And then you look down through the cameras and the viewports, and September itself falls apart under a strain it wasn’t meant to bear. The portals, the Apokine, the crying choir of Voice, Rigour. Missiles and ballistic fire from the Minerva Strategic Fleet bounce from its post-flesh body, bouncing like lightning out in the atmosphere, and though Rigour has not been damaged, it senses the precarity of the moment. It lifts a closed hand up higher, until finally the lift isn’t a lift but a punch, smashing through sickly yellow clouds, then up through the fleet’s command ship. Rigour puts all of itself into that fist, and its fist hovers among the fleet, a moon in pale orbit, furious and perfect and punished by its own haste. And everything is still for a moment. A muted monument, hovering above a storm. 
-Snow, drifting, in the moments before a blizzard. A hushed gray, the color sliders of reality distorted just so. Or, maybe Rigour has punched through the illusion of color itself, and this is just how things have always, actually been. And then, its fist opens. And it grasps in panic, it reaches, it wants to leave and it can’t. One foot slips through the metaphysical floor of Voice’s portal while Detachment’s black door begins to cut into Rigour’s one remaining arm, separating reach from mass. And that sound, that nihilistic screech, comes howling back up from the silence that Rigour had imposed on the scene.
-        The machine grabs onto one ship, and pulls it down, and then another, and another, and another, until you realize it isn’t slamming them down, it’s trying to climb away, but it is too big, too heavy, too wounded, and none of this is going according to plan. September shrivels in the sky. A loose limb of Rigour falling into the forest below. A new mountain range in just a few moments. And then the dust from the impact, and the screams of those being swallowed into that other realm. And then, space.
+AUDY: What does it sound like?
 
 
-[MUSIC: This Is A Delay ends]
+MAXINE: I didn’t hear it until I was here. It’s a low… humming noise. It wants to talk to me.
 
 
-Above it all, those of you who fled, and those lucky few who escaped, somehow, breathe deeply. Below, September, gash cut out of it from Detachment and Voice, spins slowly off of its axis, diverting into a terminal path, a long walk to one day be swallowed by the system’s golden sun.
- The news, this beautiful reprieve, hits Kesh first. In a bunker under the hills, outside of the walls of the world’s largest city, Addax Dawn, Jace Rethal, and Jamil Quartz-Noble pour each other drinks and pat each other on the back. A victory, not only for the Golden Branch, but for their interventionist branch of the Rapid Evening as well. Their point had been made. No more waiting in the shadows for disaster. It was time to go public. A few drinks later, there’d be a victory kiss. Or two, or three. 
-The workful machines of the Golden Branch can’t celebrate. They haven’t been built to understand that their forefather, the Factory Alive, had been defeated. And so they continue their labor that night, that old fraught buzz hanging in the air of hangar bays and retail shops. In each block of information traded secretly, and in each vehicle valeted. But months later, Cene Sixheart notices something strange during their routine repairs. A number of machines stopped. All at once, all together, they decided— that was the word for it, they realized, decided— to stop working. Strange. 
-They don’t hear the news for days on Kalliope, because they’re celebrating their own victory as Hudson Thorne’s Odamas Fleet strikes, smashing Minerva’s clench on the planet, and on the southern half of the sector altogether. There would be work to be done, something new, Thorne thought as he stroked his hairy chin. But he wasn’t sure what. After all, he was an old pirate captain, not a politician.
-        On Minerva XII, the Steigers celebrated too, but not for long. Though they tried to spin the success on September as a coup led by their tactical brilliance, all they had to show for it was the cost of the lost fleet. In the weeks that followed, the well-oiled messaging machine of OriCon proper began a campaign to diminish their achievements in the sector. Their political ambitions were vilified, their human rights abuses were scapegoated, and their successes over Rigour were diminished as a new, modern, fairytale. Now, if only OriCon could find someone to clean that damn sector up. 
-        Theirs wasn’t the only response to the September Incident, though. News of Cassander and Apokine reached the Demarchy quickly. And within weeks, near vestiges of the old Apostolosian culture had found its way back into popularity. An old family heirloom, back on the mantle. Flags brought out of storage and hung proudly, aside the new progressive banner of the Sokrates Demarchy. What a time to be alive.
+CASS: Do not...
 
 
-[1:22:56: MUSIC: Sigilia Breathes]
+AUSTIN: She closes her eyes.
 
 
-        And on Sigilia, which breathes itself into Grace through countless tubes and wires and induction ports, the divine herself sighs, content. Ah, those who serve. Their sacrifice would not be forgotten. But there is no surprise here for her, this is how it always would have been. And now, with the strength of that old planet’s new flesh inside of her, with this new, deeper access to the thoughts of her subjects, she felt assured that she would finally ascend to her proper place once again. The divine guidance of Democracy itself. With Rigour defeated so easily, so permanently, she thought, her rival’s momentum would be broken. No need for revolutions. The graceful arc of history would do the hard work of progress for us.
+        AUDY: Do not let it. 
 
 
-[MUSIC: Sigilia Breathes fades]
+        MAXINE: It’s... huge… 
 
 
-And so, her rival sunk deep in his chair that day. The successes of the Chime were not his successes. And so he wondered— no, Righteousness pondered through him— what use was he, Executive Ibex, a joke. And then desperation. In its home, so far from natural light, his heart, his real heart, raised its tempo to a machine gun pace. He’d have to act quickly. A cough, then another, as he runs his fingers across the interface. Quick, clear their names, it cannot see them as unrighteous. 
+        AUDY: Yes… You mustn’t let it in.
 
 
-[1:24:42: MUSIC: She’s One Of Them]
+        CASS (overlapping): Yeah…
 
 
-        In fact, one of them, one of them may be able to carry his work forward. She could build new coalitions where his arrogance and history had been a wall. That woman in the wastelands, maybe, and the entire soldier class who had always been suspicious of him. Sokrates, even, surely they could see how honest she’d be. She could lead the people after all, she was one of them, a worker, a hero, a believer. No cynicism in her. Not yet. And it smiled, the way machines can smile, at the thought of her pure sense of justice. But before it could leave him, he brought it close and wouldn’t let go. It was a vulture, and he insisted it not leave until it finished its meal. 
-        And the Chime, what’s left of them, fly in formation back to Counterweight. It’s a long flight. Too long for one mood to suffice. The Kingdom Come, docked one night at the passenger port of Apokine’s heart for a Sunday meal. Music coming from the bedroom. But they’re old songs now, and they ask new, uncomfortable questions, now that all the momentum has slid to a halt. And then, Counterweight, and a half attended parade, and they’re gone. They’re gone. The clock severs all connections, eventually. And the clock ticks on.
 
 
-[MUSIC: She’s One Of Them ends]
+[59:42]
 
 
-        Until. 
-53 months after the September Incident. For years now, the ice storm has been trapped in this ersatz September, colored in by yellow light. Always eternally yellow light from a yellow sky, with a somehow yet more yellow sun. Snow piling up in the empty streets, higher and higher, and then, every seven months or so, resetting. A quirk of the extradimensional prison Mode City was trapped in. And so life went on, as it does, a few families living on stored rations and hydroponic greens. Anxious skirmishes between gangs of survivors. Territory disputes between more organized factions. Some move from apartment to apartment, following the undulating and illusionary firm mesh facades, too proud to live in a Mode City with its wallpaper torn down. Others sustain themselves in the dorms and classrooms of the Institute itself, patching together a pastiche of house uniforms. And still others toiled under Rigour’s shadow, in final desperation, with fealty pledged to the only being that seemed powerful enough to save them. If only they could work a little faster, a little harder. It urged them on with its being and with its stance. Utterly, totally still, yet writhing on its surface as it sutures itself back together, piece by piece, accomplishing frighteningly tedious work, a strength it’s always had. But today, with the snow at its lowest, there are a few other survivors, gathered on the beach, looking out at the cresting waves and the cawing gulls which hang in near stasis at the edge of the void.
-Maryland September reaches up from her chair, her hand a fist until she remembers to point a finger. 
+MAXINE: It’s… it’s… coming to find its way in anyway. Someone will open the door. If not me, then someone else. 
 
 
-AUSTIN (as Maryland): There, that’s it. The Principality of Kesh. That’s where I’m from, AuDy.
+JACK (concerned): This is so outside AuDy’s field of expertize here!
 
 
-AUSTIN: A cough.
+ART: Uh-oh… I was gonna look to you for guidance [Ali and Austin laugh]. [really quietly] I guess… we could probably shoot her...
 
 
-AUSTIN (as Maryland): Once this is all done, a few thousand years from now, I suppose, promise me you’ll go and check on it. You’ll make quite a splash.
-JACK (as AuDy): Okay.
+AUDY(overlapping): Cass; I cannot impress upon you how dangerous Rigour is. It is far worse than you can have conceived. 
 
 
-AUSTIN: She wheels her chair forward, through the sand, closer to the water. 
+MAXINE: Rigour...
 
 
-AUSTIN (as Maryland): I was born into something a bit like royalty, you know. I hated it. Not enough working for me, I’ve always liked working. The manor was a bit like a prison, I guess. A lot like this, though, I think my garden now is better than the one I had back then.
-JACK (as AuDy): We’ve spent so long here. 
-AUSTIN (as Maryland): I’ve spent my whole life here.
-JACK (as AuDy): What do you want me to do with the garden?
-AUSTIN (as Maryland): [sigh] Find some people you like. Talk to them, bring them back to it, tell them it’s theirs. They’ll live full lives, and… so long as they can keep it safe, they can leave it to someone else, too.
-JACK (as AuDy): Do you think people will want to come back to this planet?
-AUSTIN (as Maryland): I don’t know that it matters. I… 
+AUSTIN: She says…
 
 
-AUSTIN: She looks down at the sand and puts her toes in it, and like, curls them up. And it’s cold, because it’s still, it’s still the ice storm. You know, it’s at its lowest point now, but it’s still been happening, right?
+        MAXINE: Oh no…
 
 
-JACK: Yeah.
+ART: Uh-oh… Umm… Oh fuck! What? Uh… I... [pause] I shoot her? 
 
 
-AUSTIN: But she curls her toes up in the cold sand.
+AUSTIN: Whoa! [Jack laughs]
 
 
-AUSTIN (as Maryland): It’s meant so much to me, and it is sentimental of me to say that I wish this place could mean as much to others, but… it’s served its purpose, maybe. Suns, suns turn off sometimes, why not planets?
-JACK (as AuDy): That’s not what I meant. So much pain has been done here, and I don’t see why you think that… coming back and looking at some potatoes is going to do anything about that. 
-AUSTIN (as Maryland): It’s not about what they look like, it’s… I think they taste good. Better than whatever they’re growing in the Institute.
-JACK (as AuDy): How many… how long have we been here?
+ALI: Whoa! Uhh...
 
 
-AUSTIN: She looks up at the stars.
+ART: She’s a Divine, and she’s letting Rigour in!
 
 
-AUSTIN (as Maryland): Years? Three, four?
-JACK (as AuDy): [laughs] That’s… such a small number of years for how long it feels. 
-AUSTIN (as Maryland): That makes me happy to hear, AuDy. You know, I… I. I spent a lot of time thinking about why you? Why Liberty and Discovery, these, these beings that Attar put so much faith in, and thought of as so powerful and wise, and so disconnected from the, the foibles of human behavior, so connected to the abstract knowledge that only ancient age can provide.
+AUSTIN: You’re jumping to some conclusions, but give me a roll…
 
 
-[1:31:43: MUSIC: Maryland?]
+JACK (overlapping): Now… OK… [laughs] you’re going to shoot a Divine?
 
 
-AUSTIN (as Maryland): [cont’d] Why they would put themselves in a body like yours? And I think… maybe, it’s that, they were curious about what it would be like for four years to feel like a long time. Life’s beautiful, AuDy. It’s terrible, it’s painful, and it’s beautiful. And when you get out of here, I hope you remember that more than you remember….
+ART (overlapping): Well, I mean; it takes a second… I gotta… I’ve got to… rifle out…
 
 
-AUSTIN: And she can’t bear to look at Rigour.
+AUSTIN (overlapping): Yes…
 
 
-JACK (as AuDy): Maryland. I don’t think I can do it. 
-AUSTIN (as Maryland): Do what?
-JACK (as AuDy): I don’t think I can stay. 
-AUSTIN (as Maryland): AuDy…. You know you have to stay.
-JACK (as AuDy): I’m not worried about me.
+ART (overlapping): If AuDy can think of anything...
 
 
-AUSTIN: She reaches up to grab your hand. It’s a new hand that she built for you.
+AUSTIN (overlapping): Yes…
 
 
-[MUSIC: Maryland? ends]
+JACK: Yeah, I… Umm…
 
 
-AUSTIN (as Maryland): AuDy. You know what this is.
-JACK (as AuDy): It’s a prison.
-AUSTIN (as Maryland): Oh.
+KEITH: This is Cass; they’re* here to make things better [Austin laughs]. By shooting… literally by shooting you. 
+[60:58]
 
 
-AUSTIN: And she lets go of your hand, and looks out into the sea. 
+ART: So I, like... start taking my rifle out, and turning the safety off...
 
 
-AUSTIN: Next week, on Friends at the Table. The finale of COUNTER/Weight.
+JACK (laughing): And then you drop it… and then you pick it up again…
+
+
+ART: Yeah…
+
+
+JACK: Umm… 
+
+
+ART: Looking at AuDy, like… Huh? Huh? [Austin laughs]. Huh?
+
+
+JACK: [pause] OK… hang on a second: I’m trying to think this through... We don’t want to take her to... Maryland, because I feel that’s going to make things worse? I feel Maryland will… not… underestimating the strength of Rigour will do something that will wake it up?
+
+
+ART (very quiet and hard to make out - sounds something like): She doesn’t believe it isn’t weak.
+
+
+JACK: I think it’s waiting to… I think it’s waiting to… to… to... Rigour needs people. I think it’s waiting to get someone.
+
+
+AUSTIN: Is this in character, or out of character?
+
+
+JACK: This is out of character.
+
+
+AUSTIN: OK.
+
+
+JACK: This is me, desperately, like… frantically… trying to work out how this is going to work.
+
+
+ART: Bring her inside. What’s the worse thing that happens?
+
+
+AUSTIN: You’re putting your gun away now?
+
+
+ART: Yeah… I tried… I got a bad look? I put it back away!
+
+
+AUSTIN (overlapping): She’s giving you… OK!
+
+
+JACK: Is there any way I can... 
+
+
+MAXINE: I want to speak with Maryland! With Professor September… Doctor September; right now!
+
+
+[62:16]
+
+
+AUDY: OK… try and hold on…
+
+
+MAXINE: Right now!
+
+
+AUSTIN: And she slams her fist against the… cabin? And the… logs… vanish, revealing a massive warehouse structure behind… where the cabin was. The cabin is, like… in shape, the right thing? It’s, kind of, a nice, boxy, little thing? But then it… it… opens up behind that to, like… a football field long… warehouse.
+
+
+JACK: Oh…
+
+
+ART: Oh fuck… are there any markings on it?
+
+
+AUSTIN: No.
+
+
+JACK: What colour is it?
+
+
+AUSTIN: Gray and… and concrete.
+
+
+ART: Do you think Rigour’s in there?
+
+
+JACK (overlapping): I’m beginning to suspect that… this might be... less of a good idea.
+
+
+ART: I’m into it…
+
+
+JACK: It’s…
+
+
+        MAXINE: I don’t trust you! I know her… Let me speak with her.
+
+
+AUDY: Do you want to go for it, Cass?
+
+
+CASS: Yeah, I guess? I mean, it’s… I mean… yeah, yeah...
+
+
+ART: I don’t know the thing I was about to say; you don’t know the thing I was going to say!
+
+
+JACK: Can I... radio Orth and Jacqui? 
+
+
+AUSTIN: Sure…
+
+
+JACK: Is the storm letting us do that?
+
+
+[63:23]
+
+
+AUSTIN: You’re within this little zone, so yeah.
+
+
+JACK: Uhh… Can I communicate via Morse? Can I… Is there a way that I can… I’m assuming that Orth will know... 
+
+
+AUSTIN (overlapping): Sure… Orth knows that; sure… And Jacqui would too, probably; they’re both professionals. Or there’s some, probably, better, more futuristic version of that, so… yes.
+
+
+JACK: But I mean, like… Morse is real good, I guess…
+
+
+AUSTIN: Yeah, Morse is OK…
+
+
+JACK: So, I’m just going to transmit… “situation is not as it seems… we are coming, expect extreme difficulty. Rigour is on its way.”
+
+
+AUSTIN: You turn the corner, and… the front is still the log cabin. You walk inside.
+
+
+ART (overlapping): What does the transition look like? Like… what does the corner look like?
+
+
+AUSTIN: It’s like… concrete until logs poking out. It’s as if the logs were pasted on. Do you know what I mean?
+
+
+ART: Sure…
+
+
+AUSTIN: You turn the corner, and you walk up, and the screen door opens… and Maxine walks in, and… [MUSIC - The Long Way Around - begins] Maryland September looks up from drinking her tea, and smiles.
+
+
+        MARYLAND: Maxine Ming! What the hell you doing out here?
+
+
+AUSTIN: And we’ll cut back to… the prom.
+
+
+[MUSIC plays out].
+
+
+JACK: God… they’re just having a fun time at a prom [Ali laughs]! And we’re just, like… [Jack laughs].
+
+
+AUSTIN: Oh god...I can’t wait until all of this works out so that I… can… joke and laugh about it.
+
+
+ALI (laughing): Oh my god! [Keith laughs].
+
+
+[66:14]
+
+
+AUSTIN: Let’s, uh… let’s prom! What’s up with the prom?
+
+
+KEITH: Hold on; just… Jack: I really want to say… just remember how sullen Ted got… Ted - Lazer Ted - how sullen he got, when just considering how my day was gonna go [Jack laughs].
+
+
+AUSTIN: Oh boy… I can’t wait… Fuck… [Ali laughs].
+
+
+ALI: I’m gonna have a good day, so we’ll be fine; it’s fine.
+
+
+JACK: So, Austin’s just not even bothering to pretend to not be the villain at this point…
+
+
+AUSTIN (overlapping): No… It’s really good. There’s some good shit coming, I’m just gonna say it.
+
+
+ART: Austin never pretended not to be the villain, we all just projected ‘not the villain’ upon Austin [Ali laughs].
+
+
+AUSTIN: That’s correct!
+
+
+ART: Y’all a bunch of puppets…
+
+
+[EPISODE ends].

@@ -1,2806 +1,769 @@
-﻿Twilight Mirage 37: Along A Route
-Transcribed by Mal [00:00 to 9:58]; meko
-
-
-[The Notion begins playing]
-
-
-AUSTIN: High above the world of Gift-3, caught in the saffron shade of today’s Mirage, the L-shape of a single massive arm hovers in orbit, bolted in a frame of metal, people the size of specks moving across its length lit in its shadow by the flash of welding torches. It is the arm of Gumption, once left in the center of Composure’s Coliseum on the ship of Seance. It now serves as a constant symbol of hope to the Mandati who dream of bringing their Divine back.
-
-
-The camera slowly pans down, and below, the planet bustles with activity. Short-hop transport ships dot the sunset sky, as caravans transport daily hauls from the outskirts to the cities of Big Garage and Seiche. Smoke rises from open-air barbecues, and in the distance, there is a sound, something like a cross between an old fuel engine and a lion’s roar.
-
-
-We follow that noise, and it leads us to the Crashyards, the final resting place of all the technology that is, or that might be. Ships planted nose first in the dirt and sand, hills of discarded consumer electronics topped by dozens of flickering digital assistants with no one to help. Long, high stacks of personal vehicles, entertainment displays, and old replicator machines have turned the flats into canyons. And moving through one such gulch are the Excerpt Signet, the pilot Even Gardner, and the pathfinder Echo Reverie.
-
-
-(music plays without v.o. for roughly a minute, then ends)
-
-
-
-
-AUSTIN: Welcome to Friends at the Table, an actual play podcast focused on critical worldbuilding, smart characterization, and fun interaction between good friends. I am your host, Austin Walker. Joining me today for our first full session of Scum and Villainy, is… Andrew Lee Swan.
-
-
-ANDREW: Hey, you can find me on Twitter @swandre3000.
-
-
-AUSTIN: Also, Janine Hawkins.
-
-
-JANINE: Hey! You can find me on Twitter @bleating_heart.
-
-
-AUSTIN: And Sylvia[1] Clare.
-
-
-SYLVIA: Hey, I’m Sylvia, you can find me over at videogamechoochoo.com—and also, you can find my twitter at captaintrash.rip!
-
-
-AUSTIN: Oh, that’s a good—that’s a good new URL, I didn’t know about that one.
-
-
-SYLVIA: Yeah! SYLVIA: Five dollars a year, so I was like, ‘eh, why not.’
-
-
-JANINE AND AUSTIN: (laugh)
-
-
-SYLVIA: Ehhh... 
-
-
-AUSTIN: Uh, yeah! You know, what’s—What’s five bucks? (laughs)
-
-
-SYLVIA: That—A lot for me, but—
-
-
-AUSTIN: Yeah, uh—
-
-
-SYLVIA: —I make terrible decisions...
-
-
-AUSTIN: What’s five bucks next to having a good URL for your Twitter account?
-
-
-SYLVIA: Exactly.
-
-
-DRE (distantly): Yeah!
-
-
-AUSTIN: We are playing, I guess, Scum and Villainy, which is a game by Stras, I forget how to pronounce this name, Asimovic? I can’t remember if it’s [‘ah-simovic’] or [‘asch-imovic’], if there’s a C in there, there’s two Cs… Anyway, Stras and, and, John LaBoeuf Little, again, [LaBoof], [LuhBowf], I don’t, I don’t know, I’m gonna have to reach out and… and get clarification, I should do that soon…
-
-
-Scum and Villainy is a hack of Blades in the Dark, which was a game by John Harper, and it is really cool, and we are finally going to start really playing it in earnest today. Just briefly, can we go over your—you know, I guess first and foremost, as always, I should actually read my—my goals, which are: to convey the fictional world honestly; to bring the Twilight Mirage to life, and to play to find out what happens. 
-
-
-And then, I’m just gonna one more time read these Best Practices, the Best Practices for you as players. Embrace life on the rim; chase danger and action; describe the action faithfully; advocate for the story you want; use your stress; it’s okay to go with a fun idea; start fresh, add detail and play; and plan on the fly.
-
-
-So, are there any questions before we start? Are there any lingering, like, rules things, or do you want to go over any moves you have, or anything that you’re not sure about?
-
-
-(Brief silence)
-
-
-If not, that’s totally cool, and, always, quote, “ask questions as we play”, so…
-
-
-So! We are gonna kinda jump into things a little bit here, because that is one of the things that Scum and Villainy does really well. The camera kind of, I think, pans down, does that good Lucas, you know, pulp, slow pan down from the sky, and what we see is, just a—sort of a ship graveyard that goes on for miles and miles and miles. It’s cavernous, you know—there are these sort of, like, tall towers of cars, one on top of another, and huge hills of discarded MP3 players, and… It is, effectively, a junkyard, it is in fact, it’s called—here, it is called “the Crashyards”. I’m actually gonna move us, on roll20, to the system sheet for Gift-3. 
-
-
-You all are walking through the Crashyards. You’re on your way back from a reconnaissance mission that is part of a larger mission. You’ve been sent here by Cascara to, to…. do—you know, spread the word, of the Notion, and to spread the word of Seneschal and, and the idea that the people of the Quire system could find some, um, overlapping identity and culture that is not so divided. 
-
-
-And, specifically, you, this group of three here—Signet, Even, and Echo—are being sent to help reconnect a group of refugees with another group of refugees—the two sides of the disconnected Tides of Harmony, one of which landed here on Gift-3, and the other of which landed on Brighton—which is where the Rogue Wave are, it’s kind of an ocean-y island planet and—the way you’re going to connect those two is through this thing called a Stitch, which, Echo, you have firsthand experience with—in fact, you have a lot of firsthand experience with it. You had that meeting in your vignette—but also have, like, examined them, and tried to get your head around them over the last year, it’s been kind of one of the big things you’ve been doing.
-
-
-Cascara put you in touch with a, a farmer, actually—or kind of a rancher, I guess—named Graph-2, who is a synthetic rancher who has kind of a, a whole family of, like cattle herders, basically, that lives out on the steppe—this is, this whole world has kind of a semi-arid climate; there are these—again, there are these huge junkyards all over the entire planet that have been kind of summoned by the will of the people on this planet, who are—who have an entire culture built around scavenging, and repairing things, and investigating technology that they don’t understand, and it’s kind of that the combination of Quire and Gnosis and the Miracle have covered this world in technology from across the Milky Way Galaxy. Which means including stuff that no one has ever seen before, at all, from cultures that no one has ever interacted with, at all. 
-
-
-And, you’ve been put in touch with Graph-2, who is sort of a—I don’t want to say an elder, cause, I mean, he’s just a robot, so he’s not—I don’t want to put the picture in your head of an old guy with a beard who lives on a hill, uh, old mansion on the hill or something… But he has a sort of, a leadership role among a group of citizens who are spread out across the open steppe, in between these kind of huge Crashyards, you know, junkyards, basically. And, the first step of getting that mission done and kind of reconnecting these groups was to find out where the hell that Stitch was. And you found it, which is great. Less great is that where you found it—where you found it is a place that is under lockdown by someone else already.
-
-
-There is what is marked by signage as, quote, “An archaeological dig site” deep in the middle of the Crashlands that is operated and defended by a group that you already have a bit of beef with [chuckles], Advent—also known—or, like, the long form of their name is Advent Discovery and Salvage Society. They are a group of treasure hunters who are not from the Divine Fleet, are not from Earth, are not from Quire, they’re kind of galactic grave diggers? [laughs] Grave robbers? They are super shitty, and they have set up a base around the location of this Stitch. 
-
-
-It is in the shadow of a massive orbital elevator, a space elevator, that connects the body of Gift-3 up to the space station that Advent has here. They have a number of space stations throughout the system and they have an HQ off on the far outer rim of the system. But here, they have one in space that is all about technology. They have a space base on a different planet that’s all about culture, they have one that’s all about biology, but this one is all about technology, that’s why they set it up above Gift-3.
-
-
-And your kind of first reconnaissance of it revealed that it is under lock and key, there are some armed guards there, there is what you identified as someone who is an Advent expert at kind of countering the weird uncanny shit that is happening inside Quire right now? And, a handful of guards, maybe a dozen guards, with some, you know—they have, like, melee weapons and they have, like, a handful of ranged weapons, some drones, and you know that the—that what they are probably doing here is sending stuff between here, this source of technology, amd Brighton, which was this, this oean world where you know that they have a biological research station, and who the fuck knows what they’re getting up to but it’s probably not good? And it’s definitely in the way of connecting these two communities back together. 
-
-
-This is what you’ve learned during your reconnaissance. One of those things that you, that you noticed, were those drones that I told you about. They are these, like, flying—you know frisbees that don't have a middle? Like the sort of ring frisbees? So they're like those but a little bit bigger, and then in the middle of them, hovering in the middle, is a little eye drone sort of like Gig’s except the entire thing is cast in, like, a kind of copper color. And they rotate around the ring with the eye in the middle that can—the eye can kind of bobble down or up as if it’s held in place by a sort of, like, an elastic gravity—an invisible, like a—an invisible wire or something that’s keeping it in the middle. But it can kind of, like—it will pop up and then like elastically pull the whole body of the drone up and it will fly up higher or lower or whatever. 
-
-
-And you know about these, partially because you saw them before and partially because you hear a couple of them near you now as you walk back through the canyons of car towers and debris, back towards the nearest safe town. And you can hear them, like, doing their [droe noises] “buh-buh-buh-buh-buh-swooo” scanning of the area around here. What’s everybody doing at this point? It’s just the three of you, there’s no one else with you at this point. You’re just trying to get back to HQ to kind of figure out next steps. You haven’t been spotted yet, but you do know that these drones—there’s a chance that they would see you.
-
-
-DRE: And we’re pretty—These are Advent drones?
-
-
-AUSTIN: Yeah, hundred percent, definitely. Like, they have very distinct—very distinct technology, their stuff. They go out of their way to brand it theirs with lots of wood panels, lots of copper and bronze and gold...it’s—it is very, like, I have described them as being shitty steampunk adventurers. Like that is very much what they are. Like, lean in, think about gears, think about, again, steam coming off of things and, like, that is what this crew is. How do you—so you see there’s a group of three of them that are spreading out across this canyon. If you do nothing, there is a chance that they will see you, is what I will say. 
-
-
-JANINE: I don’t really feel like I understand the space well enough to know where—
-
-
-AUSTIN: Sure, I’ll draw it a little bit for you.
-
-
-JANINE: Okay.
-
-
-SYLVIA: Thanks. 
-
-
-AUSTIN: It is—you’re in, like, a pathway—here, one second. So, let’s just draw a big space here. Like, assume that this is the big, a big space on a continent, right, this is the size of a state or something, right? It’s the size of, like, I don’t know...smaller than Ontario, I know two of you are in Ontario. 
-
-
-[Dre and Sylvia laugh]
-
-
-AUSTIN: This is like the—I would say like the size of one of the Great Lakes, right?
-
-
-SYLVIA: Okay.
-
-
-AUSTIN: Like a middle-sized Great Lake. The place that you were looking at is in this spot in the northwest, right? And then all through here there are just, like, rows of broken cars and big spaceships and you are currently on your way back to—you’re on your way back to Seiche, which is the closest big settlement near here, which is on the southeast of this area. 
-
-
-And currently, you are in between this row of towering, abandoned vehicles stacked one on top of another. You can—you know, there are places where you could maybe try and slip between them, there are places where you could kind of crawl out into, you know, and hide inside one of them. They seem—they seem pretty steady, like you would have to put in a lot of force to knock one over or something like that. They’re not—you don’t feel like they’re going to fall on you at this point—you’ve walked through them once already and it was fine. And so now you’re walking back towards them and there are these three drones kind of spread out and scanning these—the kind of north, south, and center lanes, [mutters] not to use fucking use MOBA terminology [Dre laughs], but I just did. 
-
-
-SYLVIA: No, that’s language I understand, thank you.
-
-
-AUSTIN: Yeah, I know, you’re a big MOBA fan. 
-
-
-JANINE: Can I jungle? 
-
-
-AUSTIN: Yes, you can jungle. 
-
-
-[Dre laughs]
-
-
-JANINE: Can I currently jungle? Thank you.
-
-
-AUSTIN: Yeah, if you jumped through—well, you know, it’s funny you say that, Janine. 
-
-
-JANINE: [laughing] No, I don’t want to jungle. 
-
-
-AUSTIN: No, it’s too late. 
-
-
-JANINE: There’s a—
-
-
-SYLVIA: Everyone knows Signet is better as a mid or an offline anyway.
-
-
-[Dre laughs]
-
-
-JANINE: Yeah, she’s definitely not a jungler. That’s for real.
-
-
-AUSTIN: Well, it’s funny because you hear this—in fact, I think, Dre, you probably recognize it first. Even does, like instantly. It’s a very familiar sound. Can you describe what the sound the Amprunner made again when it roared was?
-
-
-DRE: Oh man, it was like a—like a really bad old 8-bit tiger handheld noise.
-
-
-AUSTIN: Yeah.
-
-
-DRE: Like just really crunchy and messed up, yeah.
-
-
-AUSTIN: So you hear that, and it’s funny you say tiger because it was also kind of like a sabertooth tiger mech, right?
-
-
-DRE: Yeahhh.
-
-
-AUSTIN: So you hear that once, a little quiet—much quieter than how you remember it. And then you hear two of the drones going [drone noises] “Brrn brrn brrn” and they spin overhead and you can see these kind of laser scanning, the sort of like—it’s very visual, very clear that they’re scanning this area, it’s covered in like a red haze, or a red—almost like there’s a filter now over this area. And looking through some of the car doors and the kind of, like, empty—through where there where once windows and different vehicles and stuff, you see movement. And you see a pack of small Amprunners running through the sort of debris jungle and roaring up with broken tiger [laughs] electronic roars up at these drones, and beginning to kind of jump up onto these towers of cars. 
-
-
-And the—one of the drones above you starts to spin rapidly. And you can see that as it does, there’s like a light blue edge that appears around the edge of it—or let’s say a light orange-yellow. It’s like a glowing blade kind of comes out of the outside of this ring. And, within a second, there is a strange melee between these tiny Amprunners—who seem to be sentient? And not piloted as far as you can tell, there aren’t just little pilots in there—who are now fighting these flying drones. You also notice that these little Amprunners do not—they have what would be the—where the railgun was, but in place of those is, like—or in place of the gun, there are either spears or sticks or just, like, kind of curved metal there. There—they do not have guns on them. And so now they’re jumping all around you.
-
-
-DRE: Austin.
-
-
-AUSTIN: What’s up?
-
-
-DRE: I’m so excited that I get to reenact my favorite scene from Jurassic World.
-
-
-[Sylvia laughs]
-
-
-AUSTIN: [amused] Okay.
-
-
-DRE: Where fuckin’ Andy Dwyer gets to meet his pet raptors again. 
-
-
-AUSTIN: Uh-huh [Dre laughs]. Is that gonna happen? Are you gonna try and talk to these things?
-
-
-DRE: I mean, yes.  
-
-
-[Sylvia laughing in the background]
-
-
-AUSTIN: Okay! Tell me what this looks like. So what do you start doing? So there’s three drones flying in the air now, slashing down. One of the Amprunners gets knocked—I think one of them just, like, flies over the top of this tower of cars and the top cars comes falling down after it as y’all are moving through this space. And it scrambles out of the way and blocks the—actually, maybe it’s right in front of you, ‘cause it falls right in front of you, blocking your path forward. And so now there’s just, like—it’s—when I say small, I don’t mean like cat-sized, I mean like tiger-sized, right?
-
-
-DRE: Sure, yeah.
-
-
-AUSTIN: Maybe even a little bit bigger than that. 
-
-
-DRE: It’s not big enough for me to jump inside and pilot it, but it’s like—
-
-
-AUSTIN: Not at all.
-
-
-DRE: Yeah.
-
-
-AUSTIN: And then it sees y‘all and its tail whips around—also their tails now have little blue plasma flames at the end. And it whips around like a—it’s also like a—I imagine it’s thinner, I don’t think it’s as thick of a tail, I think it has like a thin, phone-wire style tail or something, or like a coaxial cable, with a blue flame at the end. And it whips around and then comes up into the sky and then goes like [growls] “brrruwuwwuw” [Dre laughs] at you. In its loudest roar, showing its teeth. And is pacing back and forth, kind of—you don’t know what it’s doing. It’s pacing back and forth. What do y’all do?
-
-
-DRE: Um, okay. Are any of these drones, like—like, they’re still around us, right? Fighting the rest of these Amprunners?
-
-
-AUSTIN: Yeah, I’d say there’s probably five of these Amprunners and three of these drones. Those two other drones are busy—or, those three other drones are currently engaging with those other Amprunners. 
-
-
-DRE: Okay. I want to use my grappling hook, which is one of my Pilot class items.
-
-
-AUSTIN: Mm-hm?
-
-
-DRE: To try and basically grapple-hook onto one of those drones and then just tug it, like, you know, thrown it down into the ground. 
-
-
-AUSTIN: Alright, so you are—you are, like, throwing it up there? Is it propelled by something or is it just like a toss?
-
-
-DRE: I like it being a toss.
-
-
-AUSTIN: Yeah.
-
-
-DRE: Like, in this low-tech world.
-
-
-AUSTIN: Me too.
-
-
-DRE: I like this being like a toss. 
-
-
-AUSTIN: Okay, cool. I think that’s probably—I mean, you tell me. What do you—this is the difference between this system and other systems. 
-
-
-DRE: Right. 
-
-
-AUSTIN: One of my—one of the habits to break for GMs in Scum and Villainy is, like, don’t tell them what move to do.
-
-
-DRE: Yeah [laughs].
-
-
-AUSTIN: It’s pretty clear about that. So, you tell me, what action are you thinking this is?
-
-
-DRE: So I think it’s probably either a Rig or a Scrap.
-
-
-AUSTIN: Mhm.
-
-
-DRE: And I’m leaning more towards Scrap ‘cause I think this is just like I’m putting my back into it to try and basically just pull this thing off course and slam it into the ground or into a wall or something.
-
-
-AUSTIN: Okay. Yeah, I think this is definitely—I think this is definitely Risky, and you know what I’m gonna do? Boy, this is quick, we’re in it. Guess what I’m about to pull out?
-
-
-SYLVIA: Oh, are you about to do a clock?!
-
-
-AUSTIN: Hell yeah, about to do a clock!
-
-
-DRE: Give me that clock! 
-
-
-JANINE: Mm.
-
-
-SYLVIA: Oh, fuck yeah, Friends at the Table is back, baby!
-
-
-DRE: Oh man. 
-
-
-AUSTIN: [laughs] Alright, I put a clock on the table. I’m gonna call this clock the “Escape the Junkyard” or “Escape the Scrapyards” clock.
-
-
-JANINE: Is it missing a line?
-
-
-AUSTIN: No, it should be six. One, two, three, four, five, six. It’s a six—it’s a six clock. 
-
-
-JANINE: Okay. 
-
-
-AUSTIN: Clocks in this system can be four, six, or eight. So it’s one, two, three, four, five, six. The top left and bottom right are just not equal in size. Okay, so I think it’s Risky because you’re going against these drones and there’s these Amprunners all around, and I think that the effect would be Standard. This is not like an especially powerful thing but it has the chance to do some serious—to give you some progress to getting out of here. So go ahead and give me a Scrap. What is your Scrap?
-
-
-DRE: It’s one, so I think I might push myself and take two stress to get an extra die.  
-
-
-AUSTIN: Okay, yeah. So here are the things that you can do at this point. I just wanna go over those maybe for a second.
-
-
-DRE: Yeah, sure.
-
-
-AUSTIN: One is you can—so you’re gonna roll the stat that you have, the action that you have, which, again, Scrap is one. You can push yourself, taking two stress to add an additional die. You can spend a gambit, you have one gambit, currently, as a crew, and you can add another die from that. [laughs] This is probably not the roll to add your one gambit to. 
-
-
-DRE: Yeah, I’m not [laughs].
-
-
-AUSTIN: Other people, at this moment, could take one stress to assist you, adding to your roll by one die. You could lead a group action instead, but this doesn’t feel like a group action. It doesn’t feel like you’re protecting anything. Or you could set up another character so that instead of doing—instead of advancing this clock, you could be setting up the clock to be advanced by somebody else. Um, anyway, that’s—those are the things you can do. So, yeah, I think Risky Standard. You’re gonna push yourself, so take two stress. 
-
-
-DRE: Yeah. 
-
-
-AUSTIN: Okay.
-
-
-DRE: The only thing I can think of that would modify this would be to—I don’t know if either— like, Echo, I don’t know if you want to do this as a setup so I’m basically holding it in place ad then you jump in and cut that thing in half with your ninja sword. 
-
-
-SYLVIA: I mean, I do like that plan.
-
-
-[Austin, Dre, and Janine laugh]
-
-
-AUSTIN: I would say that the—yeah, you could totally do that. The thing that would be—the thing that that would do is it would probably give Echo an improved position. 
-
-
-DRE: Sure.
-
-
-AUSTIN: So that it’s—so that Echo, they have a Controlled position instead of a Risky one. So yeah, do you want to do that instead? And have this be a setup? 
-
-
-DRE: Yeah, that sounds good. 
-
-
-AUSTIN: Alright, cool. So go ahead and give me the action.
-
-
-DRE: Okay. So I’m still rolling Scrap, right?
-
-
-AUSTIN: You are still rolling Scrap. Are you still pushing yourself?
-
-
-DRE: I think I will, yeah.
-
-
-AUSTIN: Okay. 
-
-
-DRE: Uh, four. 
-
-
-AUSTIN: That’s a four. So okay, so that means—on a four, with a Risky roll, you do it but there’s a consequence. You suffer harm, a complication occurs, you have reduced effect, or you end up in a Desperate position. So I think this is the thing that happens. Even, you grab it with your grappling hook, you pull it down and slam it into the ground, perfectly tied down and locked in position for Echo to come up and do something with it. And then you hear another roar, [growls] “Rrwrrwrwrwr.” And this giant Amprunner—not giant, but this—it’s not giant anymore, ‘cause the real Amprunner was actually gigantic [laughs]. This much more reasonably-sized Amprunner pins you to the ground. You are now in a Desperate position. It not here to play with you, as far as you can tell.
-
-
-DRE: Aww.
-
-
-AUSTIN: Well not yet anyway, I don’t know what y’all do at this point. So that is—you are now in a Desperate position. Echo and Signet, what are y’all up to? Oh, also, I guess I should say really quick, because this is one of those things that we did not do a lot of in Marielda: you can resist the thing I just said. If you want to resist that complication, you could roll an attribute to try to resist it...probably take more stress but not be put in that Desperate position. 
-
-
-DRE: Nah, I’m gonna cuddle with this tiger. 
-
-
-JANINE: Hm.
-
-
-AUSTIN: Okay, good [laughs]. Signet and Echo, what are y’all up to?
-
-
-SYLVIA: I think I’m gonna go with the plan to destroy the drone first.
-
-
-AUSTIN: Okay. Sounds good.
-
-
-SYLVIA: Just because if that gives away our position, we have even more coming down on us.
-
-
-AUSTIN: Absolutely. 
-
-
-SYLVIA: And I think that would be Scrap, probably.
-
-
-AUSTIN: Yeah, I think so. I’ll say—I’m gonna actually say Controlled with Great effect.
-
-
-SYLVIA: Alright. 
-
-
-AUSTIN: Because you have—you have a really good sword and you have this thing completely tied down. And because you haven’t been revealed yet. 
-
-
-SYLVIA: I have one bonus dice right?  
-
-
-AUSTIN: From—no, what you have is—
-
-
-SYLVIA: Nope, I have the Controlled, the—okay. 
-
-
-AUSTIN: The improved position, yeah, yeah, yeah. Exactly.
-
-
-SYLVIA: Wow.
-
-
-AUSTIN: That’s also a four and a one [laughs]. 
-
-
-SYLVIA: That’s the exact same thing. 
-
-
-AUSTIN: It is the exact same thing. But that’s—so that’s a four, which means that on Controlled, you hesitate. Withdraw and try a different approach or else do it with minor consequence. A minor complication occurs if you have—a minor complication occurs: you have reduced effect, you suffer lesser harm, or you end up in a Risky position. I think that you’re gonna suffer—you go in to cut it and as you cut it, it starts to spin back up, and that kind of glowy yellow-gold energy blade catches you on the knee as you do it.
-
-
-SYLVIA: Nm. 
-
-
-AUSTIN: So you would take the level one harm Scraped. 
-
-
-SYLVIA: Okay, I’m fine with that.
-
-
-AUSTIN: Okay, so you’re not gonna resist that?
-
-
-SYLVIA: No. I’m gonna take this thing down.
-
-
-AUSTIN: The thing to remember is, if you now have that level one harm, you will have less effect by—whenever you do a thing, basically. Whenever you do a thing that that relates to. 
-
-
-SYLVIA: Affects. Yeah. 
-
-
-AUSTIN: Yes, exactly. I believe that’s how that works.
-
-
-SYLVIA: Yep. 
-
-
-AUSTIN: Okay, cool. So go ahead and add Scraped to your level one harm thing.
-
-
-SYLVIA: Mm-hm.
-
-
-AUSTIN: Cool. Signet, what are you up to? [laughs] As drones start flying and weird animal robots start attacking. 
-
-
-JANINE: Yeah...uh, fuck. I don’t—I don’t have a lot of experience with either of these things. 
-
-
-AUSTIN: Mm-hm.
-
-
-JANINE: Especially not the robot tigers. 
-
-
-AUSTIN: Mm-hm.
-
-
-JANINE: Hmm, I think the thing I should probably be trying to do is help Even.
-
-
-AUSTIN: Yeah.
-
-
-JANINE: He’s probably not enjoying that as much as he’s letting on.
-
-
-[Austin laughs] 
-
-
-JANINE: [sighs] God, what’s the best fuckin’ way to do that though? Um—do I still have my sash?
-
-
-AUSTIN: Yeah, I think so. We didn’t actually go over enough of your—all of your stuff, but I wouldn’t take that away from you. And I think that that is totally such a key part of who Signet is that that seems like it makes sense to me. 
-
-
-JANINE: Yeah.
-
-
-AUSTIN: I would even say that that would be, like, instead of a blaster pistol, that would be your sash. You know?
-
-
-JANINE: Yeah, that's what I was thinking. Especially in the context of a blaster pistol here being, like—
-
-
-AUSTIN: Yeah.
-
-
-JANINE: —a somewhat limited weapon with, you know—
-
-
-AUSTIN: Mm-hm.
-
-
-JANINE: That’s—it’s like the sash is you sort of take a shot—
-
-
-AUSTIN: Okay, you know what it actually is? It’s probably the Mystic-class item “a fine melee weapon.” Which is—which takes two slots because it’s not—because it’s a fine melee weapon, which means you’ll have bonuses on certain rolls and stuff. 
-
-
-JANINE: Mm. A fine melee weapon to me is like, I don’t know—blaster pistol makes a lot more sense to me than a fine melee weapon because it is a—
-
-
-AUSTIN: I think it’s way too—
-
-
-JANINE: It’s not a thing Signet holds and uses though.
-
-
-AUSTIN: I think it’s way too versatile to be one thing. To be a one-slot item. 
-
-
-JANINE: Okay.
-
-
-AUSTIN: That’s like really what it comes down to, is like, it is a mystical—
-
-
-JANINE: I don’t have a thing in my thing for this thing. 
-
-
-AUSTIN: I would—heavy blaster is what I would use for it. 
-
-
-JANINE: Okay.
-
-
-AUSTIN: Yeah. And then that should still add up. One, two, three, four—or maybe, yeah—now you’re over by one, so you’d be in a heavy situation. 
- 
-JANINE: Yeah, I took some stuff off.
-
-
-AUSTIN: That’s fine. 
-
-
-JANINE: I don’t think I’m—
-
-
-AUSTIN: Gonna need most of that stuff anyway.
-
-
-JANINE: —doing the math—it’s probably fine. 
-
-
-AUSTIN: Yeah. Okay.
-
-
-JANINE: Anyway, the thing I was gonna say was I wanted to use that sash to—I don’t know if I ever—I feel like I must have done this at some point—but basically, not quite clotheslining—
-
-
-AUSTIN: Mm-hm.
-
-
-JANINE: But something where the force of the two ends is doing most of the work, but the actual thing—it’s sort of catching in the middle.
-
-
-AUSTIN: Right.
-
-
-JANINE: Basically around its neck. Or—it has a neck, right?
-
-
-AUSTIN: Yeah. Yeah, yeah, definitely. 
-
-
-JANINE: Okay. Yeah, I’m not familiar with the robot tigers [laughs], so I’m assuming they have a neck that I can wrap something and pull.
-
-
-AUSTIN: Yeah. It’s the same tiger that Even used on Volition that helped pin down Independence. 
-
-
-JANINE: Ohhh, okay.
-
-
-AUSTIN: It’s just a tiny version of that [Janine snorts]. A tinier version of that. Tiny is too tiny. It’s a—you know what I mean.
-
-
-JANINE: Mm-hm.
-
-
-AUSTIN: Okay, so you are gonna—you are going to—say that one more time?
-
-
-JANINE: Um—
-
-
-AUSTIN: Like, wrap it around the neck and pull back, basically?
-
-
-JANINE: It basically—the sort of two embellished ends shoot out with the middle catching the neck. 
-
-
-AUSTIN: Mmm. 
-
-
-JANINE: So the force is on the two ends and it’s basically yanking it back.
-
-
-AUSTIN: Gotcha.
-
-
-JANINE: By the neck. 
-
-
-AUSTIN: Yeah, that—so I’m guessing—again, you tell me. That sounds like Scrap, but you tell me.
-
-
-JANINE: I was also thinking Scrap.
-
-
-AUSTIN: Okay. So I def—I think this is Controlled because—oh, you know what? It’s Risky but the risk might not be to you. It’s to Even [laughs].
-
-
-JANINE: Mhm. 
-
-
-DRE: Fair.
-
-
-AUSTIN: Like, it’s a risky situation in that things can go bad here, but because this thing is fine quality, and specifically because we know that the Amprunners are—have, not shoddy but are not—I guess, mm, maybe they only look shoddy, right? That was actually part of it, right, Even? 
-
-
-DRE: Yeah, that was like the whole thing was that it looked bad. 
-
-
-AUSTIN: Yeah.
-
-
-DRE: As a way to give Even sneakiness advantage.
-
-
-AUSTIN: Right. Okay, I’ll still give you Great effect on this though, because the, the—your fine quality outclasses it. So go ahead and give me a Scrap roll.
-
-
-JANINE: Okay.
-
-
-AUSTIN: And that is Risky Great. 
-
-
-JANINE: Oh, wait, I fucked up then [laughs]. New system.
-
-
-AUSTIN: No, totally fine. 
-
-
-JANINE: New Roll20 plugins. 
-
-
-AUSTIN: [laughs] Uh-huh. It’s true. 
-
-
-JANINE: Great? Okay. 
-
-
-AUSTIN: Great, you got it. Also, I need to start marking clock stuff, one second. That’s a five! Oh wait—oh, do you not have Scrap?
-
-
-JANINE: I guess I don’t, no.
-
-
-AUSTIN: Okay. So then three, which is not great.
-
-
-JANINE: Nmm. No. Cool.
-
-
-AUSTIN: Okay. Um—
-
-
-DRE: It’s fine!
-
-
-JANINE: Nmmm.
-
-
-AUSTIN: It’s gonna be something alright! Give me one second, ‘cause I have to mark a clock segment. Um…
-
-
-SYLVIA: Oh, we’re in it now! Clock segment just got marked. 
-
-
-[Dre laughs]
-
-
-AUSTIN: Mm-hm. Uh-huh. It’s about to, it’s about to. I’m gonna mark, I’m gonna mark three for your Great effect, from the first—from the sword slash, Echo. Then [chuckles], oy, this one’s gonna be a little rough. So you failed that roll, on Risky, things go badly. You suffer harm, a complication occurs, you end up in a Desperate position, or you lose this opportunity. I’m actually going to lose this opportunity. So actually, what’s gonna happen is you pull back on the Amprunner, on its neck. And the—so, to remind people, the way that these worked is looked like they were more poorly armored and built than they actually were. And when you pull back, there’s like a—the fake rust all over its neck shreds off and when you pull, all you do is pull off this fake layer of aesthetic armor that protects it. Like, it was a good pull, you had it, but you didn’t know about this special feature that it had [laughs]. And so maybe you pulled too tightly or something, like almost like when you’re fishing, you know what I mean?
-
-
-JANINE: Mm.
-
-
-AUSTIN: You didn’t snap your sash or something like that, but, you know, you gave it the right amount of pull for how armored it looked but it was not—it was actually much more armored than that. And so it slips away, and then the thing that it does [chuckles] is it lifts Even by—it flops Even over and it grabs him by the back of the neck, digging in with its teeth, and then leaps up on top of one of these towers of cars all around you. Even, take the level one damage Bitten. 
-
-
-DRE: Yeah, okay.
-
-
-AUSTIN: Unless you want to resist.
-
-
-DRE: Um...so level one harm, you just—you do less effect when you make—
-
-
-AUSTIN: You do less effect. 
-
-
-DRE: Less rolls or certain rolls?
-
-
-AUSTIN: I believe it’s in related rolls, rolls where the thing makes sense to, um, cause a negative. 
-
-
-DRE: Right, yeah.
-
-
-AUSTIN: Which, to me, would be like you’re bloody, you’re hurt, so anything physical, you know? Or, I don’t know, I bet talking to somebody while blood [laughs] is running down the back of your neck is also not great either.
-
-
-DRE: Yeah, yeahhh. Um...I’ll take it. 
-
-
-AUSTIN: Okay. Alright, so then add that to your sheet. And we are back to you, Even, as you’re being pulled away [Dre chuckles]—or pulled up to the top of this tower. You can look around and see that two of the other Amprunners have been destroyed by those two drones, and now those two drones are—one of those drones is now fighting two of the remaining Amprunners and the other one’s coming towards you as this Amprunner begins to stuff you into a car [Dre laughs loudly, Sylvia laughs], as if saving food for later. 
-
-
-DRE: Oh, good. Um...I want to know—okay, I want to know where this thing came from. So I think this is gonna be another good conversation thing as we figure out how this works.
-
-
-AUSTIN: Uh-huh.
-
-
-DRE: So it’s got me—does it still have me by the neck? Or—
-
-
-AUSTIN: No, at this point it’s, like, shoving you into this old Honda Civic, basically. 
-
-
-DRE: Okay.
-
-
-AUSTIN: You know what it is? It’s like a hatchback and it’s shoving you into the back of this hatchback.
-
-
-DRE: Gotcha.
-
-
-AUSTIN: And is like turning to roar at this drone. 
-
-
-DRE: Okay. So as it’s trying to stuff me in—
-
-
-AUSTIN: Uh-huh?
-
-
-DRE: I brace myself kind of against, you know, like the inside of the car.
-
-
-AUSTIN: Mm-hm.
-
-
-DRE: And two of my hair tendrils snake out and try to touch this baby Amprunner.
-
-
-AUSTIN: [intrigued] Okay.
-
-
-DRE: ‘Cause I want to see if I can somehow either get more information about it or talk to it or, like—I don’t know. 
-
-
-AUSTIN: Yeahh. So the way you talk to machines in this way is Attune, in this system. But you also have a special thing that says—you have a move for this, right?
-
-
-
-
-DRE: Yeah, “machines speak to you when you study them.”
-
-
-AUSTIN: So I think that means you can Study here instead.
-
-
-DRE: Yeah.
-
-
-AUSTIN: That’s what that reads like to me.
-
-
-DRE: Okay.
-
-
-AUSTIN: Which is very good, because your Study is two and your Attune is zero.
-
-
-DRE: It is zero, yep [laughs].
-
-
-AUSTIN: Also because the thing you described was not talking, it was figuring out where it came from, basically, right?
-
-
-DRE: Right, yeah.
-
-
-AUSTIN: Alright. So I actually don’t think that this is a Risky—I don’t think this is—I think this is a fortune roll, not an action roll. 
-
-
-DRE: Okay.
-
-
-AUSTIN: Which means that I don’t think you’re at risk to do the thing that you’re talking about right now. So go ahead and give me your Study. So, for people listening, a fortune roll is just the same thing, basically, as an action roll, except because there is no risk, like—the failure here is just gonna be about what Even does or doesn’t get.
-
-
-DRE: There’s no failure, Austin. 
-
-
-AUSTIN: Exactly. Exactly. 
-
-
-DRE: ‘Cause that's a six. 
-
-
-AUSTIN: That is a six. That’s a good outcome, standard effect. So you’re specifically—do you have any questions specifcially or are you just like—[Dre sighs]. There’s some good Gather Information rolls—
-
-
-DRE: Yeah.
-
-
-AUSTIN: Or questions at the bottom of your sheet if you ever really wanna know.
-
-
-DRE: Um—
-
-
-AUSTIN: But I’m happy to answer a couple of questions about this. Like what, um—I can give you a little bit. I can give you a little bit for free, or not for free, but just from my side.
-
-
-DRE: Yeah.
-
-
-AUSTIN: Which is, all the technology on this place is built from the collective will and dreams of the people on this world. This does not mean that this came from you though. In fact, where it probably came from—like maybe what you get a shot of is the vision of a—of [chuckles] a group of mercenaries who are traveling down the side of a mountain towards a convoy that they’re attacking. When suddenly, breaking through the atmosphere, is this giant mech. This Amprunner. That lands, that then you get into and then fuck up their whole day. This is—this—these things are a reflection of this very intense memory that one of the mercenaries that attacked the Doyenne had, back in the first Quire game. Like, “I remember that they looked shitty, I remember they had a big thing on its shoulder, I remember it was a tiger that roared weird.” And like, bit by bit, between that, between records that it had, records that existed in computers about the Amprunner, these things were built out of that by Quire during the Miracle.. So that’s where they come from. And they’re alive. They are just as real as a real tiger would be. 
-
-
-DRE: Okay. And so—there’s probably no—like, there’s no recognition from these things of who I am?
-
-
-AUSTIN: Umm...you know, on a six I’ll say yeah, there is. Like, on a six on a Study. You’re part of them in a weird way, right? Like, they move, and I think maybe this is part of your hybrid self. We’ve talked before about the way that muscles can have memory and we want technology to be in a similar sense here, that like they have you in them in an almost genetic sense. Because, when it moved, and the people who saw it move, those mercenaries saw it move, they saw you moving. And so it moves the way you used to pilot it. It sweeps with the same grace that you would have swept around your rear tail and charges ahead with the same ferocity. And so it is not just like someone cast Animate, it is as if there is a little Even Gardner piloting it [chuckles] in terms of the way it moves and jumps around. 
-
-
-DRE: Right.
-
-
-AUSTIN: Which maybe gives a bonus on a roll to try to Attune, you know what I mean? I think maybe it gives you a plus 1d to Attune if you wanted to try to do that. 
-
-
-DRE: But overall their intention is just—they are just like—
-
-
-AUSTIN: They’re animals. 
-
-
-DRE: They’re wild animals, yeah.
-
-
-AUSTIN: Yes. They’re wild animals and you look really tasty because of being a weird technology person. 
-
-
-DRE: [laughs] Sure, yeah. Alright.
-
-
-AUSTIN: And so do the drones, for that matter. You know, they’re predators. 
-
-
-DRE: Yeah. 
-
-
-AUSTIN: Alright, cool. I like that. Signet and Echo? 
-
-
-SYLVIA: Ooof. [clears throat] Okay. 
-
-
-AUSTIN: [laughs] Deep breath. Okay. 
-
-
-SYLVIA: Let’s figure this out. My knee is fucked up.
-
-
-AUSTIN: Uh-huh.
-
-
-SYLVIA: Even’s being pushed in a car.  
-
-
-AUSTIN: Mm-hm.
-
-
-SYLVIA: But the drone thing is taken care of, right?
-
-
-AUSTIN: Mm-hm.
-
-
-SYLVIA: Okay. Yeah, I’m not entirely sure what I can do here. 
-
-
-AUSTIN: Think broad.
-
-
-SYLVIA: Yeah.
-
-
-AUSTIN: Like, zoom out the camera. You don’t have to be in the spot you were in. Think about how the anime would go, where we would cut and maybe you wouldn't be on the ground anymore, you’d be somewhere else. 
-
-
-SYLVIA: Would you count this encounter as an ambush, Austin?
-
-
-AUSTIN: Oh yeah, it’s definitely an ambush.
-
-
-SYLVIA: Okay. So maybe—
-
-
-AUSTIN: Well—yeah. It is.
-
-
-SYLVIA: So I have a move called Ready For Anything. 
-
-
-AUSTIN: Mm-hm.
-
-
-SYLVIA: “When being ambushed, you gain potency to all actions during flashbacks and your first flashback costs zero stress.”
-
-
-AUSTIN: Oh shit! Okay. 
-
-
-DRE: That’s rad!
-
-
-AUSTIN: That’s really cool.
-
-
-SYLVIA: So I’m thinking of doing something with that, but I’m not entirely sure what [laughs].
-
-
-AUSTIN: Does anyone have ideas about a cool flashback for how Echo could have prepared for this?
-
-
-DRE: Uhhhh.
-
-
-JANINE: Training montage with catching stuff out of the air?
-
-
-[Dre laughs]
-
-
-AUSTIN: Training montage—that’s totally fair. 
-
-
-DRE: Yup.
-
-
-AUSTIN: Or like training montage while jumping and then catching stuff out of the air? Like, specifically jumping from the side of this canyon to the other.
-
-
-JANINE: Oh, like a sort of zipper jump between two walls to snatch some sort of, like—
-
-
-AUSTIN: Yeah.
-
-
-JANINE: Not a Golden Snitch but some other reference [Austin laughs] that’s not as played out of a thing that flies
-
-
-SYLVIA: They played a lot of Mario Odyssey, that’s what’s going on. 
-
-
-AUSTIN: Exactly. Exactly. 
-
-
-SYLVIA: Gotta get that moon. 
-
-
-AUSTIN: Gotta get that moon. 
-
-
-SYLVIA: I like that.
-
-
-AUSTIN: Yeah, no, totally, I would totally—that’d be really cool. Though the thing that that gets is, like—I guess, yeah, what that would do is maybe that would work as a setup action for yourself—
-
-
-SYLVIA: Yeah.
-
-
-AUSTIN: —to get a better effect in the next thing, right? I’m just trying to figure out how that works mechanically. ‘Cause we can have that flashback but I need that flashback to then relate to the thing you’re doing now in a way that’s—
-
-
-SYLVIA: Yeah, that’s my problem. 
-
-
-AUSTIN: I don’t want you to have to roll twice just to have that effect, do you know what I mean?
-
-
-SYLVIA: Yeah. Um—
-
-
-AUSTIN: You know, maybe the way to do that is just like, you’ve done that flashback, we know you have that. You have potency on that flashback, right? Which means that it’s going—is that what it is? You have potency on the flashback?
-
-
-SYLVIA: You gain potency to all actions during flashbacks, and your first flashback costs zero stress. 
-
-
-AUSTIN: Okay. So potency, again, is just like a quality thing.
-
-
-SYLVIA: Yeah.
-
-
-AUSTIN: Which means like, ‘Oh, I’m going to get a better effect here,” basically. It’s like—you know how we talk about, like, ‘oh, it’s a small gang’? You can fight as a small gang.
-
-
-SYLVIA: Um—
-
-
-AUSTIN: That’s scale. Potency is like strength slash—strength, and then quality is another thing that can give you an advantage. 
-
-
-SYLVIA: So I did just have an idea.
-
-
-AUSTIN: Okay.
-
-
-SYLVIA: So I’ve talked a lot about how Echo acts as a scout.
-
-
-AUSTIN: Mm-hm. 
-
-
-SYLVIA: Would it be safe to say—and what I’m asking is, is it cool if we say Echo scouted through here a little bit?
-
-
-AUSTIN: Oh, a hundred percent. Totally.
-
-
-SYLVIA: Okay. So I have this thing in my inventory called a detonator. 
-
-
-AUSTIN: [amused] Uh-huh.
-
-
-SYLVIA: And what I’m thinking is that I planted a thing along a route.
-
-
-AUSTIN: Mm-hm.
-
-
-SYLVIA: And I’m—and can use—like, I didn’t know I was gonna use it for this; I expected to use it against soldiers or something. 
-
-
-AUSTIN: Uh-huh. 
-
-
-SYLVIA: But it’s basically like a falling rock trap type thing.
-
-
-AUSTIN: Right. 
-
-
-SYLVIA: And I use it to take, like, using it against the group of Amprunners, basically.
-
-
-AUSTIN: Right. So—
-
-
-SYLVIA: As opposed to using it against soldiers like I intended. 
-
-
-AUSTIN: Can I, can I suggest something which moves it away a little bit—
-
-
-SYLVIA: For sure. ‘Cause I’m reaching here.
-
-
-AUSTIN: Which is only—it’s, I mean, the way the system works is it could be exactly where you want, it would just mean more stress but because you have that ability would cost you no stress. 
-
-
-SYLVIA: Yeah.
-
-
-AUSTIN: So you could absolutely have it do the thing you were talking about, which is, like, you set it up, you pull the trigger, it all happens. Like, a hundred percent I will let you have that if that’s the way you want it to go
-
-
-SYLVIA: Mm-hm.
-
-
-AUSTIN: But I kind of also like the notion of it not needing to crush anybody. Like, if there’s a big explosion, what happens? Okay, the drones get scared and the Amprunners get scared— 
-
-
-SYLVIA: Oh yeah!
-
-
-AUSTIN: And everything just scatters. Instead of it being about killing something, it can be about scaring them off.
-
-
-SYLVIA: For sure. So, where are we on the map? Are we still here on this ‘X’?
-
-
-AUSTIN: You’re in this—no, you’re in the little red area here. 
-
-
-SYLVIA: Okay.
-
-
-AUSTIN: You’re, like, literally here.
-
-
-SYLVIA: Alright. So what if I left it on this path here?
-
-
-AUSTIN: Yeah, totally. Exactly 
-
-
-SYLVIA: So it’s close enough to make—like, so that’s to the left of us. 
-
-
-AUSTIN: Yeah, to the west, yeah. 
-
-
-SYLVIA: So it’s close enough to make a loud noise. 
-
-
-AUSTIN: Yep.
-
-
-SYLVIA: But not—we don’t get hurt from it. 
-
-
-AUSTIN: Totally.
-
-
-SYLVIA: And it also will sort of wall off that path.
-
-
-AUSTIN: Totally.
-
-
-SYLVIA: Yeah. 
-
-
-AUSTIN: So I think that that’s Rig, is what that sounds like to me.
-
-
-SYLVIA: Okay.
-
-
-AUSTIN: Or sorry, again—again, you get to say what this is. 
-
-
-SYLVIA: Yeah.
-
-
-AUSTIN: And I’ll tell you what the position and effect are. 
-
-
-SYLVIA: [exhales] Phoo. I can’t—I don’t have anything that I could really make a case for [Austin chuckles], ’cause I don’t think Scrap makes sense at all.
-
-
-AUSTIN: Scrap would make sense if you were throwing it. 
-
-
-SYLVIA: Yeah.
-
-
-AUSTIN: It actually gets into that. It’s like, if you’re throwing a grenade, that’s Scrap.
-
-
-SYLVIA: Yeah, but—
-
-
-AUSTIN: But if you’re setting off a bomb that you planted—
-
-
-SYLVIA: Um—
-
-
-AUSTIN: It could be—it could have been Skulk if you were sneaking through it. 
-
-
-SYLVIA: Skulk actually I think could work because I was sneaking through the area and that’s the action, right?
-
-
-AUSTIN: Oh, you know what else it could be? It could be Scramble, which is you’ve climbed up to the top of the thing. 
-
-
-SYLVIA: Okay. 
-
-
-AUSTIN: So then it’s about—it’s kind of like, what’s the camera framing?
-
-
-SYLVIA: Mm-hm. 
-
-
-AUSTIN: And so like—
-
-
-SYLVIA: I mean, I do like—we talked about the sort of jumping around—
-
-
-AUSTIN: Double j—yeah, totally.
-
-
-SYLVIA: And I do like that visual.
-
-
-AUSTIN: Yep.
-
-
-SYLVIA: So we can kind of tie that in using Scramble here. 
-
-
-AUSTIN: So then, yeah, let’s use Scramble. Let’s use Scramble and say that that is—again, it’s potency so it’s gonna have—you have potency so you have Great effect there. 
-
-
-SYLVIA: Um, what’s my position here? Risky still?
-
-
-AUSTIN: I think Risky because I can think of ways in which this would [slight glee] all go really bad. 
-
-
-SYLVIA: And Great effect?
-
-
-AUSTIN: Great effect. 
-
-
-SYLVIA: Four.
-
-
-AUSTIN: Four. Okay. Um, let me see something one second...so four again is there’s a complication, right? So here’s what happens, I think. We—the—it’s just lesser effect, is the outcome here. The explosion goes off and the cars start to fall, like the entire row of them starts to fall over over to the west. And the two remaining drones go like, [alarm noises] “Brrrrwohh, brwwwwaoh” and take off to the west to investigate that. And so you’ve dealt with them, but you still have the problem of these three remaining Amprunners, one of which has Echo pinned inside of a Honda Civic [laughs]. 
-
-
-SYLVIA: I think you mean Even. 
-
-
-AUSTIN: Oh right, sorry, Even. Yes, yes, yes. So you’re close.
-
-
-SYLVIA: Yeah.
-
-
-AUSTIN: Five of the six clock pizza slices have been filled in [laughs].
-
-
-SYLVIA: Ooh, we gotta start calling those pizzas instead of clocks.
-
-
-JANINE: Nmm.
-
-
-AUSTIN: They’re slices, you know? Pizza pie slices. Instead of calling them clocks, we’ll call them pies, you know? [quietly] I want pizza. 
-
-
-JANINE: It’s funny, ‘cause when I saw this clock I thought, “Wow, Austin definitely never worked in a pizza place.”
-
-
-AUSTIN: [defensively] I didn’t draw this clock! This is what clocks in this system look like! 
-
-
-DRE: Wow, harsh.
-
-
-JANINE: Okay [laughs]. Alright. It’s just a little uneven, is all [Dre laughs]. It’s just, you know, it’s—it’s a—if you sent that medium out, someone would complain. 
-
-
-[Austin sighs]
-
-
-JANINE: It’s fine, it’s a good clock. 
-
-
-AUSTIN: You should see—okay, you should see what the original fucking clocks looked like. 
-
-
-[Dre cackles]
-
-
-AUSTIN: You want to talk about an uneven slice, look at this shit right here. It’s bad. I—you know, that’s three big slices and then three tiny slices. 
-
-
-SYLVIA: Yeah, that’s terrible.
-
-
-JANINE: What the fuck is that?! Oh my God. 
-
-
-AUSTIN: It’s a clock. It’s a clock [Janine sighs] and so it’s meant to be like a—
-
-
-DRE: Where is it? I don’t even see it. Oh—
-
-
-AUSTIN: I linked it in the chat, I linked it in the chat. Yeah, that’s what the original clocks looked like in Apocalypse World. 
-
-
-DRE: Oh yeah, that’s bad.
-
-
-AUSTIN: Mm-hm.
-
-
-JANINE: That’s bad.
-
-
-AUSTIN: And then the thing I’ve shown you is literally what the Apocalypse World clocks look like. Basically, there’s a—the southeast and northwest slices are very big.
-
-
-JANINE: Oh, this is the seduced clock.
-
-
-AUSTIN: Yeah, for if you were being seduced, for instance. 
-
-
-JANINE: [laughing] Okay.
-
-
-AUSTIN: It’s only a six—
-
-
-JANINE: Time until seduction, right, okay.
-
-
-AUSTIN: Right, exactly. Versus the broken leg clock, which is an eight—an eight slice clock.
-
-
-JAININE: Takes longer to get a broken leg than be seduced, I guess, is what—
-
-
-AUSTIN: I think get a broken leg fixed, is my guess.
-
-
-JANINE: Oh, okay.
-
-
-AUSTIN: Which, yeah, uh-huh, I’ve seen movies. Lots of people falling in love while their broken legs are healing.
-
-
-JANINE: So—Mm. Okay. Uhh, God. Fuck. I—New systems are hard to figure out.
-
-
-AUSTIN: Mm-hm. Think about what Signet would do and we’ll work out the system shit second. 
-
-
-JANINE: [laughing] I mean, I kind of can, but that’s the problem is I don’t have a thing for that anymore. 
-
-
-AUSTIN: Tell us what it is and we’ll figure it out. 
-
-
-JANINE: I can’t touch a robot and make it do different stuff; that’s not really in my book here. 
-
-
-AUSTIN: Yeah, it is. That’s Attune. So that’s totally just Attune. 
-
-
-JANINE: Okay. 
-
-
-AUSTIN: Like, that’s the thing, is like there are definitely—it’s because there’s action systems in this instead of just moves and instead of just— 
-
-
-JANINE: Okay. That’s fair.
-
-
-AUSTIN: Like, a lot of it will fall in that general action space, you know?
-
-
-JANINE: Hmmm...okay. So where are these—okay, so there’s the one—
-
-
-AUSTIN: There’s one—
-
-
-JANINE: The one Amprunner that’s stuffing [Austin laughs] Even into a trunk, or whatever.
-
-
-AUSTIN: Has Even—yeah. Mm-hm.
-
-
-JANINE: And then there’s three others?
-
-
-AUSTIN: There’s two others left.
-
-
-JANINE: Okay, two others. 
-
-
-AUSTIN: And those are out in the same kind of car fields near you. Frame—
-
-
-JANINE: Are they largely preoccupied with the drones right now?
-
-
-AUSTIN: No, ‘cause the drones have left now. 
-
-
-JANINE: Okay. Okay. 
-
-
-AUSTIN: So now they are like—I think now they are trying to get their bearings and figure out what the fuck to do. There’s kind of a downbeat here where you can frame the scene however you’d like.
-
-
-JANINE: Okay. Then I think the thing that Signet does—she kind of moves sort of alongside, like just behind one of the junk towers to sort of get into a flanking position, I guess would be the best.
-
-
-AUSTIN: Mm-hm.
-
-
-JANINE: If that’s possible, I’m not entirely sure on this map, but—
-
-
-AUSTIN: Yeah. 
-
-
-JANINE: And then I think—I think she basically wants to get behind one of the Amprunners and, um, maybe not grab it by the tail ‘cause that’s on fire, there’s like some sort of—
-
-
-AUSTIN: There is a fire thing, yeah. 
-
-
-JANINE: Yeah, so maybe not grabbing it by the tail. But probably just get close enough that she can—she can sort of make that sort of weird connection. 
-
-
-AUSTIN: Are you sneaking up on it? Are you leaping on it? What’s the—what’s that physically look like?
-
-
-JANINE: Uhh...I hadn’t considered leaping, but then you said leaping [Austin laughs]. And I was like, “Man, I need to play more Horizon [Austin laughs], what if Signet’s just Aloy?” 
-
-
-AUSTIN: Uh-huh.
-
-
-SYLVIA: Hm.
-
-
-JANINE: Which she’s not—
-
-
-AUSTIN: No.
-
-
-JANINE: —but that’s fun. 
-
-
-AUSTIN: Yeah.
-
-
-JANINE: So maybe, maybe—she hasn’t been acrobatic in a while, fuck it! 
-
-
-AUSTIN: Yeah, yeah. 
-
-
-JANINE: Like let’s—
-
-
-AUSTIN: Alright, yeah, so—
-
-
-JANINE: She’s been doing church shit; she wants to maybe jump around, get a little exercise in.
-
-
-AUSTIN: Awesome. Cool. So I think you have that. Scramble is jumping stuff, right? Is that the—
-
-
-JANINE: I think so.
-
-
-AUSTIN: Yeah.
-
-
-JANINE: I think Scramble like scrambling to or scrambling from.
-
-
-AUSTIN: Mm-hm. And, like, climbing or jumping. 
-
-
-JANINE: Yeah.
-
-
-AUSTIN: “Climbing, swimming, traversing harsh environments,” yeah. 
-
-
-JANINE: Yeah.
-
-
-AUSTIN: Alright. So, um, I’d say again this is definitely Risky. Risky Standard.  
-
-
-JANINE: That makes sense. 
-
-
-AUSTIN: Yeah, this is for the getting in there, making that landing, and, like, catching it. You have to do that—you’re gonna need to do that before you Attune with it, because otherwise you can’t—
-
-
-JANINE: Mm-hm.
-
-
-AUSTIN: You know, so—
-
-
-JANINE: Yeah.
-
-
-AUSTIN: Kind of a multipart thing. So this will not add to the clock; this will only set up that next move for yourself, basically.
-
-
-JANINE: Risky Standard, right?
-
-
-AUSTIN: Risky Standard. 
-
-
-JANINE: Okay.
-
-
-AUSTIN: Oof. That’s a three. That’s no good.
-
-
-[Janine sighs]
-
-
-AUSTIN: So, you make that jump and—so things go badly. You suffer harm, a complication occurs, you end up in a Desperate position, or you lose this opportunity. So you—I need to think of what the most interesting thing here is. I think you take this leap and you land on it and you, like, it shakes you—it begins to shake you off and then slams you into the side, like it does a hard shoulder turn and flings you into the side of one of these other towers, and the tower begins to fall downwards on you because of the force that it flung you with. So two things happen. One: you’re in a Desperate position because this tower’s gonna fall, and two: you take the level one harm Bruised. Again, you can resist either of those and that would avoid one or the other. You could avoid being in a Risky position—or being put into a Desperate position—or you could avoid the harm. You could do both, you would just have to roll twice to resist and potentially take on some stress. 
-
-
-JANINE: I’d actually like to resist the being in a shitty position thing.
-
-
-AUSTIN: Totally. Okay. So to do that you use one of your attributes. You have Insight, Prowess, and Resolve. This would be Prowess, ‘cause it’s about physical distance and stuff like that.
-
-
-JANINE: Mm-hm.
-
-
-AUSTIN: Physical movement, rather. So you roll one die per attribute dot. In this case you have two, because you have Helm and Scramble. The attributes are made up by how many skills that you have underneath it. So for people at home who don’t see these sheets in front of them Helm, which is your piloting skill; Scramble, which is your climbing skill and athletics skill, kind of; Scrap, which is your fighting; and Skulk, which is your sneaking around...all of those are Prowess skills. And because she has Helm and Scramble, she has two Prowess. So go ahead and you’d roll two dice. 
-
-
-JANINE: So bonus dice two or no?
-
-
-AUSTIN: Uh, if you hit Prowess— 
-
-
-JANINE: I just did—yeah, that’s what I did—
-
-
-AUSTIN: Bonus dice none. 
-
-
-JANINE: Okay, so it’s just gonna automatically...alright.
-
-
-AUSTIN: You got it. So you suffer six stress, minus the highest die result. So  in this case, you rolled a four. You rolled two fours. So subtract two—so two, you have two stress. So mark two stress boxes...boom. So that means you still get—you still can’t get in there for the Attune but when it throws you against the side of this car, you’re able to slide out of the way, putting yourself back into a regular Risky position instead of a Desperate one. Maybe we even see the tower fall over and separate you from this—from this Amprunner. Not separate as in ‘it’s gone now’, but you would have been there; now you’re not and you’re safe. [laughs] You have not been crushed by this tiger—or by these cars or this tiger-creature.
-
-
-JANINE: Yeah.
-
-
-AUSTIN: Even, what’re you up to? In the back of this [Dre laughs]...this hatchback?
-
-
-DRE: So—
-
-
-JANINE: Oh wait, was this a Desperate action that I would mark XP for? Was that like—
-
-
-AUSTIN: Oh, yeah! If you did a Desperate—that’s actually an important note to make. Whenever you do a Desperate action, you should mark XP. And you should be marking the XP in the attribute that you’ve done. So who has done anything Desperate so far?
-
-
-JANINE: I don’t know.
-
-
-AUSTIN: It’ll tell you, thankfully, this new system that we have. Desperate...I don’t see any Desperates. Risky, Risky, Risky, Risky, Risky, Controlled, Risky, Risky. Yeah, I think we’re good.
-
-
-JANINE: Okay. 
-
-
-AUSTIN: Yeah, nothing Desperate yet. Though I do believe, Even, you might be in a Desperate position [laughs].
-
-
-DRE: Oh, do I still have an angry tiger-zoid on top of me?
-
-
-AUSTIN: Yeah. Yeah. 
-
-
-DRE: Okay.
-
-
-AUSTIN: I think at this point it does a howl, as if to, like, “Alright everyone, we’ve got dinner!” 
-
-
-DRE: Oh man. Okay, yeah. Let’s go for it. Let’s get all—let’s get all Jurassic World up in here. 
-
-
-AUSTIN: Okay.
-
-
-DRE: I made the stupid joke and let’s follow through. 
-
-
-AUSTIN: Let’s follow through. Exactly [laughs].
-
-
-DRE: As it’s howling, Even puts out a hand.
-
-
-AUSTIN: Mm-hm?
-
-
-DRE: And just, like, very authoritatively says “Even Gardner, in the Amprunner, coming online.”
-
-
-AUSTIN: [laughing] Oh buddy. Okay. What is that? What is that?
-
-
-DRE: I would say Command?
-
-
-AUSTIN: Oh, interesting! Okay. So I think—
-
-
-DRE: But—but!
-
-
-AUSTIN: Mm-hm?
-
-
-DRE: I could also see, like, how, with the way that this works and technically talking to robots, that it could be Attune as well. 
-
-
-AUSTIN: You can use either, it’s just that the effect’s gonna be different.
-
-
-DRE: Right. 
-
-
-AUSTIN: So Command, for me, is like you are—it’s like talking to a dog. It’s like “Sit!” It’s so much just in your voice; it’s in the cadence of how you’re talking. It’s in the way you’re standing; it’s in the way that you’re addressing this creature. Attune is, it understands you. Not just it understands your tenor and it understands that you’re directing it, but it understands you. And so I would say that Command has a lesser effect. Not lesser, but—actually, yeah, I think Command has lesser effect, which would be one tick of this clock.
-
-
-DRE: Yeah. 
-
-
-AUSTIN: Which would be enough to—if you nail it, it would be enough to succeed. But Attune would be normal effect, regular effect, because it’s actually communicating with this thing. Regardless, this is gonna be a Desperate roll. 
-
-
-DRE: Right.
-
-
-AUSTIN: So, you tell me which of those two you want to do.
-
-
-DRE: Are you still willing to give me that extra die on the Attune? Because of the last roll here. 
-
-
-AUSTIN: Yeah, totally. 
-
-
-DRE: Yeah, let’s do it. Let’s go for it. 
-
-
-AUSTIN: Alright. So go ahead and give me an Attune roll, with a plus one bonus, because otherwise you’d have a zero. 
-
-
-DRE: And that’s Desperate, right?
-
-
-AUSTIN: Is anybody—yeah, that’s Desperate, totally. Again, you can push yourself. You could—I can offer you a Devil’s Bargain if you’d like another die, also.
-
-
-DRE: Oh boy. Um, I mean, I’ll hear it [laughs].
-
-
-AUSTIN: Um, it’s—
-
-
-DRE: Or is it that I have to say yes before you give it to me?
-
-
-AUSTIN: No, you can—I can offer it to you first. Which is, the Devil’s Bargain here is simple, it would be Heat. The—what would happen is the—by doing this, you’d be leaving your mark on these things and then, you know, fast forward a week from now as one of the factions who doesn’t like you is like, “I think Even was here recently,” they’d be able to scan these Amprunners for your—for this moment and recover you from that—recover the image of you. And we’d just get plus one heat inside of Gift-3.
-
-
-DRE: I mean, not if I make them all my friend and they come on the ship with us. 
-
-
-AUSTIN: [laughs] Yeah, okay, fair [Dre laughs]. You get an army of Amprunners.
-
-
-DRE: Yeah. You know what? I’ll take that Devil’s Bargain, ‘cause I think it’s interesting. 
-
-
-AUSTIN: Okay. So then two dice. I’m going to mark the first Heat box here. Boop!
-
-
-DRE: And also, yeah, let’s just get all the mechanics out right now. 
-
-
-AUSTIN: Yeah, exactly. So Heat—
-
-
-DRE: Talk about Heat, talk about bonus dice…
-
-
-AUSTIN: Exactly! Heat is the thing that lets you—or that kind of references your—the fact that people know you’re here and are looking for you. So anybody who doesn’t like you, Heat—it doesn’t mean that people on the planet don’t like you; what it means is, like, if someone was to—there are factions here who don’t like you; those people know where the fuck you are and are able to find you, basically. 
-
-
-DRE: Alright, here goes. 
-
-
-AUSTIN: Alright, give me your Attune with two bonus die. 
-
-
-DRE: Fuck me!
-
-
-AUSTIN: That’s bad. 
-
-
-DRE: That’s two twos!
-
-
-AUSTIN: That’s two twos. That’s two twos. Make sure you mark that XP [laughs]. 
-
-
-DRE: Well, there goes that hand I was holding onto [laughs]. 
-
-
-AUSTIN: Yeah man, this is not—it’s the worst outcome. You overreach your capabilities. It’s the worst outcome: you suffer severe harm, a complication occurs, you lose this opportunity. Those other tigers are gonna get up here, buddy. 
-
-
-[Dre guffaws]
-
-
-AUSTIN: Those other Amprunners start coming up at you. And they, uh, they dig in. You’re gonna take the level three Harm...what’s a good word for being chewed up?
-
-
-DRE: Like mauled?
-
-
-AUSTIN: Mauled. 
-
-
-DRE: I’m gonna resist that [laughs].
-
-
-AUSTIN: You can resist this—yes. Yes. I’m still gonna say that your resist is—it’s gonna just lower it to a level two harm, probably.
-
-
-DRE: Okay.
-
-
-AUSTIN: It’s not gonna reduce—or, you know what? It’ll lower it to a level one, is what I’ll say it does, if you, you know, by doing—so how do you resist this? Are you just, like, crawling away? Are you, like—trying to get out of here? Is it just like—
-
-
-DRE: I think, yeah, it’s like a moment where he says that, and then maybe he says it one more time, and then it’s just like, “Oh, fuck. This isn’t gonna work.”
-
-
-AUSTIN: Right, right.
-
-
-DRE: And he almost, like, kicks or punches the thing in the face. Not to hurt it—
-
-
-AUSTIN: Uh-huh.
-
-
-DRE: But just to be like, okay, I’m gonna buy myself an inch of space here. 
-
-
-AUSTIN: Mmm. Mm-hm.
-
-
-DRE: And just kind of tries to, like, almost just jump off from where he is. Because like, “Okay, I might land on something bad—”
-
-
-AUSTIN: Ohh, sure. 
-
-
-DRE: “—but it’s probably not the same as having a tiger pack eating me.”
-
-
-AUSTIN: Getting eaten, yeah, exactly. Exactly. Quick question: do you have armor on?
-
-
-DRE: Ohh. Um—
-
-
-AUSTIN: Because that could be one of those things that helps you.
-
-
-DRE: Yeahh, I’ll say I have armor on [laughs].
-
-
-AUSTIN: Instead. Because then, then, and we can kind of talk about how armor works then, also.
-
-
-DRE: Right. 
-
-
-AUSTIN: As we continue to walk through all the systems of this game. 
-
-
-DRE: Have we—I guess since we jumped right in, we haven’t really declared load or anything. 
-
-
-AUSTIN: No, I’m letting—I’m being flexible here because I want this opening scene to be pretty fun. 
-
-
-DRE: Yeah. 
-
-
-AUSTIN: Which is like, yeah, let’s just—as long as we’re not—as long as you’re not going over your heaviest load or whatever.
-
-
-DRE: Sure, sure, sure. 
-
-
-AUSTIN: Then you’re good. So the way armor works is: [reading] “If you have a type of armor that applies to the situation,”—and just ‘Armor’ would do that—“you can mark an armor box to reduce or avoid consequence instead of rolling to resist. For instance, Aman is taking the level two harm Scorched Ribs and the fight isn’t even over yet. So Juan decides to use Aman’s armor to reduce the harm. He marks the armor box and the harm becomes the level one Winged. If Aman had had a power that gave him additional armor, such as Cerberus’s Crew power, Loaded For Bear, he could mark a second armor box and reduce the harm again to zero. When an armor box is marked, it can’t be used again until it is restored. All of your armor is restored when you choose your load for the next score.” So I’ll say after this scene, you’d be able to get that armor back up to snuff, basically, but, but—Ah, you know what? Maybe I actually won't. I think if you lose your armor here, you lose it for this job, you know?
-
-
-DRE: That makes sense. But I’ll go ahead and use it here, yeah.
-
-
-AUSTIN: Okay, so go ahead and mark that you’ve used your armor. Got it, cool. Awesome. So instead you take the less effect, the level one harm. You’ve already gotten Bitten and Bloody, huh? I think this is from the fall. I think maybe you do get away and the thing that—it’s like winded. Where, like, you just—you get it knocked out of you.
-
-
-DRE: Yeah.
-
-
-AUSTIN: So take Winded. Signet and Echo. You see Even fall out from the top of one of these towers. Here’s another little reminder: the goal of this fight is to get away, not to kill these things necessarily. Oh, fuck. I moved everything and now it’s all fucked up...there we go. 
-
-
-SYLVIA: There we go. 
-
-
-DRE: I don’t think we’re gonna get any new animal friends, guys. 
-
-
-JANINE: Nm.
-
-
-DRE: I tried! I tried!
-
-
-AUSTIN: Two of you tried! I;m, you know, I was rooting for you, I’m not gonna lie. I liked the notion.
-
-
-JANINE: Ehhh, I mean, there’ll be other animals.
-
-
-AUSTIN: True.
-
-
-DRE: [laughs] If there’s anything Twilight Mirage has taught us, it’s that there will be weird animals.
-
-
-AUSTIN: [laughs] I gotta do foley, you know?
-
-
-[Dre laughs]
-
-
-JANINE: I mean, okay, so what’s the recap here? Even’s now on the ground, at least?
-
-
-AUSTIN: Even’s now on the ground. Like, has the wind taken out of him but is alive. Why are these nameplates not showing?
-
-
-JANINE: Uhhh, okay, I think—I mean, the most practical thing to do here is to help Even get back onto his feet. So we can move, go. 
-
-
-AUSTIN: Totally. Yeah. 
-
-
-JANINE: Now that the problem isn’t that he’s being put in a car-tree by a robot panther or whatever.
-
-
-[Austin and Dre laugh]
-
-
-AUSTIN: Yep, you got it.
-
-
-JANINE: Would that be Doctor?
-
-
-AUSTIN: Yeah, I think that would be Doctor. Um—
-
-
-JANINE: I’m really desperate for an okay roll. Just one. 
-
-
-AUSTIN: Just one. 
-
-
-JANINE: I just don’t want to spend my first night with a new system rolling nothing but trash from a butt.
-
-
-[Dre laughs]
-
-
-AUSTIN: [laughs] Oh, okay. Yeah, gotcha. Uh, yeah, I think that the thing you’re describing—so what do you do? What’s this look like?
-
-
-JANINE: I think this is, um, I mean, Signet—Signet’s already sort of on her own feet. 
-
-
-AUSTIN: Mm-hm.
-
-
-JANINE: Like, she had—she got sort of tossed off. And I imagine she—I picture that scene as like her hitting the wall—that garbage wall sort of thing. 
-
-
-AUSTIN: Yeah.
-
-
-JANINE: Stack of crap. But then springing away pretty quickly. Just sort of, you know, being acrobatic and cool.
-
-
-AUSTIN: Yeah.
-
-
-JANINE: And I think this is probably a delayed sort of third step in that movement. Of, like, there was a moment of delay to figure out, ‘Okay, that didn’t work, what next?‘
-
-
-AUSTIN: Mm-hm.
-
-
-JANINE: And then Even gets chucked [Austin snorts]. And then she’s like, “Okay, that next.”
-
-
-AUSTIN: Mm-hm.
-
-
-JANINE: And then sort of bounds over to scoop him up. Not scoop him up, but, like, you know...
-
-
-AUSTIN: Yeah.
-
-
-JANINE: Hasten his not-being-on-his-back-edness? 
-
-
-AUSTIN: So are you—are you doing something to address the wounds or the—
-
-
-JANINE: I don’t know that this is the time for that, exactly.
-
-
-AUSTIN: Okay.
-
-
-JANINE: Like, I have a fine medkit but I feel like if he’s just winded at this point it makes more sense to maybe get somewhere safer before whipping out the medkit kind of thing.
-
-
-AUSTIN: Yeah. I’m—
-
-
-JANINE: Or whatever that medkit actually is, I’m not actually sure.
-
-
-AUSTIN: Is it then—it’s more about, like, “Come on, get on your feet. We’re getting out of here,” type of thing. 
-
-
-JANINE: Yeah. Yeah.
-
-
-AUSTIN: Okay, cool. I still think—
-
-
-JANINE: It’s like a sort of “I got you. But we need to go.”
-
-
-AUSTIN: [laughs] Right, right, right. Yeah, I think that that—you can totally do that with Doctor. And the thing that I’ll actually say is, and we’ll—we can maybe do all of the—mm, yeah, I think maybe it’s just Doctor. Yeah, I think that that’s just Doctor. And then the way that works is it’s Risky, ‘cause again there are these tigers around, and Standard, for effect. So Risky Standard Doctor.  
-
-
-JANINE: What the fuck! Like—
-
-
-AUSTIN: Those bad rolls. Not a great roll.
-
-
-DRE: Mm. 
-
-
-AUSTIN: It’s a one and a two, on that Risky Standard. 
-
-
-JANINE: So I just trip on him and then faceplant into another garbage pile?
-
-
-AUSTIN: No, no! One of the—one of the things here is always—one of my principles is literally like, ‘When you fail, it’s not because you’re shitty.’ It’s because there’s something you didn’t account for; it’s because there is, you know, someone else is just as skilled as you, or something. It’s not because you’re incompetent; like, that is one of the core things in Scum and Villainy. You are weird, badass adventurers in space. Like, Han Solo doesn’t trip over his own shoelaces; there are more Stormtroopers than he expected. And that’s the thing that happens here. It howled to tell everyone dinner was coming. You’ve slipped into a Desperate position: there are not three Amprunners, there are ten. Dre is up—Even is up on his feet. But the chase is on. So y’all are in a Desperate position. 
-
-
-SYLVIA: What size was this gang, would you say?
-
-
-AUSTIN: Oh, this is a small gang [laughs].
-
-
-SYLVIA: Is this a small gang? 
-
-
-AUSTIN: Yeah.
-
-
-SYLVIA: Hmm! So I—
-
-
-JANINE: Austin. Austin, if you were in a room with ten tigers, would you say that’s a small gang of tigers? 
-
-
-[Austin and Dre laugh]
-
-
-AUSTIN: Alright. Alright, it’s a big gang of tigers.
-
-
-SYLVIA: No, I want him to say it’s a small gang.
-
-
-AUSTIN: It’s too late! Janine just dug you deeper.
-
-
-SYLVIA: Aah.
-
-
-AUSTIN: It’s not, it’s a big gang. It’s a large gang.
-
-
-SYLVIA: Alright.
-
-
-AUSTIN: I’m sorry. But you can hear them now, moving through the, through the—you don’t know the number, actually. That’s actually not fair, ten is not fair. There’s a number of tigers. It is a small gang of Amprunners. But you don’t know how many. It might be two more showed up, it might be four more showed up. But you can hear them all, like [growls] “Hrraghghgh” through the entire area, and you can hear them leaping from car-tree to car-tree [laughs]. And so that’s the thing that happened here. It’s that not you—it’s not just like, ‘Oh, you didn’t deal with the harm that had occurred,’ it’s not just Even didn’t—isn’t just like ready to roll, it’s you have been slipped into this more desperate position. [defensively] They sound like Muppets because Even and Grand Magnificent designed them to sound like Muppets!
-
-
-DRE: Yeah. 
-
-
-JANINE: Grand Magnificent is Canadian so he loves puppets.
-
-
-AUSTIN: Right, exactly [laughs]. So what do y’all do?
-
-
-SYLVIA: I might do the fuckin’ Echo special, and by that I mean ‘be a distraction’. 
-
-
-AUSTIN: Oh no. What’s that—what’s that mean?
-
-
-SYLVIA: Um, so, I think what it is is, like—so what I’m thinking here is I’m trying to drag them away, like get them to chase me.
-
-
-AUSTIN: Okay. 
-
-
-SYLVIA: So I’m thinking it’s mostly just, like, taking my sword out and clattering it against some stuff while I’m running, basically.
-
-
-AUSTIN: Interesting. Okay.
-
-
-SYLVIA: Make noise so they follow that instead of following my hurt friends [laughs].
-
-
-AUSTIN: [makes sympathetic noises] Um, cool. What do you think that is?
-
-
-SYLVIA: I was gonna say Scramble. 
-
-
-AUSTIN: I—I think the Scramble would be, like, the keeping ahead of them
-
-
-SYLVIA: Okay.
-
-
-AUSTIN: Which is fine too. 
-
-
-SYLVIA: Yeah.
-
-
-AUSTIN: I think then, the way we frame that scene is you jumping all around the place and getting them to follow you more than it is the—like, my thing is I think getting their attention would be Sway. 
-
-
-SYLVIA: Okay.
-
-
-AUSTIN: Getting—keeping ahead of them would be Scramble. There is another way to do this though.
-
-
-SYLVIA: Mm-hm?
-
-
-AUSTIN: Which is, we could maybe give you the role of the person who is gonna get hurt from whatever goes wrong here [laughs]. By letting you do that as a sort of leadership role, like, one of the teamwork things is lead a group.
-
-
-SYLVIA: Okay.
-
-
-AUSTIN: [reading] “Lead a group action: roll for each character who participates in the group action. The best single roll counts as the action result, which applies to every character rolled.” But you would take one stress for any failed result, including your own.
-
-
-SYLVIA: Okay.
-
-
-AUSTIN: So I think that represents the thing you’re talking about, which is, like, you’re distracting them while the whole crew can try to get away.
-
-
-SYLVIA: Okay.
-
-
-AUSTIN: So everybody can roll their—can roll their Scramble now. 
-
-
-DRE: Oh good. I have none in that.
-
-
-AUSTIN: So you’re—go ahead and hit roll on that and you’ll see what happens. You’ll roll two dice and take the lowest one. But again, it won’t affect you! It’ll affect—
-
-
-DRE: Yeah.
-
-
-SYLVIA: Risky Standard for me? Or—
-
-
-DRE: Risky Standard?
-
-
-AUSTIN: Risky Stan—uh, no it’s Desperate. It’s Desperate Standard for sure. 
-
-
-SYLVIA: For everybody?
-
-
-AUSTIN: For everybody, yeah, yeah, yeah.
-
-
-DRE: [singing] Mark that XP! Aw man. 
-
-
-AUSTIN: Oh, that’s a shame! 
-
-
-DRE: There’s that six. 
-
-
-AUSTIN: Oh, that’s such a shame.
-
-
-DRE: There’s that two two.
-
-
-SYLVIA: Fuckin’ Christ. 
-
-
-AUSTIN: Okay, Signet.
-
-
-[Janine sighs]
-
-
-SYLVIA: Alright, so how much stress do I—
-
-
-AUSTIN: Signet has to roll.
-
-
-JANINE: What do I roll?
-
-
-AUSTIN: You’re rolling Scramble.
-
-
-JANINE: Okay.
-
-
-AUSTIN: Uh, does anyone want to use a gambit or push themselves? I guess Signet is the only one who hasn’t rolled yet, but—
-
-
-SYLVIA: Yeah.
-
-
-AUSTIN: It might be what you’re—what’s your Scramble?
-
-
-JANINE: One.
-
-
-AUSTIN: Maybe push your—I guess you already took stress, right? Yeah.
-
-
-JANINE: Yeah.
-
-
-AUSTIN: Eh, maybe that one’ll [Dre laughs] be alright.
-
-
-[Janine sighs]
-
-
-DRE: Oh man, I miss playing Blades. 
-
-
-AUSTIN: Oh, that’s a lot of bad dice.
-
-
-JANINE: [exasperated] Yeah, cool, it’s another three. It’s my fuckin’ third—fourth? Third. Three. 
-
-
-SYLVIA: Sooo.
-
-
-AUSTIN: Everyone mark XP in Prowess. 
-
-
-SYLVIA: How much stress am I taking here? One for everybody?
-
-
-AUSTIN: One for everybody. You’re taking three stress.
-
-
-SYLVIA: [muttering] Fuckin’—
-
-
-AUSTIN: Which is not good. So this is the thing—here’s the thing that actually ends up happening. And I think this is how we get out of this sequence. We see you all, like, running through the Scrapyards as the—you’re running through the Scrapyards and the towers are getting higher and higher and higher to the point that the sun—or not the sun, but the light is being blocked out by the height of these towers. And we get a long shot of the tigers behind you jumping up off of all these different cars and stuff. And then—they’re getting closer and closer and closer—and in front of you, you can see that you’re finally getting towards the exit of this area, and it begins to open up. And there is—one of them leaps in front of you, like, jumps past you and blocks the exit. And then another one does. And for a brief second, it looks like you’re trapped. 
-
-
-And then you hear the sound of a mortar shell being fired. And then the first thing you see is, the mortar where that—something on the distance explodes. Like, you know that it’s the thing that fired the mortar. Like, it’s the mortar shell gun, it’s the actual mortar itself, is what blew up because you can’t fire weapons on planets anymore without the weapons being destroyed. But then the mortar shell hits those two Amprunners. And you’re looking out over the steppe and the other Amprunners all flee at that point. And then you see a Jeep hovering over to you from where the mortar was fired. And you can see Seiche on the distance—in the distance. And in that car—Sylvia, I need you to describe somebody for me.
-
-
-SYLVIA: Oh! Okay.
-
-
-AUSTIN: What’s Ballad look like?
-
-
-SYLVIA: So, uh, Ballad is, like, I’d say probably around mid- to late-twenties. 
-
-
-AUSTIN: Mhm.
-
-
-SYLVIA: They’re about six feet tall.
-
-
-AUSTIN: Okay.
-
-
-SYLVIA: They’re in good shape. They—you can immediately tell that they also do a lot of the same type of training stuff that Echo has done, with the same sort of toning and shit. 
-
-
-AUSTIN: Mm-hm. Okay.
-
-
-SYLVIA: The big difference is that, like, Ballad had this much more intense look to him. 
-
-
-AUSTIN: Yeah.
-
-
-SYLVIA: Than Echo does. Like, he’s got kinda some stubble going on. 
-
-
-AUSTIN: Yeah. 
-
-
-SYLVIA: He’s got the same color hair that Echo does. 
-
-
-AUSTIN: That blue—that dark blue-violet.
-
-
-SYLVIA: Yeah, that sort of dark blue.
-
-
-AUSTIN: Yeah. 
-
-
-SYLVIA: He keeps his long still. And he’s got these fuckin’ two dope-ass swords on his back too.
-
-
-AUSTIN: Okay.
-
-
-SYLVIA: Yeah.
-
-
-AUSTIN: He is wearing a dress uniform as he pulls up in this Jeep. With a—you know what, it’s not even a dress uniform. It is like an OD green M-65 army jacket, with khaki pants and a white dress shirt. And around the arm, he is—around his left arm he has an armband that has VOS, V-O-S, written on it with, like—in my mind, it’s one of those things that’s like it’s a V and then an O that kind of goes into it, and then S that’s like lower, do you know what I mean?
-
-
-SYLVIA: Mm-hm.
-
-
-AUSTIN: It’s not exactly right, but you know what I mean. Like, it kind of has a diagonal down vibe going on that looks like something that would be on an armband. And you know that that is the armband signifying the Volunteers of Seiche. Seiche is the—is one of the largest settlements on Gift-3. Seiche was half of the Tides of Harmony and the Tides of Harmony is the ship that you’re from, Echo. 
-
-
-SYLVIA: Yep.
-
-
-AUSTIN: And those split during the Miracle. And Seiche landed here, on Gift-3. Seiche is, I imagine it a sort of very agricultural center city. Which is to say, it’s not a population center. It is not a metropolis. It is a town of markets; it is a town of some warehouses and kind of manufacturing centers for the goods that are brought in, but it is not towering skyscrapers. And, in fact, one of the biggest defining characteristics is, like—when you described the Tides of Harmony to me  you talked about how housing was built on top of each other because everything was so cramped.
-
-
-SYLVIA: Mm-hm.
-
-
-AUSTIN: Here, I imagine it as being almost like everyone has their own little estate, with an acre or two of their own land, because they have a whole planet. And so it’s—the population is large in the sense that it is a—it is one of two bigger population centers on the planet, but it is spread very—it is spread out the way Los Angeles is spread out, but nowhere near as dense. And so it’s just kind of these...rolling McMansions.
-
-
-[Sylvia laughs]
-
-
-AUSTIN: That are then centered around—farmland for miles and miles and miles, which is kind of what you come out into, and then these mansions and estates and farmhouses, basically, and then, finally, you get into the city center where there’s marketplaces and warehouses and shipping and stuff like that. Probably a spaceport for sending stuff into orbit. Or like, to send stuff up to connect to other long-range freighters, basically, stuff like that. And I think this is the first time—Ballad uses he/him?
-
-
-SYLVIA: Yeah.
-
-
-AUSTIN: Right. So this is the first time you’ve seen your brother. But here he is, saving the day.
-
-
-SYLVIA: I mean, that’s always been what he does. 
-
-
-AUSTIN: [laughs] Yeah. And I think it takes him a second, but he’s like—I think he spots your hair first. And he’s like—what’s he—is he someone who would say “Holy shit!”?
-
-
-SYLVIA: [laughing] Yeah.
-
-
-AUSTIN: Okay.
-
-
-        AUSTIN (as Ballad Reverie): Holy shit, Echo!
-
-
-AUSTIN: And, like, you hear the [vehicle noises] “b-b-b-b-b-buhhhh” and he turns on the hover speed a little faster. And pulls, like, rushes out to y’all. And does a drift-turn to stop in front of you. And then gets out and runs over to you and gives you a huge hug.
-
-
-SYLVIA: I mean, yeah, no, Echo’s like—the second he’s out of that car, Echo’s running towards him too.
-
-
-AUSTIN: It’s nice.
-
-
-SYLVIA: Yeah.
-
-
-AUSTIN: When was the last time you saw him?
-
-
-SYLVIA: God, it would have been pre-Echo’s arrest even.
-
-
-AUSTIN: Yeah. Yeah.
-
-
-SYLVIA: Like at least a year, I’d say. 
-
-
-AUSTIN: That’s a while. That’s a long time.
-
-
-SYLVIA: Yeah, it’s been a while. And like—yeah.
-
-
-AUSTIN: And then we just get—we the wide shot of the Scrapyards—the Crashyards, rather—and we get Ballad pointing over his shoulder with a thumb to be like, “Hey, get in, get in.” And it’s all just kind of in the shadow of the Crashyards; it all looks kind of gray, and the sound drops out, and we just get this panoramic view of y’all getting into—and I’m picturing some of the shots from Arrival, if you’ve seen Arrival, out near the Anomaly-thing. And then, like, we get y’all getting into the car, and then it cuts, and then we’re at a dinner table. At one of these farmhouses, where Ballad—where Ballad lives with [laughs]. And we get a very weird shot, like, it’s cut and it opens on what looks like a Thanksgiving turkey. It’s probably synthetic meat—it might not be, there are farmers here, they could grow organic meat. It’s like, it is like a Thanksgiving spread, it’s like a holiday dinner spread. And then—so it’s a closeup of that and then it cuts again to a wide shot of everyone at the dinner table, and it’s a bunch of people in military gear all wearing the VOS, the Volunteers of Seiche, armband. And Ballad is there talking with you—or Ballad is there at the table, everyone else is here at the table. Everyone can clear their level one harm; if you have higher than level one harm, you don’t—you cannot clear it [laughs]. But level one harm can clear at this point.
-
-
-DRE: Yaay. Both of them, or just one?
-
-
-AUSTIN: Um, and—both of them, both of them. 
-
-
-DRE: Yeah!
-
-
-AUSTIN: You’ve been taken care of by this crew. And you’re now being served dinner with Ballad and a couple of other officers of the Volunteers of Seiche. And it’s good, it’s good food. And, uh, Ballad is like:
-
-
-AUSTIN (as Ballad): Y’all can stay as long as you need to, just let us know. How long have you been in town?
-
-
-SYLVIA (as Echo): [exhales] Not—not long. I mean, longer than you’d think but not that long.
-
-
-AUSTIN (as Ballad): What were you doing in the Crashyards? That place is dangerous, Echo.
-
-
-SYLVIA: God, what was it we were specifically looking for again?
-
-
-AUSTIN: You’re finding this Stitch that— 
-
-
-SYLVIA: Okay, yeah.
-
-
-AUSTIN: And again, we’re using the word “Stitch” to talk about these weird anomalies that are kind of like gates between different planets, that exist on both planets at once and that can kind of allow you to fast-travel between them if you know how it works.
-
-
-SYLVIA (as Echo): We’re looking into the Stitches between the different planets. And we found one out there. 
-
-
-AUSTIN: You can see that his second-in-command, like, slides—her eyes quickly turn—like, not spin, what’s the word I’m looking for? They, like—
-
-
-SYLVIA: Widen?
-
-
-AUSTIN: No, no.
-
-
-SYLVIA: Oh.
-
-
-AUSTIN: They very quickly connect with his.
-
-
-SYLVIA: Ohh.
-
-
-AUSTIN: Like, she looks away from you really quick to look at his and they make eye contact for a second. And he takes a big bite out of a drumstick [laughs]. And then puts it down and leans forward and says:
-
-
-AUSTIN (as Ballad): You found one? The three of you—I didn’t know you were experts in things like this.
-
-
-SYLVIA (as Echo): I mean—
-
-
-AUSTIN (as Ballad): I knew you all served during the Weeklong War. I saw—I’m sorry, I should better introduce myself, because I know who you all are. You’re all heroes. Even Gardener, the pictures don’t look like this but I’ve heard about how you look now, so. Your service, thank you so much. And Signet—
-
-
-AUSTIN: He bows his head a little bit.
-
-
-AUSTIN (as Ballad): You mean so much. You mean so much, to everyone. You kept our hope alive. 
-
-
-SYLVIA: [laughs] This is when Echo punches him in the shoulder and is like:
-
-
-        SYLVIA (as Echo): Stop being weird!
-
-
-[Janine laughs] 
-
-
-AUSTIN (as Ballad): I’m sorry. It’s just been a long year, you know? It’s been—it’s eleven months and three weeks to the Weeklong War, to everything a year ago. I didn’t—we were moving through space towards Quire, and there was still just one Quire, and we...everything seemed like it was gonna fall apart. I’m doing my best to help people, I’m trying to be like my, you know, be like my hero, Echo. 
-
-
-AUSTIN: And he gives you a little grin.
-
-
-SYLVIA: Echo punches him again, this time a little harder.
-
-
-AUSTIN: Uh-huh.
-
-
-        AUSTIN (as Ballad): So tell me about this Stitch.
-
-
-SYLVIA: Do we have the location—we just know that it’s there, right?
-
-
-AUSTIN: Yeah, you have the location. Here, again, let me what you know for sure.
-
-
-SYLVIA: Yeah, thank you.
-
-
-AUSTIN: You know it’s in the middle of the Scrapyards. You know that it’s close to what is called the Advent Tech Main—like a ‘main’ like a pipe—which is this massive space elevator that connects Advent Discovery and Salvage Society’s space station to the ground here, to the service here. It’s not at the space elevator but it’s in its shadow, basically. You know that Advent is protecting it, and that it’s protecting it with a collection of their own people. And it seems like it’s being led by someone—what you saw was someone in a long duster and gas mask-looking thing and black armor, which you know is what the Concrete Town Particulars wear, which is this kind of group of people who specialize in the uncanny and weird shit happening in Quire and how to deal with it. Specifically, how to prevent it from happening and keep it safe and locked down and pave over it, basically. So, you know that. 
-
-
-And you know that your job, your actual job, is to then—is to meet back up sometime soon with Graph-2, who is a synthetic who you’ve spoken to briefly, who’s kind of like a cowboy. And eventually to lead him, another pathfinder and a small family, a family of three, to that Stitch and get them through. That’s like your A-objective. Your B-objective is to, like, make—like, get that thing in the hands of people you trust, get that whole Stitch in the hands of someone you trust so that you can actually use it to ferry people back and forth and reconnect the Tides of Harmony. 
-
-
-DRE: Wait, a Stitch—is it something we can move?
-
-
-AUSTIN: No.
-
-
-DRE: Okay.
-
-
-AUSTIN: But if you have it under lockdown, it’s connected to Brighton which is where Perigean is, which is the other half of the Tides of Harmony.
-
-
-DRE: Okay.
-
-
-AUSTIN: So you can’t move it but you could—if you could figure out how to drive off Advent or get them to agree or something, then you could actually, you know, help a bunch of people reconnect with their families.
-
-
-SYLVIA: Okay.
-
-
-AUSTIN: So that’s what you know. 
-
-
-SYLVIA: Okay, so I think—I think what I let Ballad know is that, one: that we know that Advent have control of it. 
-
-
-AUSTIN: Mm-hm.
-
-
-SYLVIA: And I’m not really sure what the relationship between VOS and Advent is.
-
-
-AUSTIN: It’s negative; as soon as you say their name, you can hear people in the room go like, [negative mumbling noises]. 
-
-
-SYLVIA: Okay. Good. I’m glad [laughs].
-
-
-AUSTIN: Yeah, yeah, yeah.
-
-
-SYLVIA: [laughs] I’m glad I wasn’t like, “Well, it’s under the control of these Advent guys,” and they’re like, “Oh, we love them!”
-
-
-AUSTIN: Right [laughs]. Totally. You, uh—the woman who is his second-in-command, she’s like:
-
-
-AUSTIN (as Second-in-command): [scoffs] They’re just as bad as Earth, as far as I’m concerned. 
-
-
-        SYLVIA (as Echo): Yeah, they’re not great.
-
-
-SYLVIA: I don’t really address the Earth thing there. 
-
-
-AUSTIN: Uh-huh.
-
-
-SYLVIA: I’m just like, “Yeah, I don’t like Advent much either.”
-
-
-AUSTIN: Yeah.
-
-
-SYLVIA (as Echo): But we’re trying to do, basically, is set up passage through the Stitch so we can connect the two Tides again. Essentially.
-
-
-AUSTIN (as Ballad): Holy shit, you really are a big hero. If we had known that that was a thing this close, we would have worked on this way earlier.
-
-
-SYLVIA (as Echo): They’re kind of hard to track down. They’re really archaic and we don’t know a ton about them. But we were able to track down alright, so. I mean, if I had known you guys were here…
-
-
-AUSTIN (as Ballad): Well, now you do. Everyone, eat up. We’re here if you need anything. Again, we have beds prepared. And we’ll see everybody—I’ll help you with anything you need. 
-
-
-AUSTIN: And so I’m gonna kind of zoom out on the action a little bit here, unless people have other questions for Ballad. But like, I don’t think we need to have the long conversation. Again, unless someone does have questions for him, in which case I’m totally cool with answering them.  
-
-
-SYLVIA: I don’t have a world question, I do have a little thing I want to do with him. 
-
-
-AUSTIN: Yeah, okay, let’s do it.
-
-
-SYLVIA: So—actually, I don’t know if I’d be able to do this yet. ‘Cause I don’t know if I’d be able to just get stuff back at the ship, huh?
-
-
-AUSTIN: Yeah, you totally could. 
-
-
-SYLVIA: Okay.
-
-
-AUSTIN: You’re not that far off. Like, what are you trying to do? What’s the scene?
-
-
-SYLVIA: I’m trying to give him my old jacket.
-
-
-AUSTIN: Oh, that’s good. 
-
-
-SYLVIA: ‘Cause it used to be his.
-
-
-AUSTIN: Yeah.
-
-
-SYLVIA: And I stitched the design on the back. 
-
-
-AUSTIN: [awestruck whisper] Oh, that’s so good!
-
-
-SYLVIA: Yeah.
-
-
-AUSTIN: Let’s actually save that for the moment before you kind of go off to do your thing.
-
-
-SYLVIA: Okay. 
-
-
-AUSTIN: Do you know what I mean? I kind of think that’s a nice notion of, like, once you go off to do this—I mean, maybe—we’ll see. We’ll see maybe how this shakes out and we can— 
-
-
-SYLVIA: We’ll, we’ll—
-
-
-AUSTIN: —place that sequence where we need to place it.
-
-
-SYLVIA: —put it somewhere. Yeah.
-
-
-AUSTIN: Yeah. But you’re well fed. They take care of you. Again, they stitch up any wounds you have. Signet, they actually have a—like in town, they have a—I guess you tell me. What does worship look like on the range, so to speak? Like kind of out here in small-town—in this agricultural center. Is there a big church? It is—is there a temple to Harmony that also has, like a chapel to other Divines?
-
-
-JANINE: I don’t know that a big church would be feasible. I think it would probably look a lot more like—especially given the spirit of the faith that we’ve sort of seen.
-
-
-AUSTIN: Yeah.
-
-
-JANINE: I think that it would look a lot more like—in Stardew Valley, I think it is, one of—I think it’s the grocer just has an altar in his home?
-
-
-AUSTIN: Yes. Yes. 
-
-
-JANINE: And it—I think it would probably just be someone like that—or something like that. Where just the person who has the space for it.
-
-
-AUSTIN: Mm-hm.
-
-
-JANINE: Has a room that is open to the community.
-
-
-AUSTIN: Okay. 
-
-
-JANINE: To use for worship and stuff like that. 
-
-
-AUSTIN: Okay. Cool. So yeah, that’s what we—you can see that. In fact, I think we even probably—I mean, actually one of the things Ballad—maybe we even get a scene of Ballad saying to you that, like, they’d really appreciate it if you went by the chapel that’s attached to the dock house [The Notion begins playing]. 
-
-
-AUSTIN (as Ballad): But, no pressure alright? I know that the world—we make big asks of you all the time. And I don’t want to assume. I know that you have big, important work to do here as an Excerpt.
-
-
-JANINE (as Signet): I’m here to work but I’m not here on vacation, you know. I can certainly make time to visit. 
-
-
-AUSTIN (as Ballad): Cool. Well, thank you again. 
-
-
-AUSTIN: And he kind of makes a fist pump [laughs, Janine laughs]. Not a pump but like a shake, do you know what I mean? Like, we’re in it together. Like, you know.
-
-
-[Janine laughs]
-
-
-AUSTIN (as Ballad): Anything you need, just let us know.
-
-
-AUSTIN: And he gives you a salute. A very military salute. 
-
-
-JANINE: Oh boy.
-
-
-AUSTIN: And then leaves.
-
-
-[Music continues to the end]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-________________
-[1]  The name in the audio recording is no longer in use, hence the audio/transcript discrepancy.
+﻿Twilight Mirage 34: This Year of Ours: The Mystic
+Transcribed by garbagegerblin#4570 [0:00-2:45] and Cole from [2:45-finish]
+Austin (in Declan’s Corrective’s voice): “Thirteenth” by Declan’s Corrective, Co-Governor of Seneschal, former Ace Pilot of the New Earth Hegemony.
+[Music: “The Mystic” begins]
+Before these clinquant peaks
+And Quire-fashioned streets
+And shimmering cataract falls
+Before this was home
+Before Seneschal
+
+
+There was me
+
+
+Stiff shoulder muscle
+Knotted, bloody, scarred
+And chess table politics
+And cricket yard brawls
+And father’s frantic calls
+To lessons he’d swore I’d need
+To seed a future year
+With countless victories
+
+
+Before we walked together gleaming
+Before Drifting, my reprise
+Before diarchy and comedy
+Before Cadent beaming:
+Me
+
+
+Before Notion
+Before violence
+Before Vanguard, Apogee
+Before Evening
+Before promise
+Before vision from dark sea
+
+
+I walked down courtyards, and looked to spheres
+And whispered treacherous dreams
+To peers who’d disappeared
+No schemers left to scheme
+Just me and castle
+Just me and hope
+Just me, naive, and mouth of soap
+
+
+This is not apology
+This is dedication writ in flesh
+No more “fighting spirit”
+No more streets, bent
+No more “what I really meant”
+This is tender wound
+
+
+Me, threshed
+
+
+On a dusted windowsill
+An ant lifts a sugar grain
+Plodding under false sunlight
+Through spotted windowpane
+And on the other side a child
+Runs through a sprinkler stream
+And screams
+And laughs
+And worries what’s to be
+
+
+Stiff shoulder muscle
+Knotted, bloody, scarred
+A dedication to the world-to-be
+To victory
+To fall
+
+
+[Music: "The Mystic" ends]
+Austin: Alright. Tender Sky, how’s your year been?
+Ali: Uh... pretty good, I guess? [laughs]
+Austin: Yeah, pretty weird, probably?
+Ali: Yeah, probably. 
+Austin: Let’s get into your year in a second, but for now let’s just talk about, like, numbers and get that out of the way. 
+Ali: Sure. 
+Austin: What is the playbook or class that you are... you are playing as?
+Ali: The playbook that I am playing as is Mystic.
+Austin: Oh boy, Mystic.-
+Ali: Yeah. 
+Austin: Sounds like that’s a big change from the Architect, previously.
+Ali: Mmm, well… 
+Austin: Or, not a big change, but like, it’s interesting to think about like, “Oh, yeah. I used to be ‘the Hacker,’ and now I’m ‘the Mystic,’” right? Like, that’s an int- thats… I think that is the right move for where we left Tender Sky in the Veil, and especially with the direction that things have gone inside of the Quire System and the Twilight Mirage.
+Ali: Mhm. 
+Austin: So, your name is obviously Tender Sky. You still look what- Has your look changed over the last year?
+Ali: Um… Oh, were we- Should I have had that [laughs] prepared?
+Austin: Mm. 
+Ali: I like- It’s a little different. I have like, an outfit change planned. [laughs]
+Austin: Oh, do you?
+Ali: Yeah! 
+Austin: We’re gonna see you. Let me save it for when we do a little vignette then. 
+Ali: Yeah, yeah. 
+Austin: So, Heritage is obviously the By-and-By. 
+Ali: Right. 
+Austin: Your background is like, an Architect, obviously.
+Ali: Yeah, I was gonna keep that. That kind of- I didn’t know if like- There’s like, the Cult option in this game. 
+Austin: Mhm. 
+Ali: And I didn’t know if I wanted to lean that bit.
+Austin: Yeah, that- that was also be like- Religious would be totally viable, right?
+Ali: Yeah, I had to-
+Austin: Depends on which version of that that you want to- you want to represent.
+Ali: Uh, yeah… I think- I don’t know. I don’t want to like, not that- have that be a part of her anymore, but like, I ended up taking… a skill in Hack for Architect cause I think that makes sense with like-
+Austin: Totally. 
+Ali: You know, it’s a throughway. 
+Austin: You don’t need that with- Yeah, okay. 
+Ali: Right. 
+Austin: So- so, let’s talk about stats actually. So, you… By default, the Mystic starts with two in Attune-
+Ali: Mhm. 
+Austin: -and one in Scramble, right?
+Ali: Yeah. 
+Austin: Attune is like, doing mystical shit and Scramble- Scramble is… like-
+Ali: Running, jumping. 
+Austin: Running and jumping and stuff, I think. 
+Ali: Yeah. 
+Austin: So that adds up. So, what else- what are the two ones you took? What are the ones you took from your Heritage and your Background?
+Ali: So, the one that I took for Heritage was Consort. 
+Austin: Okay. 
+Ali: And then the one for my Background was Hack. 
+Austin: Okay, and Consort… What’s Consort say?
+Ali: It is- 
+Austin: Is there like, a breakdown of that somewhere? I’m sure there is.
+Ali: That one is like, ‘with connections from your Heritage, Background, Friends, or Rivals, to gain access to resources, information, people, or places.’
+Austin: Cool. Cool. So that’s like, almost like link or something in a previous or like, um… Like, it’s like, being able to be like, ‘Hey, here is- I’m gonna meet a new person. I want to like- I want to like- Uh, I’ve landed on a new port. It’s time for me to make a- I need to make a contact’ or something. Or it’s like, ‘I go into a dinner party and just here’s my general skill at being liked there’ versus like, trying to convince somebody of a thing that they don’t want to be convinced of.
+Ali: Right. Yeah. I feel like, I mean the By-and-By was kind of a social…
+Austin: Yeah. 
+Ali: -planet in, I guess, a way that we didn’t see the other ones. And then also, like- It also, by the end of it, had the biggest population. So, I feel like…
+Austin: Totally. 
+Ali: -she would know. Like, does that make sense?
+Austin: Yeah, yeah, yeah. Definitely.
+Ali: I mean I get that it’s just  different planets, but, you know, population-wise she’d probably- People are familiar with her. 
+Austin: Totally. So, that's your- So, you have- The Consort is one, and you also one Hack, you already mentioned. 
+Ali: Yes. 
+Austin: And that's for being an Architect. You have two more points. I feel like you should have something in Scrap. 
+Ali: Yeah. 
+Austin: Which is fighting. Like, I've seen you fight. [laughs]
+Ali: I would like to have one in Scrap.
+Austin: Okay. 
+Ali: So, just one more left now. 
+Austin: Yep, and your- You can have up to two in anything at this point in the game. 
+Ali: Yeah. Mhm. But I think a Study probably makes sense. 
+Austin: Yeah, so Study is you [reading] ‘scrutinize details and interpret evidence. You might gather information from documents, newspapers, or books. You might research an esoteric topic. You might closely analyze a person to detect lies or true feelings. You could try to examine events to understand a pressing situation, but Surveying might be better.’ So, like, if your- Survey is probably better than Study at like, ‘What is this formation?’ or whatever. 
+Ali: I like Study in terms of like, being able to study objects and stuff.
+Austin: Yeah. 
+Ali: I don’t know how often I’m gonna- I'm probably gonna use pretty often, but in terms of like, being able to make things or like, being able to manipulate stuff, I feel like that'll come up a lot. 
+Austin: Yeah, that's a good point. Like, this is definitely a system of like, if you want to build something, doing that work ahead of time to like, ‘Hey, what does doing something actually look like here?’ 
+Ali: Right, exactly. Yeah. 
+Austin: Yeah, alright. Let's do that one in Study then. 
+Ali: I'm gonna be doing a lot of assemblage. I feel like [laughs] having one in Study is probably gonna be a thing I roll a lot.
+Austin: Yeah. Yeah. Totally, totally. Which means that you've an Insight of two, a Prowess of two, and a Resolve of two. Those are all your defensive attributes and uh-
+Ali: Yeah. 
+Austin: And that's- that's pretty well balanced nice.
+Ali: Oh, perfect. 
+Austin: Nice. So, here's a question of, ‘What is Tender Sky's vice?’ 
+Ali: [gasps] Ohhh.
+Austin: The options are Faith, Gambling, Luxury, Obligation, Pleasure, Stupor, and Weird.
+Ali: Man... this is a good one. 
+Austin: Uh huh. Uh huh. This game was good. I'm excited. 
+Ali: Man... I feel like the first one that jumps out to me is like, Obligation with the whole thing that we've been talking about with like, The Cadent and stuff.
+Austin: That's interesting. 
+Ali: But I don’t know if that’s-
+Austin: Yeah. 
+Ali: Man, I don’t know if that's the thing, right? 
+Austin: Yeah. That's my question is like, this is- So... so, I’ve already talked to Dre about this. I don’t know if this is coming before or after that, [Ali laughs] but vices are how you de-stress. 
+Ali: Yeah. 
+Austin: Which means that like, that should be... It's not that it's- it's not that you have an obligation to do on your downtime. It's that doing that obligation is how you de-stress from what you do when you're out on mission time. Or just in like, research mode or whatever. You know what I mean? Like, it is- it is- This is how Tender goes from being like, frustrated and upset to being… chill.
+Ali: Right. Yeah, yeah, yeah. 
+Austin: It's how she de-spike's her emotions. 
+Ali: Mhm. 
+Austin: To use Veil terminology. In the Veil, it was definitely building that temple, right? 
+Ali: Right. So, it would either be Faith or Weird in that case. 
+Austin: Oh, yeah, definitely. Definitely one of those two. 
+Ali: Uh-
+Austin: So, let’s think- Let’s drill into that then. Like, was it the physical notion of building that space that- that did it for her or was it the connection with her faith? 
+Ali: Man, it's tough cause it definitely started as one thing and then kind of flipped into the other, I think. 
+Austin: Yeah. Yeah. 
+Ali: You know what? I think that... I'm going to go with Weird. 
+Austin: Okay. 
+Ali: But I... Well, actually, maybe it should be Pleasure cause like, I still want the Study to still exist. 
+Austin: Mm. Yes.
+Ali: And I feel like her vice being like, ‘I run this cool bar’ is... [laughs]
+Austin: I like that a lot. Let's do that. Let's totally do Pleasure. And maybe that's part of this- Part of the confrontation with Open Metal definitely was about... Tender and Open’s relationship with faith and with like, why they did the things that they were doing and like, whether or not that was the way forward. And I kind of like the notion that a year later, you're still this person who has faith and who still is like, trying to do things- do good things in the world, but like, that's not how you de-stress anymore. [Ali laughs] That is an obligation for you. It is not how you like... [exhales] You take that deep breath, right? 
+Ali: Right. Yeah, exactly. 
+Austin: So, yeah. Let’s write down Pleasure. Sounds good. So, that is the basics. Oh, no. Moves. Special abilities. That’s what we need. 
+Ali: Okay. So… my-
+Austin: Yeah. So, you start with a starting one. 
+Ali: Mhm.
+Austin: Which is... 
+Ali: The Way. [reading] ‘You can spend a gambit instead of paying stress at any cost.’ 
+Austin: That is super good. Gambit is a- is a thing. For people who listened to Blades in the Dark, gambit is completely new. Gambit is one of the things that Scum and Villainy adds that was just full stop not in Blades in the Dark. And a gambit is something that you have from your crew. You basically get... a number of bonus points at the top of the... of a mission that everybody gets. And it's like a pool that you can all pull from. Normally you just like, ‘Oh, I’m gonna spend a gambit to get an extra- to get an extra roll on this.’ But this is like, ‘Oh, I just don't get hurt.’ [lightly laughs] Like, ‘I am not stressed actually. I'm gonna use this gambit point to not be stressed by dodging this attack or whatever.’ So, I'll add that to the list. 
+Ali: Mhm. 
+Austin: Where did it go? That's Muscle; that's not you. [quietly] Here you are. 
+Ali: [laughs] Oh, I just have- Do you want me to just copy and paste it?
+Austin:  I got it. I got it. 
+Ali: Okay.
+Austin: It’s here. I'm here now. So, what else? So, you start with that one, and then you also are getting... two more moves on top of that. 
+Ali: Yeah, I have- Oh, two more? Wait.
+Austin: Yeah. So, everybody- every- By default, all new characters start with a starting ability and a special ability. Because you're not fresh blood, because you're not completely new characters- 
+Ali: Got it.
+Austin: -I'm also giving you a bonus level [Ali gasps] which you could put into a stat instead. If you wanted a higher action instead, you could also do that. 
+Ali: Yeah, but that’s boring. 
+Austin: But I like the- Yeah, I mean it is, but it isn't, also. Like, having a three in something would be pretty big. 
+Ali: Oh, yeah. 
+Austin: But I mean I think that it's actually part of what happened with Marielda is no one ever put points into actions, [Ali laughs] and that showed. 
+Ali: I like- I don't know. It would be like, interesting to push it to Attune like, right out of the gate. Like, to make that three, but like... 
+Austin: Yeah. Yeah. Well, you can do that with your first level. You know?
+Ali: Yeah. The like... The book also said that like, if you want to be a Xeno, you also just get that move straight up. 
+Austin: But you get that instead of your starting ability. 
+Ali: Ohhhh.
+Austin: Yeah, yeah, yeah. Are we- Is that what you're interested in doing for your thing?
+Ali: I think so. It would- I feel like it would be weird to make this character the way that we’ve talked about it. 
+Austin: Yeah. Yeah. 
+Ali: And the way that I use it without having that cause that’s gonna just be so much of- 
+Austin: Yeah. Did we ever figure out what that ruleset looks like? [Ali laughs] Because it might not be... It might not be being a Xeno; it might be its own ability the way like, Memish Mystic is in the rulebook. So, the moves here are like- Also, real quick. Scum and Villainy has like, a dope setting. [Ali laughs] Like, I think it undersells itself up top because it's like, ‘Oh, it's basically Star Wars.’ And like, it has Star Wars shit in here, right? The Mystic is very clearly a love letter to Jedi, but also, Memish Mystic says, [reading] ‘When you scar your body with the holy words of the Prophet Ruum, [Ali laughs] embed with the wounds the raw seaweed from the depths of Mem’s oceans, play at the Memish holy site, Nur-thulama, and are accepted as a true member of the Mem [meh-m].’ Or the Mem. [mee-m] Uh… you-
+Ali: [laughs] No. 
+Austin: Is it Memish [meh-mish] Mystic or Memish [mee-mish] Mystic? Who could say? [reading] ‘You open your mind to the Memish secrets of the Way. You gain access to the-’
+Ali: It’s something with an e?
+Austin: Yeah, but... But like, if you put an ‘ng’ on the end of this, you wouldn't call it- you wouldn't say, ‘Meming [meh-ming],’ right? 
+Ali: I think you would. 
+Austin: Mm. I think you’d need a second-
+Ali: Meming [meh-ming]? You would say that. 
+Austin: No, you'd say Meming. [mee-ming] 
+Ali: No. Well... 
+Austin: You would. See? You would need that second ‘M.’ 
+Ali: [laughs] Okay. 
+Austin: Also, all their shit is about like, duplication. So. 
+Ali: Mm. 
+Austin: I think it's a Meming [mee-ming]. I think it's a Mem [mee-m]. I think they're Memers [mee-mers]. The Way of Seeming. Also, it rhymes. Seeming, Meming. [reading] ‘The Way of Seeming. You can push yourself,’ which is the thing that- where you do like- you take two stress to get a bonus. 
+Ali: Mhm. 
+Austin: [reading] ‘You can push yourself to do one of the following: Turn invisible to eyes and ears, and the Way, create illusions that look, sound, and feel real. When you push yourself to activate this ability, you still get one of the normal benefits of pushing yourself- roll plus one dice, plus one effect et cetera- in addition to the special ability. Perhaps to Sway someone that the illusion is real.’ I think it's that, but like, is real, right? Or the- here's the other one. This is the- the second one is maybe even closer. ‘You can push yourself to do one of the following: Manipulate shadows as if they were solid matter, create weapons, tools, or terrifying shapes, step into a shadow and emerge from another nearby shadow.’ And that is, ‘When you push yourself to activate this ability, you still get- blah, blah, blah, blah.’ You just get to make stuff. So. 
+Ali: Yeah. That's probably it. I was looking through the other playbooks to see if there was like- cause this book doesn't have the like- You know, if you talk to someone, you can like, give this information to them or whatever. Like, you can ask these questions?
+Austin: No, it- I mean it does. It's just you don't have one roll for that, right? 
+Ali: Right.
+Austin: You can use- Actually, I just posted this in our Twilight Mirage chat a little earlier. 
+Ali: Oh, word? Okay.
+Austin: Yeah. There's like- it's on page... It's on a page. It's the Gather Information page of the new book. [Ali laughs] It’s six- six- six by nine. So, it's like, okay, [reading] ‘If you have questions that you want to answer, you could roll Attune.’ Which is like, ‘You might Attune to see echoes of recent Way activity. How have powerful mystics been here? How can I find the Ur artifact that speaks to me in my dreams? What should I be worried about?’ Or you might,’ Command a local guilder to tell you about the secret meetings held the factory at night.’ 
+Ali: Okay. 
+Austin: Or you could Consort. So, like, the whole way that this whole system works is that you say you're going to do a thing, and I tell you how risky it is and what level of effect you're going to have by doing it. 
+[0:15:00]
+Which means like, you're right. You can tell me how you ask the question, and then you can just ask any question. It's not just like one of these three questions, you know? 
+Ali: Right, I was-
+Austin: It's just like- 
+Ali: Yeah, I was thinking about the- kind of where we left off with Tender and like, if there was a move that was like, when someone interacts with a thing that you've made, it's like, you can roll Sway or whatever. You know what I mean? Like- 
+Austin: Oh... 
+Ali: Like, cause that- They had the um… The Veil had the emotion thing. 
+Austin: Yeah, yeah, yeah. Totally. [overlapped] Like with the Empath and stuff like that.
+Ali: And I was wondering if we had a way to carry that over. Yeah.
+Austin: Um, I haven't seen anything that's like that direct. 
+Ali: Yeah. 
+Austin: But I think more- It should be just more important that we set up that you can make stuff.
+Ali: Yeah. 
+Austin: This is the big change with Tender Sky that we started to see at the end of- of the Veil is like, you... Between where you were and what was happening to the Mirage, you began to be able to shape stuff in the world as if it were a virtual space, a digital space. Not just projections, not just holograms. Like, you collapsed that binary that- that the world had already started to collapse- like, they had already started to collapse it like, in meaning and in- in kind of social status in that like, they treated virtual spaces as being just as serious and real and meaningful as physical spaces. And they treated physical spaces just as playfully as they treated virtual spaces. You were like, ‘Oh, no. That’s the same space actually. [Ali laughs] Actually, these are the same spaces.’ And s,o you can still do that. I like the notion of it requiring stress. 
+Ali: Oh, yeah. 
+Austin: Because it is like- It is stressful to do this. 
+Ali: Yeah. 
+Austin: But like, you can do it. It's a thing that you can do that other people can't. So, what I'll say is we should just put down for now this- the Memish one, the Memish Mystic whatever. 
+Ali: The Way of the Depths. Yeah. 
+Austin: Way of the Depths, but then rewrite it cause it's not about shadows for you, right? 
+Ali: Right. It’s about the Mirage. 
+Austin: Yeah. But we should still figure out something that's limiting because I like that Way of the Depths is like, ‘You need shadows.’ Shadows are- shadows our most places, but I do like the notion of like, ‘Alright, something could shut this down,’ right? 
+Ali: Oh. 
+Austin: Like, I can imagine having a Way of the Depths character who is just put into a room that is like, ‘There's no shadows in here. This is how we lock you up.’ 
+Ali: Well, like, come on.
+Austin: You know what I mean? Listen. [Ali laughs] You gotta have that one little weakness otherwise it's not- It's not perfect, right? So, for now, let's put down Way of the Depths. 
+Ali: Yeah. 
+Austin: And then we’ll figure out- It might be the Mirage. Like, you're totally right. It might mean like, ‘Oh, yeah. We just need to have a bit of the Mirage here.’ And like, that's almost everywhere. 
+Ali: Almost. 
+Austin: But I've certainly- I've certainly already made a faction that is literally about killing Divines, Axioms, and other weird shit in the Mirage. And I bet they have a way of shutting down your shit, too, you know? Like. 
+Ali: That’s rude. 
+Austin: It’s- you know? It is. It is rude. 
+Ali: [laughing] Yeah. 
+Austin: It is rude. Okay. Actually, it is Austin from the future who has a cold, as you can hear. I'm sneaking into this recording cause Ali and I figured out this move that for the last little bit you’ve heard us be like, ‘[hems and haws] Do we- do we know what it is?’ We’ve figured it out. [Ali laughs] And instead of trying to like, reintroduce it later and try to sneak it in with my bad cold voice, we were just like, Let's just drop it in, and people will understand how time works.’ [Ali laughs again] So. 
+Ali: They might, yeah. 
+Austin: So, do you wanna tell me how we rewrote this move, which is still called Way of the Depths, to actually reflect how- how Tender does this? 
+Ali: Yeah. So, I mean it's um... We rewrote it cause like, the thing that we didn't talk about was that like, ‘How it worked?’ 
+Austin: Yeah. Like, we- we played with like, anywhere where the Mirage is a lot, and that’s like, ‘That's not it. That can't be right.’ 
+Ali: Yeah. It was like- I don't know. I don't know that I was like, interested in defining what magic is in this world-
+Austin: Mhm. 
+Ali: -but like, there was the necessity for you to be able to be like, ‘Well, it's not as good here,’ and not having that feel like a weird shitty answer.
+Austin: Right. Right, right. Well, and also, there's the bit where like, you're not interested in defining what magic is, but you are interested in- we both are- in extending what we'd already put down on paper, so-to-speak. Which is Tender- when Tender first started doing this, it was about emotional resonance, right? 
+Ali: Yeah. Totally. And a big part of this and like, why we... why I wanted to keep working at it even after the conversation that people just heard us had- 
+Austin: Right, right. 
+Ali: -was because- it was because we had only really kind of figured out mechanically the like, ‘Oh, she makes things part of it.’ It was leaving behind all of the emotional stuff in the Veil that I wanted to keep with it. 
+Austin: Right. Right. Well, even kind of backwards made me think a lot about what she already did in those terms. Like, mechanically in the Veil, it was you taking some moves from the Empath playbook. 
+Ali: Yeah. 
+Austin: Right? And that, you know- you know, in terms of mechanics, it meant that, ‘Oh, okay. Now you can do this thing.’ But I really like those sequences thinking about... again, like, it's not her at a computer; it's her using her mind and her emotional strength to reshape a space that had previously just been a digital space and now become an increasingly physical one, too. And so, I really like the notion of how this draws on it. Did we read the move? Did we just completely forget to read the move? 
+Ali: [laughs] I don’t know that we did read the move. I don't think that we have yet. 
+Austin: Okay. 
+Ali: Do you want to? 
+Austin: Sure. We're still calling it Way of the Depths, which was the name of the Memish [meh-mish] move or Memish [mee-mish] move-
+Ali: Yeah. 
+Austin: -depending on how you wanna read it. And the one that we rewrote it to say is, [reading] ‘You can push yourself to draw upon the residual emotional energy of an area to manipulate solid matter and create weapons, tools, structures, or shapes. Position and effect are determined by degree of residual emotional energy. Additional stress can gain additional effect.’ And then there's a bit about how like, also you get the bonus from pushing yourself that you always get. 
+Austin (cont.): Like, if you push yourself to do this, you also get that plus one die or that plus one effect like you normally do. So that it's not just like, one or the other. Um, one of the things worth noting there is like, we talked about like, ‘What is an area?” a lot. [Ali laughs] And like, I think my favorite one was like- It was basically like, I'm not gonna be a dick about like, what counts as an area and what the emotional resonance of that area is, right? So like, if you're in an apartment, I don't want it to be like, ‘Well, the kitchen has a different emotional resonance than the living room.’ Like, unless it's like, ‘Oh, and there was a murder in the kitchen.’ You know? Or something. 
+Ali: Right, yeah. I was about to say that same exact thing.
+Austin: But even then… But even then what should happen is like, ‘Oh, you're in the living room,’ and like, ‘Oh, shit. Right here there's nothing. But over in the kitchen, there's blah, blah, blah.’ 
+Ali: Yeah. 
+Austin: But- but there is the other thing which is like, I do want the notion of like, if you’re at the foot- if you're like, at a football arena- if you're at like, a football field, I think that like, the end zones have a different emotional resonance than like, the fifty yard line. And I don't know- We’ll like, play it by ear a little bit. But like, I do want you to be able to like, not do detective work necessarily, but like, have that division between the murder scene and the- and like, the front- the like, front of house in a club or something, you know? Like. It’ll be-
+Ali: Right. Yeah. 
+Austin: I think it’ll be clear, I hope. We’ll see.
+Ali: Yeah, for sure. I think that's why- So, I- For full context, we'd recorded this vignette, and then later I was like, ‘Hey, I have this idea. Let me know if you hate it.’ [laughs]
+Austin: Right. 
+Ali: And it was just like, I don't know. I always do like, ghosts in the show, I guess. 
+Austin: Ghosts are good. 
+Ali: [laughs] But like, the start of this idea for me was that I wanted it to be less like ancient burial grounds- 
+Austin: Mm. 
+Ali: -and more like- like tarot cards or like tea readings where like, the things that you touch, you leave a part of you with it. And then it just made more sense to have it focused on locations because Tender is an Architect, and that's kind of how she identifies with people and with emotion and with the world is by examining things in that way. 
+Austin: Mhm. 
+Ali: So, it was interesting for her to be able to see like- the like, feelings that people have about a place stick with it. And I think the interesting thing about what we're doing going forward is that there are like- there are places that are completely untouched. Like. 
+Austin: Right, right, right. 
+Ali: Eight planets came out of nowhere. 
+Austin: That's exactly it. To~tally.
+Ali: A foot has not been on every single one of them. So, like.
+Austin: Totally. 
+Ali: Yeah. 
+Austin: I'll note that you said, ‘Feel free to hate this,’ and my response was, ‘Oh, I actually like this a lot.’ So. [Ali laughs]  Um, and the other thing here is- and I think like, cards on the table, one of the notes that you also made when you pitched this to me was like, ‘Oh, this is similar to what Jace had in COUNTERWeight.’ 
+Ali: Yeah… 
+Austin: That like, it's about collective emotion of a group, even if it's not about what is being said openly. Like, it's not-
+Ali: Yeah. 
+Austin: It's not just, ‘Hey, that person yelled at that person.’ It’s about like, ‘What's simmering underneath?’ But then, the thing that makes it special for Tender is like, ‘Oh, no. Tender is an Architect still.’ Like, not in- Scum and Villainy doesn’t have an Architect playbook, but she is an Architect. And so, for her, it isn't about becoming a great pilot or about, you know- you know, knowing how to move through those spaces. It's about creating things. And- and I don’t know. We'll see what that stuff looks like. You know?
+Ali: Right. Yeah, yeah. But there's definitely like- a thing of like, knowing if you put blue on the walls, people are going to focus more on that room or whatever. 
+Austin: Right. Right. Right. 
+Ali: She has that sort of understanding of what spaces look and can feel like, and then just has access to this all other like, hidden part of it, I guess. 
+Austin: Right. And like, one of the things I'm excited to explore with this is, ‘How much of that is her? How much of that is what's happened with Quire?’ 
+Ali: Yeah. 
+Austin: ‘How much of that is like, whatever being a stratus is? What is a stratus?’ [Ali laughs] Who the fuck knows? Always gonna complicate that shit. So, alright. I don't think we should go much longer than this. Go back to whatever your third ability is in just a second. 
+Ali: Okay. 
+Austin: Thank you for doing this pick up with me. 
+Ali: Yeah, same.
+Austin: Thank you for listening.
+Ali: Back to past Ali. 
+Austin: Doo-doo-doo-doo-doo-doo. Doo-doo-doo-doo-doo-doo. [Ali laughs] That's- that's going back in time sound. Bye. 
+Ali: [laughing] Bye. 
+Austin: Alright. So, that's the second one for now is the Way of the Depths. 
+Ali: Yeah. 
+Austin: What's your third one?
+Ali: Because of the way we have Way of the Depths, I don't think that we have to build a third one. So, I'm just gonna go with the one that I wanted to take. 
+Austin: Oh, yeah. 
+Ali: Which is Sundering. [reading] ‘You may push yourself to Attune to the Way and twist it causing psychic harm to anyone in the area vulnerable to your assault.’ 
+Austin: Jesus.
+Ali: ‘You can spend one stress for an additional feature: it damages instead of stuns, the area includes a few targets instead of one, you may choose who is included in the effect.’ 
+Austin: That's brutal. 
+Ali: Mhm. 
+Austin: That seems like a little fiercer than we've seen… [Ali laughs hard] from Tender. 
+Ali: Well, okay. So, that was also literally the first thing that she did. 
+Austin: Oh! It was!
+Ali: When she had like the big- Yeah! 
+Austin: With Sho. 
+Ali: Oh, with Sho, and then also with the um… the shock robots that- She took all of those down like, at once.
+Austin: Oh... is that what those- is that what those were? Is that- I thought that was um... For my mind- in my mind- Oh, you're right. She stuns them and then hits them with- 
+Ali: Right, she doesn't even hit them. You were like, ‘Don't do that. That's boring.’ 
+Austin: Oh, I did say. [Ali laughs] I'd forgotten that I said that. 
+Ali: Yeah. 
+Austin: Okay. So, yeah. ‘You may push yourself to Attune to the Way and twist it to call psychic harm to any who are vulnerable.’ Awesome. Cool. I'm gonna- I think we should add something to this, actually. 
+Ali: Yeah?
+Austin: Whis is… one second. Because- So, it's ‘damages instead of stuns, the area includes a few targets instead of one, you may choose who is included in the effect.’ The thing that isn't here is like- there should be another option here, which is one of the additional effects can be um… you can affect those who are not normally vulnerable to your assault. Because like, those torch units- 
+Ali: Yeah. 
+Austin: -should not be affected by psychic harm. But you managed to- to twist the Way enough, you twisted the Mirage enough to even affect these things that do not have minds. So.
+Ali: Alright. 
+Austin: That's an interesting- that's an interesting- I just want to make sure that's in there, too. So, that’s a little- that’s a little hack we just did. 
+Ali: Oh, look at that! 
+Austin: Yeah, we did a hack. We did a hack. Awesome. So, that's you. That's you on this- on this sheet. That's your character.
+Ali: That’s my character sheet.
+Austin: We did a new character. 
+Ali: Uh huh. 
+Austin: There's more here that we'll have to work through. Like, everybody has a friend. Everybody has a- like, a rival. 
+Ali: Oh, yeah. So. 
+Austin: We can make new ones. There's- there's a cool list. There's a cool list here that we… is neat. 
+Ali: Yeah. 
+Austin: That is like, ‘Horex, a former teacher. Hicks, a mystic good supplier.’ [Ali laughs] Like, a mystic goods supplier is such a good phrase, but we could totally either pick from old characters or come up with new ones. Like, if you want to be friends with any of the old NPCs, like, that's totally fine by me.
+Ali: That’s the thing. Like, I was afraid of doing- because like, it seems obvious that I could do like The Cadent and Declan, but I don't know if I would be that... 
+Austin: Right. 
+Ali: -cut and dry with it. 
+Austin: That cut and dry, yeah. I'd rather it be like dirt level- like, people who are just in it. 
+Ali: Yeah. 
+Austin: You know what I mean? Like, people who are on the streets just gettin’ into it. 
+Ali: Yeah, yeah, yeah. That's the other thing why I don't want- Okay, we'll get into vignette. But I didn't want her to just be like, in an office or whatever dealing with them. 
+Austin: Okay. Well, let's- let's talk about the vignette a little bit. Like- 
+Ali: Okay. 
+Austin: Or like, where- What has your year been like? What have you been doing for the past year? 
+Ali: I- Yeah. So, we've spoken about this a little bit, and I think that probably the best way to do it is to kind of split it up with like, six months and six months, if you’re…
+Austin: Sure. 
+Ali: -okay with that.
+Austin: Yeah, totally. So, what were the first six months like? 
+Ali: Cause I feel like right after whatever happened at the.... 
+Austin: The miracle of the Mirage. 
+Ali: Yeah.
+Austin: Of course. 
+Ali: I feel like where that left off was a place that she wouldn’t just walk away from. And we've spoken a little bit about her continuing to kind of stay with the Cadent in a way that's like, kind of a role that's both like being her right hand and also like, a little bit of like, uh... like a life coach kind of. [laughs]
+Austin: Right. Right. A little bit like um… It was like, you leave the hol- At the end of that holiday special, during the rescue part, like, you were... She made it clear that she was not in a position to make these sorts of judgments, right? 
+Ali: Right. 
+Austin: Which like, reflected that she'd been trained to manage Divines. Her role, as the Cadent, had historically been to be the go-between between the people of the Fleet and the Divines who had all this power. And we leave the- We go into the holiday special with one Divine alive. [Ali laughs] And we leave with two because there's a new one. I can imagine there being another new one, at this point. But- but... but probably not. Like, maybe there are people working on trying to resurrect another Divine, at this point. We know that the Mandati are- hope to rebuild Gumption at some point. 
+Ali: Oh. 
+Austin: You haven't edited that episode yet, but that's a thing that's happening. [Ali laughs] 
+[0:30:00]
+There are all sorts of groups that are like, trying to find new Divines and trying to build- build new ones and resurrect old ones. But like, the Cadent is not just a politician. She is not- she was not like, trained to be a leader in this bigger picture way. There was a failure of the Resident Orbit to adjust her position as Divines started dying off. They should have spent time being like, ‘the Cadent’s role should change or become a human leader.’ But there's something like, sort of pessimistic about that. And so, I think they just never did it. So, yeah. Like, she- she basically says, ‘You're my right hand.’ And like, ‘Tell me- You decide for me.’ And you did. You decided.
+Ali:  I did do that. I did make the decision for her.
+Austin: And I- Yeah. And then, she and Declan’s Corrective go on to become the governors of the biggest like, population center in the sector. Which I think I'm calling Seneschal, which is just a good word. 
+Ali: Okay. 
+Austin: Senes- Seneschal is like a- A seneschal is basically a leader- [Ail laughs] is basically like a court appointer- like an appointed like,  member of the court. Right? Like, sort of like a steward or something like that. Like, someone who would take care of the household and order people around and stuff like that. So, I think that the overall planet is called Seneschal, and it has a bunch of little- it has- it basically is that the By-and-By, which in my mind has always seemed sort of like a spine with ribs attached... 
+Ali: Yeah. 
+Austin: Like, attaches itself to this planet, right? And so, there is literally like- imagine a big circle, like the sphere of this planet that has these like, ribbed-like city structures forming all the way around- like, almost all the way around them. And then, there's a huge gap, or like a valley, and then it opens back up to another city, another rib of another city. Like, another arm of the city. And then there's a center, like north-south running massive city in the middle that is like... This is like our Coruscant. You know what I mean? 
+Ali: Mhm. 
+Austin: By far. But it still has these natural areas in between the city arms. So, it's like, ‘Oh, you can go out onto the edge of this- of this massive city and then like, a little bit further, you'll start to find lakes and- and open fields and stuff like that.’ And then on the opposite side, like, the arms don't connect all the way around. So, there is like- there's definitely part of this planet just does not have any city at all. Like, opposite the big north-south like, vertical city line, the kind of longitudinal line of the city on the opposite side of the planet, there was just nothing. It's just wilderness out there. And that's pretty- 
+Ali: Ooo. 
+Austin: That’s like a neat comparison. 
+Ali: That’s perfect. 
+Austin: And I'm just being a little corny, which is that like, the Cadent is HQ’ed out there. She's in a place called... I have this written already. She's in a place called... This is- this is a placeholder name. I’m not saying this out loud. 
+Ali: Okay. [laughs] 
+Austin: This is not it.
+Ali: Wait. She's out in the wilderness, or she's in the city? 
+Austin: She's like- Her- She is HQ’ed in the wilderness. And- and... um… what's-his-face? Corrective is in the biggest part of the city. The like- the center vertical area of the city, his HQ is. I think that's probably where... most stuff gets done. Or maybe it gets done in one of the side arms. Like, maybe there's the place where they all go to meet. But like, she has basically- Remember the temple you rescued her from? 
+Ali: Oh, right, right, right. Okay. Yeah.
+Austin: Like, that is out in near these waterfalls. I've written down Anticipation Falls, which is just like… [Ali laughs] good, but also maybe too corny. I don't know. How do you feel about it?
+Ali: I kind of like it. I don’t know. [overlapped] I’m a little biased.
+Austin: Alright. So, okay. Well, yeah.
+Ali: I don’t know. 
+Austin: So, she's out in Anticipation Falls, which is like, beyond the ribs of the planet and like, it's a small settlement surrounded by waterfalls and lakes and other water features. It used- It is like, weird because there's a degree of it being a little micro resort. [Ali snorts a laugh] Causae like, it's a nice waterfall place, but also, it is home to like, the Cadent. And so, there is like, always chanting in the air. There are people who walk around with robes. I imagine there's like, the smell of chocolate out here. And there's like, lots of children, actually, who- who come here  on like, basically on class trips and…  and who have parents who get assigned out here. It's this like, weird mix of like, you can see the city in the distance. You can never not see the city because it's the whole planet, right? But it is still- this is the furthest place away from all the hustle and bustle. But even here, I think there is the culture of hustle and bustle, you know? 
+Ali: Yeah. 
+Austin: So, yeah. So, she's out here, for sure. 
+Ali: Okay. So, that’s-
+Austin: And then there are- 
+Ali: Go on. 
+Austin: Go ahead. 
+Ali: No, no, no. You go on. 
+Austin: There are also little communities all throughout all of the kind of arms of the giant city that are like, a little bit under-a little bit less under lock and key. A little bit less, you know, dialed in to good culture. Like, there are- there are the shadows here. There are the kind of like Outlaw Star, Cowboy Bebop communities starting to build on this planet. The sort of like, slightly more criminal, slightly more like- this is where the treasure hunters who come into the Mirage and need an HQ to set up. [Ali laughs quietly] They like, land on Seneschal and like, try to- try to meet up with fences where they can sell the shit that they stole from other planets. Stuff like that. So, those are the kind of like, major communities on this planet, basically.
+Ali: Okay. That's coming together really well, actually, cause I- Like, we talked about this a little bit, and I think that I'm just like, eternally... kind of stuck between the like, not wanting to abandon the Cadent and stuff-
+Austin: Right. 
+Ali: -cause I think that relationship is kind of interesting, and I also don't want to like- just be like, ‘Oh, well this big thing happened,’ and she was like, ‘I was glad that I helped you that one time. Bye!’ 
+Austin: Bye. Yeah. 
+Ali: And then, also not having a part of this year just be like, Tender training in weird temples and like, walking through the desert with like, a big cape, and learning how to be a weird, psychic weirdo. 
+Austin: Right. Like, being on her Luke Skywalker shit. 
+Ali: [laughs] Right. Yeah, exactly. And like, I was thinking- cause we were like- we had talked about Skywalker before and like, being alone is kind of uninteresting and like- 
+Austin: Yeah. Like-
+Ali: -kind of probably not what we want to do with this, but. 
+Austin: Just especially cause we've done that with Tender. Tender had that year. 
+Ali: Yeah. Yeah, yeah, yeah. 
+Austin: And it was the first- it was the first six months of this game, and it was like, going into her own head to build a temple- 
+Ali: Right. 
+Austin: -and reflect on what faithfulness meant. Like, she did the Jedi like... the- the like, old sage in the woods retreat. 
+Ali: Right. 
+Austin: It’s just she did it broken up over the course of months. 
+Ali: Right. And I kind of like- The more I was thinking about it, the more I was thinking like, the... like, the like, Breath of the Wild style like, walking on the beach for an hour. 
+Austin: Yeah. Yes.
+Ali: And then like, finding a little city. 
+Ali: Yes. Aw, fuck. Dude.
+Ali: Not like a city, but like- Yeah. [laughs] But like, four houses, and like- 
+Austin: Yes. 
+Ali: -a guide to like, fish, it's like, ‘Oh okay. Like, I will go out to the top of this cliff, and like, be a  psychic weirdo there.’
+Austin: Right. 
+Ali: ‘But then at night, I'm gonna like, come down to talk to these people.’ 
+Austin: Right. ‘I'm gonna make this- this lady and her little kid some paella-’
+Ali: Yeah. 
+Austin: ‘-and it’s just gonna make my whole heart warm.’ 
+Ali: Exactly. [begins laughing]
+Austin: It's the best. Man… Breath of the Wild is so good! [groans] 
+Ali: Man. Yeah. So, I was like- I wanted to combine those two things cause I- I like-
+Austin: Yeah. 
+Ali: I think that that makes sense, and I think that those are really cool images. 
+Austin: Yeah, I like that a lot because I now have this image of her almost... in this sense of like, in the days, she's up in the- up in the hills surrounding Anticipation Falls and like, surrounding the temple. And is like, meditating up there and practicing her abilities and like, you know, communing with nature and just generally being in like, solo-mode. And then like, she can hear- she can see the bonfires at night, and she can look down and hear people chanting and singing and dancing. And she just goes to rejoin them, right? She does run a bar. She lives in a club, right? [Ali laughs] Like, there is part of her that is deeply social. Of like, ‘Okay. Now it's like- it's dinner time. Everyone's out. I'm gonna come back down from the hills.’ And maybe those- sometimes that trip takes three weeks instead of taking three hours. You know? 
+Ali: Yeah. 
+Austin: Like, sometimes you really do go off into the wilderness, but other times you're like- Or- or it's not just day and night, right? Like, sometimes you're- you stay all day in the... in the halls of the temple where the Cadent is and like, are talking with her about the future of the system and stuff like that. Right? 
+Ali: Yeah. I really like that the place that the Cadent is in especially gives her the ability to like, just go away for that night or like, for a month or so- 
+Austin: Yes. Yes. 
+Ali: -and then come back cause it's like, this weird forest.
+Austin: Yeah, totally. Totally. 
+Ali:  Okay. This- this…
+Austin: Um, cool. So, that's the first six months. Or is that now the whole... is that the whole year? 
+Ali: Oh, I think that’s the whole thing now that we’ve like- 
+Austin: Okay. You've kind of synthesized it, and it's both. [overlapped] You get to have a little bit of-
+Ali: Yeah, cause I thought it would be split up cause she would be like, in a city or whatever, but like- 
+Austin: Right. 
+Ali: -if the Candent is in this weird waterfall, then like- 
+Austin: Yeah, totally. [overlapped] And then like-
+Ali: Yeah. Then that can just be whole year. 
+Austin: -once a month, you go in and meet up with Declan’s Corrective [Ali laughs] and have to deal with his ass, right? Like... And like, very broadly cause I don't want to dig in too deep into that right away... he seems to be making a genuine effort. 
+Ali: Yeah… [laughs]
+Austin: I don't think- I don't think that you're wrong to ever not fully trust him. But I... As someone who has magical powers [Ali laughs] at this point and has spent time with him, he occasionally very much tries to get his. But even getting his tends to be like, ‘Here's my vision of this place is.’ It's not, ‘I'm a maniacal, like sociopath.’ And there are a number- there have been a number of times at which you've seen him hold at bay the Hegemony from doing something that would hurt people. Through manipulation, through bargaining, through like, making himself look weaker. Like, there's definitely been a time when he like, redirected New Earth Hegemony military people so that they would- like, to protect him personally instead of go to back up a... like, a border dispute where they would have taken land away from other people or something like that. You know what I mean? Like, he’s definitely- he is like a manipulative S.O.B, [Ali laughs again] but like, is that... genuinely for keeping things on an even keel? So, I think- 
+Ali: Yeah, I like-
+Austin: -that's like, been your experience. 
+Ali: Yeah, yeah, yeah. And like, I should just say up at the top, like, I don't want that to be like a... fully like aggressive relationship. 
+Austin: Okay. 
+Ali: Like, I think that there is like- I don't think that the part of her that is like, ‘I don't know that you have any... like ownership over this place’ is like, still kind of there. Cause there's like a- I don't know that that bitterness goes away. But then there's like, the... There's the flipside of that which is every conversation that she's had with Morning’s Observation, at this point. 
+Austin: Right. 
+Ali: Which is like, ‘I... I was sent to this place, and there's no way I'm going back. So, now I have to make my place here.’ 
+Austin: Right. Right. 
+Ali: So like, I think she understands that a little bit, but I feel like-
+Austin: Yeah. 
+Ali: -especially with them having... similar abilities… like- 
+Austin: Yes. 
+Ali: -especially like, [laughs] Tender’s two things right now are Consort and Attune. 
+Austin: Right. 
+Ali: So like, they're kind of even on that there-
+Austin: Right. Like, you have two Attune and one Consort. He probably has two Consort and one Attune. 
+Ali: Yeah. 
+Austin: Right? Like. And I think there's kind of something interesting there which is like, you got your Attune- We don't know why, how you got your Attune really. We know you had a cyber brain; you don't have a cyber brain anymore. But you still have Attune. [Ali laughs] He got his Attune by being in a box for three hundred years. 
+Ali: Yeah. 
+Austin: In the digital world. And like- and being in Quire, being in the Mirage. And like, that combination is like, ‘Oh, no. He just worked for it.’ [Austin and Ali laugh] Like, he just constantly was building and rebuilding and rebuilding, and like, writing poems and like, imagining spaces in the same way that you were just out in the world making digital spaces- 
+Ali: Yeah. 
+Austin: -that you could do once you had the cyber brain installed. And so like, I think there's- there- I think that reflects that a little bit. The other thing that's interesting that I hadn't put together until just now when you were comparing him to Morning’s Observation is like, he's Robin's Song. He is ‘What if Robin’s Song got stuck here for three hundred years?’ 
+Ali: Yeah. 
+Austin: And like, that's why he killed all those Divines cause he was good at it. [Ali laughs] And then- and because he bought in, in the way that Robin’s Song did versus the way that Morning’s Observation did. And now it's been three hundred years. And like- and also Volition exists. 
+Ali: Mhm. 
+Austin: And time is a motherfucker. So, I think that there's definitely- Like I said, I don't- I don't know. He could still become like, the villain of this game. I don't know. Like, I don't have a master plan for him at this point. 
+Ali: Right. 
+Austin: I know what his goals are. And I think that his goals could come into conflict with other people's goals, for sure. But I also think that he genuinely- It's important that we're talking about him because he is gonna come up again shortly. [Ali and Austin laughs] So... So, yeah. I think that's- that's probably been her experience with him, at least.
+Ali: Right. Yeah. I don't think that it's like- I don't want it to be like, antagonistic, but I definitely want her to have the joy of coming back from the forest like- 
+Austin: Right. 
+Ali: -being more magical than him, and like, better tanned. Like. [laughs] 
+Austin: Right. Right. Yes, a hundred percent. Yes. A hundred percent. I definitely think there's a degree of him that's like, ‘Man, I fucked up. [Ali laughs hard]  I could have been a cool space wizard and instead I’m a bureaucrat.’ Right? Like, ‘I could have been- I could have been Jace Rethal, and I am now Orth- Orth Godlove. Fuck.’ 
+Ali: Yeah. 
+Austin: He's a big fan. He's a COUNTERWeight fan. 
+Ali: [laughing] Oh, of course. 
+Austin: God. 
+Ali: There was also a suggestion that Janine had that was like, ‘You should just always make him light your cigarettes,’ which like- 
+Austin: Yes. 
+Ali: -probably happens twenty percent of the time. 
+Austin: Oh, yeah! Absolutely. Right? [Ali laughs] Someone on Twitter it was like, ‘How is it supp-’ I shouldn't even say this. Someone on Twitter was like, ‘It can't be a utopia if there’s cigarettes.’ Listen. They figured it out. That's why it's utopian.
+Ali: Yeah. 
+Austin: They made the cigarettes not kill you. [overlapped] Also- 
+Ali: Everyone in Twilight Mirage vapes. That's the point. 
+Austin: That's the point. That’s the point. 
+Ali:  [laughing] That's the point. [overlapped] I started-
+Austin: I just- Maybe they're all just high. Maybe they're just smoking weed.
+Ali: Yeahhh.
+Austin: Chill. 
+Ali: I’m sorry that smoking looks so cool. [laughs] But it does.
+Austin: [exhales] I mean I get it. I get it. 
+Ali: Yeah. 
+Austin: Like, see my mom quit smoking is like, the fucking hardest thing I've ever seen her do, and she- they put a drill in her head when I was in first grade. [Ali exhales] So, like- and her quitting smoking was harder than brain surgery. So, I get it. I get it. I get it. 
+Ali: Yeah... Yeah.
+Austin: Also... Also, let people vape. 
+Ali: Yeah, yeah. Yeah. 
+Austin: So, uh... let's zoom in to like, month eleven. 
+Ali: Okay. 
+Austin: Month eleven- two weeks into month eleven. It's almost a year since the Miracle. I imagine that Seneschal, the city... you know, the planet, but also- I think I might keep the city name to Drifting. I think maybe that's the compromise I'll make. He doesn't name the planet. The planet gets named Seneschal, but the city is called Drifting because he's an asshole still. [Ali groans] 
+[0:45:00]
+And I think Drifting is like... Drifting City is like becoming- It’s also the City of Dawn and Dusk because like, it- it is always daytime and nighttime in the city. Cause the city like, is the whole planet. It's always dawn somewhere and dusk somewhere else in the city. And I think it's like, prepping for this massive like, one year anniversary thing. Like, it's going to be a huge celebration all through all of the galactic- er not the galactic arms, the- the planetary city arms and then like, the big like, vertical spine of the city, there's gonna be a huge parade from the north pole to the south pole, basically, over the course of like, a week or something. It’s gonna be like, this massive celebration because like... 
+Austin (cont.): A thing we didn't talk about is this is the one place in the sector where the cultures of the Earth and of the Fleet are starting to blend. Like, it turns out everybody likes… like, chicken. [Ali laughs] It turns out that everybody likes dancing. And there are meaningful differences- is the way that people see the world. Like, there are meaningful differences. One thing is like, I think that the moneyless utopia of the Divine Fleet has been replaced. The second someone is like, ‘No, no, no. If you want this, you're gonna have to pay me money,’ it all falls apart. You don't get to keep the utopian vision the second you have enough people who are like, ‘No. Fuck you. Pay me.’ It falls apart. 
+Austin (cont.): And so like, everybody here collects a paycheck now. I think it's probably still... like a pretty strong welfare state. I still think that people are provided for when it comes to like, their... their basics. Like, I think that both the Cadent and Declan’s Corrective position things such that they make sure people are fed and they have basic housing available- there's a lot of space; it's a big planet. But also... it's... it's... You know, somebody else said, ‘If you want this nice shirt I made, give me three bucks.’ You know? [Ali laughs] ‘It's a well priced shirt. Three dollars.’ You know? 
+Ali: Yeahhh, I mean-
+Austin: I think that's another thing I’ll mention briefly is like, the architecture here is like... it's not all high rises. It's not just cyberpunk, like sci-fi Coruscant-y like... There's some of that there, but there aren't that many people on this planet. So, I'm actually imagining it looking a lot like um.... Istanbul. Partially because like, Istanbul has this really great thing of like, it was at the center of the world for so long- of the- of the Western world, like, from the west in the Middle East. Where like, you had North African architecture there, you had Middle Eastern architecture there, you had Western and Eastern European architecture mixed in there. Like, you had all of this mix of stuff. I think there's a bit of that here, for sure. And you also just have that in language. You have people like- You have- you have people who like, um... It might even be the case that he calls himself Declan corrective now. You know what I mean? Like- Or Corrective Declan, right? Like, he doesn't- 
+Ali: Mm. 
+Austin: I have to decide which way he goes. I think maybe Corrective Declan. Like, Corrective is his given name as it is, and so, he keeps that. But like, there are definitely Earth people who are like, ‘Oh, I'm gonna drop the apostrophe ‘s’ because like, none of my friends have that.’ And that's like, a fucked up thing to some degree. But there are also people who have decided to like, join the commercial… consortium that the- from the earth and have like- from the Fleet who are like, ‘Oh, I could become- I could be a mark- a marketeer now.’ And it’s like, ‘Ugh. Okay. That also sucks. [Ali laughs] Like, I can't believe that like, you used to be able to do whatever you wanted to, and now you want to, you know, own a franchise Starbucks.’ You know? [Ali whines quietly] Like, that's the sort of thing that's happening here. And so, I think it's kind of like, really beautiful on one end. Because compared to the rest of the system, where no one is exchanging anything, and everyone is drawing fierce battle lines, there is a degree of cultural exchange happening here that is peaceful. And like, this is Twilight Mirage; it's not COUNTERWeight. Like, this is not COUNTERWeight. This is not everybody- all- This is not like, ‘And then this culture is in this dome, and then this culture is in this dome.’ 
+Ali: [laughing] Yes. 
+Austin: Like, it's not the situation that, ‘These ribs of above the city belong to New Earth Hegemony, and these ones belong to the-’ No! Like, they- it's a mix. Like, everybody is here. And I think there's probably still some bitterness here or there. And there are still factions that specifically do have beef, but those are not- like, that's not the average person. If you just like, rolled a die or like, ‘Oh, yeah. I meet a person,’ that person would be like, happy to be here. And I think that's an important thing to note. So, where is Tender? What’s Tender doing two weeks before this- this event? 
+Ali: [exhales] Man. Um… I wonder if there's like- Do you think the Cadent would like, come to the city for the whatever? Like.
+Austin: Oh. One hundred percent. Yeah, yeah, yeah. So, maybe like, on your way in for that? [overlapped] Or you’re here now? 
+Ali: Yeah. I'm like, part of her procession so-to-speak, but like, don't have to like- 
+Austin: Yeah. 
+Ali: I’m not a servant. 
+Austin: No. No.
+Ali: But I like, travel with her probably, if she’s- [inaudible, overlapped]
+Austin: Do you even have an official title, or are you just kind of around? 
+Ali: I don’t know. Do you think I need one? 
+Austin: No, I think it’s-
+Ali: It would probably be cool to have one, but... 
+Austin: It's up to you. I mean I think definitely people talk... Uh, that's the question it ends up being, right? Do newspapers write about you?
+Ali: [pauses] That's tough. I don't- I don't know. It's tough cause like, I think that... a lot of Tender’s... relationship with her is like, ‘You have to be an authority now.’ [laughs]
+Austin: Mhm. 
+Ali: Like, ‘I will be here if you need me to like, do a thing.’ But like, ‘The decisions that are to be made are yours now.’ 
+Austin: Right. 
+Ali: Like that's... 
+Austin: Cool. 
+Ali: ‘You should keep the image that you had before this, but like, have it become this new thing cause this whole world is this new thing now.’ 
+Austin: Right. Yeah, then maybe not. Like, maybe there are people who talk about you as the right hand, or as like, ‘Her right hand is here.’ You know? [Ali laughs] But like, those are like, senators, you know? Not...
+Ali: Yeah. 
+Austin: -everybody. So like, people in power, you might walk into the room and be like, ‘Ah, the Cadent’s right hand,’ you know? But like, not-
+Ali: Right, right, right.
+Austin: But not like Jim on the street- wouldn't be like, [in a voice] ‘Oh, hey. You won’t believe-’ Like, ‘Mary, you won't believe who I saw today.’ 
+Ali: [laughs] I don't know. But if like, people go there on trips, they might see..?
+Austin: Yeah, definitely. But I mean they see a lot of people. 
+Ali: Yeah. 
+Austin: Right?
+Ali: Yeah, yeah, yeah. 
+Austin: I think maybe you're like, in the photos. You know what I mean? Like, you're in images of the Cadent, near her at her side. So, yeah. People probably know... People who pay attention know who you are. Do you know what I mean?
+Ali: Okay. Yeah. 
+Austin: Like, a lot of people... know who like, David- David Axelrod was in the Obama administration, but most people did not. You know who I mean? Like.
+Ali: Right. 
+Austin: Like, ‘Oh, yeah. He was a strategist at some point? [Ali laughs] Or an adviser, right?’ And like, you would- most people would... Most people in America would not know him to see him. They'd recognize his name in a newspaper. But there's a handful of people who totally would. Like, there's a- Millions of people still would. It's just that like, it turns out there’s hundreds of millions of people in America, and billions in the world. So.
+Ali: Mhm.
+Austin: So, yeah. I'd say there's a- there's a sizable amount of people who just recognize you from being around the Cadent, for sure. 
+Ali: Yeah. 
+Austin: So... I’m trying to think of like, what a cool vignette would be when this all happens. 
+Ali: Yeah, um-
+Austin: Maybe she's already there. I’m also just like looking at your character sheet and what your skills are. Like, what's a cool skill to test here. [Ali laughs] I think it's Attune, right? 
+Ali: Yeah, probably. I don't know if there's like- I don't know if I would have like, a specific task to do it with. 
+Austin: Maybe it isn't- Can we- Let's rewrite it. What if it's before you leave Anticipation Falls?
+Ali: Okay. 
+Austin: What if it's you out on your last trip into the wilderness-
+Ali: Yeah. 
+Austin: -before you know you have to go in? And something happens. What happens? What's the thing that like, is a threat? Let's think. 
+Ali: [laughs] Okay. 
+Austin: Or maybe not even a threat. Like, what's the thing you're trying to achieve by going on- on this walk? Or this like, whatever it is. 
+Ali: Well, I- I feel like she goes out there for training, right? 
+Austin: Mm. 
+Ali: Like, it began as this like, ‘I need to be alone to figure out if I could still make weird walls, and all of this.
+Austin: Yeah. Yeah.
+Ali: And now it's just like, going out to go do sit-ups. 
+Austin: Yeah. So, is it like a situation where you're out here just like, ‘Alright, I’m gonna like, basically sharpen my blade, my- my blade being my magical powers before we go do this. That way I’m at my like- at my very best’? 
+Ali: Yeah, I guess so. 
+Austin: Are you like- How do you practice this stuff? 
+Ali: I think that it's like- It's tough cause the Mystic has like, a bunch of other things happening that kind of informs-
+Austin: Yeah. 
+Ali: -like, what I want that to look like. But like- 
+Austin: Mhm.
+Ali: I don't know. It's... In terms of just being able to make things, I don't know if it's like, her going out to like, an empty field or whatever and like, trying to reassemble places again. Right? 
+Austin: Yeah. What's the place that you would assemble? Let's do that. 
+Ali: [laughs] Okay. 
+Austin: Let's have her build a place. 
+Ali: Okay. Alright. It's weird cause it's so easy, especially with the anniversary right away to just be like, ‘Oh, it's this place that we saw already.’ 
+Austin: Right, right. I mean there's nothing wrong with that. 
+Ali: No. Yeah, I mean I guess it makes sense, but I'm just trying to think of a place that would feel significant. The first thing that comes to mind is like, the weird like, moving... building or whatever that the Cadent has. 
+Austin: Oh. Right, right, right. 
+Ali: Yeah. 
+Austin: Yeah. I think that that's fine. LIke, from the outside, looking up at it? 
+Ali: Yeah. 
+Austin: Yeah, I think that's a really cool visual. Right? Like, now you're in this different- you're in a real forest on a planet. Whereas that was on this like- this- this forest level of the By-and-By. And you look up, and you're building this thing. Let's- let's do it. Like, I guess that that's- That sound like Attune to me, right? 
+Ali: Yeah. Oh my gosh. Should I be in Roll20? 
+Austin: Oh, yeah you should. 
+Ali: [laughing] I was not there this whole time. 
+Austin: We’re just doing regular- We're just still in this old thing. 
+Ali: Yeah. 
+Austin: I haven't finished setting up the new post Mirage. 
+Ali: Yeah, I can imagine. [Austin sighs] But yeah. I feel like that's kind of... I don't mind this being like- It makes sense that this is more reflective than it is like- 
+Austin: Yeah. 
+Ali: -setting up the next chapter or whatever. Like. 
+Austin: Yeah.
+Ali: Uh, so- 
+Austin: So, you- so, here's how rules work in this game. Like, we are truly back in it. [laughs] 
+Ali: Mhm. 
+Austin: There are a couple of steps to any given roll. The first thing is that you tell me what you want to do, which it sounds like we got there.
+Ali: Mhm. 
+Austin: You are building this thing. Two, you to choose what action you want to roll.
+Ali: Okay. That would be Attune 
+Austin: Which is Attune, right? I determine the position of the roll. And then the… the consequences... er not the consequences, the position and then the effect. I think this is controlled. I think there's a little bit of risk, which is why it's not just what we call a Fortune Roll, which is like, there's no risk at all. Because it's always risky when you use your abilities. 
+Ali: Mhm. 
+Austin: There's always- or maybe not always, but- but because I want there to feel like there's a little bit of risk here. I can think of a few things that could go wrong, if you fail those rolls is really what I’m thinking of.
+Ali: [laughing] Okay. 
+Austin: I think that the level effect is standard. Like, you're- you're building a thing in the wood- Eh, you know what? Maybe it's great. Like, maybe if you do it right, it's fuckin rad. You've built a tower in the woods, right? Like, so yeah. It's standard. It's standard great... Er not standard- controlled great. Then you get to add bonus dice. You can add from a teammate. If someone was here to help you; can't do that. You could push yourself and take two stress. In this case, you're doing that, right? Because you're not just Attuning; you are using your ability. Right?
+Ali: Yeah. Yeah, yeah, yeah. 
+Austin: So, make sure you add- You're gonna roll 3d6 here. Cause you’re gonna add one from taking that- that push.
+Ali: Okay. 
+Austin: Or you could use a gambit. And a gambit is like a bonus die from the crew. But you're not in a crew yet, so you don't get any gambit dice.
+Ali: I need so many of these. My friends are gonna hate me. 
+Austin: Well, that's the whole thing. Don't worry cause like, other classes have other- other rules with them that are really cool. 
+Ali: Yeah. 
+Austin: Art, who is playing as a- You know, I'm not gonna say. 
+Ali: Don’t. 
+Austin: I’m not gonna say, but there's another class that has a cool ability with gambits that might keep- keep you running gambits. Okay. So, yeah. So, your Attune is two, but then you're pushing yourself to take two stress, which whatever. Don't mark it down. And you're- So, you’re gonna roll- You can either increase the effect, or you can increase the... the dice you're rolling. Which you want to do? 
+Ali: I guess increase the effect. 
+Austin: Okay. So, that means you go from a great effect up to an extraordinary effect, which is like, off the charts. 
+Ali: Yeah. Hell yeah.. 
+Austin: Which is interesting. So, that's 2d6. Go ahead and roll those. 
+Ali: Okay. Roll 2d6. No pluses; no nothin’. 
+Austin: No pluses; no nothin’. Just try to get a four, five, or a six. 
+Ali: Alright. [overlapping] That was ten.
+Austin: That’s a five. 
+Ali: Okay. That’s a five.
+Austin: Well, so you're just getting it- Yeah. You pick highest is the way Blades works.
+Ali: Right. Then way this dice system works. 
+Ali: It’s just nice to see a bigger number. [laughs]
+Austin: I know. It's a ten. A ten is good. It's a good number. So, on a five on a controlled roll, [reading] ‘You hesitate. Withdraw and try a different approach, or else do it with minor consequence, a minor complication occurs, you have reduced effect, you suffer lesser harm, you end up in a risky position.’ So, either let me give you a little complication to this- 
+Ali: Sure. 
+Austin: -or you have reduced effect or- let me give you- Complication’s good? 
+Ali: Yeah. 
+Austin: Alright. So, this is more than perfect is what I'm gonna say it looks like. You don't just recreate cause you have this like, extra-ordinary level of effect, right? 
+Ali: Mhm. 
+Austin: So, you don't just have... like, the thing in the star chamber, or whatever we ended up calling it- the room where like, she meets with other people. You build a replica of her whole temple here. Like, everything is here. And... the... It's not just here. It's like... I think it might be like- it might feel like it's bustling with activity of the sort it hasn't bustled within tens of thousands of years. Like, since the height of the Fleet. Like, since before any Divine started dying. I don’t know that there are people moving around, but there are sounds that you've added. There are shadows of people walking around. There are- like, you can hear footsteps. You've not just built a place; it feels inhabited. So, here's my complication. Here's my question: how’s your subconscious work these days? 
+Ali: [laughs hard] Um, the same, hopefully. I don't know. I don't want to get rid of that, right? 
+Austin: Yeah, me either. 
+Ali: It's a really cool system and just a really easy way to like, be like, ‘Here’s how this fucked up.’ 
+Austin: Yeah. 
+Ali: Man, I don't know if I should rewrite what her subconscious stuff is. 
+Austin: Yeah. Like, I don't think Open is in there. Like, I think that's resolved. I think Open Metal is resolved. 
+Ali: Yeah. Yeah. 
+Austin: I think Signet is still in there. [Ali laughs] What were the other subconscious things that you had? It was scale?
+Ali: So, it was like- It was scale, and then it was like, feeling unworthy because I shouldn’t have the ability anymore. 
+Austin: Mm.
+Ali: And I think that she’s probably like, a little bit passed that. 
+Austin: Past that, too? 
+Ali: Yeah. 
+Austin: Was scale part of that, or was scale a separate thing? 
+Ali: No, scale was just like, from… like, the shift in... just from like, her hometown basically. 
+[1:00:00]
+Austin: Ohhh. Right right, right. 
+Ali: Cause the By-and-By is so weirdly-
+Austin: Yes. Yes. 
+Ali: -stretched out, but also really condensed. 
+Austin: Alright. What do you think her... her new hangups are? 
+Ali: [laughs] Okay. Alright. Well, I don't know. There's like- If people are just allowed to be in there, that's probably a big way to figure out the Declan thing. [laughs]
+Austin: Yeah. 
+Ali: Cause, you know, might as well. 
+Austin: Yeah. I like that. I think that that's a good idea. 
+Ali: Right? Like- Yeah. 
+Austin: Well like, especially cause like, it could just be him, also. [Ali laughs] You don't know, right? Like-
+Ali: That’s true. It just can be the guy showing up.
+Austin: It could be the guy; it could not be the guy. It could be a mix of the guy and also your own projection. 
+Ali: Yeah. 
+Austin: I like that. I like- Here’s what I like the combination of is like, it's him. He comes out the door. Uh, like, he comes out the bottom door in his like, suit. 
+Ali: God. 
+Austin: His fuckin’ beard. [Ali laughs] And the door keeps getting bigger. Like, behind him, the temple just gets bigger and bigger and bigger as he's walking towards you through this field. Like, it's both the scale thing and also the... him. He like, shows up and like, has a cigarette case, and he offers you a cigarette. 
+Ali: She takes it, of course, but. 
+Austin: And he lights it. [Ali laughs] Turns and looks back over his head and like, raises his eyebrows as the temple gets bigger and bigger. 
+Austin (as Declan’s Corrective): I can't tell if you're worried or... excited. You see big things for the Cadent in the future, hm? 
+Ali (as Tender): [sighs] It's not that direct. This is just a side effect. 
+Austin (as Declan’s Corrective): Hm. Side effects have causes. Causes come from somewhere. For the first year of me trying to do this thing, I couldn't do it without the Earth showing up. Got that under control. 
+Ali (as Tender): Yeah? 
+Austin (as Declan’s Corrective): Yeah. 
+Ali (as Tender): Like fully? 
+Austin (as Declan’s Corrective): [unsure] Mm. 
+Ali (as Tender): Yeah, exactly. 
+Austin: He laughs. He's like- he has like a- So, if I were- I think his laugh is just under his sternum. [Ali laughs] [Austin laughs low] ‘Ha.’ Like, [laughs low] ‘Ha.’ He has one of those. 
+Austin (as Declan’s Corrective): Are you ready for the parade? 
+Ali (as Tender): Of course. 
+Austin (as Declan’s Corrective): You gonna be in it? 
+Ali (as Tender): Probably? I might as well. 
+Austin (as Declan’s Corrective): [exhales] You know there are people who don't... who don't think we should be doing this. Who think a celebration isn't called for. Things used to be better. 
+Ali (as Tender): Yeah, but we're not getting that back anytime soon. 
+Austin: He like uh... turns and like, puts his hands on his hips and just looks up at this giant temple again. [Ali laughs] And like, shakes his head a little bit. 
+Austin (as Declan’s Corrective): How's the Cadent?
+Austin: He doesn't like, turn back to look at you. He’s just kind of admiring the work. 
+Ali (as Tender): She's well. She's- she's… I think that she's also feeling weird about this, but mostly positive. 
+Austin (as Declan’s Corrective): Mm. You think she's ready to go without training wheels? 
+Ali (as Tender): [laughs] Is that what they're calling me these days? 
+Austin: [laughs] He shakes his head and takes out a second cigarette for himself. [Ali laughs]
+Austin (as Declan’s Corrective): I walked into that one. [sighs] We uh- There’s an opportunity for someone like you… to... have an effect that isn't just with how the Cadent goes about her day. I think it might be worth... coming in and talking before the festivities. You, the Cadent, your old friend, Cascara. 
+Ali (as Tender): Cascara? 
+Austin: He like- He nods a little bit behind you. And like, do you turn around? Do you just keep eyes on him? 
+Ali: Yeah, I think so. I was trying to think like- I was tryin’ to be like, ‘Oh, I’m a Jedi. I know that she walked up,’ but that's not how this works. [laughs]
+Austin: Right. Yeah. Yeah, no. That’s not- 
+Ali: I’m not that much of a Jedi yet. 
+Austin: You're not. You’re not. Alright. So, you turn around. Cascara is here. She wheels up to you. And like, her- I think her like- her wheelchair like, sets down. Like, I think it- she had put it into some sort of hover mode to get up the inclines and stuff, but then like, she just sets it down and wheels over to you through the grass and is like,
+Austin (as Cascara): Agent Sky. It's good to see you. 
+Ali (as Tender): It's good to see you, as well. 
+Austin (as Cascara): It's quite a beautiful work you've made. I think the dimensions are a little off, though. 
+Ali (as Tender): Yes, it's a work in progress. 
+Austin (as Cascara): I'm glad I found you. We have an opportunity... to work together again. 
+Ali (as Tender): I'm definitely interested. 
+Austin (as Cascara): You don't think you'd miss the Candent?
+Ali (as Tender): [sighs] Well... I think she has my number. 
+Austin (as Cascara): [lightly laughs] That's fair. But the Mirage isn't what it used to be. There's a chance that we could be off somewhere, and she could call your number, and you might not be able to come home. 
+Ali (as Tender): I think that is a risk that she is willing to take. Or is gonna have to be. 
+Austin: And... and she looks around a little bit, and then she says like, 
+Austin (as Cascara): What about... that man? Corrective. Do you think... she'll be able to withstand... any of his maneuvers? 
+Ali (as Tender): I think she's had enough time to get used to them. 
+Austin: She nods. 
+Ali (as Tender): She has a few of her own now. 
+Austin (as Cascara): Oh. How things change. Then let me tell you what we're gonna do. Are you ready to leave? I can explain on the way. 
+Ali (as Tender): We were gonna have dinner. A final night before heading to the city. 
+Austin: She nods. 
+Austin (as Cascara): Have dinner. We can go in the morning. 
+Ali (as Tender): You should join us. 
+Austin (as Cascara): I think I'm going to stay up here. 
+Ali (as Tender): [quietly laughs] It's- There's quite the view. 
+Austin (as Cascara): It's beautiful. No one- no one told me that places like this existed on this planet. I thought it was all smokestacks. To hear the Divine Fleet say it, Seneschal is a world of compromises. And they mean that as an insult. 
+Ali (as Tender): Mm. It is a world of compromises. We need more these days now though. 
+[Jack de Quidt’s “The Mystic” begins playing]
+Austin: She nods. 
+Austin (as Cascara): What we need are people who can help. People like you. I'll see you in the morning. 
+Ali (as Tender): Yeah. Yeah, I'll see you then.
+Austin:  And she like, rolls past you towards the building you've made that is still there. And like, goes into start to explore it, I think.
+[music plays out to end]

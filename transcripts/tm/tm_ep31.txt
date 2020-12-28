@@ -1,3575 +1,1968 @@
-﻿Twilight Mirage 36: Every Bad Idea
-0:00-21:22 transcribed by David @daoikle/@Lagnar#3969 (21 min)
-21:23-29:40 transcribed by Jacob England (8 min)
-29:40-end transcribed by meko
+﻿Twilight Mirage 33: This Year of Ours: The Speaker
 
 
-[The Notion begins playing]
+Transcribed by Kieren (@kieren_sz)
 
 
-AUSTIN: Very quietly, over the last six months, teens have been disappearing across the major settlements of Gift-3. It has been easy to miss. Though around three hundred have gone missing, that’s a small number in comparison to the planet’s population of ten million. 
 
 
-They haven't vanished completely, though. Camera feeds record the occasional sight of a child long thought gone. Blips across comms networks reveal that many of those kids are still sending messages to their friends back home. Of the adults who’ve noticed their absence, some believe they are being led away by an evil force on the planet, technological or magical in nature, they’re not sure. Others, more hopeful perhaps, think that these teens have gone off to search for the schematics of Gumption, eager to be heros. 
+AUSTIN (with robotic voice): Feedback by Janus, Red Equity of the Golden Clause, on a term paper exploring the emerging legal jurisdiction of the Quire System.
 
 
-But some, like Alabaster Went, Grand Magnificent’s contact in the Mandati Capital of Big Garage, are less optimistic. Went runs a small shipping company out of an even smaller transport vessel. He believes that his niece, Winchester, has been abducted and brainwashed by the New Earth Hegemony. His evidence, a recording in liquid metal of Winchester, pale, awkward, freckled teen, being lifted in the air by a massive Red Torch unit. Add to that a report of other Torch units in the crash lands to the east, and this is clearly some sort of NEH op, Went says. 
+Please note: the grade you’ve received here reflects your successful ability to follow the assignment’s instructions, cite relevant academic and practical work, and build an argument supported by precedent. For that, you should be commended.
 
 
-Whether you believe it or not, you can definitely tell that he does. And that is why you agree to find his niece. 
+But I am disappointed that you would take up this line of thought.
 
 
-And that is why, silhouetted against a pink and blue sky, you four are currently climbing through a window into the 29th floor of Big Garage Coworking Tower Twelve, one of the blocky, asymmetrical spires that the floating capital can connect to for refueling, resourcing and data exchange.
+[“The Speaker” starts playing]
 
 
-Cameras spotted a Torch unit head this way an hour ago, and you all mobilized as quickly as possible, charming and sneaking your way into the structure, and picking up the trail of three suspicious figures. They might not have Winchester, but they could have the info you need to find her. 
+As you’ve written, politicians of certain persuasion point to moments of crisis, to freshly mapped 
+worlds, to technological frontiers, and say that the law does not apply in these places, that those in power rule arbitrarily during these states of exception.
 
 
-And there, behind a door labeled “Auditories and Anechoics”, you briefly hear the sound of a muffled voice. And then, as if scrubbed from reality itself, the sound is gone.
+But if you take one lesson from me or from this seminar, let it be this: there is no such thing as a lawless place or a time outside of jurisdiction.
 
 
-[The Notion ends]
+Deep below explicit legal precedent, unlisted in any codex, there lie unspoken rules by which 
+society functions. They are fluid, yet bottled by the shape of culture. From the racist resolution of border-region land disputes to the public opinion pardoning of war criminals, a cultural paradigm of gestures and sensibilities guides action.
 
 
-AUSTIN: Welcome to Friends at the Table, an actual play podcast focused on critical worldbuilding, smart characterisation and fun interaction between good friends. I am your host, Austin Walker, you can follow me on twitter @austin_walker. Also joining me today, Art Martinez Tebbel.
+The so-called “state of exception” is an alibi. If tyranny rises and the people of Quire do not stand to stop it, that is not a sign of the oppressor’s strength, but a memorandum on the population’s capacity to love a despot.
 
 
-ART: Hey, hi, I’m Art, you can find me on twitter @atebbel.
+Jurisprudence simply follows suit.
 
 
-AUSTIN: Ali Acampora.
+Fourteen Fifteen, you are a good student, and I hope you grow to understand our role in this system: we are as adjudicators on the verge.
 
 
-ALI: Umm, hi! My name is Alicia Acampora, you can find me @ali_west on twitter and uh, you can go find the show over @friends_table.
+Our role is not simply to interpret the law as written, it is to translate attitude into index. And, in instances where indices are incomplete, to passionately propel the world towards justice.
 
 
-AUSTIN: Keith Carberry.
+[music ends]
 
 
-KEITH: Hi, my name is Keith Carberry, you can find me on twitter @KeithJCarberry, and you can find the Let’s Plays that I do at youtube.com/runbutton.
+AUSTIN: So... Tell me about Fourteen Fifteen. So way we’ve been doing for other people has been that we’ve done like the mechanics talk and then we talked about the year that they’ve had. So let’s start with mechanics and get that out of the way. Fourteen Fifteen in “Scum and Villainy” is… a speaker? [Jack makes a sound] Is that correct?
 
 
-AUSTIN: And Jack de Quidt.
+JACK: Yeah. I’m gonna be playing as a speaker which was… [pause] when you pitched this to me and you-you suggested the scoundrel and…
 
 
-JACK: Hi, uh, you can find me on twitter @notquitereal, or buy any of the music featured on the show at notquitereal.bandcamp.com.
+AUSTIN (cutting in): I did
 
 
-AUSTIN: Uh and Jack has just made a thousand songs—
+JACK: and I kind of… It was [laugh] It’s kind of like.. It’s been a good arc of choosing playbooks
 
 
-[Ali laughs].
+AUSTIN (crosstalk): Yeah..
 
 
-AUSTIN: —over the last month, so please go support Jack and—
+JACK: Cause what happened was when you suggested it to me and... you’ve knew that I kinda sucked my teeth and then- 
 
 
-ALI: An entire helladay, helladay LP.
+AUSTIN: Mhm 
 
 
-AUSTIN: [light sigh] You keep saying helladay. Helladay!
+JACK: we- we talked about it and realised that a scoundrel would be really interesting and- and kinda fitting…
 
 
-[Ali laughs]
+AUSTIN: Yeah
 
 
-KEITH: It was that, it was—
+JACK: I think my reluctance with the scoundrel was that I didn’t want to just end up playing the Hitchcocks again?
 
 
-JACK: Hey, Jack—
+AUSTIN: [inhale] Right… Which is ironic given that we’re about to say next.
 
 
-KEITH: —a Hell P. 
+JACK: Right! Umm… Because- because [Jack laughs] because then… [Austin laughs] We spent a lot of time going over this and going over the things and- and in the end it’s sorta became clear that the book that would be interesting to go for would be the speaker.
 
 
-JACK: —here's a little, here's a little message for you in the future: It’s okay! You did it!
+AUSTIN: Aha
 
 
-AUSTIN: You did it, buddy.
+JACK: Which is the opposite of the Hitchcocks, at this..
 
 
-[Ali and Art laugh]
+AUSTIN (crosstalk): Well..
 
 
-AUSTIN: Um, we also just finished releasing a billion episodes, at time of—at the time of this recording we’re in the middle of producing those episodes, and writing intros, and figuring out what sequences things should go in and et cetera et cetera, so thank you to Ali and Jack, for dragging me through this production hell that we’re in currently.
+JACK: Well… well…
 
 
-[Ali and Jack giggle]
+AUSTIN: It isn’t [Jack hisses] is the actual truth Jack. It’s the same playbook.
 
 
-AUSTIN: Umm, ahh, and if you think that—
+JACK (crosstalk): So this is the… Is it really? [Austin laughs] Is it actually the same..
 
 
-ALI: [over AUSTIN] I hope everyone en—oh, sorry.
+AUSTIN (crosstalk): It’s the closest one. Yeah, because remember
 
 
-AUSTIN: Go ahead.
+JACK (crosstalk, resigned): God damn it..
 
 
-ALI: I was gonna say that I hope everyone enjoyed their week of Friends at the Table.
+AUSTIN (crosstalk): the Hitchcocks were not like… like [Jack laughs] like if I pull up the blades handouts, right, if I pulled… 
 
 
-AUSTIN: Seriously.
+JACK (crosstalk): The Hitchcocks aren’t like- rogues. They're like, they're like..
 
 
-[Ali laughs]
+AUSTIN (cutting in): Right! They’re speakers!
 
 
-JACK: Yeah! We're not gonna do it again for awhile!
+JACK (over Austin): Rogues.
 
 
-AUSTIN: For a while, and, if you enjoyed it, and if you enjoy the show, as always, you can support the show over at friendsatthetable.cash, which will take you to our Patreon page, where you can toss us a couple bucks to hear even more of the show.
+AUSTIN: Right, right. They were slides in- in blades terms-
 
 
-ALI: Mmhm. Mmhm!
+JACK (crosstalk): Fucking jeez..
 
 
-AUSTIN: We have uh Patreon episodes, we have a whole campaign. We have, we have… Clapcasts where we goof off, for, for anybody who supports us for just a dollar a month, so so go do that, uh, the dollar a month is just for the Clapcasts where we goof off, not for all of it, you’ll see that there is a whole, there’s a whole system—
+AUSTIN: -which were… Which were like [Jack laughs] you know. For instance some of their moves were things like you could always tell when someone is lying to you [pause] and they have like a special- special armor that said like, you may spend your special armor to resist a consequence from suspicion or persuasion [short pause] or push yourself for subterfuge-
 
 
-ALI: Yeah.
+JACK (cutting in, excited): Oh no! I love this!
 
 
-AUSTIN: —there's a whole system, there's tiers, it’s a whole thing. 
+AUSTIN: Ye
 
 
-ART: There’s some good goofs out about now probably.
-
-
-AUSTIN: Aw yeah ‘cause—
-ALI: Yeah.
-
-
-AUSTIN: This’ll be the one where Art and I, hmmm, by now you've heard that Art and I did an episode about what, what Grand Magnificent was up to over the last year. Ah, that episode was supposed to—uh.., you know I don’t know what the final run time of that episode is going to be? Ali i’m sure you haven't gotten there yet?
-
-
-ALI: An hour. [???] [5:07] It’ll be an hour
-
-
-AUSTIN: But probably about an hour, right? I think we recorded for like, three hours.
-
-
-ALI: [groaning] Yeahhhh.
-
-
-AUSTIN: And a lot of it was not good. But some of it was fantastic! And that’ll maybe show up. Uhhh.
-
-
-[Art and Ali over each other]:
-
-
-ART: There was also the Bluff City episode…
-
-
-ALI: I think that’s gonna be...February…ooh, yeah.
-
-ART: Oh sorry.
-
-
-ALI: No no no.
-
-
-ART: There was the Bluff City Episode that was just us fucking around for an hour and a half.
-
-
-AUSTIN: Oh my god, I forgot about that. 
-
-
-ALI: [laughter] That’s true!
-
-
-AUSTIN: That might be the next month’s Clapcasts, who even knows.
-
-
-JACK: That's called...That’s just called weird bullshit in my project folder.
-
-
-AUSTIN: Yeah.
-
-
-KEITH: Wait, what was that? Was I there?
-
-
-ART: You were there.
-
-
-ALI: It was when we were gonna record Bluff City but decided that we couldn't. [Laughter]. 
-
-
-KEITH: Ohhh, right.
-
-
-AUSTIN: Yeah.
-
-
-ALI: And looked at Youtube for an hour and a half?
-
-
-AUSTIN: Yeah.
-
-
-KEITH: Yeah that was fun, that was a good times. That wasn’t on the show?
-
-
-AUSTIN: If that’s not out yet, look forward to it.
-
-
-ALI: [???] [5:46] Yeah...
-
-
-KEITH: We didn't get a show done out of that?
-
-
-AUSTIN: We did not.
-
-
-ALI: No…
-
-
-AUSTIN: We one hundred percent did not.
-
-
-ALI: Remember what we just…
-
-
-KEITH: I do remember that now, yeah.
-
-
-ALI: [giggling]
-
-
-AUSTIN: You left, and we brought Janine on for a minute, it was a whole thing.
-
-
-ALI: [big laugh] Yes! That’s what I…
-
-
-KEITH: Where did I go?
-
-
-ALI: Because you had to go!
-
-
-KEITH: What did I have to do?
-
-
-AUSTIN: You had to go.
-
-
-ALI: The reason we didn't record is because you only had like two hours to record—
-
-
-KEITH: Ohhhhh.
-
-
-ALI: —and then we talked for an hour and a half. [Giggling] Um.
-
-
-AUSTIN: Yeah.
-
-
-KEITH: Right, I remember that, yeah.
-
-
-AUSTIN: Um—
-
-
-ALI: Also… 
-
-
-KEITH: That was fun.
-
-
-ALI: Can I just say another thing up top really quick?
-
-
-AUSTIN: Yes. Please.
-
-
-ALI: Um, we plug the Twitter a lot, but I just want everyone to know that they can—
-
-
-AUSTIN: True.
-
-
-ALI: —also go to facebook/friendsatthetable, and um…
-
-
-AUSTIN: Facebook.com/friendsatthetable, right?
-
-
-ALI: What's up?
-
-
-AUSTIN: It’s Facebook.com/friendsatthetable—
-
-
-ALI: They’ll know.
-
-
-AUSTIN: Are we not saying dot com now?
-
-
-ALI: [giggling]: No, we should—
-
-
-KEITH: Yeah, the internet—
-
-
-ALI: —still say dot com. The people will know.
-
-
-KEITH: —they got rid of net neutrality and now there’s no more dot com.
-
-ALI: [laughter]
-
-
-AUSTIN: Okay!
-
-
-ART: www.—
-
-
-AUSTIN: He does have to say the www, Brendan. [???] [6:37]
-
-
-ALI: The [chuckling], the other thing that I want to say is that even if you don’t follow me on Twitter, you don’t use Twitter, you don’t like my tweets about dogs, and wrestling and everything, we do have a Friends at the Table Discord that I think people think is patron-exclusive. It is not, there is—
-
-
-AUSTIN: [over ALI] True.
-
-
-ALI: —a link to it in my Twitter bio, so you can just go to @ali_west to get there, you don’t have to look at any of the tweets, it’s in the bio. There’s a link right there.
-
-
-ART: Although if you don’t like Ali’s tweets I don’t know how much you’re gonna like our Discord.
-
-
-ALI, AUSTIN, and KEITH: [laughter]
-
-
-ALI: I’m in the Discord—
-
-
-AUSTIN: How do you feel about worms?
-
-
-KEITH: Who are these, who are these people that are so concerned about accidentally seeing one of your tweets?
-
-
-ALI: I just, I don’t know, I’m afraid that I’m annoying on Twitter, I yell a lot. I um, talk a lot about food and wrestling, and that’s…
-
-
-JACK: That’s the best Twitter account in 2017.
-
-
-AUSTIN: Yeah.
-
-
-ALI: And cats, and…
-
-
-AUSTIN: We voted it.
-
-
-ALI: Oh, thank you! Oh wow—
-
-
-AUSTIN: Yeah, it was a whole big thing. 
-
-
-ALI: —thank you, everyone. Um—
-
-
-AUSTIN: Yup, you’re welcome.
-
-
-ALI: Um, I just want to say, ah, it’s been a [laughter], it’s been a tough year, and I’m glad my tweets can help, and uh—
-
-
-AUSTIN: [over ALI] Mhmm. [chuckling]
-
-
-ALI: —support Bone Bone in 2018. [chuckling]
-
-
-KEITH: Yeah, the runner-up best Twitter account is just a bot that uh, tweets captions to Drew Scanlon blinking.
-
-
-AUSTIN: Okay, good. Good.
-
-
-ALI: [laughs] That’s also my Twitter, amazing! [chuckling]
-
-
-AUSTIN: [over ALI] Yeah, weird. 
-
-
-ART: Did you see that tweet that was, did you see that bot that replied to me about Admiral Ackbar.
-
-
-AUSTIN: [over ART]: Guys, y'all, we are gonna, we cannot, we are at 18 minutes in this recording already.
-
-
-KEITH and ALI: [laughter].
-
-
-AUSTIN: [authoritatively] Today, we are playing Scum and Villainy by Stras Acimovic, and John LeBoeuf-Little, it’s a hack of Blades in the Dark by John Harper. My goals as GM are to convey the fictional world honestly, to bring the Twilight Mirage to life, and to play to find out what happens. And because this is the first, ah, the first full Blades—hrm, not Blades, Scum and Villainy session with this crew, I’m also just gonna read the PC best practices for y’all.
-
-
-Embrace life on the rim, chase danger and action, describe the action faithfully. Advocate for the story you want. Use your stress. It’s okay to go with the fun idea. Start fresh, add detail in play, and plan on the fly. 
-
-
-All right, um, I think that that is, that’s, are we good? Another top of the…  I think we're good.
-
-
-ALI: [snorts] [chuckling]
-
-
-AUSTIN: I feel like there is one more thing I wanted to say, I’ve lost it in the Twitter jokes and its fine. It’s fine.
-
-
-ALI: [chuckling] I apologize.
-
-
-AUSTIN: It’s fine! So. You have climbed again to the 29th floor of the Big Garage Coworking Tower Number 12, which is this blocky building that goes uh, way up into the sky, it’s like a tower, um and that uh, uh, Big Garage itself, which is this giant floating kind of, uh, city ship, that is above, um, the kind of sprawling city of, of Big Garage, um, is connected, it connects to these, to these, towers, where it can kind of refill itself, and, and get resources and, and data exchanges and stuff like that, and you’ve climbed in through this window, 29th floor, and, you’re on kind of um, you’re on kind of a floor that is uh, like a massive shared workspace, uh, it’s like a city block wide warehouse, an R and D lab, kind of a small-run manufacturing uh, centre, you can, you can, you can kind of um, model and design and make things here, um, and you know that the higher and lower floors are both locked down to this floor, that’s kind of why you came in through the window, um, and that is why you, you’ve kind of have your, your quarry trapped here. Um, and again you’re kinda behind uh, you’re not behind a door but you see in front of you a door, labeled “Auditories and Anechoics”, and that is where you briefly heard a muffled sound. Um, and then it kind of just disappeared. Um, not as if it got quiet, as if it was very, you know, you heard people talking and then just like, gone. What do you do.
-It’s the four of you all there, together—
-
-
-ALI: [chuckling].
-
-
-AUSTIN: You’ve already climbed in, you’ve already gotten through the first tiers of security, you, no one’s chasing you. You are the pursuers. Uh and and, something is on the other side of this door.
-
-
-[brief silence].
-
-
-KEITH: It’s probably not knock, right? We probably don’t knock on the door?
-
-
-ALI and ART: [laughter].
-
-
-KEITH: Process of elimination. Process of elimination, not don’t knock.
-
-
-Jack [over KEITH]: Um.
-
-
-KEITH: What else can we, what else should we not do, you guys? 
-
-
-JACK: Don’t kick it down. ‘Cause this is—
-
-
-ALI: Don’t.
-
-
-KEITH: Don’t kick it down, good. 
-
-
-JACK: Uhhh…
-
-
-KEITH: I like where we’re headed, eventually we’ll get there, all we have to do is come up with every bad idea. 
-
-
-AUSTIN, JACK AND ALI: [Laughter].
-
-
-JACK: Um, is there, are there any of the—
-
-
-KEITH: Oh!
-
-
-JACK: Is there like a side, a side, uh, window to this room, are there any other entrances to this room?
-
-
-AUSTIN: Not as far as you can tell. Um, so it’s uh, it’s a floor again filled with like research labs, and, it’s basically a coworking space for inventors and engineers and artists, and technicians, um, and this floor is, has a bunch of different side rooms and stuff. Ah, but this is the only door that you see marked on the official plans, and on, and like in the hallways, too, you’ve like done the, perimeter search. Only seems to be one door in, and it’s this one.
-
-
-KEITH: Mm, can we try and lure—
-
-
-AUSTIN [over Keith]: There might be other ways through, that, you know, maybe, I don’t know, there are vents in this building, there are other things in this building, but like…
-
-
-KEITH: The only official way is a door.  
+JACK: I love this and I can- I- so, I love this for a couple reasons which is, when i first looked at the speaker, a lot of the speaker in this game is framed in terms like, like [pause] discussions of and surrounding respectability?
 
 
 AUSTIN: Yes.
 
 
-KEITH: Um, can we try to lure someone out in a way that isn't knocking, ‘cause a knock is technically a very socially acceptable lure. Um.
+JACK: And I kinda sucked my teeth about that and then after couple of days I was like, oh no this is really interesting, I- I really want to try and do this.
 
 
-ALI: We can do a little, ding dong ditch situation where we, like, knock on the door and then we all—
+AUSTIN: Yeah
 
 
-KEITH: I like that.
+JACK: And now realising that it is just Hitchcock is like… Tech- doubly technically interesting cause now I’m like, all right, ok, I have a very similar two playbooks, how can I try and make something completely different [Jack laughs]
 
 
-ALI: go to the sides of it, and whoever walks out. 
+AUSTIN: Well, it’s gonna be completely different in that like, the whole- the whole pitch on the Hitchcocks was that they were rogues who… mostly talked good? [JACK: mhm] And like, snuck into places?
 
 
-JACK: I don’t hate this.
+[0:05:00]
 
 
-KEITH: That's very close to what I was thinking. I was thinking of playing like some music out here like, if somebody's got a speaker, a bluetooth speaker?
+JACK: Yeah.
 
 
-ALI: [over KEITH]: Oh, is there any…
+AUSTIN: And that’s what they’ve always been doing. Right? They always were kind of conmen. Fourteen Fifteen-
 
 
-KEITH: And we could just turn the corner, and they’ll be like, “what’s going on, down around this corner here?”.
+JACK (cutting in): Whereas…
 
 
-ALI: Are there like desks, can we like hide behind a thing and knock something over?
+AUSTIN: Is a hit- is- is a you know, is a killer. Is a- is a- is a- is maybe like, I hope we’ll see is like the GTA character done well of like, ‘I had a violent past but I want to put that past behind me to help people’.
 
 
-AUSTIN: No, you’re in a hallway, [ALI: Okay.] you’re in like an actual hallway now that has like a, goes into all these other, like, there’s all these doors that go into big coworking spaces. So right now you’re just in like the big hallway. The hallway’s, you know, you could drive a golf cart through here easily, you know what I mean? Like um, I have a very specific place in mind that no one on this call has been to so it’s not gonna help for me to reference it. Ah, but it’s like a large, like, hard concrete floor, like it’s not very comfortable in here but you’ve been in these types of places before, and you know that normally when you open one of these doors it’s like you’ve gone to the office of some company where it is nice inside but like no one gives a fuck about these middle areas, like the walls are painted like a shitty yellow, the ground is hard concrete, um, but like, and they’re like logos from different places, [crosstalk] you know what I mean?
+JACK: Right! Right. And like, there’s... You could say a lot of things about the Hitchcocks but I don't think you could necessarily say they’re genuine?
 
 
-KEITH: [crosstalking] I know, I know exactly what sort of thing you’re talking about. [AUSTIN: Yeah.] I had a therapist that was in a place like that one time.
+AUSTIN (laughingly): Right. No, not at all.
 
 
-AUSTIN: Yeah, totally. 
+JACK (crosstalk): And I think there are definitely aspects of Fourteen Fifteen that are genuine or like..
 
 
-KEITH: Um, I—
+AUSTIN (over Jack): Right, they- they…
 
 
-ART: This might be a silly question, but like… Can we just get in, can we just like… go in?
+JACK: Fourteen is trying to be genuine.
 
 
-JACK: Yeah, we, we, there are a lot of us.
+AUSTIN: Right, they like… I mean the pitch you gave me for this character is that like, they have gone on to want to help people by being, like, legal counselor. By being kind of pro bono, like go around the world… Go around the worlds. And help people..
 
 
-ALI: [chuckling].
+JACK (cutting in): [amused] Worlds.
 
 
-JACK: Is the thing, [crosstalk] and we do have the element of surprise.
+AUSTIN: ..who need help and by like learning the law a little bit and that’s a hard thing to do because the law is still coming together all around you, you know, and this- this new- this new system
 
 
-KEITH: Yeah, sure, if we just walk right in, if we just walk right in, maybe they’ll go, “Surely four people couldn't have snuck in.”
+JACK: Yeah. Like you and I have talked a lot about 2016’s Hitman and- and how sorta characteristic in that game that is phenomenally endearing is how, when 47 puts on the clothes of the character to embody them?
 
 
-ALI: Now what I’m thinking about [crosstalk] it, knocking is the polite thing to do. 
+AUSTIN: Yeah
 
 
-KEITH: [crosstalk] They all must just be here.
+JACK: He kinda just begins to- There’s a great bit where he puts on the clothes of a drummer  and-
 
 
-JACK: Let’s knock.
+AUSTIN (crosstalk): Yeah
 
 
-ALI: [laughing]
+JACK: - reveals himself to be a remarkable, like-
 
 
-JACK: Let’s knock.
+AUSTIN (crosstalk): [laughs] he just happens-
 
 
-AUSTIN: All right.
+JACK: - technical drummer. [Jack laughs]
 
 
-KEITH: Let’s just knock. Nah, you got it right.
+AUSTIN: Yep! He’s just a fantastic drummer! That’s great is they set this sequence up as like, oh boy, is it gonna give him away and no, of course not, because he’s 47.
 
 
-AUSTIN: You knock on the door, and there is not a response, um, immediately or after any amount of time that you wait. 
+JACK (laughing): He's a professional, yeah
 
 
-JACK: Okay, now I’m—
+AUSTIN (crosstalk): He is a professional. He knows enough of drumming to get into this shitty band [Jack laughs] and like- and make it look like he is the drummer.
 
 
-AUSTIN: I’m curious, how much time do you wait for?
+JACK: And I don’t think that’s the case with Fourteen Fifteen always.
 
 
-JACK: Five minutes! [laughing]
+AUSTIN (cutting in): No
 
 
-ART: Like a few minutes? [crosstalk] 
+JACK: You know, we talked about how Fourteen Fifteen can- it- it, you know. The- As far as Fourteen Fifteen is concerned the bodies are the bodies. They- they’re not disguising as someone, 
 
 
-ALI: [crosstalk] Two, like two. 
+AUSTIN (crosstalk): Right, right
 
 
-ART: Yeah, like, three? Three minutes [inaudible]
+JACK: they are that person, and that’s really important to me. But the-there is something [pause] exciting and- and narratively pleasing about this idea of Fourteen kinda going like, well…
 
 
-[ALI laughing]
+AUSTIN: Yeah
 
 
-AUSTIN: Three minutes? Okay.
-
-
-[ALI laughs]
-
-
-KEITH: Two and a half. 
-
-
-AUSTIN: Um, [crosstalk] yeah, nothing.
-
-
-KEITH: [crosstalk] I’m negotiating.
-
-
-JACK: Yeah, uh, i’m gonna put my hand on the, on the door handle [crosstalk] and open it very slowly!
-
-
-AUSTIN over JACK: Mhmmm, uh it is locked, the door is locked.
-
-
-JACK: So I’m not actually gonna open it very slowly.
-
-
-AUSTIN: It goes, in fact you go to move it and it goes like BEEP BEEP BEEP [ALI: Oh…], a little light lights up on the handle to indicate [crosstalk] it’s like a red light.
-
-
-KEITH: Depending on—
-
-
-ART: This is like a…
-
-
-KEITH: —depending on how slow you try to open it, it might take you a minute to realize it’s locked.
-
-
-JACK: That it’s not actually opening, yes.
-
-
-ALI: [laughter].
-
-
-AUSTIN: The second you like try to turn it, it seems to have read something on your hand, as if to say like, [JACK: Oh, okay.] oh no you don’t have access, that is that is what’s, yeah.
-
-
-JACK: Hm.
-
-
-ART: Can we fuck with it?
-
-
-AUSTIN: Also what are you all, I want to know what your, what is your breaking and entering gear all look like?
-
-
-ALI: [laughing].
-
-
-ART [confidently]: Well I checked fine coat on my items list, [crosstalk] so, um.
-
-
-AUSTIN: You did, you did. 
-
-
-AUSTIN: It's a no—really quick, actually, everyone should do this really quick, [JACK: Oh yeah. Load up.] everyone should check what level of load that they have, but you don't pick, you don’t pick what you have on you, you just pick what your level of load is. So at the top, there's a 3, 5, or 6 for, for light, normal, or heavy, but you’re not, you don’t pick it until you’re using it.
-
-
-ART: Okay uh, are the bold ones supposed to also be italicized? Tell me about bold.
-
-
-AUSTIN: No, I don’t know why some of those are bold actually, I have no idea why some of those are, [crosstalk] I’ve never been able to figure that out.
-
-
-ART: OK, ok well, I mean, I took…
-
-
-AUSTIN: If you are listening and you made the Roll20, [laughter] uh, Scum and Villainy…
-
-
-ART: It’s also like that in the book, [AUSTIN: Is it?] is the thing, yeah. 
-
-
-AUSTIN: Well that might be a thing I can figure out then.
-
-
-KEITH: Does it say our load in, in. It probably says it in the book, right? That's the…
-
-
-AUSTIN: No, you pick, so at the top of your sheet, Keith…
-
-
-KEITH: Okay.
-
-
-AUSTIN: Uh, do you see where it says “Load”, it's under the word “Mechanic” for you. “Load 3, light, normal, or heavy”. You pick what your load is, which, will, uh, which changes like, like if you’re at light load, you’re faster, you’re less conspicuous, you blend in more easily. And that’s stuff that I can call on, you know, based on [KEITH: Ohhh.] stuff that’s happening in the world, do you know what I mean? So like, oh, you’re chasing this person but you’re a little more weighed down than they are, so, et cetera, et cetera. Stat stuff.
-
-
-KEITH: Yeah. 
-
-
-AUSTIN: Um, and you don’t pick what you’re bringing with you until you use it. What you’re picking is how heavy, how much stuff you’re carrying. So tell me that, but also tell me what are you wear—what is your infiltration gear look like.
-
-
-ART: So am I, am I using fine coat when I describe myself wearing a very nice coat?
-
-
-AUSTIN: Yeah, you’re committing to having that fine coat with you, [ART: All right.] yes, 100%.
-
-
-ART: Um, well then I am checking that off because I [ALI: Laughing] am not going anywhere without my fine coat.
-
-
-AUSTIN: Okay. 
-
-
-ART: Um, let me tell you, this is a nice coat, you guys. Um, I think it’s sort of like what if… What if a leather duster jacket was like an ephemeral idea.
-
-
-AUSTIN: I hate you. So much. What’s that mean?
-
-
-KEITH: It’s the suggestion of a duster.
-
-
-ART: Yeah, but it’s there, but like, is it? Yes. Yes, it is. 
-
-
-AUSTIN: [laughing]
-
-
-JACK: [laughing].
-
-
-KEITH: Wait, so you’re saying you want—the sort of roller coaster you want is someone being like “Oh, that’s a man with a duster,” and they go “Is that a duster?” and then they go “Yeah, that’s a duster!”
-
-
-AUSTIN: [chuckling] Perfect.
-
-
-ART: Well it’s like, can you see it from every angle? No, no you can’t. But it’s there, it has pockets and everything.
-
-
-AUSTIN: But can they see what's…
-
-
-ART: They can’t see what’s in the pockets.
-
-
-AUSTIN: Okay but they can see, if they can't see it from a certain angle, they can still see that you have a shirt on under there, though.
-
-
-ART: Yeah.
-
-
-AUSTIN: Okay, that’s, okay. So when you say [KEITH: If they are…] ephemeral you physically mean it, that's not, uh, you’re not being poetic. 
-
-
-ART: But you can't reach through it, it’s there.
-
-
-AUSTIN: I got yah.
-
-
-KEITH: Just ‘cause it’s physical doesn't mean it isn't poetic.
-
-
-AUSTIN: True, fair. Fair. All right, fair.
-
-
-KEITH: [laughter]
-
-
-ART: They print poetry in books.
-
-
-KEITH: Um wait, I have one more question about the jacket. If you put something in a pocket and then you’re at an angle where you can’t see the jacket, can you see what’s in the pocket? Or no? 
-
-
-ART: No, the pockets are completely, uh, obscured.
-
-
-KEITH: Got it. 
-
-
-AUSTIN: Cool.
-
-
-ART: You see through to, uh, I’m much more... if we’re ignoring the fact that I just made an insane jacket for him to wear, this is a more toned-down Grand Magnificent.
-
-
-AUSTIN [sarcastically]: Oh, okay. Thank you for clarifying for us. 
-
-
-ART: You got it, I mean that’s what I’m here for, honestly. Um, you know, it's, it’s not as, he’s not as colourful, he’s wearing like a more subdued style. [pause] Um, you know,he’s wearing like a nice shirt but like a, you know, it’s probably like a primary colour, it’s probably like you know… Not a primary colour, those colours suck.
-
-
-AUSTIN: I was gonna say that’s some, that’s uh….I mean they’re fine, they’re fine colours.
-
-
-ART: It’s probably like a very nice grey work shirt and some dickies, you know.
-
-
-AUSTIN: Yeah, gotcha. Uh, Fourteen, what about you? What is your infiltration situation look like?
-
-
-JACK: My uh, my load is light. [AUSTIN: Okay.] Um, and I am uh, wearing um, I think I’m wearing like a light backpack. Um, ah, I think I am wearing a uh, kind of like a black jacket or a navy jacket. Um, I think my hair is done up in a sort of bun on the top of my head. I’m wearing like I guess, like a… [sighs] I’m trying to think of sort of like ah… The outfits that’s the assassins wear sometimes in Assassin's Creed that aren't like bullshit, that aren’t like, when they wear like light armour it’s like, lot’s of very clean lines and uh, thin fabrics, um… This isn't, this isn't built for armour this is built for trying to be as quiet as possible. 
-
-
-AUSTIN: Gotcha.
-
-
-JACK: But also not really knowing what armour looks like at this point? I don’t think Fourteen, Fourteen hasn't been… After spending most of their life working out the most expeditious ways to either kill or kidnap people…
-
-
-AUSTIN: Mhmm.
-
-
-JACK: Fourteen hasn't been doing that, so they’re kind of out of the loop as to what that involves in the current scheme of things.
+JACK: I’m supposed to be a lawyer here so why don’t I just.. [Jack laughs]
 
 
 AUSTIN: Right.
 
 
-JACK: They’re not even really sure what, you know, they might be facing in here, so they’ve just gone for something quiet and light and easy to move with.
+JACK: Why don’t I just start thinking about that stuff?
 
 
-AUSTIN: Cool. That adds up to me.
+AUSTIN: Yeah. I’m into it. I’m totally into it. So let's talk about like, your- your stats really quick [JACK: mhm] just so we have all of those in mind.
 
 
-ART: I’m sorry, what kind of work did you say you were in?
+JACK: Okay. So my heritage is that I’m- I’m from The Sky Reflected in Mirrors?
 
 
-ALI: [chuckles].
+AUSTIN: Sure, which gives you extra study?
 
 
-JACK: [chuckle] I, you know a, a lawyer.
+JACK: It gives me extra study and that- that feels like a- a pretty transparent mapping there of like, that’s what Mirrors is good at.
 
 
-AUSTIN: Grand Mag’s had some experiences with lawyers. Uh and not having them sometimes and having them other times. Uhhh, Gig how ‘bout you?
+AUSTIN: Mhm.
 
 
-KEITH: Um, I feel like Gig is probably wearing just regular street clothes, [AUSTIN: Okay.] or at least Gig’s version of regular street clothes, which is not that wild. Gig is a, just a, you know. Gig’s not a fashionista, um.
+JACK: My background is Castlerose assassin? I wrote down ‘Castlerose assassin on the run’ and then deleted those last three words [both chuckle] cause I kinda wanna talk about that?
 
 
-ALI: [chuckle]
+AUSTIN: Yeah, I’m not sure… if they’re on the run at this point… I think there’s… I don’t know.
 
 
-AUSTIN: I’ll put that down as a note. Not a fashionista.
+JACK: The situation is- I doubt the situation is clear cut [AUSTIN: Yeah] in the way it was for most of their career. This gave me scrap, because I think we depicted Castlerose assassins as... having the capability for subtlety? But not always… the willingness.
 
 
-ART: Please write Maxxinista question mark.
+AUSTIN: [laughs] No. Yes. A hundred percent.
 
 
-KEITH: [laughter] So I think I’m wearing um, a uh slip-on shoe, um…
-
-
-[ART laughter]
-
-
-[JACK laughs]
-
-
-ALI: Very practical, appreciate it.
-
-
-KEITH: Yeah. A slip-on shoe, um…
-
-
-JACK: [crosstalk] You got to have the right footwear for failing to open a door [a][b][c][d][e][f][g][h][i][j]
-
-
-KEITH: [crosstalk] A pair of jeans, some raw denim, some raw denim jeans, um… then a long-sleeved T-shirt and then a sort of, khaki, sort of like a safari vest. A khaki safari vest.
-
-
-AUSTIN: Oh God.
-
-
-KEITH: And then a baseball cap.
-
-
-AUSTIN: Okay.
-
-
-JACK: Tender, Tender?
-
-
-ALI: Hm?
-
-
-JACK: Are we the—help me out here, are we going to be the only ones who don’t look like amateurs. 
-
-
-AUSTIN: So Tender, what are you wearing? [ALI laughs] On that note.
-
-
-ALI: So I went through all that trouble to describe that grey outfit [AUSTIN: Yeah.] [JACK: Great!] in the first episode, which is like a super low-cut silk shirt with like—I had described this like giant house coat but I think instead of wearing that, she has like an armored—and I’m gonna say armored and explain what I mean in a second cause it’s not armored. [laughs] She has almost like a bomber jacket on and like forever forever forever ago in the Twilight Mirage chat I had shared like this fabric that looked like it was woven with squares of metal?
-
-
-AUSTIN: Oh, right.
-
-
-ALI: And I think it’s like a jacket made out of that, so if she gets like shot or attacked she’s gonna be okay ‘cause it has like a bit of bulk to it, but really only looks like a sequined jacket or something. 
-
-
-AUSTIN: Right, right.
-
-
-ALI: And it’s able to move and breathe in the way that like [AUSTIN: Cool.] chain-mail or traditional armor wouldn’t.
+JACK: And I wrote down like- I was really struggling with my vice, in part because- because Fourteen transformed so frequently.. It’s hard, and it’s kinda necessarily hard, to get to the bottom of..
 
 
 AUSTIN: Right.
 
 
-ALI: And then I think that I, it does not require load to have this, so she just wears it all the time.
+JACK: You know, what- what motivates them and that’s [slight laugh] like that’s a lot of what Fourteen is, this kind of cloud of- of confusion there… but I like the idea of-
+
+
+AUSTIN (cutting in): Who- Go ahead.
+
+
+JACK (interrupted): Oh, go on. [short pause] Oh, I like the idea of-
+
+
+AUSTIN (over Jack): Yeah, I wanna hear what your idea is. 
+
+
+JACK:  -obligation to an extent, because a) it’s written really well and in ’Scum and Villainy’ this- this obligation thing describes an obligation to like a family or and organisation [AUSTIN: Mhm], or a church in a way that feels very different from syndicate? [pause] Where, you know, syndicate is like, you- you- [pause] your vice is the syndicate or- or you- you owe something to the syndicate.
+
+
+AUSTIN: Right..
+
+
+JACK: But the obligation is… I feel closer to how we’ve portrayed the assassin up to this point with like, they’re being bound by contracts.
+
+
+AUSTIN: Right.. So the thing that I wanna emphasize with vice is that both mechanically and narratively because those two things are pretty firmly on lockstep. [pause] This is about what Fourteen does to de-stress.
+
+
+JACK: Yeah.
+
+
+Austin: What does give them that relaxing? What- what does give them that pleasure of- or that, that kind of vent to let them re-center themselves. [Jack sighs] And if it’s obligation is it- is it a Castlerose obligation? Is that what we’re talking about? [pause] Or is the obligation going to be the job that they have currently, this kind of legal, advisory thing 
+
+
+JACK (overlapping): Yeah, is it-
+
+
+AUSTIN: where they’re doing little, little jobs on the side.
+
+
+[pause]
+
+
+JACK: Yeah, i- it’s um..
+
+
+AUSTIN: Like, is it pro bono legal aid work?
+
+
+[0:09:50]
+
+
+JACK: I mean, I- I wonder if it is something like that but.. [Jack hesitates] I kinda want to make sure that we don’t.. [Jack exhales] I think you say a lot that is always like, really helpful is like ‘oh I don’t want a scene of someone sitting and writing’. [Jack chuckles] Or like, ‘oh I don’t want to just repeat of previous scene’ or I don’t want like-
+
+
+AUSTIN (cutting Jack of): Yeah, yeah, yeah. Though I will say that the- the vices  are not… By and large what will happen you roll  your vice, you give me two lines about what you did this time and then we  will move on, right? Like, the vices-
+
+
+JACK (as Austin speaks): I’m just thinking… Yeah..
+
+
+AUSTIN: Unless they go bad, vices tend to be-
+
+
+JACK (crosstalk): We don’t-
+AUSTIN: -’I’ve spent a night out drinking’ or ‘I-I’ve spent a bunch of money at the gambling table’, ‘I danced until my feet hurt’. You know?
+
+
+JACK: Yeah, I’m just thinking about like, that one that we hit on with the Hitchcocks where like,  the Hitchcocks are betting with each other as to whether or not he’s gonna heal himself?
+
+
+AUSTIN (cuckling): Yes. Yeah.
+
+
+JACK: And like, that was like, a narrative framing that I- that I was really happy with. And I guess like, this is just, you know, essentially beginning of the new system enquiries? 
+
+
+AUSTIN: Yeah [Austin laughs] I got ya
+
+
+JACK: But… yeah, I think it is. I think it’s- I think it’s umm… I think it’s some… I think it's something like research. O-or something like legal- like legal.. [Jack sighs] They are either doing the work or I just sort of picture them at the desk.
 
 
 AUSTIN: Right.
 
 
-ALI: With just like a braided, it’s like a braided necklace with a bunch of different types of fibers?
+JACK: Like- like calling someone and checking something
 
 
-AUSTIN: Oh cool, is that on her sheet in some way?
+AUSTIN: Right.
 
 
-ALI: Yeah, I have it written as the circuit braid, the way that I think of it is like something—and I have this on her other sheet or had an idea for it and never just said it—but I think that it’s something that she was given as like a priestess, and probably left it on the By-and-By when she got kicked out and now wears it again? One of the things on my sheet was like, old religious garb or whatever? [AUSTIN: Right.] And I think that she wears it in a way to like, if she’s talking to other people who are from the Fleet originally, they can kind of see and be like, “Oh, you were like kind of a big deal then” 
+JACK: Or like.. Or like typing out letters.
 
 
-AUSTIN: Right, you were like, yeah yeah yeah.
+AUSTIN: It  could even be… Ye, it could- could be sort of work of like, getting people in touch with resources that they could [pause] that would help them? You know what I mean?
 
 
-ALI: Even though they wouldn’t have known her name. She wasn’t on any posters, she wasn’t like the Cadent or an Excerpt or anything. But she was like, in the system enough that that’s the sort of thing she would be carrying.
+JACK: Yeah! My- when.. my parents were lawyers they… would talked about.. this is back before like, computers?
 
 
-AUSTIN: Yeah. There’s some degree of. Totally.Awesome.
+AUSTIN (over Jack): I had no idea your parents were lawyers at any point in their lives, that’s funny.
 
 
-ART: Hi, can I go again?
+JACK (cutting in): Wait, really?
 
 
-ALI: [laughter]
+AUSTIN: Hundred percent
 
 
-AUSTIN: Welcome to Friends at the Table. Welcome to Coats at the Table. An actual play podcast about Art getting into some bullshit. What’s up?
+JACK: They were both-
 
 
-ART: I’m just never going to have this experience, like I’m not going to have this opportunity again for like a while. Grand Magnificent has really nice sneakers.
+AUSTIN (over Jack): I’ve always thought of them as… Cause again, I know your father is an author [JACK: Yeah] so like that’s what’s your father is to me. And I don’t think you ever spoken [Jack humms] about what’s your mother’s job.. Was.
+JACK: Ah, they were- they were both [pause] they were criminal lawyers for a time and then my mother was a family lawyer. [pause] But ye, no, they- this is far before, you know, computers were in legal offices and, um, they’d talk about… getting… like legal amendments would come through?
 
 
-AUSTIN: Okay.
+AUSTIN (exhaling): Right.
 
 
-ALI: Thank you, Art, [laughing], thank you Art?
+JACK: Every week that had to be like, legacy style taped into the- the- the references books? [AUSTIN: mhm] They had to like, be.. pasted in.
 
 
-AUSTIN: Fair, fair. Okay, you know what—
+AUSTIN: Right.
 
 
-ART: I don’t even want to imagine what those look like this far in the future. But like, they’re fuckin’, they’re dope.
+JACK: Umm, but nobody wanted to do this? [Austin breathes out] So they’d just pile up. Just, in every- in every- um, lawyer office where they’ve worked these- these pages and pages and pages would pile up and then, one day like, all the senior partners would be like, alright, ok, this is it, here [Jack laughs] here we go.
 
 
-AUSTIN: So that’s—it’s open season on sneaker design right now, all you sneakerheads out there. You can design Grand’s sneakers. You don’t even need to design the whole art, you can just go to like, online, you know, shoe design services and start making them and, you know, let us know what they look like.
+AUSTIN (over Jack): [laughs] Time to- Yeah, make order of this bullshit.
 
 
-ART: I feel like I’ve been so mean to fan artists this year, like all my descriptions are [crosstalk] just like so far out there.
+JACK: Everyone would sit down and it would take like, nine hours and- and you had to put them in- in order? 
 
 
-ALI: [crosstalk] Oh they love it.
+AUSTIN: Right.
 
 
-KEITH: I just wanted to say also about my clothes is that the, um, long sleeve T-shirt is like a sky blue. Thanks!
+JACK: Because otherwise you’d- you’d get yourself lost. [AUSTIN: Right] So first you’d have to like, sort through all the mail and- and put it in the right order. [Jack inhales] And we know that like, law and legal stuff is like, [pause] changing so rapidly in the wo- in the worlds? Right now?
 
 
-AUSTIN: A sky blue. Now, I thought you said a Skype blue? [ALI: Yeah] And [???] [24:52]
+AUSTIN (over Jack): Right. Hundred percent, yeah.
 
 
-ALI: [crosstalk] Skype blue is a nice, yeah.
+JACK: So I wonder if it’s some sort of rudimentary level of that of like, just- just like, trying to connect people to people who need it? Or trying to work out whether of not something that was written down here..
 
 
-KEITH: [crosstalk] Skype blue is a sky blue, so that does work.
+AUSTIN (over Jack): Right [pause] Has changed in the last..
 
 
-AUSTIN: True, true, true.
+JACK (at the same time): Works with something that was written down there?
 
 
-ALI: Also, if you’re a sneakerhead who listens to this show get at me, thank you, goodbye.
+AUSTIN: Right. Oh especially because we’re going back, or- [Austin hesitates] a think that is staying the same is that communication between major.. Places is [Austin inhales] difficult still, again. Like.. getting message from Altar, which is where Seance is, to.. Moonlock, which is where the Sky Reflected in Mirrors sat down- set down. Like, that still takes- like, that’s still not a thing that you could just do. Like you still have to send that it via ship. [JACK: Yeah] Or use like the one thing on that planet that lets you do a like a.. Broad transmission. You know? Like there’s still.. We’re just still in that world? And so-
 
 
-JACK: Wait, can I go again?
+JACK (over Austin): It’s like, we have the one satellite phone.
 
 
-ALI: Yeah!
+AUSTIN: Right! Exactly. And so like, there's definitely this notion that I like, of.. During their downtime they like.. Get all of the stuff that they can get. They get all the-the notes, they get all of the… the… you know… updates. Like-like open their mailbox and inside is a manilla- o-or three manilla envelopes [JACK: Yeah] and each of them have- have… the- the… kind of case. A case that they have to break down to make a sense of before they can [Austin chuckles] figure out what the fuck is going on [JACK (trying to say something): And a-] and like how to put these.. How to update whatever what they have on record for whatever planet or whatever community.
 
 
-AUSTIN: Oh my god.
+JACK: And this is just like- this is like a complete nightmare, right? Because like, every planetarian community already has the rule of law.
 
 
-[entire table laughing]
+AUSTIN (chuckling): Right. Yes.
 
 
-AUSTIN: We’re at minute thirty seven of this recording.
+JACK: Like, we’re not inventing the law here. We’re inventing like-
 
 
-JACK: I was thinking about like, you know how all of the runners in Mirror’s Edge wear either like a tank top or running shoes or like running shorts and have like those messenger backpacks that kind of are tight to you rather than loose? I really like the image of Fourteen in one of those and like a black tank-top and running shorts, but they are carrying like a jacket or a blazer that they don’t want to be wearing. They’re carrying it with them. We’re not in trouble yet, it’s too warm to put it on. [AUSTIN: Mm-hm.] You might need to kind of put it down later, but for now it’s kind of draped over their arm. 
+AUSTIN: Variations and- and amalgams, right? Where like oh, this is the New Earth Hegemony like, city on a world that is… ostensibly controlled by… the- the, you know, the Divine Free States. Or.. Is- is a- you know, a- this community decided that they don’t wanna be part of any larger government, but they want to inherit all of the basic laws and so- but now they wanna change something about.. You know, censorship. Or now they want to change something about property. And like that’s hard to keep track of. [Austin breathy chuckles]
 
 
-AUSTIN: I like it. Okay.
+JACK: Yeah! And- and like, I don’t know. It’s important to me to like make the distinction that like [pause] people listening to this are gonna be like, oh, Jack and Austin are doing bureaucracy again. Umm.. Which is, you know, that’s what we do.
 
 
-ART: We need to be back on our bullshit, everyone.
+AUSTIN (over Jack, fake offended tone?): One- [pause] Yes.
 
 
-JACK: You know!
+JACK: Yes.
 
 
-AUSTIN: Yeah, I figured out—in all of that time I finally figured out what the bold means on your character sheets on items.
+AUSTIN: Welcome to Friends at the Table motherfuckers
 
 
-JACK: Oh!
+JACK (as Austin speaks): Well- [Jack laughs] 
 
 
-ALI: Oh, okay!
+AUSTIN (over Jack): But two-
 
 
-JACK: We were doing that on purpose!
+JACK (still laughing): Welcome to Friends at the Table, we invented the New Archiven in our first fucking session.
 
 
-AUSTIN: Uh it’s—
+[0:15:00]
 
 
-ALI: I’m wearing velvet combat boots, by the way. Anyway, go on.
+AUSTIN (chuckling): Yeah [Austin laughs] But there’s an important distinction, right?
 
 
-[ART laughing loudly]
+JACK (over Austin): Umm.. No, like-
 
 
-KEITH: The loafers are tight, so I don’t wanna hear any of you being “You can’t wear loafers on a spy mission, they’ll fall off.” They’re a nice fitting loafer. It’s a nice, good, comfortable, slip on.
+AUSTIN (crosstalk): Which is like the- the-
 
 
-JACK: Oh my god.
-
-
-AUSTIN: They’re—
-
-
-KEITH: Light brown. Sorry.
-
-
-AUSTIN: [over choked laughs from the table] It’s fine, it’s fine. It’s fine, I’m good.
-
-
-JACK: What does the bold do, Austin?
-
-
-AUSTIN: It’s like, it means that it’s like, oh, this has a mechanical thing like it’s Fine or it’s Large or something, you’ll notice?
-
-
-JACK: Oh, I see. Okay.
-
-
-ALI: Ohhh.
-
-
-AUSTIN: So if, like, something is Fine, if a piece of item is Fine, it can open up new fictional possibilities, or it can give you extra dice on a certain roll. Something like that. For instance
-
-
-ALI: Do you want us to mark if we changed the thing if it was Fine or not.
-
-
-AUSTIN: If it was Fine, you should still mark that it was Fine.
-
-
-ALI: Okay. I’m doing that.
-
-
-AUSTIN: ‘Cause it’s a higher quality or tier thing. You know.
-
-
-ALI: Okay, cool.
-
-
-AUSTIN: [pauses] Okay. The door is locked. It goes—
-
-
-[entire table laughing]
-
-
-AUSTIN: [high pitched] Beep beep beep. Beep beep beep. [regular voice] That’s what it does.
-
-
-ALI: Can we see like, is there like—cause that’s obviously a security system or whatever—
+JACK (over Austin): Also- here’s the thing like, I feel like- like- like Uklan Tel.. and Lem.. and Morbash are like, professionals.
 
 
 AUSTIN: Yeah.
 
 
-ALI: Is there like an intercom system? Or like a—
+JACK: And they’re- they’re like, trained in this stuff. And for them this- this work is like, all they’ve ever known.. It’s what they’ve grown up in and- and I want to make it clear that like, I’m not painting- I’m not recontextualising Fourteen Fifteen as a bureaucrat? Fourteen is like sitting at their desk, wearing glasses, just like with their head in their hands looking at this stuff most of the time?
 
 
-AUSTIN: No, no sort of buzz—um—[pause] No, there’s no sort of buzz-in situation.
+AUSTIN (over Jack): Yeah, yeah
 
 
-ART: Is there like an interface?
+JACK: This is like..
 
 
-AUSTIN: No, it’s just this handle. Like, you can see—so like in my mind it looks like it’s just, you know, a steel handle, but there is on the—in my mind it’s on, you know how a door knob is like fluted, it goes from like smaller to larger? On the very—on the widest part of the brim and then on the thinnest part of the brim there’s like an LED light—that turns red—there’s an LED that you don’t even notice when it’s not lighting up, or I guess like the steel itself starts to glow, actually? And so when Fourteen puts their hand on it and like tries to turn it, it goes red and goes [high pitched] beep beep beep.
+AUSTIN: ‘Aww, jeez..’, you know?
 
 
-KEITH: I also try. 
+JACK: Yeah, it’s like, you could make sense of legal precedent? But it would take you a while and you’d just like sit down with a pen. [Jack chuckles]
 
 
-AUSTIN: [high pitched] Beep beep beep.
+AUSTIN (over Jack): Right. Right. There’s- [Jack finishes] There are those great episodes.. This is like a- this is like a genre of This American Life episodes? [Austin thinks]
 
 
-ALI: [laughing]
+JACK: Oh yeah.
 
 
-ART: I mean I’m not saying we do this, but like, what if we kicked it? How kickable does this door look?
+AUSTIN: Where they’re like about a person who decides to.. Like, represent themselves in a- legally, you know? [JACK: Mhm] And, like, alright, I’m gonna learn how law works and like… ok… like, [JACK: Yeah] you could do that but that’s gonna take a lot of work. And you’re going to have to… like, figure out how that- how all of these things that you have no familiarity with actually connect together? And I think- I imagine that’s what they’re like. I imagine that’s Fourteen is like [JACK: Yeah] around this.
 
 
-AUSTIN: It’s, you know, it’s a heavy door, meant to keep people out, that’s why it has the security thing on it. [ART: Sure.] But it’s not, this isn't like a blast door. Do you know what I mean?
+JACK: Cause they’re a hitman. They’re not-
 
 
-JACK: Mm.
+AUSTIN (laughing): Right! [Jack chuckles] Right. That’s at the end of the day is they’re hitman. Which is why.. Uhh… They do have that scrap. Point.
 
 
-ART: I’m not gonna kick it.
+JACK: Yeah. I have that scrap point. Umm
 
 
-KEITH: I have a thing.
+AUSTIN: What else do you have? Let’s- let’s keep on moving..
 
 
-AUSTIN: Yeah?
+JACK: Yeah, I wanted to make sure that I didn’t do the Marielda [Jack laughs] problem here, with like..
 
 
-KEITH: Um, I take my eyeball out of my head and…
+AUSTIN: No one knows pr...
 
 
-AUSTIN: [long sigh, groan]
+JACK (over Austin): I wanted to distribute my points here, so I have like
 
 
-KEITH: I say:
+AUSTIN: Yeah.
 
 
-Keith (as Gig): Hey, we can—I can maybe go through the vent and see if I can—
+JACK: [pause] I have study one, I have scrap one, I have skulk one..
 
 
-AUSTIN: Uh, Fourteen and Tender, is this the first time you’re seeing Gig take his eyeball out of his head?
+AUSTIN: Right.
 
 
-KEITH: Nooooo. I have done this with everyone there before.
+JACK: I have command one, I have consort two and I have sway one.
 
 
-AUSTIN: Okay.
+AUSTIN: All of that to me, like, one of the things about this what's nice about this is like, that reads like Fourteen Fifteen to me. Like, little bit of fighting, little bit of sneaking around [Jack chuckles], a little bit of figuring things out, and a lot of ‘I know- I know a guy’. [JACK: Yeah, yeah, yeah] And con- consort is that. A consort is like “ah, yeah, I think I know someone in this town who can help us with that”.
 
 
-JACK: I think when we were at the ship [AUSTIN: Okay.] but I want it on the record that as soon as it happens, Fourteen just walks back across and leans against the door, like, the wall on the other side of the corridor.
+JACK: And “I know a guy a guy and they resent me”.
 
 
-AUSTIN: Good, good. [pause] What do you do with that eye?
+AUSTIN (laughing): Right! Yes. Exactly, exactly. We don’t have to get into specific abilities unless they come up in the little vignette we're gonna do. [JACK: Mhm] But I like that, I like- I like this whole thing, I’m gonna take that questionmark away from obligation. And like, write down ‘legal aid’ next to it.
 
 
-KEITH (as Gig): The space assassin is so squeamish.
+JACK: Yeah
 
 
-JACK (as Fourteen): Not an assassin.
+AUSTIN: But I think that’s it in terms of.. this stuff.. I guess there’s some- theres some cool things with like equipment that we could talk about? I’m- there’s one thing on your sheet that actually I’m little actually curious ab- curious about enough to say ‘hey, what is this thing’.
 
 
-KEITH (as Gig): Sure. 
+JACK: Mmm, yeah.
 
 
-KEITH: [pause] Uh, I wanna go through the vent, see if I can get onto the other side of the door.
+AUSTIN: So the the way that- that- um.. The way that equipment works in Scum and Villainy and then Blades in the Dark is that you have like, everybody shares a certain pool of potential stuff? So like.. We- a weapon of some sort is like, on every character sheet. So.. things like, you know, a- a hacking tools, repair tools, medkit, spy gear. Anybody can have those thing if they wanna spent an inventory slot when they go on a mission. But, every class also has its own set of special things. So like, yours are like, fine clothes [Jack laughs] which I love partially because they take up on- they take up a slot.
 
 
-AUSTIN: Sure, that sounds like a roll to me.
+JACK (over Austin): They take up a slot
 
 
-KEITH: Okay!
+AUSTIN (crosstalk): There are things that don’t, but like, those take up a slot. And they're not like- it’s not armored- secretly armored clothes.
 
 
-AUSTIN: Um, so I’m gonna read from the book about how action rolls work, because I think it’s a good idea when we start a new system to talk through how games work.
+JACK: It's great. I love that. 
 
 
-KEITH: Yeah.
+AUSTIN: It’s so great
 
 
-AUSTIN: So one, the player states their goal. Your goal is the concrete outcome your character will achieve when they overcome the obstacle at hand. Usually the character’s goal is obvious in context, but it’s the GM’s job to ask and clarify the goal when necessary. It never hurts to be clear and avoid any confusion. So, this is me doing that, your goal is to scope out the place and maybe, like, open the door from the inside? Or what is your goal here?
+JACK crosstalk: Because then you're dressed up really formally it- you- you know. It feels like wearing something fancy.
 
 
-KEITH: Yes.
+AUSTIN: Right. And you have some other things like luxury items and large luxury items and the legitimate ID
 
 
-AUSTIN: Okay.
+JACK (chuckling): So good..
 
 
-KEITH: That is my exact goal, and I’ll add the addendum of, “remain undetected.”
+AUSTIN: But the one of them is ‘memento of a past encounter’ and I’m curious what that is.
 
 
-AUSTIN: Sure. Totally. There are lots of ways this could fall apart, for sure [29:40]. Uh, [reading] Two: the player chooses the action rating. The player chooses which action rating to roll, following from what their character is doing on-screen. If you want to roll your Scrap action, then get in a fight. If you want to roll your Command action, then order someone around. You can’t roll a given action rating unless your character is presently performing that particular action in the fiction. Some actions overlap, and the same end result can come from via several methods. If you want to hurt someone, you might Scrap with them or use Doctor to poison them. If you want to scare an enemy, you might Command them to your terrifying presence or Sway them with tough lies. What action to perform is the player’s choice. So, what do you think?
+JACK: Yeah.. So I- I kinda went back and forth on this [long pause] We kn- we know that’s- that’s [pause] one the one hand I am [pause] reluctant to  make it Fourteen’s glass gun?
 
 
-KEITH: It’s either Skulk or Scramble, ‘cause I’m sneaking but also I’m navigating vents and trying not to be caught.
+AUSTIN: Yeah.
 
 
-AUSTIN: Oh, see I—hmm. I’m not sure it is those, because those are about you doing those things. 
+JACK: In part because it’s a- it’s a gu- it’s a, you know, it’s a gun. I have those. Why- why is it that? But, the more I think about it, that gun has- had a more interesting, um. It's been more interesting in the show when it’s not been a gun. It’s been more interesting in the show when it’s this item that’s being passed between people? And not actually used. You know, when we’re using it it’s just- it’s just a firearm. [AUSTIN: Right] So I wonder if.. It is.. I wonder if- I wonder if it’s this. In part because of the connection that it gives Fourteen with- with Sho. 
 
 
-KEITH: Oh, so you think this is maybe—
+AUSTIN: Right. [pause] One think I’ll note is [pause] guns are different now.
 
 
-AUSTIN: You’re flying a drone, right? I could see Skulk, Skulk I could see. 
+JACK: So this is- this was the other thing I was gonna say. [AUSTIN: Yeah..] What if it doesn’t work?
 
 
-KEITH: Okay.
+AUSTIN: I think it works, but you fire this gun once it’s gonna break. It’s made of glass. Like that- the whole thing now is.. That with rare exception, and there are exceptions in the party even, based on character, like a- what- what characters have available in terms of equipment.
 
 
-AUSTIN: Because Skulk is still maybe like it’s the knowledge of—Again, you could roll it, it’s just about me changing what the effect and position is. 
+[0:20:00]
 
 
-KEITH: Well—
+AUSTIN: Guns are largely single use things. Or maybe you have a version of it where you can- you can like, reload it? But reloading it means basically reattaching a key part of it? [Jack laughs] Like, there is.. 
 
 
-AUSTIN: Do you know what I mean? 
+So basically the glass that- that the Doyenne brought up out of the sand in Quire back in like, the first ground game arc. That got dispersed everywhere. And it’s very thin, it’s very- it’s like little- it’s like microparticles to where you’re not even seeing it. Your body, you know, breaks it up if you breathe it in, or as you breathe it in. And it seems to almost like the life- almost with the life of its own.. Become denser? At the notion of gunfire. At the like- as the trigger is being pulled it condenses. 
 
 
-KEITH: Yeah.
+It’s as if Quire does not want guns anymore. And this is the best it can do to stop them. And a… so what you have is the situation where like, there are mass produced guns that you fire once and that’s it, you throw this gun out. Or militaries might have a version of it where it’s like you-you slide the receiver and the slide and the barrel off and replace it with new thing and you just keep the- the kind of grip. And the chamber or whatever. Like, and everything else gets reattached. [Jack hums] 
 
 
-AUSTIN: But—
+And then you have like, you know, a soldier who has five of those on them. Like, they have the one grip and then five extra shots, and that’s a lot- that’s a lot. To have six shots is a lot. 
 
 
-KEITH: I would say that—’cause I—the reason I’m thinking Skulk or Scramble is because it is part of my body. It’s not—
+JACK: Yeah.
 
 
-AUSTIN: Yeah…
+AUSTIN: Even tho it takes you a turn so to speak to- to reload the whole fucking thing. And that’s the worlds that we’re in. Where we have a lot of batons, we have a lot of.. You know, probably swords and melee weapons, but in general like, it means that the world is less shooty then what we think of as a sci-fi and science fantasy?
 
 
-KEITH: Maybe it is my—it is—what were you thinking instead? Were you thinking Rig? Or—
+JACK: Yeah.
 
 
-AUSTIN: I just think, like, if I look at the—if you look at the—there’s an action and resistance rolls breakdown here. 
+AUSTIN: They're- you know, at least at this point. You know there are big robots still. But this e big robots have to get close to do anything, there’s no like, ‘and then they open up their shoulder and then a b-billion missiles come out and scatter off into the- into the many people. You know?
 
 
-KEITH: Uh-huh. 
+JACK: Yeah.
 
 
-AUSTIN: And Scramble is [reading] “Scramble to a position or away from danger. Lift, run, climb, jump, or swim. Traverse harsh environments.” 
+AUSTIN: Scenes like, the one with… AuDy and the- the.. What- what happened in.. The Kin- with The Kingdom Come in [pause] the… Seabed city. Just like, that’s not a thing in this world anymore
 
 
-KEITH: Mm-hm.
+JACK: Yeah [Jack chuckles]
 
 
-AUSTIN: Skulk is [reading] “Skulk about unseen, pick pockets, employ subtle misdirection or sleight-of-hand.” Both of those feel very physical to me, but I could see Skulk giving you—like, I could see Skulk not being a thing where I’m going to give you a low, limited effect, I could give you regular effect on that. 
+AUSTIN: In- inside of the Mirage which is I- like- an important distinction for me, and it’s the distinction because.. Quire doesn’t want that to happen. [Austin chuckles] And so [JACK: Yes.] it’s done what it can to to stop that. Which is interesting and- I- I think, I don’t know.
 
 
-KEITH: Mm-hm. 
+JACK: So yeah. I-I think it’s-
 
 
-AUSTIN: Um, for me this is like Helm, because you’re piloting a thing.
+AUSTIN (cutting Jack off): So ye, so I like it as a gun, I do actually like it as this gun that you know that if you pull the trigger it’s gonna break.
 
 
-KEITH: Piloting, okay. I’ll do Helm.
+JACK: Yeah! Umm.. I think that like, It’s a.. We-we’ve talked in the past.. Someone? In their.. Do you- do you- rem- recall their name, Austin?
 
 
-AUSTIN: Or it’s like Study because you’re investigating. But I—I think either Helm, Skulk, or Study would be about the same for me in terms of the degree of effect, it’s just a matter of, like...you know. Up to you among those, among those. Like, obviously it’s not Scrap.  
+[pause]
 
 
-KEITH: Helm for me seems closest to Scramble. 
+AUSTIN: Who?
+
+
+JACK: Someone.. Made a really great p- A fan made a really great point about the weapon.
+
+
+AUSTIN: No… I don’t. What was the point- I-
+
+
+JACK (over Austin): That they miss- They misinterpreted it..
+
+
+AUSTIN (at the same time): OH, yes! I can pull it up.
+
+
+JACK (at the same time): And I want to make that canon [Jack chuckles]
+
+
+AUSTIN: I can pull it up. Which is.. [pause] Someone noted… [quieter] God, where is it? That in the- in Fourteen’s gun. We had been speaking about the.. Ah, here it is. This is from Earthcube in the fan… The Fans at the Table discord. ‘I misheard the description of Fourteen Fifteen’s gun at some point, as that it had an actual flower preserved within the glass of the handle, and I haven't been able to correct it, that's just my headcannon now’. Headcannon is a good joke, also. It’s like a hand cannon? But like a Headcanon?
+
+
+JACK (over Austin): Oh, yeah.
+
+
+AUSTIN: And like. I think you and I both meant ‘engraved”? Instead of ‘have a flower in there’?
+
+
+JACK: Yeah, it’s like- it’s like- it looks like la- like laser engraving.
+
+
+AUSTIN: Right. But. I have to say, for months, I also have been thinking about it with a flower in there, because we go a long time without recording? So when that person said it I sent it you you and like, ‘wait a second, isn’t- isn’t there a flower in there? [Jack and Austin laugh] And you were like, no.
+
+
+JACK (crosstalk): Umm… No i don’t think so. But I think there is now? [AUSTIN: Yeah] However I think it’s new. I think whatever has happened [AUSTIN: huh] has.. I-I think that- the gun has blossomed.
+
+
+AUSTIN: Right. Well that’s- that’s also funny for other stuff that we will get to.
+
+
+JACK: Oh, nice!
+
+
+AUSTIN: I like that. (JACK: but ye-] I like the notion of like, yeah, there’s a f- a blossomed flower in there. Yeah.
+
+
+JACK: It’s- it’s in.. it’s in Fourteen’s- the drawer of Fourteen’s desk? 
+
+
+AUSTIN: Mhm
+
+
+JACK: And… you know when you move into a new house and you're looking for [Jack chuckles] something to fill the drawers with you just put one thing into the drawer and close the drawer? 
 
 
 AUSTIN: Yes.
 
 
-KEITH: Which is what I was most thinking this was. So I’ll do Helm. 
+JACK: And you open it months later and you’re like, why is there- why is there like just a lightbulb in there..?
 
 
-AUSTIN: Yeah, okay then. Let’s do Helm. So, do you have—
+AUSTIN (smiling): Mhm [Austin quietly laughs]
 
 
-KEITH: Do I just click on the word ‘Helm’? Is that how I do this?
+JACK: I think it’s the only thing in the- in- in the drawer.
 
 
-AUSTIN: I believe so. But one sec, let me finish reading. So that’s two, you’ve chosen the action rating. 
+AUSTIN: Gotcha. Cool. [Austin sighs] Man… OK. I think that that’s it for… stats and stuff then.
 
 
-KEITH: Okay.
+JACK: Yeah.
 
 
-AUSTIN: Three: I set the position. [reading] “Once the player chooses the action—their action, the GM sets the position for the roll. The position represents how dangerous or troublesome an action might be. There are three positions: Controlled, Risky, and Desperate. To choose a position, the GM looks at the profiles for the positions below and picks one that most closely matches the situation at hand.” And those positions again are, [reading] “Controlled: you’re set up for success, you’re exploiting a dominant advantage; Risky: you got head-to-head, you’re acting under duress, you’re taking a chance; Desperate: you’re overreaching, you’re in real trouble, a very dangerous maneuver.” 
+AUSTIN: Let’s talk about.. [pause] Fourteen Fifteen. Tell me what your year’s been like.
 
 
-[continues reading] “By default, an action roll is Risky; you wouldn’t be rolling if there was no risk involved. If the situation seems more dangerous, make it Desperate; if it seems less dangerous, make it Controlled. Negotiate with your GM over the position you find yourself in and what you might do to improve it. Sometimes is a position is Risky for reasons that aren't clear until you ask questions.” Uh, I’m gonna say that this is a Controlled roll. 
+JACK: It’s been weird. Um. [Austin laughs] It’s- it’s been really weird. Everything came to a head in the- in the very fast and strange way..
 
 
-KEITH: Okay.
+AUSTIN: Yeah..
 
 
-AUSTIN: Like, you are set up for success here, you’re exploiting a dominant advantage. You have no given away yourself. 
+JACK: In that we went into a situation expecting a.. Hostage negotiation. And, as we left, [with humor] without having fired any weapons
 
 
-KEITH: Mm-hm. My eye is small and hard to see and we think this room is empty. 
+AUSTIN: [negative] Uh-uh.
 
 
-AUSTIN: Yes, exactly. Exactly. And then—so that’s—next, I set up the effect level. [reading] “The GM assesses the likely effect level of this action given the factors of this situation. Essentially, the effect level tells us how much this action can accomplish. It will have Limited, Standard, or Great effect. Effect level is explained in detail in the next section.” And so I’m actually gonna say that this has Standard effect, because I’m actually going to set up a new clock for y’all, which is...let me find where my clocks—
+JACK: Oh… We ca- Well.. I did- yeah..
 
 
-KEITH: So if I hit submit on Control, that’s not gonna roll, it’s gonna go to the next thing? 
+AUSTIN: You fired a weapon-
 
 
-AUSTIN: I don’t know, ‘cause I don’t roll on your side of the board.
+JACK (over Austin): I mean in the hostage- [laughing] I fired a weapon [AUSTIN: Right] in a lift. I meant in the hostage negotiation. [Austin laughs] 
 
 
-KEITH: Boom, okay, yeah it does do that. So now I’m saying—now it’s Standard.
+[0:25:00]
 
 
-AUSTIN: Now it’s Standard. Yep.
+JACK: We like- we literally left to find that- that- the world h- had changed? [AUSTIN: Yeah] Or was in the process on changing?
 
 
-KEITH: And submit that...and now there’s a bonus dice. 
+AUSTIN: It was in the process of changing, yeah.
 
 
-AUSTIN: So wait—yeah, now there’s bonus dice. So, bonus dice: [reading] “You can normally get three bonus dice for your action roll. Some special abilities might give you additional bonus dice. For one bonus dice, you can get assistance from a teammate. They can just take one stress, say how they help you, and give you a plus 1d. For another bonus die, you can either push yourself by taking two stress or you can accept a Devil’s Bargain. You cannot get dice for both; it’s one or the other. Note that pushing yourself gives you the option of taking plus one effect instead of taking plus one die. You can push for effect and accept a Devil’s Bargain for an additional die on the roll.” So you could do like, “I’m going to push myself for an additional effect level and I’m going to push myself for—or, and I’m going to take a Devil’s Bargain for another die.”
+JACK: So I think that the- [Jack stutters] the first is- is almost.. Just chaos, right? Just like, having no idea what's happening? [AUSTIN: Yeah..] Or- or in what direction it’s happening? O- Or who should be where? But I think that.. Fourteen.. Has.. once the dust has settled. Set up a.. A shop, or- or a house in a remote community on- on Moonlock?
 
 
-And then finally, you can spend a gambit. [reading] “A gambit is a limited resource shared by your whole crew. Your crew gains more by taking a few risks.” You have two gambit points right now. I should mark that down on the sheet, one second. It’s one from your ship and another one because Grand Magnificent is a Scoundrel. And Scoundrel has an ability that is “get an extra gambit point.” I believe that’s true, right?  
+AUSTIN: Yeah.
 
 
-ART: Yes. My crew starts with plus one gambit when the pool resets.
+JACK: Which is..
 
 
-AUSTIN: Great, okay. So I’m gonna also add this clock, a different clock here at the bottom of the page, and I’m gonna call that clock...um...you know what, I’m not gonna show you the name of that clock yet. But it’s a progress clock, it’s a clock that you are all working towards.So that’s what will be advanced by what you are rolling now. So is anyone helping, or getting bonus dice from a move, or anything else?    
+AUSTIN (over Jack): Which is where the- the sky Reflected in Mirrors set down? And- and.. I think on paper is actually a New Earth Hegemony.. World? But it’s a little more complicated than that? I’ll give you a little bit about..
 
 
-KEITH: Um, I don't think I need help, unless somebody wants to help.
+JACK: Yeah.
 
 
-AUSTIN: What are you rolling right now? What is your skill?
+AUSTIN: ..Moonlock right now? Things to know about Moonlock [Austin chuckles] It’s creepy? In the- in the similar way to the Sky Reflected in Mirrors? I.. it is not a black and white world? But it- it is desaturated in- in an emotional sense? I feel? Like, [Jack humms] I- I think my initial description of this place to you was that it had a- a sort of a- film noir…
 
 
-KEITH: My skill is one. 
+JACK: Yeah.
 
 
-AUSTIN: Okay. So, I’ll read you how this works, what the dice—So, [reading] “Once the goal, action rating, position, and effect have been established, add any bonus dice to the roll and then roll the dice pool to determine the outcome. The action roll does a lot of work for you. It tells us how well the character performs and how serious the consequences are. They might succeed at their action with no consequences on a six, or succeed but suffer consequences—four or five—or it might go all wrong—one to three. On a one to three, it’s up to the GM to decide if the PC’s action had any effect or not, or if it even happens at all. Usually the action just fails completely, but sometimes it might make sense or be more interesting for the action to have some effect on even a one to three result.” 
-[continues reading] “On a four to five—sorry, each four to five—and one to three outcome lists suggested consequences for the action. The worse your position, the worse the consequences are. The GM can inflict one or more of these depending on the circumstances of the action roll.” Consequences are explained in detail on another page [laughs]. And then once a consequence comes, you can resist it based on stuff that happens. And we’ll get to that if you fail. But maybe you won’t fail! Even though you only have one die [chuckles]. So yeah, if no one’s helping...And I don’t have a great idea for how to help. 
+AUSTIN: I need to find that exact note here that I had. I don’t know where it went… Here it is. ‘Technically controlled by the New Earth Hegemony but unstable and predictable’? There’s this uncanny film noir capital city. I’m drawing on things like ‘The Spy Who Came In From The Cold’ or ‘The Third Man’, or ‘Alphaville’? Or even now that think about it a little bit of ‘Atomic Blonde’? A little- a little bit of Atomic Blonde’s… Berlin?
 
 
-ALI: Yeah.
+JACK (overlapping): Oooh, yeah, yeah, yeah..
 
 
-AUSTIN: That would be—I’ll offer you a Devil’s Bargain real quick, which is, I’ll increase the heat by one and you can take an extra die. And that extra heat would be, like, someone, you know, registered that your eye was here. Like a camera catches your eye and that increases your heat in the Gift-3 system.
+AUSTIN: Both east and west, both- depictions of both east and west in that- in that film I think are pretty strong? And pretty in line with what I have in- in mind for Sky Reflected in Mirrors? Which is still called Sky Reflected in Mirrors, this city is still called that.
 
 
-KEITH: Mm, no. No, I like—
+JACK: Yeah.
 
 
-ART: “Catches your eye” has a weird ring. 
+AUSTIN: The rest of the planet… So. So.. you have- There's kinda three main settlements on… on Moonlock. It is The Sky Reflected in Mirrors. It is a… a place that I don’t have a final name on quite yet? I’m thinking of calling it the Qui Err Assembly? Which is a place where.. There are.. people from the Quire… Race. [Jack: Hm!] Who have re-cloned themselves. And… who are.. [smiling] Recognised by the Hegemony as a.. As a- a sovereign nation of their own? [Austin chuckles] the New Earth Hegemony has gone out of its way and has been very loud? About.. And very hypocritical about this? But very loud about criticizing the notion that.. The- the Divine Fleet had a… a.. not invaded, but colonized Quire? And had [Jack hisses] you know as far as the- in- in their telling had recovered this cloning technology? And had not been public about? You know, we know that the Castlerose is the one who found that s- that- that thing and used it to [Jack laughs]  build and assassin… like, group? An assassin..
 
 
-[Austin and Keith laugh] 
+JACK: Industry
 
 
-KEITH: One die is enough, I think.
+AUSTIN: Industry- Yeah. An entire industry of assassination and- and… killing. And- I’m sure, bounty hunting and other sorts of recovery, you know? All sorts of… industrial espionage type stuff [Austin laughs nervously] But now like, there is a place that is on this planet, that is run by.. By… I think right now I’ve written her down as- as princess Pretense. She was a princess from the era of… The war [JACK: Oooh!] against Independence on Quire. Yeah. And she was one of the people saved in the Sky Reflected in Mirrors. In- in the kind of cloning… system that was deep in it’s - in it’s- in the bowels of that- floating city. That- that- that flying city. And so… She’s back. And is like advocating for.. More control? And like, more land and all of the things that she deserves to have for her people? She doesn't- she isn’t that same person. Like again, we’ve -we’ve been ov- like, and if she dies they could print another one of her. 
 
 
-AUSTIN: [laughs] Alright, go for it! 
+JACK (chuckling): Yeah.
 
 
-KEITH: Okay.
+AUSTIN: Because that’s- Which was not a feature of their culture. To be clear. It isn’t a culture of clones.
 
 
-AUSTIN: I just think it’s—yeah. It’s good. 
+JACK (over Austin): No.. No.
 
 
-KEITH: Four, boom. 
+AUSTIN: And I think that- I’ve no idea how they're gonna tackle that. I don’t how they're like, ‘well? There are, you know, a fe- there are a few thousands of us now. And that’s it. That’s all that there are. Like, we don’t have… more data than a few thousand of us. Soo.. [Jack laughs]
 
 
-AUSTIN: That’s a four, that’s not bad. That’s not bad. 
+JACK: But we have lot of.. Ability to make bodies.
 
 
-KEITH: Look at that! Look at that. Look at this!
+AUSTIN: To make us again? Yeah, exactly. So I don’t know, I’m precarious how that all plays out. And then there’s another place. There’s one- there's one other… major place and that is called… Or actually, there’s a- more that that. There’s one other place that is like, highly populated. So that’s- the sky reflected in mirrors thera’s the- the… the Qui Err Assembly. Which I need to write down on this... [sound of typing] ..page. And then there is the- the 5th Expansionary Hard Materials Settlement? Which is f- kinda familiarly called Concrete Town?
 
 
-AUSTIN: It’s a whole thing.
+[0:30:00]
 
 
-ALI: Yeah.
+AUSTIN: Here’s the thing that happens these days on Moonlock. [pause] The world.. Especially the world inside of.. The Kajj Umbra. Just this- this dark spot on- on the inside of the- of the… Not the inside but on the- the kinda side facing towards volition? That sort of inwards facing side of- of Moonlock? There’s this dark area and especially in there but even- even just in the wilds.. Axioms… show up sometimes? And other times other things show up? And people think that they are axioms but what they really are, are memories. From Curiosity. Strange creatures Curiosity scanned on a distant planet or.. A… buildings? A little, like- the suburbs show up once? The suburbs of a- of a- of an alien world? Giant archways, geographical features.. Without any- without any cau- apparent cause the world outside changes. 
 
 
-KEITH: It’s a whole thing! 
+AUSTIN: Sky Reflected in Mirrors seems to be protected from that, it’s still in that dome. And… Concrete Town, The 5th Expansionary Hard Materials Settlement, a-also resists it because it’s made of this special concrete. That has been designed explicitly to shut down weird supernatural Twilight Mirage [Jack laughs] buillshit. And that place is actually kind of- birthed a- a group of paramilitary militiamen called the.. Concrete Town Particulars. And they are a- an increasingly … important military force in the planet? Because they do a lot of settlement. They do a lot of like, ‘oh you gonna move to this new place and- and build it out of concrete. Out of out special concrete.’ And they they will be able to be settled. They are also {pause] sort of.. Not allied with but have- have a… sympathy to Sui Juris? The Divine Fleet- The group that kind of splintered off of the Divine Fleet? Because there’s a lot of sovereign citizen shit happening [Austin laughs] in both of those groups? [Jack laughs] There's a lot of like-
 
 
-AUSTIN: For people listening, want to describe what they’re—what you’re seeing?
+JACK: Yeah..
 
 
+AUSTIN: ‘We determine our own future’- like, they're from.. They’re like- they are- they are Earth's colonists? Most of the Particulars? But they are not… They are.. loyal to themselves first and foremost. They’ll- they’ll use New Earth Hegemony dollars but they’re not- they’re here to build- to build and colonize their own world. And so that’s- that’s one of the other major forces and then the third thing is the- is the wild that I mentioned. And the Umbra. The Kajj Umbra. It was always called the Umbra and then… probably like three weeks ago? A month ago? Six- six weeks ago? Something like that? A- a… An [pause] adventurer. A- a… treasure hunter? From outside of the Mirage whose come in and actually made a bit of a- a stir named Tannoy Kajj managed to be the first person ever to cross the entire of Umbra alive.
 
 
-KEITH: So in—so when we—so in any other thing that I’ve ever played, when you roll it just has your numbers there. This has a whole big picture of an eclipse, it has my name [Austin chuckles], it says that I rolled Helm, it says what I rolled, and the position, and the effect. It’s like a whole picture that it made for me! 
+JACK: Oh wow!
 
 
-AUSTIN: It’s a whole thing, yeah, it’s nice. It’s nice. So, on a four to five, you hesitate. [reading] “Withdraw and try a different approach or else do it with minor consequence. A minor complication occurs, you have reduced effect, you suffer less harm, you end up in a Risky position.” So, what I’ll say is...you can either withdraw and try this from a different angle, like, your eyeball goes up through the vents, ba ba ba ba ba ba ba, and then goes whooo, through the vent and then drops back down; inside, what you see is a—as the eyeball drops into the room, as the drone drops in, you see that the entire space has been—there’s like rows of glassed-in kind of recording areas? Or like, they’re like labs but very clearly they’ve been soundproofed. And in fact, even the glass has that sort of—you know how soundproofing has the sort of peaks and valleys, sort of like an egg crate, do you know what I mean? 
+AUSTIN: And so now it’s called the Kajj Umbra? Or- or at least that what he calls it and so [Austin laughs] it’s been catching on..
 
 
-KEITH: Yeah, yeah.
+JACK: Is there like- is there like any funny business there? 
 
 
-AUSTIN: I don’t know if people have seen that sort of soundproofing material. And so even the glass has that, and the glass feels like it’s—like it looks to your eye as if it was soft. And as your eye comes in, you see that the entire room actually adjusts where some of those peaks and valleys in this—in the soundproofing across all of the walls is, to immediately cut out all of the sound, even from your own eye drone. So it’s like bu bu bu bu pfft. And it’s gone. And so here is where—again, you can either pull your eye back up or I’m going to move you into a Risky position because your eye turns to see the—where there’s movement in the room and this—kind of a big space, I’m gonna say probably the size of a small office, it’s like, you know, there are like six of these rooms that are about the size of my bedroom, you know…[mumbles] that doesn’t help, people don’t know how big my bedroom is. Uh, it’s like this entire space is like—
+AUSTIN (over Jack): Inside of the-
 
 
-KEITH: Just go a bedroom, bedrooms are pretty consistent. 
+JACK (over Austin): Or did he actually managed to do it?
 
 
-AUSTIN: A bedroom. I’d say this entire side room is like the lobby of a car dealership, and it’s been subdivided into these little glass rooms. And you see a Torch unit. And I don’t remember if your side ever dealt with Torch units. I don’t think you did. 
+AUSTIN: Who could say.
 
 
-KEITH: No...uh, we saw them in the holiday special. 
+JACK (laughing): Okay.
 
 
-AUSTIN: In the holiday special, okay. I don’t know that Art did. Grand, you’ve never dealt with a Torch unit, right?
+AUSTIN (over Jack): The data- the data says he did it? He definitely went in one side and came out of the other side? So…
 
 
-ART: No, I’ve never seen a Torch unit before. 
+JACK (laughing): There may have- It’s a weird place.
 
 
-AUSTIN: Alright, so they are—they have heads like old stage lighting. I believe it’s called DAC lighting, D-A-C lighting, maybe? No, no. What is it called? Someone told me about what the correct lighting term was for these things. Um, but like the old sort of stage lighting that had the flaps around the edges of a—around the four sides of the light, do you know what I mean?
+AUSTIN: It’s a weird place. It’s called- it’s called th- it was called the Umbra. So, you know, weird stuff happens
 
 
-KEITH: Oh! Yeah, I know what you’re talking about, yeah.
+JACK: Yeah, yeah, yeah..
 
 
-AUSTIN: Someone told me the correct name for this and now I don’t remember. And I, you know—PAR, P-A-R lighting. 
+AUSTIN (crosstalk): And that is a- that is this dark spot. It’s like a circular dark spot on the planet that is from where the Votition cast its shadow. And the reason the planet is named Moonlock is you've- mentioned to me is.. It doesn’t rotate. It is  tightly locked with Volition at the center of the- of the- the- the system.
 
 
-JACK: Parabolic aluminized reflector.
+JACK: What we’re calling this? Is it the system?
 
 
-AUSTIN: There it is. You know what I like about that is, it could be also short for parabolic, but it’s not. 
+AUSTIN: It’s the Quire system, yeah.
 
 
-JACK: No, no [chuckles].
+JACK: Yeah.
 
 
-AUSTIN: Yeah, that’s what it looks like. And so if you pull one of those up, you can see. And then, just like other than that, it’s lots of hard metal that has—it’s a humanoid body with those same sorts of flaps that are around their heads, their head is just one of those big PAR lights. And then on top of having the flaps there, their shoulder armor—you can see the joint behind a plate of this extra flapped metal that comes straight up over, it’s like not round and it’s not covering anything. There are rounded joints and stuff ‘cause it moves around like a person does, so there are ball joints, but it’s a lot of excess metal on hard edges going up around like the shoulder, the knee, you know, it’s almost as if there is an extended plate coming out, like an extended coverage, an extended piece of armor. 
+AUSTIN: I’m also calling it like, the eight idylls [first syllable rhymes with eyed]? Or the nine idylls [eyed]?
 
 
-So your eye spots that, Gig, and either you can pull back from this and try a different way to get in, at which point you’d still be Controlled, or you can move to Risky because you will have been spotted here. I’m gonna mark one thing in this pie, which is about your progress in getting what you need here. This clock. 
+JACK: Like idols like I-D-O-L-S?
 
 
-KEITH: So the—
+AUSTIN: No, like I-D-Y-L-L-S. Idylls [first syllable rhymes with id][a][b][c]?
 
 
-AUSTIN: The consequence is that you will be in a Risky position if you continue this line—this pathway of trying to get in. Because it will see you if you don’t leave right this second. 
+JACK: Oh, idylls [id]?
 
 
-KEITH: Okay, I’m gone. I’m out.
+AUSTIN: I’ve never- I’ve never know how to say that word. I’ve never [Austin stutters] The thing is I would say ‘idyllic’ [eyed]. You say idyllic [id]?
 
 
-AUSTIN: “You” being your eye. It will recognize your eye, not you Gig. 
+JACK: [pause] You do say idyllic [id], yeah. I say idyllic [id]
 
 
-KEITH: Yeah. 
+AUSTIN (over Jack): Do you? I’ve always said idyllic [eyed]
 
 
-AUSTIN: So, what do you do?
+JACK (over Austin): Well, I mean- [chuckling] We-we do have different accents.
 
 
-KEITH: I’m out, I go back.
+AUSTIN (laughing): We do have different accents.
 
 
-AUSTIN: Alright, so you “brbttt”, and you back back out?
+JACK (over Austin): Also- We should also bring up that if- if one thing is that Friends at the Table likes is bureaucracy, another thing it likes is homophones.
 
 
-[Ali laughs]
+AUSTIN (laughing): Yes. it’s true. A hundred percent. [Jack laughs] So. Yeah, I’ve been calling it in my notes either the Quire system [typing sounds] the… the eight idylls [eyed] the i- the eight idylls [id] depending on where you’re from in the world. 
 
 
-KEITH: Yeah.
+JACK: What if we call it ‘idylls’ [first syllable rhymes with e]. Like Ibex [e-bex]
 
 
-AUSTIN: Okay. Alright. So now you know that there is—again, you caught one Torch unit for sure and then a couple of other humanoid bodies.
+AUSTIN: Like Ibex, yeah, exactly. No [Austin laughs] So that’s- that’s the… that’s what I’ve been calling it.. But like I think most, like, paperwork would say the Quire system. You know?
 
 
-KEITH: Okay.
+JACK: Yeah
 
 
-AUSTIN: So what do y’all do?
+AUSTIN: So yeah, those- that’s basically what’s happening on Moonlock. And I kinda just want to zoom in and like, we’ll get the vignette for Fourteen Fifteen. Like, I imagine- like you said you have a house? You probably still have the- The World Without End? Somewhere? [Jack hums] In a garage or something? Or a hangar?
 
 
-        KEITH (as Gig): There’s robots in there, so it’s not empty.
+JACK (over Austin); Yeah.. So I- I think The World Without End is- is.. Oh no. I don’t think it’s in a garage or a hangar. I think it’s parked behind the house.
 
 
-        ALI (as Tender): Robots? Just—like, multiple?
+[0:35:00]
 
 
-        KEITH (as Gig): Yep. Well, I saw one definitely. 
+AUSTIN (laughing): Okay. Good. It’s like an old boat. It’s like, literally is the old boat parked behind the house. 
 
 
-        ALI (as Tender): So one robot?
+JACK: Yeah. It’s like- No one knew whether or not-
 
 
-KEITH (as Gig): And then—there’s probably some more. I saw the suggestion. It’s sort of ethereal—other—ethereal robots. But one for sure. 
+AUSTIN (over Jack): What color? In my mind it’s gold. Is it gold? Am I misremembering that?
 
 
-ALI (as Tender): [sighs] Okay. 
+JACK: I think it’s- it’s- it’s- It’s like umm… It’s not like gold gold? It’s like… Like burnished gold? Or like..
 
 
-KEITH (as Gig): Sooo.
+AUSTIN (over Jack): Yeah, yeah, yeah.
 
 
-JACK (as Fourteen): I—I—[sighs]. What was the inside of the room like? What’s in there?
+JACK: No, like ta- like tarnished?
 
 
-KEITH (as Gig): Um, it was about the size of a bedroom. If you’ve ever seen a bedroom. 
+AUSTIN: Yeah.
 
 
-AUSTIN: No, wait, no.
+JACK: And it has like- it has the ship's name written along the length of it?
 
 
-[Ali laughs loudly]
+AUSTIN: Yes. That I remember. That part I’ve got. Yeah.
 
 
-AUSTIN: Each of the labs was the size of a bedroom. The whole thing was the size of a car dealership lobby.
+JACK: And we didn’t know if it could land on the surface. Cause if you remember like, these things don’t dock by landing, 
 
 
-KEITH: Oh, okay. I thought—I’m sorry, I thought—
+AUSTIN (chuckling): Right, right.
 
 
-AUSTIN: There were like six. No, yeah yeah yeah. 
+JACK: like vertically they go into these little.. Holes. 
 
 
-KEITH: I thought I was being asked specifically about the one room. 
+AUSTIN (over Jack): Right
 
 
-AUSTIN: Oh, okay. 
+JACK: But it can. It has landing gear.
 
 
-KEITH: Okay.
+AUSTIN (over Jack): It can. Yeah. Aha.
 
 
-        KEITH (as Gig): Was it—do you mean just the one room or the whole thing?
+JACK: When it rains the ship gets wet and Fourteen, like, pulls on boots and goes outside and tries to drag a cover over like, the engine block?
 
 
-        JACK (as Fourteen): Just tell me what’s inside the—[laughs]
+AUSTIN (over Jack, amused): Aha?
 
 
-        ALI (as Tender): Wait, how many rooms?
+JACK: Cause the- there’s nothing big enough to cover all of it and like, in- on very hot days it steams and like, sometimes parts pop off it… But it’s not like a derelict? The ship works, Fourteen uses it but also I- I don’t have a garage or a dock I have like, a house.
 
 
-        JACK (as Fourteen): Yeah. 
+AUSTIN (amused): Aha?
 
 
-KEITH: There are six rooms, each one about the size of a regular bedroom. And the whole thing was about the size of a...car dealership [laughs].
+JACK: And I have an outhouse. And I have like a massive [pause] fishing ship
 
 
-[Austin, Jack, and Ali laugh] 
+AUSTIN (laughing): And that is it. Yeah. So let’s actually… So you’re not there today. Where you are is.. You are in the zone that is… [murmuring] I’m gonna just… open up a new page in Roll20 real quick. [Jack hums] Wait, is anything on this? Can I draw on this?
 
 
-AUSTIN: You know, like a car dealership.
+JACK: This page is just bad memories Austin.
 
 
-KEITH: Yeah.
+AUSTIN: I’m gonna move this off of this. So- so that was not even your bad memories. That’s like, somebody else’s, right?
 
 
-ART: Ohhh, a car dealership. 
+JACK (over Austin): No, it’s unique- it’s uniquely different bad memories
 
+
+AUSTIN: This is also bad memories, this is Contrition’s Figure. The map for Contrition’s Figure.
+
+
+JACK: Oh my god, it is!
+
+
+AUSTIN (overlapping with Jack): I’m gonna add to it. I’m gonna add to it real quick. So [pause] I’m gonna draw some shapes here… That’s not right. There we go. There's a circle. So let’s call that Moonlock. Let's call... This section that I’m adding. So I’ve dra- I’ve drawn a circle on the- on the map?
+
+
+JACK: Mhm
+
+
+AUSTIN: I’m now adding the Umbra… Right in the middle there. Near the middle there. It’s almost like an eye. And then Concrete Town is… let’s say… here? It’s probably very small? It’s not that small but there? You see the gray mark I’ve made? Where you are today… So I’ve made a- kind of a circle. On the top right light, li- like 2 o’clock there’s little gray square? Which is where Concrete Town is. The center of it almost like iris in an eyeball. An iris? Is that right? I always get my-
+
+
+JACK: I think so, yeah.
+
+
+AUSTIN: Yeah.
+
+
+JACK: A pupil. A pupil.
+
+
+AUSTIN: A pupil. A pupil. Sorry. Iris is like, the color part, right?
+
+
+JACK: Yeah
+
+
+AUSTIN: Ok. I don’t know my eye terms. Like, a pupil is this- is the Umbra. And then, [Austin sighs] kind of equal distance between the two.. is where you are. And I- I want to know how you get there. It’s a- it’s a- it’s a big farming [pause] establishment. A- a big farm. Like, industrial farm that has a lot of robotic- Like, purely synthetic. Not- non sapient workers? But also just has like a little house attached to it? Nearby? And I think that the- the sunlight is kind of filtering through the clouds… I mean obviously it’s the Twilight Mirage so it’s always sunset here? Right? [Jack hums] But we get this like, it’s a very hazy orange light today. And you can’t even.. I mean. You can never place the sun anymore. There’s no more sun. Volition is at the center of the system, right? But the system is still colored. It still has its own internal brightness because of the way the Mirage works. And so that’s like a weird thing, right? [Austin laughs]
+
+
+JACK: Yeah.
+
+
+AUSTIN: Like you can see other planets in the sky. You can see other planets but you can’t find a sun ever. And so.. You get this- this image of this little house in front and what you know is… Someone from Concrete Town has shown up and has told the person who runs this place that like, it’s time for some eminent domain. And we own this now. [Jack hums] And you are keyed in enough to know that this is a… This is a- people has been waiting for this case to happen for a while? There were… There were agreements made? Between the New Earth Hegemony and the Concrete Town Particulars. That gave them the right, on paper, to… Basically… I don’t know. Let’s just get into it. There- there- you know that there’s some weirdness and you know that at some point which might have come up. I don’t know if you know more than that. Like, I don’t know if you know more [Jack laughs] than what was in the paper which was: The agreement with Concrete Town Particulars makes it hypothetically possible [pause] that they could take the l- they could take land from somebody. [Jack hums] So how you get out there?
+
+
+JACK: Umm… I- I keep picturing a horse but I don’t think it’s the horse, cause this is the Twilight Mirage.
+
+
+AUSTIN: Yeah. You don’t- you don’t have- you don’t- you’re not taking Gig’s... horse, right? You’re not just-
+
+
+JACK (over Austin): No, no
+
+
+AUSTIN: Yeah, okay.
+
+
+JACK: Um. [pause] So I- I don’t know whether or not it’s a- [Jack laughs] I don’t know is weather or not it’s a rob- it’s a robotic method of transport? Or if it’s like a- like a mount. If it’s like, a l- living thing.
+
+
+AUSTIN: Right… But you’re definitely think you are on the outside of a thing. You're not in a car. You’re not in like a buggy.
+
+
+JACK: No, no, no. I think it’s a [long pause] [Jack laughs] 
+
+
+[0:40:00]
+
+
+JACK: It might be a bird of some kind. [AUSTIN: Oooo] Like a- like a walking bird.
+
+
+AUSTIN: Okay. Like some sort of weird ostrich situation.
+
+
+JACK: Yeah! But rather that it being like… rather than it being like twitchy, like a- like an ostrich is, it’s like- it’s like focused [Austin hums] like a- like a horse is.
+
+
+AUSTIN: Right. Does it have a big neck? Or is it different sort of bird situa- is it like the - is it just like a big chick? Like, is it like- you know that i mean?
+
+
+JACK: I think it has a- I think it has a- I think it has a big neck?
+
+
+AUSTIN: Okay. Like a tall neck. A long thin neck.
+
+
+JACK (over Austin): Yeah. Like- like a- like a- like a long thin neck. And I don’t think that this is Fourteen has just gone like “I will ride that” [Austin laughs loudly] I think these things.. [Jack chuckles] I think this is the thing you would like buy.
+
+
+AUSTIN (over Jack): This is the thing that is gone out here.
+
+
+JACK and AUSTIN (at the same time): Yeah
+
+
+AUSTIN: [weird bird… noise] It like squawks. It does a whole thing. Yeah. [pause] So as you arrive you see… there’s a- a figure.. In- next to a- like a- sort of hover vehicle? That’s been parked out front? It’s like a- I’m picturing it as a very boxy, almost like a- a boxy truck that has like a flatbed in the back and doesn't have a- it doesn't have a- there’s no roof on the front, right? So it’s like- it’s like a two seater truck almost that has a big flatbed in it that has like, you can- as you pull up you can see a.. As you pull up in your bird you can see inside of it it has like a- it has kind of a concrete [Austin hesitates] bags. Right? It has like bags of cement and-
+
+
+JACK: Yeah
+
+
+AUSTIN: And, you know, buckets- you know, not buckets but containers of water and other chemicals and stuff and you can see there's like a bumper sticker basically that identifies this thing as being part of the Concrete Town Particulars. And there is a person there sitting on the- like leaning on the side of this truck with red and orange armour. They have a gas mask on? It’s like- not a gas- it's actually a helmet- like, it looks like a gas mask at first cause it has those big filters on but when you get closer you can see it’s like, it's a full helmet that also has has these gas mask style filters? And every, like, 30 seconds or so the filters open and it’s a vent and it vents out air. It never like, there's no like [sound of air being inhaled] suck in, there’s only ever this exterior vent.
+
+
+JACK: Hmm..
+
+
+AUSTIN: And this person has a large pistol [Austin laughs nervously] that has this clear delineation between the grip and the receiver and the slide and the barrel as if the slide- like the top of the pistol is a separate thing that you could remove and replace? And this is like a type of thing that military and other kind of armed.. People who- people who are not only.. do violence but who are well resourced? Have access to- very few people has access to this? Which means that not only does this person- not only is this person in the Concrete Town Irreg- Particulars, but they are also clearly high rank, because regular like, Joe Schmoes[d][e] in that- in that militia don’t get that sort of weapon, you know? What them mostly have are there big concrete bats. That they like carry over their shoulders and- and, you know. Threaten people with. And that also, reportedly have the ability to.. Fight things that shouldn't be. Creatures on Quire that resist other sorts of- of attacks,
+
+
+JACK: Ooh!
+
+
+AUSTIN: Axioms. People who can do things- can do uncanny ability, who can do uncanny things. You know. You hear a rumor of a traveling martial artists, who can flow in the air. One hit from this thing, they can’t float anymore. And that's what these people are. They are like.. They hunt the weird. [Jack humms] They settle it. They settle it literally with concrete. And so you have this person who is just like [Austin laughs] sitting there, across their arm there are like 10 more of the tops of those pistols strapped in various places. Like, almost- almost like with a… with like a sort of velcro-like material? Or like it’s- or maybe it’s magnetic? You're not sure, but there’s like attached across- across their armour where they can like reach up and grab it. And they're just leaning on this truck. And your business- you were not called in by this person. You were called in by whoever runs this place.
+
+
+JACK (over Austin): Yeah, yeah, yeah..
+
+
+AUSTIN: And you can see a sign. There's probably like a wooden sign out front that has been placed in the ground and has been like, slavishly painted and designed and it says “Sunlight Farms” comma “Moonlock”. [Jack laughs] There are no Sunlight Farms on any other planets as far as you know. But, you know. It's good to have ambition.
+
+
+JACK: That's aspirational, yeah.
+
+
+AUSTIN: Yeah, exactly. What do you do?
+Jack: Aaah, so.. [pause] You know. I ride up to a- a small distance away, sort of 10-15 feet and I get off the- the bird. And.. You know, I walk forward but not like, not hurriedly.
+
+
+[0:45:00]
+
+
+AUSTIN: Mhm.
+
+
+JACK: And I call out and I say:
+
+
+JACK (as Fourteen): You came armed then?
+
+
+AUSTIN: Just the nod.
+
+
+JACK (as Fourteen): You expect this is gonna go south?
+
+
+AUSTIN (as stranger): Depends.
+
+
+JACK (as Fourteen): Yeah?
+
+
+AUSTIN (as stranger): Could go.. One of two ways. We have the-
+
+
+JACK (as Fourteen, over stranger): Is this the-
+
+
+AUSTIN (as stranger): We have right to this place. You go inside. [gas mask exhale] You go inside and you tell him we have right to this place.
+
+
+JACK (as Fourteen): Well, I wasn't called here by you. 
+
+
+[pause]
+
+
+AUSTIN (as stranger): Well, I’m here.
+
+
+[pause]
+
+
+JACK (as Fourteen): Okay.
+
+
+JACK: And I walk past this figure up towards the- the front door of- of.. Is it “Sunlight”? Or “Sunshine”
+
+
+AUSTIN: “Sunlight”
+
+
+JACK: Sunlight Farms. 
+
+
+AUSTIN (as stranger): 8 minutes.
+
+
+JACK (as Fourteen): I have 8 minutes?
+
+
+AUSTIN: And he nods.
+
+
+JACK (as Fourteen): Oh, we’ll be done in 8 minutes.
+
+
+AUSTIN (as stranger): The law goes into effect. 8 minutes.
+
+
+[pause]
+
+
+JACK (as Fourteen): Okay. I’ll keep that in mind. 
+
+
+JACK: And I knock on the door.
+
+
+AUSTIN (as the farmer): I told you to leave!
+
+
+jack (as fourteen): No no, no. I’m [Farmer: I to-] Fourteen Fifteen. I’m the lawyer?
+
+
+AUSTIN (as the farmer): Ohh [stressed sigh] Wha- How do I know? How do I- how do I know?
+
+
+AUSTIN: And he peeks out from the side of a window. It’s a- it’s a- it’s a… like a.. guy with a- kind of an asian guy who has on… I don’t know, what the farmers wear in- on Moonlock? [Austin laughs] What does industrial farmers wear?
+
+
+JACK: What’s he farming?
+
+
+AUSTIN: Um, so he was farming a mix of things. He is farming.. jelly fruit? Which we know is a [Austin laughs] a delicious Quire delicacy.
+
+
+JACK (overlapping): Oh yeah! It’s a- [Jack laughs] I’ve forgotten about that!
+
+
+AUSTIN: Aha, and we know.. He is also farming like.. Beans? And.. it’s like lots of- it’s lots of protein. Because animals often get eaten by wild animal- by other wild animals here? [Jack laughs] Or the world changes and kills them!
+
+
+JACK (with amused tone): Oh, so you just- you come out one day and you’re like, ah, they died. 
+
+
+AUSTIN: Yeah, exactly. Or they’re just gone? Or they’re just inside of a- they’re on top of a weird arch that showed up? Or they’re in a cave that wasn’t there a day before?
+
+
+JACK: Oh… God..
+
+
+AUSTIN: So yeah. And you can see that his farm is built- his farm- but his farm is his farm. His farm is like, not changing. He is probably in his thirties? I’d say?
+
+
+[pause[
+
+
+JACK (as Fourteen): Uh.. Look sir, we don't have a lot of time. Here’s the letter you sent me?
+
+
+AUSTIN (as the farmer): Mhm
+
+
+JACK: And I like, pull it out from like, a pocket.
+
+
+AUSTIN (as the farmer): Okay [stutters] C-come on in. Cone on in. [pause] [farmer sighs] My name’s Dusty, it’s- thank you so much for coming out. [sighs again]
+
+
+JACK (as Fourteen): Any time. Ah.. the man outs-
+
+
+AUSTIN (as Dusty, cutting Fourteen off): This man is terrorising me! And he is saying that there’s some law that says he could take this back and that’s not fair.. This is my.. It says it out front. “Sunlight”, Dusty Sunlight farms. That’s me.
+
+
+JACK (as Fourteen): That is- that is- that is the case. And I’m gonna try to make sure it doesn’t happen. Um.. He says- has he told you? Eight minutes until the law goes into effect.
+
+
+AUSTIN (as Dusty): Hey! He told me ten minutes two minutes ago.
+
+
+[long pause]
+
+
+ AUSTIN (as Dusty): Wait, no.
+
+
+JACK (as Fourteen): Right.
+
+
+AUSTIN (as Dusty): Yeah, that’s [laughs]
+
+
+JACK (as Fourteen): Right. Yeah.
+
+
+AUSTIN (as Dusty): Okay.
+
+
+JACK (as Fourteen): So.. Do you have any deeds to the- deeds to the property?
+
+
+AUSTIN (as Dusty): Of course! O-of course. C-come with me.
+
+
+AUSTIN: And he lea-lea-- and he leads you to an office room. And like you just like get to piece together some of his life as you walk through which is like, he is from Earth. 
+
+
+JACK: Oh, wow.
+
+
+AUSTIN: There are like pictures of him with his family, in front of the- the giant.. Um, I mentioned this briefly in a previous episode that earth is in the middle of building a dyson sphere around the entire Earth's system? This like, massive, um.. metallic structure that will inclose not just Earth but also all of the other planets at the center of the core of the universe?
+
+
+JACK (laughing): Oh my god..
+
+
+AUSTIN: And so it’s like, it’s him and his- and his like- it’s him at sixteen with his- with his parents like, giving him thumbs up, and- and like, in a space station behind him you can see the like, one tenth finished dyson sphere around it. Um.. There’s the- you know, there’s pictures of- of him with like, at prom with his boyfriend, there’s like pictures of him in school, there’s pictures of him in military service. He like, he did like very basic military service for Earth. And then there’s like a lots of pictures of him with animals and with.. Agriculture equipment. He went to like- he went to like an agricultural school, you know? He has a degree in agriculture. I guess maybe that’s even what he was doing with the military. Was like, figuring out supply chain stuff, you know, doing experiments on, you know, new types of- of grains, space grains, et cetera. And so you get that. And like, you know, his- he came here as- as.. Sunlight’s Dusk. Or sorry, Sunlight’s Dust. But he has since, as many- as many colonists from Earth have adopted the more Twilight Mirage style name. Of just like, their name? [Austin laughts]
+
+
+[0:50:05]
+
+
+JACK: Yeah
+
+
+AUSTIN: So he’s Dusty Sunlight now, and calls his farms-
+
+
+JACK (overlapping Austin): So he came- He came over on the.. Like, unpredictable [AUSTIN: Yeah] sleep detachment?
+
+
+AUSTIN: Well no, he, so..
+
+
+JACK: Like the huge one that showed up.
+
+
+AUSTIN: No, there’ve been more. That’s the thing.
+
+
+JACK (laughing): Oh, really..
+
+
+AUSTIN: Time has been weird? People keep showing up from earth. [Jack hums] And, they always are further apart than they should be. So like. It’s like what if umm [Austin laughs] It’s like what if the colonists arrived to Earth from the future? Like what if they showed up and before they got here they were from 23000 and then they got here and it was only 2017.
+
+
+JACK (laughing): Right.
+
+
+AUSTIN: And then- and then a- and then two weeks later more showed up? And they're from 26000? Um.. and it’s like, oh, well. Y'all don’t even, like… [confused noises] You're that person’s great-great-grandfather and you're both here and that’s super wierd!
+
+
+JACK: Yeah.
+
+
+AUSTIN: Um.. And so that keeps happening. So he’s on one of these, like, colony- colonist, uh, sleep attachments. So..
+
+
+JACK (as Fourteen): You managed to build this place up pretty quickly, huh?
+
+AUSTIN (as Dusty): Yea… It’s my life’s work. I… I’ve always dreamed of having my own farm on the range and I care about it. I- You know, I- [pause] Anyway here is the deed.
+
+
+AUSTIN: And he shows you. He has a deed. He has a bunch of paperwork on from of him. He’s just bunch of paperwork in from of him! That’s like, what he has [JACK: Oh- Okay, yeah] um, and one of them is clearly a deed but there’s like, it’s stapled to something? It’s- there’s a bunch of attached paperwork that is like, attached by a paperclip. There’s definitely a missing page. And his office is just like covered in paperwork and in… [Jack’s tired sigh] You know, it’s- it’s not an unfamiliar sight for you.
+
+
+JACK: No, and especially because he’s- he’s
+
+
+JACK (as Fourteen): Have you been looking for this all day?
+
+
+AUSTIN (as Dusty): I’ve been looking for- for… yeah. It’s- [sigh] You know, honest truth. [looking for words] They’ve sent me a letter a month ago and they said they were gonna come take it and that’s why I got in touch with you because I thought, well, if someone‘s gonna come take it I gotta have something that says, someone who says I’m with the law and I can say you can’t take it.
+
+
+JACK (as Fourteen): We’re not gonna let that happen. Um
+
+
+JACK: When we see this. Is the deed, like, is the deed in his name?
+
+
+AUSTIN: Do you wanna- do you wanna- sounds to me like you’re trying to do a thing.
+
+
+JACK: Yeah, I think I’m- I think I’m trying [humor in Jack’s voice] to do a law roll.
+
+
+AUSTIN: Yeah, so I don’t think that this is.. Um… I don’t think that this is like, an action roll. Because an action roll takes place when you do something potentially tro- dangerous or troublesome?
+
+
+JACK: Yeah
+
+
+AUSTIN: I think that this is a fortune roll. Which means that we’re just gonna have you roll the dice… um.. According to one of your stats.
+
+
+JACK (crosstalk): Is it one d6 or.. Two d6?
+
+
+AUSTIN (overlapping Jack): No, it’s actually gonna still- we’re gonna use your study. So what is your- what is your study? [JACK: Um, so my s-] It might be a one d6. [both chuckle]
+
+JACK: My study is… One.
+
+
+AUSTIN: Okay, so ye, so you’ll do a one d6. Unless you have any other moves or any abilities that would help you with this.
+
+
+JACK: Um… I mean, I- I can… I always know when someone is lying to me?
+
+
+AUSTIN: He is not… lying… [Austin makes a doubtful thinking noise] There’s a little bit of- there is- there is… [pause] Depends on what we mean by lie. And I think that’s how it feels. Do you know what I mean?
+
+
+JACK: Yeah. Yeah, like I’m able to…
+
+
+AUSTIN (overlapping Jack): He’s not like, actively deceiving you but he definitely is.. Mis- he is definitely not being completely truthful about the situation.
+
+
+JACK: Yeah. [pause] Right, let’s see. Oh my god.
+
+
+AUSTIN: You rolled a 2 which is bad.
+
+
+JACK: Yeah, off to a great start of Scum & Villainy.
+
+
+AUSTIN (laughing, overlapping Jack): That’s a bad result. Um, so the- I mean, here’s a thing you learn from this is… You know the thing that you were hoping to find. Maybe this is one of the truths you’ve learned about the law. Is, it’s never about the truth. It’s about what sort of argument you can make, right? [Jack hums] The law.. The law is a c- a collection of… The law is analog. The law is not binary. The law has a bunch of various settings, It has a bunch of various positions and being legal aid, being an ad [f][g]hoc lawyer, being a mediator means arranging those things so that you can produce a good outcome. [pause] it is not about the truth.
+
+
+JACK: Yeah.
+
+
+AUSTIN: Often the case that you can see, uh… a large animal that you know is a bird but you could make a legal case that it’s a horse.
+
+
+JACK: Right.
+
+
+AUSTIN And get the protections that horses have according to the law. Based on [jack laughs] clever argumentation. Unfortunately there's no argument here, Fourteen Fifteen. Um.. What this man did was sign an agreement when he first arrived to have a plot of settled land provided by the Concrete Town Particulars… that was part of at the time a loan that, ah.. was arranged by the- the New Earth Hegemony that was like a 20 year loan that he could pay back. 
+
+
+[0:54:55]
+
+
+AUSTIN: After the Concrete Town Particulars did a few- gained status is what I’ll say. They… gained status and after the New Earth Hegemony decided that they wanted to kind of divest from Moonlock? They bought a bunch of those loans. [Jack hums with understanding] On the cheap. And were able to change the… the conditions of the loan? So that is payments started to be missed there was no recourse. There was no going into forbearance or there was no sort of like, um.. Flexibility? If you missed the payment they could come in and collect. The land back. And that what's happening. He’s missed some payments. Not- a year's worth, you know, he hasn't even been here a year [Austin chuckles nervously, Jack hums] but he’s not- things aren't going great quite yet. He thought a lot of people would come to Moonlock. Moonlock’s a pretty name.
+
+
+JACK: [long exhale] It’s very near the Umbra.
+
+
+AUSTIN: Yeah… It’s cheap.
+
+
+JACK (as Fourteen): Okay. Allright. The news isn’t good.
+
+
+AUSTIN (as Dusty): Ho.. What do you mean?
+
+
+JACK (as Fourteen): Well, this piece of paper… This piece of paper says they own it.
+
+
+AUSTIN (as Dusty): But- I-I designed those- those- those robe that’s out there? I b- I helped build the- the whole structure… [his voice breaks a little at the end] I’ve been here for months trying to get [searching for words] put one and one together to get two and now they're saying that no matter how many ones I add it’s still gonna be zero.
+
+
+JACK (as Fourteen): Yeah. And they're saying it with this piece of paper. Um.. I was hoping that there’d be something here that I could, you know, I could take out and I could- show that man outside. But I don’t this that’s gonna be able to works like that. Y- you missed payments. That’s why it’s- that’s why default-
+
+
+AUSTIN (as Dusty, distressed): Wha- how was I supposed to- [looking for words] The harvest only just hit.
+
+
+JACK (as Fourteen): Oh..
+
+
+AUSTIN (as Dusty): And I shipped out the things and the money ain’t showed up yet. I haven’t had a- [breath] I haven’t had a [says ‘a’ a lot] a payment in in just as long. How was that my fault. My- I’m trying to cut people some slack.
+
+
+JACK (as Fourteen, over Dusty): So you shipped-
+
+
+AUSTIN (as Dusty, sad): I just want some jelly fruit.
+
+
+JACK (as Fourteen): It’s great. It’s- it’s- You- you make that stuff?
+
+
+AUSTIN (as Dusty): Yeah..
+
+
+JACK (as Fourteen): That stuff’s really good. Um..
+
+
+AUSTIN (as Dusty): Thank you. It- it’s- nothing- there’s nothing like it back on Earth. There’s nothing like any of this, all the open space. It’s beautiful, here, I just want to be a farmer.
+
+
+JACK (as Fourteen): [inhale] [exhale] So you sent the goods off. You- you sent them away…
+
+
+AUSTIN (as Dusty): And then they- it’s a net 30, do you know what a net 30 is? Did you go to the business school? 
+
+
+JACK (as Fourteen): I- no, I did not.
+
+
+AUSTIN (as Dusty, overlapping Fourteen): Did you take any business courses when you were doing the law? Okay. So net 30 means they get the shipment and then they have 30 days to pay it back. Today is day 37. [panicked] That money didn’t show up! And then I also have second client who- had- they- they’re a bigger client so they have a net 60 and they’re on a day 72!
+
+
+JACK (as Fourteen): [long sigh] And you have a receipt? Do you have a receipt for this?
+
+
+AUSTIN: Yeah, he has a drawer. And he like, again, shows you all the paperwork. He- he’s not telling- He’s not telling a lie here, like, [JACK: Yeah] the thing he’s done is what they will not do. Which is.. Everybody’s struggling. And he’s cutting people come fucking slacks. [JACK: Yeah] And he shouldn’t be. Because there isn’t- or, well, like, he- what can he do? He doesn’t have a group- He doesn’t have someone with a big concrete baseball bat to go collect for him.
+
+
+JACK: Yeah. Or- or worse still, these automated weapons.
+
+
+AUSTIN: Right, right, yeah.
+
+
+JACK: Um, d-does this 8 minute land transfer thing, have I encountered it before?
+
+
+AUSTIN: This is like the… this is the thing, right? This is like-
+
+
+JACK (cutting Austin off): The working method, they roll up and the clock starts?
+
+AUSTIN: No, no no. This is the... this is the example. This is the one that you've been waiting to see if it would happen. Like, this is the one that people said could happen based on the excha- the buying of the loans by the Particulars. Someone in a newspaper somewhere said like, now, of course, this means that we’re moving into a world where the particulars could go start, you know, foreclosing on- on property that other people own. But that will never happen, you know? This is the first case of it happening. And could set the tone going forward. Um.. so like the 8 minutes is literally, that law goes into effect in 8 minutes or now probably 3 minutes, right?
+
+
+JACK: Yeah. [pause] [Jack laughs] Oh no… I think I have a hail mary but I d… 
 
 AUSTIN: Uh-huh.
 
 
-KEITH: Yeah.
+JACK (as Fourteen): I have… uh.. Okay. Wait here. Don’t come outside. Whatever you do don't come outside? Okay?
 
 
-[Ali keeps laughing]
+AUSTIN (as Dusty): [stuttering and searching for words] Okay.
 
 
-JACK: And there’s a—
+JACK (as Fourteen): I’m not gonna- Don’t worry. I’m gonna try and- [pause] Look. I can’t promise- I can’t promise this is gonna work. That’s the- that I’m gonna.. give it a shot.
 
 
-KEITH: [laughing] You know in movies, from those old movies, car dealerships.
+AUSTIN (as Dusty, meekly): O-okay. Thank you.
 
 
-ART: Yeah, car dealership movies that we all watch all the time. 
+JACK (as Fourteen): I need the receipt and I need the deed.
 
 
-[Austin laughs]
+[1:00:00]
 
 
-        JACK (as Fourteen): It’s a—what sort of a robot?
+AUSTIN: He hands them over.
 
 
-KEITH: Umm—
-
-
-AUSTIN: You would know this as a Torch unit.  
-
-
-        KEITH (as Gig): This is a Torch unit. 
-
-
-        ALI (as Tender): Oh. 
-
-
-        JACK (as Fourteen): Okay. 
-
-
-AUSTIN: And you know that’s it’s a...white Torch unit, is I believe the color scheme that I cam up with, I need to check my notes.
-
-
-JACK: I just, like, look over at Tender.
-
-
-        ALI (as Tender): Well [sighs]. I mean—
-
-
-KEITH (as Gig): So, you guys know those robots best, should we just go in and take care of them, or...?
-
-
-ALI (as Tender): I mean, they can be taken care of.
-
-
-JACK (as Fourteen): They can be taken care of. It was white?
-
-
-KEITH (as Gig): It was white. Should they—
-
-
-AUSTIN: It was a person-sized one, it was like the type that you saw—the type that you fought. 
-
-
-JACK: Oh, it’s a person-sized one?
-
-
-ALI: Yeah, that’s the thing I would ask, I think. Is it one of the big ones?
-
-
-AUSTIN: No, it’s not a red Torch, it’s a white Torch. 
-
-
-ALI: Okay.
-
-
-AUSTIN: They come in different color sizes, it was the smaller—it was the person-sized one.
-
-
-ALI: I mean—
-
-
-KEITH (as Gig): Yeah, but so like, we can take care of them, should we take care of them? That’s what I mean, I guess.
-
-
-JACK (as Fourteen): Yes.
-
-
-ALI (as Tender): I mean, it matches the story we were told.
-
-
-JACK (as Fourteen): Yeah.
-
-
-ALI (as Tender): So we should look into this.
-
-
-KEITH: Yeah.
-
-
-JACK (as Fourteen): We should at least—
-
-
-ALI (as Tender): Did you look at the door? So we could open it?
-
-
-KEITH (as Gig): I mean, I was gonna get caught.  
-
-
-ALI (as Tender): [laughs] Okay.
-
-
-KEITH (as Gig): And so I backed out. I backed out. I figured, like, I should—before we get caught, I should check with you guys if getting caught is the right thing to do right now. 
-
-
-[Austin laughs]
-
-
-ALI (as Tender): Okay, does anyone know how to just pick a lock?
-
-
-KEITH (as Gig): I do. 
-
-
-JACK (as Fourteen): I have a hacking—oh.
-
-
-KEITH (as Gig): Oh, we both do. Okay.
-
-
-[Ali laughs]
-
-
-JACK: Keith, do you have a—
-
-
-KEITH: Yes. Let’s see...I have repair tools and spare parts. And also grew up on a ship that was all about taking things apart, including locks, so I figured that I would be pretty good with it. 
-
-
-AUSTIN: Yeah, you could totally—
-
-
-KEITH: I have two in Rig, and I imagine that unlocking a physical lock would be a Rig roll. 
-
-
-AUSTIN: Totally. Especially if you’re kneeling down and taking out a torch or something and beginning to weld through shit or whatever.
-
-
-KEITH: Yeah.
-
-
-AUSTIN: Yeah, absolutely.
-
-
-KEITH: Yeah.
-
-
-ALI (as Tender): Then by all means.
-
-
-KEITH (as Gig): [smugly] I’m, ah, yeah, I’m just kind of a pretty useful guy to have around, so.
-
-
-[Ali laughs]
-
-
-ALI (as Tender): I would make a red carpet for you if I felt like wasting the time, but could you open this door for me?
-
-
-[Austin, Jack, and Keith laugh] 
-
-
-        KEITH (as Gig): Um, yeah, I can do that.
-
-
-[Ali laughs]
-
-
-AUSTIN: Alright, that again seems like a Controlled Rig. Or, Controlled for sure if you’re using Rig. 
-
-
-KEITH: Controlled...Standard effect, or...?
-
-
-AUSTIN: Also Standard effect. Definitely Standard effect. 
-
-
-KEITH: ‘kay. ‘Cause Standard would just be unlocking the door. 
-
-
-AUSTIN: You’re just using your regular repair tools, right?
-
-
-KEITH: Yeah.
-
-
-AUSTIN: Okay. Yep.
-
-
-KEITH: And my know-how! 
-
-
-[Ali laughs]
-
-
-AUSTIN: Yep, that’s your skill. [Art laughs in the background] That’s the two points you have in Rig! And again, no one’s helping, right?
-
-
-KEITH: Yeah.
-
-
-ALI: Um—
-
-
-KEITH: I mean, Fourteen sounded like they had something.
-
-
-JACK: I, you know, I think that you're probably gonna be able to do this a lot better me given that the skills that I have that would let me do something like that don’t have any triangles. 
-
-
-[Austin laughs]
-
-
-KEITH: Right, okay, well then—
-
-
-AUSTIN: Again, as a reminder, the way that you can help people isn’t just about—it can be to roll dice, because you can set up somebody, you can set up a teammate, by rolling something and giving them greater effect on their roll. You could also just do the thing that is “assist a teammate” which is you take one stress and they get an extra die. Again, not encouraging that at this moment, but putting all the—making sure that everything is clear. 
-
-
-ALI: I don’t know that anybody needs to be stressed yet. 
-
-
-JACK: No, I think rather than—
-
-
-AUSTIN: Okay.
-
-
-JACK: I think “yet” is the operative word there. 
-
-
-AUSTIN: Yes, fair. Fair.
-
-
-KEITH: We’ll get there. 
-
-
-AUSTIN: Mm-hm. I believe it! 
-
-
-KEITH: Alright, there we go. That’s two fours. 
-
-
-AUSTIN: That’s a four. Okay. So, again, from a Controlled position you have a choice to make again. Um, so, and maybe this time it’s gonna be a little bit clearer, or it’s gonna be—so again, you hesitate. Withdraw and try a different approach, or else do it with a minor consequence. A minor complication occurs, you have reduced effect, you suffer lesser harm, or you end up in a Risky position. Um, the minor complication—I mean, it’s a minor complication and a Risky position is what’s coming out of this [Jack chuckles]. You like—You’re going to hit the wire. You see it happening, you’re like, “click click click click”, and you’re a sm—you’re not bad at this, like you know what you’re doing, so you’re gonna have the choice here. But it’s like either you cut through the alarm wire and it opens the door or you stop right this second and have to find another way. 
-
-
-KEITH: And I’m—I would roll again, but as Risky?
-
-
-AUSTIN: No, no. This wouldn’t—you could—or yes, you could roll again as Risky. That would—okay, so, I think it’s if you suc—if you go forward here, you’re in a Risky position going forward because the alarms are going off and that’s just gonna do that no matter what.  
-
-
-KEITH: Okay.
-
-
-AUSTIN: You could stop and go to a Risky position to do a different—to do a different type of roll. Or to—I guess to try this again. But at that point the riskiness is like, “Okay, you want to do this without hitting the alarm.” So yes, you could either go forward and be in a Risky position or—and like, the door is open—or open the door right now and immediately be in a Risky position because you opened the door and the alarms are going off. It’s about which fictional world you want to be in. Do you want to jump to Risky but the alarms aren’t going off or do you want the alarms to be off and now you’re immediately in a risky position?
-
-
-KEITH: Um, okay, so I got—
-
-
-AUSTIN: Also, I want to be clear, no one else here knows the thing you know, which is that there’s the alarm wire. You could just hit it and be like, “Oh, I guess there was an alarm wire.” [chuckles, Jack and Ali also chuckle] You’re the expert who’s doing the Rigging in this moment.
-
-
-KEITH: I have one question and it’s about the meaning of “off” in your explanation. 
-
-
-AUSTIN: Sure.
-
-
-KEITH: When I think of an alarm going off, I imagine it being activated, as in on.
-
-
-AUSTIN: Yeah, no, it would go “Brnn brrnnn brnnn”—everyone on this floor would—
-
-
-KEITH: But I’m also trying to turn the alarms off so that they don’t go off.  And I wanted to make sure that I knew—
-
-
-AUSTIN: Yeah—I gotcha.
-
-
-KEITH: Okay.
-
-
-AUSTIN: Yes. If that—that would be a different, to keep the—if you want to turn—you can’t turn off the alarms here. You could—you can’t turn off the alarms for the entire building here, or the entire floor here, right?
-
-
-KEITH: Yeah. 
-
-
-AUSTIN: You could snip the wire to keep this specific alarm from going off, or disengage the—whatever.
-
-
-KEITH: Right, okay, that’s what it was.
-
-
-AUSTIN: Yes.
-
-
-KEITH: I wasn’t sure if you were saying if I snipped it, it would keep it from going off or it would start going off.
-
-
-AUSTIN: You can—I’m just gonna be super plain—
-
-
-KEITH: I’m snipping it. I snipped it, I already snipped it.
-
-
-AUSTIN: —you can open the door now. Wait, wait, wait. 
-
-
-KEITH: Okay. 
-
-
-AUSTIN: ‘Cause I want to be clear. I don’t want you to commit to something and then want to walk it back. 
-
-
-KEITH: Okay.
-
-
-AUSTIN: You can open the door now, and the alarm will go off and you’ll be in a Risky position. Or you can roll again from a Risky position to keep the alarm from sounding. 
-
-
-KEITH: Okay.
-
-
-AUSTIN: And then that would—then you can open the door. 
-
-
-KEITH: And then—got it. I want to do that one. 
-
-
-AUSTIN: But regardless, you will be in a—okay. So then—
-
-
-KEITH: Yes, I want that second one
-
-
-AUSTIN: Go ahead and give me another roll, Risky Standard this time.
-
-
-KEITH: Risky—
-
-
-ALI: Is this something we can assist with now? 
-
-
-AUSTIN: Totally. Always. Tell me how.
-
-
-KEITH: Yeah.
-
-
-ALI: Um...I don’t know, I think that Gig pulling back and being, like, “Oh, there’s an alarm, I have to try this other technique,” or whatever, Tender might, like—I don’t know that, like, getting into a “get ready” position is going to help him if the alarm goes off—
-
-
-KEITH: I’ll get ready.
-
-
-ALI: [laughs] Exactly. Or if there’s a way that she could be like—oh, you know what it is? I think that she—I still have my cybereyes or whatever. 
-
-
-AUSTIN: Yes. 
-
-
-ALI: So I think that she turns on the forensic, or, like, whatever part of it.
-
-
-AUSTIN: Oh, sure, sure, sure.
-
-
-ALI: Where she could see the blueprint of whatever it is. 
-
-
-AUSTIN: Mm-hm.
-
-
-ALI: And is like, “You’re about to hit it, move—” It’s like they’re playing Operation together—
-
-
-AUSTIN: Yes.
-
-
-ALI: —and she can see the underside of the board.  
-
-
-AUSTIN: Totally with you.
-
-
-KEITH: Alright, deal, let’s do it! Six!
-
-
-AUSTIN: Alright! That’s a complete success. 
-
-
-JACK: Woah, that’s really good! 
-
-
-AUSTIN: First of all, your gambits go up from two to three because you rolled a six on a Risky roll. 
-
-
-ALI: Hey!
-
-
-AUSTIN: You do it, add a gambit to your crew as above. And, again, gambit points you can also spend for an extra die at any point. You just have to do it, to say that you’re doing it. I’m also not sharing them between the two sides of this game; the other side of this game has one gambit that they’ve not spent. You have three now. Alright, so—
-
-
-ART: What happens when we, like, shuffle?
-
-
-AUSTIN: Well, they’ll restart at the top of every job. They don’t—
-
-
-ART: Oh, right. 
-
-
-AUSTIN: They’re not banked forever.  
-
-
-ALI: Ohhh. Okay. 
-
-
-AUSTIN: So you’re good.
-
-
-ALI: You said we have three?
-
-
-ART: So we shouldn’t be precious with them. 
-
-
-AUSTIN: You started with two, and now you have three because Keith just rolled a six on a Risky roll. 
-
-
-ALI: Okay.
-
-
-AUSTIN: Awesome. So,  yeah, so with the aid of Tender’s cybereye you snip the wire, the alarm doesn’t go off, and the door slowly swings open. And you’re able to all sneak inside and get behind some desks and stuff to kind of, you know, check out the room. And you see there are three humanoid bodies standing around a workstation in the back left kind of glassed-in research lab. You also tell, the second you step inside all the sound here disappears and you don’t hear anything. It’s like—and it’s—the door, like, closes behind you.
-
-
-JACK: Ohhh. 
-
-
-ALI: Hmmm. 
-
-
-JACK: Okay, wait. There’s no sound?
-
-
-AUSTIN: There is no sound. It is an anechoic chamber in here now. Which is—
-
-
-JACK: And the figures are facing away from us?
-
-
-AUSTIN: They are literally looking down at a table or a workstation or something. So yeah, none of them see you. That doesn’t mean you won’t have to roll to get closer without being detected.
-
-
-JACK: [chuckles] Okay.
-
-
-AUSTIN: But in this moment I wanted to get you all in the room and now you’re, you know, you’re safe behind the desks. You’re hiding, there’s a reception desk that doesn’t have a—like, no one’s working here today except for them. And also they seem to have broken in here, so. So yeah.
-
-
-ALI: Oh. Are we getting the weird head-pressure-y plane thing?
-
-
-AUSTIN: Not yet, ‘cause it’s only been, like, thirty seconds. 
-
-
-ALI: Okay. Okay.
-
-
-JACK: Okay. Yeah, I’m gonna sort of look at Tender and gesture that we should move up the room. 
-
-
-AUSTIN: Okay. 
-
-
-ALI: Um, yeah, by all means. Do we wanna, like, plan out a—
-
-
-ART: Wait, counterpoint: what if we just had a shootout? 
-
-
-AUSTIN: You’re the only one with a gun, I think.
-
-
-ALI: Yeahh. 
-
-
-JACK: Yeah, I don’t have a gun—
-
-
-AUSTIN: Oh, no, well you do, but— 
-
-
-JACK: I don't want to have a—yeah.
-
-
-ALI: Let’s not go guns blazing.
-
-
-AUSTIN: None of y’all can talk to each other, how are you communicating this thing? Are you pointing at your gun?
-
-
-JACK: Just frantic hand signs. Just— 
-
-
-AUSTIN: [laughing] Yeah. 
-
-
-ALI: Yeah [laughs].
-
-
-JACK: Grand goes for his gun and Fourteen is just, like, shaking their head. 
-
-
-ALI: Yeah. Tender quickly does the ‘X’ sign with her arms. 
-
-
-ART: What if Grand just does that Kenny Omega pose? The like—
-
-
-AUSTIN: Uh-huh. 
-
-
-[Ali laughs loudly]
-
-
-JACK: Oh, I think what happens— 
-
-
-ART: Hand cocked, finger gun. 
-
-
-JACK: And then Fourteen actually says, “No!” and you can’t hear it—[laughs]
+JACK: Okay. And then we just get this like, exterior shot of the building. With this figure leaning on their truck..
 
 
 AUSTIN: Yeah.
 
 
-JACK: —you just see their lips move. 
+JACK: And then like, front door of the.. Thing opens slowly and Fourteen comes out and walks across the like, dirt, towards this figure.
 
 
-AUSTIN: Alright, well it sounds like, Fourteen, it sounds like you’re leading a group action. 
+AUSTIN: I think they like, stand up and put their like, concrete, like bat into the ground and like, push themselves up on it? You know what I mean?
 
 
-JACK: Mm, I would like to lead a group action, yeah! 
+JACK (as Fourteen): Okay. Here’s the deal. This document says that, by all accounts, in three minutes, this place should be yours.
 
 
-AUSTIN: So, when you lead a group action, you roll for every character who participates in the group action. 
+Austin (slowly): Nod.
 
 
-JACK: [slightly panicked] Ooh.
+JACK (as Fourteen): And you know why? It’s because [slight pause] you know, some shipment didn't come through. And [sigh] a payment wasn’t made and he couldn’t make the payment on to you. And there’s an argument I that I could make here. You know. That that jelly fruit is... going into, into your city? You know. Concrete Particulars’ [deep sigh] you know. They’re benefitting from what’s here but I don't think that argument's going to work.
 
 
-AUSTIN: Everybody does that. 
+AUSTIN: Shakes. Shakes his head.
 
 
-JACK: [relieved] Oh, okay.
+JACK (as Fourteen): What time did you wake up this morning?
 
 
-AUSTIN: The best single roll, the best roll, counts as the action result, which applies to every character that rolled but then you take one stress for any failed roll, Fourteen. 
+AUSTIN (as stranger): Six. Just like everybody else.
 
 
-JACK: Okay. Yeah, I’m up for that, ‘cause it’s on me.
+JACK (as Fourteen): You sure about that?
 
 
-AUSTIN: Everybody gets to roll. Yeah. So you’re sneaking up?
+AUSTIN: He nods. [Puhhh] and there’s this little expulsion of- of air. 
 
 
-JACK: Yeah, this is definitely Skulk. It’s like the skulkiest Skulk, I think. It’s literally, you know, Agent 47 moving from cupboard to desk to...bit behind a wall. 
+AUSTIN (as stranger): Six. We do things by the clock [Fourteen: Yeah..] in Concrete Town.
 
 
-AUSTIN: Right. Cool. Alright, so everyone should roll a Risky Standard Skulk. 
+JACK (as Fourteen): When you woke up was it light outside?
 
 
-JACK: Skulk. Risky…
+AUSTIN: Nods.
 
 
-ALI: Hmmm.
+JACK (as Fourteen): My alarm went up at six and.. it was dark. No sun to be seen.
+AUSTIN (as stranger): Let me tell you. About how things are.. In Concrete Town. Every clock is on time.
 
 
-AUSTIN: Also, I should note for people listening that this progress clock is at three out of six now. I’m gonna—
+JACK (as Fourteen): [inhale] This isn’t Concrete Town.
 
 
-JACK: Probably has something to do with the computer.
+AUSTIN (as stranger): Is that a threat? I’d like it if were a threat. [breathe in] [breath out]
 
 
-ALI: Oh no!
+JACK (as Fourteen): Okay. I’m gonna present you some alternatives here? [Austin laughs quietly] Eight minutes. Well, three minutes now.
 
 
-ART: Oh! 
+AUSTIN (as stranger): Two.
 
 
-AUSTIN: Ali. Ali. Ali rolled two ones. 
+JACK (as Fourteen, overlapping): But a... [a mix between laugh and sigh] Two minutes now. You're really certain that time is moving here in the way that you want it to be, right? But we could go in there together and.. I’m sure we could look at the clock that would say something completely different. And, you know. Clocks in Concrete Town run on time and, you know. You’ll say that this place will be Concrete Town soon but it isn’t yet. The second alternative is that this is a threat.
 
 
-KEITH: Are we—oh, that’s bad. Are we allowed to use gambits for these?
+AUSTIN: Sound like this- this sounds like a- a risky standard to me.
 
 
-AUSTIN: Totally. A hundred percent.
+JACK: Mhm. I love blades system!
 
 
-ALI: Oh, wow.
+AUSTIN (laughing): It’s so good Jack! I’m so happy to be back to this system
 
 
-KEITH: Okay. I’m gonna use one of those gambits to get an extra die. 
+JACK (overlapping with Austin) : I love that we can just direct action like this and then see what happens, it’s great.
 
 
-AUSTIN: Alright, dropping it down to two. That’s a—
+AUSTIN (overlapping with Jack): Yeah. It’s so good. So wha- So what do you... what do you rolling? [JACK (at the same time): I think this is--] I think it’s risky standard based on you’re rolling actually- what do you- what do you rolling?
 
 
-JACK: Austin, I can’t see the box filling up. Ah, that’s also bad. 
+JACK: I think this is sway. Um..
 
 
-KEITH: Wait, I was supposed to have rolled two, that didn’t—
+AUSTIN: Yeah. Yeah..
 
 
-AUSTIN: Did you add in a bonus? Wait, what is your Skulk thing? What is your Skulk score?
+JACK: This is not- What I am- what I am trying to do here is.. is .. I do not want this to resort to violence?
 
 
-KEITH: Oh, my Skulk is none. 
+AUSTIN: Yeah, yeah, yeah
 
 
-AUSTIN: So that’s one bonus die. 
+JACK: And I am trying to make a case here? That’s seems like the sway-est sway?
 
 
-[Jack groans] 
+AUSTIN: That seems like right, yeah. And I think it’s risky, you go head to head, you act under fire, you take a chance. 
 
 
-AUSTIN: Otherwise you do what Ali just rolled, which is you roll two and take the lowest result if you have a zero in something. 
+JACK: So how do I-
 
 
-KEITH: Ohhhhh. Boy, okay.
+AUSTIN (at the same time): This is not a desperate. Desperate would be you overreach your capabilities, you’re in serious trouble and controlled you'd be [inhale] you act on your terms, you exploit a major advantage.. Um.. But I don’t think that’s what it is. [Jack sighs] I think this is risky? [JACK(at the same time): How do I do this?] And I think the effect is standard. You Just- you roll the two dice and.. Whatever the highest one is, you get it. [pause] what are your... Let’s see. Do you have any other abilities that have anything to do with swaying or anything like that? I don’t think so.
 
 
-ALI: Oh, I do have a zero in that.
+JACK: Umm... Oh I- I might do actually. I have, umm...
 
 
-AUSTIN: Grand? Oh, Grand, you rolled a four.
+AUSTIN: No, you have- What you have is the ability to resist something. Uhh.. extra and
 
+JACK (overlapping with Austin): Oooh, a consequence of suspicion. [AUSTIN: Yeah.. yeah..] If he’d said “oh you're not actually a lawyer”.
 
-ART: Yeah. I have Skulk. 
 
+AUSTIN: Yes. Then you would- Well, then you would just be able to say “no I am” [laugh] because you are- well? You're not really so, yeah, maybe we would have to do that. [Jack laughs] Anyway. So go ahead and give me a, a sway which is what, two d6?
 
-KEITH: So we just have Jack left.
 
+JACK: Two d6? Even tho-
 
-AUSTIN: Fourteen, you have to roll too. That’s a one. 
 
+AUSTIN: No, one d6. You have one d6 on sway.
 
-KEITH: Oh, wow. we rolled a one, a two, a one, and a four. 
 
+JACK: Oh, wow!
 
-AUSTIN: Uh-huh.
 
+AUSTIN: Your consort is two but that’s not what’s happening here. I don’t... think..
 
-ART: And we take the highest.
 
+JACK (overlapping with Austin): Yeah, And I- I think if we’re being honest with ourselves, I- uhh, let me check consort…
 
-AUSTIN: You take the highest, so you’re gonna get a four. Which, again, is you do it but there’s a consequence: you suffer harm, a complication occurs, you have reduced effect, you end up in a desperate position. I think you have reduced effect here, so instead of doing Standard you have—you only have one more, so. Here’s the th—here’s the good news: you make out what these three figures are. It is two different Torch units, both of them have—alright, so it’s actually two different Torch units and actually there is—the first thing that you see, and I think it’s Grand sees it, this actually makes the most sense to me. Grand, you get up from your position and you like, lean up over the edge of another workstation and on the back of this Torch unit, where normally there is just a plain white metal plate, that plate has been filled in with a tattoo. And that tattoo is of a big, smelly piece of garlic, with, like, smell lines coming off it.
 
+AUSTIN: Alright, let me read, let me read these things. Ready? “You might Consort with a well connected friend to learn secrets of an enemy or rival, what do they intend to do, uh, what may I suspect about motives” um, oh, you know? Sorry, this is actually not the- I want to read the other one, one second, I have to go up to…
 
-[Jack and Ali laugh]
 
+JACK: I've found this page really hard to find.
 
-JACK: Oh my God. 
 
+AUSTIN: Yeah, that’s one of the things about this book that I wish was a little bit better.. Uhhh? Though- Ok here it is: “When you consort you socialise with friends and contacts you might gain access to resources and information, people or places.” That’s not what this is. Uh, “When you command, you compel or beat the answers with the force of personality” and when you sway... “You s- you sway with influence, with guile, charm or logic. You might outright lie to someone's face. You might persuade a sucker to believe you. You might argue the facts with an officer. You could try to trick people into affection or obedience, but consorting or commanding might be better”. And so those extended- I’m gonna read those extended ones too. So for command it’s: “You might intimidate or threaten to get what you want. You may lead an action with NPCs. You might order people to.. to do what you want though consorting might be better” and consorting’s are: “You might make a good impression or win someone over with your charm and style. You might make new friends or connect with your heritage or background. You could try to direct your friends with social pressure (but commanding might be better).
 
-AUSTIN: But it’s done in loving detail. 
 
+[1:05:00]
 
-ART: Oh my God, we’re gonna have to rhythm-rap battle our way out of this.
 
+JACK: Uh, I think this is- this is probably s- sway? [AUSTIN: Yeah, me too] I don’t think that what I’m using here is force of personality or socialising [AUSTIN: Me- me neither] with friends and contacts.
 
-[Ali laughs]
 
+AUSTIN: Me neither. So one d6.
 
-AUSTIN: Uh-huh, it’s about to happen. And that one is the one who is facing directly away from you [Jack chuckles]. So that’s one thing that you know. The other one, you actually see on its shoulder-plate has a little—this one’s not tattooed, this is like—or it doesn’t have the—they’re both probably added with stencil and paint or something, right? But the other plain \\Torch unit has just, it looks like an emblem on it that is a little yam.
 
+JACK: Okay... Look, there's six numbers on here...
 
-JACK: [chuckles] Oh my God.
 
+AUSTIN (over JACK): That’s all. Uhh, you- you could, you could push yourself? You could spend- You- Take two stress to, to push yourself and take the extra die.
 
-AUSTIN: And then the third person is a per—is a human person who is a teenager with black and pink hair. She is—her hair is kind of in a—in my mind, she looks like a 2006-era scene kid. She has a hoodie over her head, she has a pink splash on a long bang that’s covering one of her eyes, she has tight-fitting jeans, and around her left arm she actually has a black armband on and you can’t quite make out what it says from your current position. But, but, so that was what you got from this.
 
+JACK: Uh, I’m trying to think, uhh, how- how that-
 
-JACK: Mm-hm.
 
+AUSTIN: Or-
 
-AUSTIN: The downside of course, again, is that you only got a four. You take—
 
+JACK: -would work narratively.. [as Austin starts to talk] Or you could offer me a-
 
-JACK: I take two—
 
+AUSTIN: Well no, so stress is just stress. Or I could offer you a devil’s gambit.
 
-AUSTIN: No, you take three stress. 
 
+JACK (as Austin finishes the sentence): Bargain.
 
-JACK: Oh, one for me and then one from them too [laughs].
 
+AUSTIN: Yes. Devil’s- devil’s bargain rather. Umm.. But let’s um, I think we can do those after the fact I’m pretty sure? Let me just double check. I know it’s one of those things that always...
 
-AUSTIN: Yes, yep. But there is a complication here. Or there is a—right, I’m just giving you reduced effect. So you didn’t get much information. You're still in a Risky position, you’ve advanced, you’re hiding, you haven’t been spotted here, but it is incredibly risky and you did not really get more info about what’s going on here. What do y’all do?
 
+JACK (overlapping with Austin): I think we decided during Marielda that we could?
 
-ALI: [sighs] Are they—is it like they’re talking and we just can’t hear them? 
 
+AUSTIN: Yeah, cause I think it was more fun? [Austin chuckles] Uh.. [Jack laughs] Yeah, I- I’m- I think I’m still gonna let you push yourselves after the fact... I think. [JACK: Mhm] For- for this roll at least let’s say yes.
 
-AUSTIN: They are in an enclosed room. So they’re one room—I’m gonna very tiny quick map here. 
 
+JACK: Okay, so let’s see how it goes.
 
-ALI: Please, thank you. Oh, I think we’re still looking up there.
+AUSTIN: I actually think that’s wrong. I think it’s wrong? I think it’s wrong. [Jack laughs] It’s pretty clear that like, there’s an order of operations here? You push yourself in step 5, you roll the dice in step 6.
 
 
-AUSTIN: What are you—what page are you on?
+JACK: Hmmm...
 
+AUSTIN: So actually I’m gonna keep it that way. The one that I might let slide is devil’s bargain? I think devil’s bargains are fun after the fact.
 
-ART: Yeah, I’m looking at a barracks and a silo. 
 
+JACK: Yeah, yeah, yeah. Because- because-
 
-ALI: A barracks and a silo, yeah. 
 
+AUSTIN (overlapping with Jack): But I think push yourself and use a gambit should be ahead of time, otherwise they’re too powerful. [JACK: Hmm] Cause you just don’t do it? You know?
 
-AUSTIN: I didn’t realize any of that...here we are. 
 
+JACK: Mhm. [pause] Yeah I- I- I- [inhale] I don’t think this is a push myself situation here. I-I- I mean I can’t- [pause] narratively, I can’t picture what that is.
 
-JACK: That’s where all the clocks would be.
 
+AUSTIN: I mean, so, what it is- “You can use stress to push yourself for greater performance. For each bonus you choose below, take 2 stress” blah blah blah. Um, I would say narratively it’s like not sweating while doing this. It’s keeping it- It’s not letting your voice warble, It’s-
 
-AUSTIN: Yeah, uh-huh. We’re here. 
 
+JACK: It’s trying to be like, as...
 
-JACK: Oh my God. 
 
+AUSTIN: Yeah. You're standing in front of somebody who is like wearing a wierd-
 
-AUSTIN: Yeah, there’s a lot here that y’all haven’t seen. My bad, I brought you back over to the system—the Gift-3 system page, which explains where all the things are and who—all the different places are and et cetera. Anyway [Ali laughs]. My bad. So…[makes working noises] da da da da.  
 
+JACK: Armed to the teeth.
 
-ALI: Oh, okay. Okay, okay. 
 
+AUSTIN: Armed to the teeth, wearing weird gas mask helmet.. Um. Which in retrospect is maybe a thing you know they all wear? Something went wrong in Concrete Town and they all wear this now when they’re not in Concrete Town.
 
-AUSTIN: Da da da da. So y’all are currently—so what I’ve drawn is kind of a north-south long building, like a rectangle—kind of a wide rectangle, but a rectangle—that then has, there are three little research rooms on the left, three little research rooms on the right, a hallway that goes down the middle, and I’m gonna say that, like, Grand is here because they are here. And all of you can be with Grand, but Grand is the one who popped his head up and saw their back and stuff like that. But y’all could be over here...wherever you want to be hidden, you could be hidden, in any of these adjoining rooms, basically.
 
+JACK: [curious hum]
 
-ALI: But we have line of sight on them, right? Like we can see if they’re—
 
+AUSTIN: They can only not wear helmets- with the gas masks thing when they're home in Concrete Town. Let me tell you, that’s a good reason for them to wanna pave over this whole fucking planet.
 
-AUSTIN: Yes, but like, if you have line of sight on them they can turn and see you. So the reason I gave Grand the result is because Grand rolled a four on Skulk [Ali laughs]and deserved to be the one who saw the cool tattoo. 
 
+JACK: Oh, yeah. [exhale laugh]
 
-ALI: Right.
 
+AUSTIN: Um.. [pause] But also it’s- it’s- this person’s right, right? Like, you know that they're in the right to take this. [exhale laugh] [JACK: Yeah] So it’s all of those things. So I think pushing yourself can just be like, [JACK: Yeah] “ok, I’m like, I’m gonna do this. It's me, Fourteen Fifteen”
 
-ART: Yeah.
 
+JACK: So I’ll roll one... I’ll roll two d6..
 
-AUSTIN: Also has a history with tattoos. 
 
+AUSTIN: Two d6. Yeah, roll two d6.
 
-ART: Uh-huh [Ali laughs].
 
+JACK: And note on my character sheet [AUSTIN: Yes] that I’ve taken 2 stress. [AUSTIN: Mhm] [laughing] You- you're trying to inflict trauma on me in the first session this time?
 
-ALI: I only mean that I would like to try to figure out if there was a way to penetrate the sound thing and if they’re having a conversation, I would like to hear it. 
 
+AUSTIN: In the first session. 
 
-AUSTIN: Sure. So they have—
 
+JACK (still laughing): bump it up a couple?
 
-ALI: But I would like to know if I can see them talking before I—
 
+AUSTIN (also laughing, overlapping with Jack): Uhum. Yeah. Just go ahead and roll.
 
-AUSTIN: You can see—hmm, no one is talking. No one is talking.
 
+JACK: Okay. I’ll just write down... two stress here.
 
-ALI: Okay.
 
+AUSTIN: That’s a six! There you go. That’s a critical. [JACK: Ohohoho] suc- It’s not a critical but it’s- but it’s a- a complete total success. So, umm.. What’s that look like? Like, is it the- what’s the part that this character- This character’s name in Kentucky's Corona by the way. Um, so what’s Corona... Like, what’s the thing that he- he responds to.
 
-AUSTIN: There’s no mouths moving. You would have to get closer to hear if there’s some other sound going on inside. 
 
+JACK: Oh, god, I think it’s the- and I- I don’t know how this character does that so I’ll be interested to- I’ll be interested to hear, but I think what Corona recognises with, with kind of awful sinking feeling is that... if they are fully prepared to play the weird legal loophole game?
 
-ALI: Okay.
 
+AUSTIN: Uhum.
 
-AUSTIN: But there’s no sound happening inside of your glass chambers that you’ve gone into and passed in and snuck up through and stuff like that. So, as far as you—you could [pauses]. You could do a Study to find this out and this would just be a fortune roll, not an action roll. So on top of doing action rolls, and I’ll just explain this really quick, you can also do fortune rolls, and gather information rolls are also on the table here. Where, like, you ask questions and make an action or a fortune roll; the GM answers honestly with a level of detail depending on the effect level. And because I don’t think that there is risk here to answer your question, it would just be a fortune roll, right? So I would say make a Study check, and it doesn’t matter what you put down for—if all you’re trying to figure out is, “Is there sound happening in there?” I think it’s just this but if you’re trying to find other stuff out, then that’s a different—
 
+JACK: Fourteen Fifteen is also? [AUSTIN: Right.] And... That kind of has to be, kind of grudgingly like, “oh, right, this- time cannot be guaranteed to work here.” So... sure, they might be able to take this place in 2 minutes? But whooooos- you know, what is two minutes?
 
-ALI: I mean, yeah, if I’m doing a Study roll, can I just do...the roll? Like—[laughs]
 
+AUSTIN: Right, what if- it’s two minutes but then the- you check your calendar in there and it’s wrong or whatever. Right? Like, how ????? days
 
-AUSTIN: Yeah, totally, except that thenn—
 
+JACK (overlapping with Austin): And it doesn’t even matter if like, you know, you could see- he cou- he could look at his watch and see two minutes pass [AUSTIN: Yeah] but there’s no damn way of proving that that’s what's happening. Like-
 
-ALI: Can that be part of the thing that I find out? Like—
 
+AUSTIN: And at the end of the day this is gonna go before our judge. And you could make this ridiculous argument that in fact it is still [JACK This is still- Yeah] before that. Right. Exactly. Yeah, you own it. You own it in the future. We haven’t gotten it yet. Forever. For whatever reasons. Umm..
 
-AUSTIN: Yeah, the difference is that if you’re just going to do it as an action roll then I can—then you could fail and bad things could happen. 
 
+JACK (happy): It’s absolutely, it’s like- It’s um.. [pause, laugh] You know. It’s the opposite of time.is.
 
-ALI: Okay, I’m—
 
+AUSTIN: Right, right. Yes, yes. Everything is out of synch. Um.. And that’s like, to lesser and greater degrees across the Quire system? But especially on Moonlock. And especially close to the Umbra. Like, this is where things are as- as like, Dark Souls timey-wimey as we get. I guess Volition [Jack hums] is even more like that but this is like, especially so.
 
-AUSTIN: Whereas if you fail on a fortune roll, it’s just like, oh you didn’t get a lot, you know? 
 
+JACK: Yeah..
 
-ALI: I’m fine with that.
 
+AUSTIN: Allright, so I think he says like,
 
-AUSTIN: Alright. 
 
+AUSTIN (as Kentucky's Corona): I give him a month. Pay up.
 
-ALI: ‘Cause I would like—if they’re communicating some other way, I would love to know that.
 
+JACK (as Fourteen): Well, who knows how long that’ll be.
 
-AUSTIN: Totally.
 
+AUSTIN (as Kentucky's Corona): Huh.. What’s your name?
 
-ALI: I would love to know what they’re looking at, that sort of thing. 
 
+JACK (as Fourteen): My name is Fourteen Fifteen.
 
-AUSTIN: Yep, totally. So give me a Study. Tell me what it looks like; what are you doing?
 
+AUSTIN (as Kentucky's Corona): [Poofs the air out] Fourteen... Fifteen.. Whild names out here.
 
-ALI: I think that I’m—I’m looking at the chart again, is what I’m doing. But I think that it’s like—so they’re looking down at a table and we’re all hiding or whatever.
 
+[1:10:00]
 
-AUSTIN: Yes. Yeah.
 
+AUSTIN: Tosses the concrete bat into the back of the truck. [pause] um, and like, steps into the back of the truck and.. ta- like, [two knocks] hits the top of a- or hits like the side of the- the inside, like, this guy is in big armour, he isn’t taking his armour off out here [Jack laughs] and the truck like, automatically does like, [engine starting foley] bbbbhubububububwuu and like starts to float up and turn around and head back. And he just kind of like, leans against the in- the inside of the cab of the pickup truck. And then like, the door opens and Dusty sticks his head out.
 
-ALI: Is there a way to kind of—I feel like I’m doing a little, a little trying to peek. Like, there’s not a really [laughs]—I don’t know if there’s a better tactical way to do this then to, like, kind of stand up a little bit and then— 
 
+AUSTIN (as Dusty): You got him to leave... Ha- [pause] ho- how?
 
-AUSTIN: Nah, it’s fine. I didn’t know if you were using eyeball-thing or using your abilities in any way or anything like that, you know?
 
+JACK (as Fourteen): It’s a... they’re gonna take this place eventually? But a- You know, eventually can mean a lot of things. I think. Maybe. It may mean a lot things. My hope is that eventually in this case, you know, means a long time.
 
-ALI: I don’t think yet. 
 
+AUSTIN (as Dusty): I’ll pay my bills, I- I’ll figure out how to get more money, just tell them that they come back- just- [deep breath] They’re really gone...
 
-AUSTIN: Okay, cool. So yeah, this again is Risky Standard on this.
 
+JACK (as Fourteen): I hope so.
 
-ALI: Risky Standard, okay. 
 
+AUSTIN (as Dusty): T-thank you, F-Fourteen Fifteen. Thank you. 
 
-AUSTIN: If you’re using Study, which I’m guessing is what you’re using. 
 
+JACK: [sigh] And I think that like [pause] I think that like, um.. [pause] Like, the birds? In the- in the like, sparse scrubby trees around this place? Like, begin a murmuration and like, like start chittering and singing and like, lift up out of the branches and- and settle themselves back into the branches again? And we get this wide shot of the farm and then like in, I don’t know, Assassin's Creed or- or in Grand Theft Auto, the position of the shadows just change.
 
-ALI: I am.
 
+AUSTIN: Yeah.. Um, I think that yeah, they shift from like- you know, a 2pm shadow to like a late in the day shadow, really long. And then there's another one. And a.. A ship. A shuttle. Comes to rest just outside, parking next to your bird. And the cockpit of that ship, um, like, or the side door, like, opens up sideways like it’s as if the front left side part of the engine block and like the whole front hood of the- of this shuttle. The whole like front of it turns left and then opens up and.. Pure Cascara rolls out. [Jack breaths through the nose]
 
-AUSTIN: Okay. What do you have in Study? 
 
+AUSTIN (as Cascara): Fourteen, I didn’t know you farmed.
 
-ALI: I have a one. 
 
+JACK (as Fourteen): I’m here on business. Um.. I’m here- I’m helping some folks here.
 
-AUSTIN: Okay. Any bonus die?
 
+AUSTIN (as Cascara): Me too.
 
-ALI: Noo? I already rolled it, so [laughs]. 
 
+[pause]
 
-AUSTIN: Oh, did you? I didn’t realize. 
 
+JACK (as Fourteen): Why did you come out here? 
 
-ALI: Yeah.
 
+AUSTIN (as Cascara): Because I’m gonna need some help, helping the folks out. People don’t know this place the way you do. Not just Moonlock. The ins and outs of what’s happening across the whole Quire system. Fourteen Fifteen you... [she sighs] You’re putting the pieces together. This place is a puzzle. And you’re figuring it out. I’m putting something together and I want you to be part of it.
 
-AUSTIN: Alright. So another four, okay. So, you do it, but there’s a consequence.
 
+JACK (as Fourteen): [sighs] Who have you managed to get?
 
-ALI: Okay.
 
+AUSTIN (as Cascara): [sigs] Some old friends.
 
-AUSTIN: Um, I think again you’re just going to get reduced effect here. Here’s what you learn, though. You see that the—you couldn’t see at first and Grand couldn’t even see it from his position because it was blocked by this big—the back of this big robot-person with their tattoo—you see the kid with the pink hair splash—or purple hair splash, whichever I said before—making hand signals at one of the Torch units. And I don’t know that Tender knows sign language, but this is sign language. They’re communicating with sign language.
 
+JACK (as Fourteen): What would we be doing? What’s- what’s- what am I signing out for here?
 
-ALI: Okay. 
 
+AUSTIN (as Cascara): What you're doing now. It’s. [pause] The legality of it is... Gray... Which isn't to say that you’ll be vigilantes. You’ll be representing... [pause] They’re only a handful of people in this system that want to see this place unified. People who want to weave together all of the parts of Quire. And you’d- go with their blessing. But when you get there, you're not reporting to some military officer or to some handler, you’ll be reporting to the people. The people of the Quire system. The people of the Twilight Mirage. The only badge you have is their consent to listen to you. To enable you to take action. And you’ve never needed a badge before Fourteen Fifteen. I don’t want you because you’re a killer. You’ve- you’ve killer for us before. If I needed that, I would tell you. I need you, because you’ve spent a year learning how this place works and how to help people.
 
-AUSTIN: And the Torch unit is—the Torch unit has hands and is like—has articulated fingers, and they’re moving super fast. And you actually have never seen—you’ve seen Torch units before, those are not normal Torch units hands. This Torch unit has been—these are different hands than any other Torch unit you’ve seen has. Most Torch units move their hands very mechanically and not very articulately. Like, “hold gun” is about what they need to do [Ali laughs]. “Make first. Hold hammer,” you know, like they are not meant for communication. And so—but this one is able to sign back very cleanly. So yeah, one slot there. 
 
+[1:15:00]
 
-ALI: Is there a way to kind of essentially do, like, do the Google Translate thing with my [laughs] cybernetic eyes, of being like, “I’m seeing the symbols and then it’ll tell me what those things are”? 
 
+JACK (as Fourteen): [sighs] And you’re sure that when I’m doing it over there for- for the collected people I could be doing more that what I’m doing here? That’s something you can promise?
 
-AUSTIN: Sure. I’ll just give you that. 
 
+AUSTIN (as Cascara): If I came here, and told you I did all the calculations? And that all the numbers line up that the lives over there,
 
-ALI: Yeah.
 
+AUSTIN: And she gestures up from her chair to like, the three other planets in the sky.
 
-AUSTIN: Yeah. I’ll just—so what the kid is saying is, like, um:
 
+AUSTIN (as Cascara): count more than the ones here? You better say no. What I can tell you is there is something larger that we’re working on but it’s not about the value of individual life. It’s about making sure that the Mirage is a place where other people like you can continue safely do their work. It’s not about.. Whether a farmer on- on Altar is worth more than a farmer on Moonlock. It’s about making sure that, everywhere through this system the pieces are in place so that good people can make the Mirage whole. If we don’t build a foundation, this will never be a home.
 
-AUSTIN (as teen girl signing): Garlic, I know—I know you’ve earned it but we have to try it on someone else first. You’re too important. 
 
-
-AUSTIN: And Garlic is like—says back in hand signal:
-
-
-        AUSTIN (as Garlic signing): I know I’m important but I should be the one taking the risk. 
-
-
-ALI: Okay.
-
-
-AUSTIN: And then the kid says: 
-
-
-        AUSTIN (as teen girl signing): Sorry, but we have to listen to what Vanya says.
-
-
-AUSTIN: And spells out Vanya, V-A-N-Y-A. 
-
-
-JACK: I have a proposal. Oh, sorry, did you have something, Ali?
-
-
-ALI: I was just gonna say, I don’t know if, like—I don’t know what our communication things are, but I was picturing Tender pulling out a Sidekick [Austin laughs], essentially, which is like an old cellphone with a—[breaks off into laughter]
-
-
-AUSTIN: [amused] Uh-huh?
-
-
-ALI: A—the screen would, you could sidekick it and it would spin and then reveal a keyboard. So I could communicate this with everyone. Memorably.  
-
-
-AUSTIN: I’ll just—I’m gonna go on the record that the Sidekick is the official phone of the Twilight Mirage.
-
-
-ALI: Thank you, thank you, thank you. 
-
-
-AUSTIN: It might also have a touchscreen now, but it still has that physical—you know what I mean? You know what I’m saying, right?
-
-
-ALI: Yeah. 
-
-
-AUSTIN: Okay.
-
-
-ALI: Yeah, yeah yeah. Yeah, just so I can kind of, like, “They’re talking about this thing.” But yeah, I know Art was typing but if, Jack you have a thing, by all means. 
-
-
-JACK: I—there’s like glass, right?
-
-
-AUSTIN: Yep.
-
-
-JACK: What happens if we tap on the glass?
-
-
-AUSTIN: Um—
-
-
-JACK: Like, based on everything we’ve seen, these people don’t seem to be presenting much of a threat and I’d like to somehow open communication with them in a way that doesn’t surprise them.
+JACK: [humms] Yeah, I think- I think that like, a clock starts striking? Inside the house.
 
 
 AUSTIN: Yeah.
 
 
-JACK: Like, you know, I don’t want to bust into that room, everyone’s being very quiet.
+JACK: Umm.. Though I think- I think that’s what we get. We get like, slow low shots of the camera moving through Dusty’s house as this like, clock on a mantle strikes.
 
 
-AUSTIN: Yeah. So it’s—but you do want to open communication here? 
+AUSTIN: Yeah..
 
 
-ART: What if we did it—what if we did just bust into that room? I don't mean bust in threateningly, but what if we just, like [Austin snorts], walk into that room? What if we just, like, “Hey, I’m supposed to be here!” 
+JACK: And Dusty’s like sitting down, putting some of the papers away..
 
 
-ALI: [laughs] I would prefer that me and Gig stay hidden, so if it does become a scramble—
+AUSTIN: Yeah..
 
 
-JACK: Mm-hm. Yeah, even if they just try and run or something, even if it doesn’t turn into a scrap, having extra people would be good. 
+JACK: Um.. Like, getting a drink.
 
 
-AUSTIN: Uh-huh. Alright, so what do you do? What do you two do?
+AUSTIN: A cat moves by, you know. [JACK: Yeah] Slowly. Like a slow cat, not like a fast cat.
 
 
-ART: Um—
+JACK: And... we come through the house and we come out through the open door and we see the like, landing gear of Cascara’s ship, like, lift up, and the ship takes itself away and the camera moves out through the front door and to the year and like, there’s nobody there.
 
 
-AUSTIN: Fourteen, it sounded like you wanted to take the lead on opening communication?
+AUSTIN: [Bird sound] There’s a bird that’s been [Austin laughs, “The Speaker” starts playing] hitched to the side of the
 
 
-JACK: Yeah, I’ll—
+JACK: It’s been like hitched- it’s been like, it’s like, it’s been hitched to where there are other birds.
 
 
-AUSTIN: But it sounds like Grand, you wanted to help with that?
+AUSTIN: Right, exactly. You've given- you’ve given Dusty Sunlight a bird. Maybe- maybe he can sell if for the money he needs.
 
 
-ART: Sure? I was thinking more that I was just gonna undermine [laughs].
+JACK: Yeah, please sell the bird for the money you need to keep the farm.
 
 
-[Ali and Jack laugh]
+AUSTIN: [laughs] All right, good. Good.
 
 
-AUSTIN: Oh, okay, I see.
-
-
-ALI: Also, Gig, you don’t have to stay hidden, I just am choosing to—
-
-
-KEITH: No, no, I think that’s a good plan. If they wanna, if they wanna get into a scrape [Ali laughs], and two more people jumping out and being, “Surprise, it’s double!” [Austin laughs] is, I think, a good plan.
-
-
-ALI: Yeah. You think—
-
-
-ART: My character sheet says—
-
-
-JACK: “Surprise, it’s double”? [laughs]
-
-
-AUSTIN: What’s your character sheet say? ‘Cause yeah, this is—
-
-
-ART: My character sheet says, “Scrappy survivor with more luck than brains.” [Ali laughs] And I should start living that life. 
-
-
-AUSTIN: I mean, it does say—I mean, here’s the actual thing. The other thing that your character sheet says is that you get XP when you address a tough challenge with charm or audacity. So, like, everyone pay attention to that shit. 
-
-
-ART: Yeah. I think we should just—I want to walk into that room and see what happens.
-
-
-AUSTIN: Okay.
-
-
-JACK: Yeah, okay. I’m up for that.  
-
-
-AUSTIN: So you stand up and walk in?
-
-
-JACK: Mm-hm.
-
-
-ART: Yeah.
-
-
-AUSTIN: Jesus Christ. Okay, I’m gonna have to roll a fortune die because I need to know how they’re gonna—um. Either we can see what they do or—you should roll to be, like, non-threatening, right? 
-
-
-JACK: Yeah.
-
-
-ART: I’ve got some forged documents. 
-
-
-AUSTIN: Oh my God. What are you doing?
-
-
-KEITH: Before we do this plan—before we do this plan, I would like to say that if I had gone to the alarm thing, there was gonna be clocks, we got clocks advanced, there’s— 
-
-
-AUSTIN: Yeah, things are going well. 
-
-
-KEITH: Well, I was just saying. There are a lot of bad clocks. And this is a place where doing something and getting seen could advance a clock. And maybe just ‘cause two people don’t seem like they’re gonna kill us when they don’t see us doesn’t mean that they won’t seem like they wanna kill us when they do see us. 
-
-
-ALI: Yeah, but it’s a tabletop game. Like—[laughs]
-
-
-JACK: Yeah. And also I feel that if my two options are either we start scrapping with these people or we try and open a line of communication with these people I am less interested in the first one, currently. 
-
-
-ART: Yeah, I’m going in there to talk.
-
-
-AUSTIN: Okay. So what’s this look like and who’s making a roll? I—Grand, it does sound more and more like you’re undermining Fourteen Fifteen.
-
-
-[Ali and Jack laugh]
-
-
-ART: Yeah, I guess I—
-
-
-AUSTIN: Or you’re setting them up for a roll? It could go either way.
-
-
-ART: I think if I’m gonna roll, I’m trying to roll, like, Sway? 
-
-
-AUSTIN: So, what is the—yeah, so we should talk about what the difference is between these different actions are. Sway is “Sway someone with charm, logic, deception, disguise, or bluffing. Change attitudes or behavior with manipulation or seduction.” And Consort is “Consort with connections from your heritage, background, friends, or rivals to gain access to resources, information, people, or places.” Consort is like be up front with somebody, Sway is like, “Hey, we’re all friends here.” Or, like,“You haven’t read what I’ve read; I’m smarter than you,” or whatever, you know?
-
-
-ART: Yeah, hey, aren’t we all friends here?
-
-
-AUSTIN: Yeah.
-
-
-JACK: I’m prepared to be open about this. But cautious—very cautiously.
-
-
-KEITH: The truth: risky.
-
-
-[Austin and Jack laugh]
-
-
-ART: But, like, our truth isn’t great right now. 
-
-
-JACK: Yeah.
-
-
-AUSTIN: Unsurprisingly—unsurprisingly, Fourteen Fifteen has two in Consort, one in Sway [Ali laughs], and Grand Magnificent has two in Sway and one in Consort.
-
-
-JACK: [chuckles] You didn’t need to tell them.
-
-
-AUSTIN: Uh-huh. 
-
-
-JACK: I just think—I dunno, I think that there’s—we could go in there saying, “Hello, we’re from the radiator repair company” or we could go in there saying, “Hello, we’d like to talk.” And—
-
-
-ART: But going in there being like, “Hello, did you kidnap some children?” is like—
-
-
-JACK: I don’t think that’s—that’s—[laughs]. Fourteen is doing a lot of shaking of their head silently at Grand [Ali laughs] as Grand is gesturing.
-
-
-AUSTIN: As everyone is typing back and forth on their fucking Sidekicks.
-
-
-ALI: Several people are typing.
-
-
-KEITH: Have we—have we de—have we thought maybe, “Hey, are you the kidnapped children? Are you guys kidnapped children?”
-
-
-ALI: That’s dumb.
-
-
-ART: Aren’t some of them robots?
-
-
-JACK: “Hey, child and two robots, are you kidnapped?”
-
-
-[Ali giggles]
-
-
-AUSTIN: While you’re all doing this and talking—
-
-
-JACK: Yeah.
-
-
-AUSTIN: I’m not—this is—I’m making a move. Because you’re—there’s downtime in this moment.
-
-
-JACK: Please do. Yes. 
-
-
-AUSTIN: You just hear—you don’t hear, you see—another spherical drone hovering up and down the—or like, it leaves their glass room and goes into the hallway and begins to, like, go back to the front door to watch the front door and investigate and make sure no one’s come in, basically. Which means you have to do something before that eye figures out—not an eye, it’s another drone, it’s a—Mother’s Story had these same drones. 
-
-
-KEITH: [laughs] Not all drones are eyes in this game.
-
-
-AUSTIN: They’re not. But this one is similar, it is, it is another—it is a floaty drone.
-
-
-JACK: It’s like an Earth eye.
-
-
-AUSTIN: Yeah, yeah, yeah, exactly. 
-
-
-ART: Alright, I’m going. It’s happen—I said it first. 
-
-
-AUSTIN: Alright. 
-
-
-JACK: So, like, Grand just stands up from behind this thing and Fourteen leaps up after him.
-
-
-[Austin laughs]
-
-
-ART: I think I go out the—I wait for the drone to pass then just pop out into the hallway and pop into this room. 
-
-
-AUSTIN: Alright, what do you say? 
-
-
-ART: I...didn’t have that yet. Um, “Hey. What’s up?” 
-
-
-AUSTIN: Nothing comes—You say it and no one hears anything. 
-
-
-JACK: There’s just no—
-
-
-AUSTIN: What’s your posture?
-
-
-ART: Casual. 
-
-
-AUSTIN: Give me a roll.
-
-
-[Ali laughs]
-
-
-JACK: [amused] Just a casual roll? 
-
-
-AUSTIN: I think this is Sway. You’re trying to keep it—you’re trying to keep it casual, trying to be non-threatening.
-
-
-KEITH: Hey, it’s me. Casual Grand Magnificent. How are you? [Austin laughs] Notice my posture? 
-
-
-AUSTIN: [laughs] So it’s Sway, it’s definite—it’s Risky—it’s Risky Limited, I think, unfortunately. 
-
-
-JACK: Can I—can I help?
-
-
-AUSTIN: How? Sure. 
-
-
-KEITH: By having even more casual posture?
-
-
-JACK: Actually—yeah, I was gonna—any of my suggestions I can’t honestly imagine helping.
-
-
-AUSTIN: Okay.
-
-
-JACK: Are two people in the doorway worse or better than one person? [laughs] 
-
-
-AUSTIN: Oh—uhh. Ooooh. Woooh. Hmmm. 
-
-
-KEITH: That is a very good point. 
-
-
-JACK: Okay, I’m gonna  stand behind Grand.
-
-
-AUSTIN: Okay.
-
-
-JACK: And I’m gonna have both my hands up non-threateningly. 
-
-
-AUSTIN: Up in the air? Okay, yeah. Take a stress. 
-
-
-ART: That looks worse!
-
-
-AUSTIN: Take a stress. Grand, you get a second [laughs]—you get a second die. 
-
-
-ART: Third die.
-
-
-AUSTIN: Or an extra die. A third die. 3d6. 
-
-
-KEITH: I wanna know—Jack, how much stress do you have right now? Is it four of it? You have four stress?
-
-
-[Ali laughs]
-
-
-AUSTIN: It’s so quick, Jack. Jack, it’s so—we’re not even at the mission yet, Jack. 
-
-
-KEITH: [laughing] I know. Jack—we have been—the in-game time has been what, like eight minutes?
-
-
-AUSTIN: Yeah. Maybe. 
-KEITH: Including the two minutes of waiting at the door. And Jack is like—
-
-
-AUSTIN: But think about all the stuff I just said you did. Like, you’ve snuck into this twenty-eight story building [Jack chuckles]—totally no stress. So you’re—you know what, all said. 
-
-
-JACK: You open the door—
-
-
-AUSTIN: The Notion is off to a great start.
-
-
-JACK: You open the door and it’s—
-
-
-ALI: This is also Fourteen’s first mission in a while [laughs].
-
-
-JACK: Uh-huh.
-
-
-AUSTIN: Exactly. Exactly. And you know what? Grand Magnificent rolled a six.
-
-
-[Ali gasps]
-
-
-KEITH: Nice. 
-
-
-AUSTIN: And there ain’t nothing wrong with that.
-
-
-JACK: So we get another gambit!
-
-
-AUSTIN: So you get another gambit. So that goes up to a—to a—
-
-
-KEITH: Three again.
-
-
-AUSTIN: To a three again.
-
-
-ALI: Now I get to take all these gambits [laughs]. 
-
-
-AUSTIN: Yeah, you have good gambit ability. The thing is, you and Grand are a really good pairing because Grand gives an extra gambit and also can generate gambits waaaay better than anybody else. It’s a good gambit economy. So—
-
-
-ART: Also, Twitter keeps saying that. 
-
-
-AUSTIN: Wait, what? Saying what? I missed a thing. 
-
-
-ART: That Grand and Tender would be a good pairing.
-
-
-[Ali laughs]
-
-
-AUSTIN: Oh, yeah [laughs]. Great, good. Alright. So yeah, you’re—the—one of the Torch units, the one with the garlic on its back, reaches its hand out to you. Its fingers that have been signing unfold down the middle until they’re flat, and like a flat fan, almost. So it’s like, imagine you have your fingers. And they’re—and imagine you have a Terminator finger so you don’t have to think about flesh doing this. It then unfolds—you’re like, put your fingers—make them horizontal in front of your face. They then unfold vertically, opening up into a fan shape. And it begins to spin like a saw, like a buzzsaw. And then the—you know what, actually, I don’t think Garlic would do this. Yam does this. Yam, the other Torch unit, does this. And Garlic, like, turns its head at you. You can see Yam’s big, bright shining—or big light-face beginning to light up and Garlic reaches over and puts its hand on Yam’s hand. And lowers it, as if to be, “No. Don’t hurt these people.” 
-
-
-And Orellia, who is the—Orellia Ject, who is this kid—jumps behind both of them and is looking for a place to get out, but doesn’t go anywhere. And, um, then I think at that point, we just get—we get Garlic hitting a button on the workstation. And you can—hhhh, all the pressure comes back in the room. And you can hear each other again. And you can just hear the room again. You hear “buh buh buh buh boo boo boo” as this little—the eye-drone gets down to and begins investigating the door that you broke in through. And now everyone can hear each other.
-
-
-        AUSTIN (as Orellia): What do you want?!
-
-
-AUSTIN: —says the kid. 
-
-
-        ART (as Grand): Hey, nothing, what’s up?
-
-
-[Keith cackles]
-
-
-KEITH: Very cas’.
-
-
-AUSTIN (as Orellia): [OOC but doing the character voice] You got a six on this roll, so I have to be kind of polite with you, so…
-
-
-[Ali laughs] 
-
-
-AUSTIN (as Orellia): [in-character] We knew were being tailed but we thought it was like Salvage Mandate or the Volunteers. You don’t look like those at all. 
-
-
-ART (as Grand): No, I don’t know any of those people. No, we’re not. This is my associate. Um—
-
-
-AUSTIN (as Orellia): Your associate is from—you have a Quire associate. They have spines and stuff. 
-
-
-ART (as Grand): We all have spines. Me and my—that’s just how I stand up.
-
-
-JACK (as Fourteen): What my associate means to say is that we...
-
-
-JACK: Art, we didn’t think of this bit of the plan, did we?
-
-
-ART: Uh, no. My plan was honestly to fail this Sway roll and deal with the consequences.
-
-
-[Ali laughs]
-
-
-AUSTIN: You got a six. 
-
-
-ART: I didn’t have a second act here.
-
-
-KEITH: Do you know what the real problem is? Is that you’ve—Grand Magnificent has never been casual, ever. 
-
-
-[Austin, Ali, and Jack laugh]
-
-
-ART: That is the problem.
-
-
-[Ali keeps laughing]
-
-
-AUSTIN (as Orellia): You don’t look it, but you both sound like cops. Are you cops? [Keith laughs] You have to tell me if you’re cops! 
-
-
-JACK (as Fourteen): No, we’re not cops. We are—
-
-
-ART (as Grand): No.
-
-
-AUSTIN (as Orellia): That’s what a cop would say! 
-
-
-KEITH: Out of the fiction real quick—
-
-
-        ART (as Grand): Cops don’t have rad tattoos.
-
-
-KEITH: I just wanted to know, ‘cause that’s not true on Earth. Is that true in space? [Austin laughs] That you do have to say?
-
-
-AUSTIN: No, it’s not. It’s not. But it’s exactly what this sixteen year old would think is true. 
-
-
-KEITH: But would also still think the cop is lying anyway?
-
-
-AUSTIN: Oh yeah, absolutely. One hundred percent. It’s a corrupt cop, the cop isn’t gonna tell the truth.
-
-
-        ART (as Grand): We’re not—
-
-
-        JACK (as Fourteen): We’re not cops.
-
-
-        ART (as Grand): We’re criminals. 
-
-
-        JACK (as Fourteen): We’re—yeah.
-
-
-        AUSTIN (as Orellia): You’re criminals?
-
-
-        ART (as Grand): We’re like for real—we’re legit real criminals.
-
-
-[Keith laughs]
-
-
-AUSTIN: One of the Torch units looks at the other one and like, “brrp brpp” and then looks back and does a—does some sign language to each other. 
-
-
-KEITH: I just want to note—before we figure out what this sign language is—there’s a really wide group of people that would be comfortable knowing that you’re not a cop but would still be uncomfortable by the description, “No, we’re for real criminals.”
-
-
-[Austin and Ali laugh]
-
-
-JACK: What I love is that there’s just this shot of Tender and Gig still in the other room [Ali laughs], just hearing Grand’s voice saying, “We’re for real criminals”.
-
-
-AUSTIN: Yeah. Yeah. And it’s still muffled—it’s not silent anymore, but like—so the egg crate soundproof glass has turned back to being flat, completely see-through glass. So it’s still like hearing someone through a glass wall. So it’s like [makes muffled noises] We’re real criminals [muffled noises]. [Ali and Keith laugh] Great. Good.
-
-
-        ART (as Grand): Hey, do you guys like—do you guys like Internet celebrities?
-
-
-        JACK (as Fourteen): Jesus Christ. 
-
-
-        AUSTIN (as Orellia): Depends. 
-
-
-ART (as Grand): Alright.
-
-
-AUSTIN (as Orellia): Some celebrities are bougie as fuck. 
-
-
-ART (as Grand): Give me, like, your bottom five internet celebrities [laughs]. Just as like a fun game we could play right now. And then I’ll do mine.
-
-
-AUSTIN (as Orellia): Alright, well, you go—okay, my—the worst one?
-
-
-ART (as Grand): Yeah.
-
-
-AUSTIN (as Orellia): The absolute worst one?
-
-
-ART (as Grand): Uh-huh? 
-
-
-AUSTIN (as Orellia): Is, is, uh Millenia. Her songs are completely bullshit.
-
-
-ART (as Grand): Uh-huh.
-
-
-AUSTIN (as Orellia): She is a New Earth Hegemony apologist, which I don’t normally mind from people but from her it’s just extra grating. So that’s one. Now you tell me one to prove your not a cop. 
-
-
-ART: Uh [laughs]. See, this is the tricky part because Grand at least would know a couple of people on the Internet.
-
-
-AUSTIN: Uh-huh. 
-
-
-ART: Um—
-
-
-KEITH: Oh, you could—it could be one of those guys that, like, all their videos are them feeding live mice to their snakes. That’s your least favorite. 
-
-
-ART (as Grand): Oh, yeah, you know, uh, yeah, what I hate is—what are the names of the guys from Snake Ship?
-
-
-AUSTIN (as Orellia): Snake Ship, that’s Jesse—
-
-
-ART (as Grand): The guys who drive around with a ship full of snakes.
-
-
-AUSTIN (as Orellia): Yeah, I got it. It’s Jesse and Mark, and those guys are—I get why they’re in your bottom five but I think they actually have—I’m not an apologist, but I think that there is value in what they’re doing. They don’t mean to be doing it, but they kind of—they’re kind of deconstructing the entire pet transport genre, I think. Because they’re kind of, like, outsider art, you know what I mean? Like, they didn’t—they’re from Earth so it’s clear that they’ve never seen anything on the Mirage before, and so they don’t really know what’s happening there. And so, by them doing different things—[sighs] Alright, you're not cops. You’re not cops. Who—who’s your—what’s the celebrity thing you’re trying to get me to do? 
-
-
-ART (as Grand): I was just, like, you ever wanted to meet that guy Gig Kephart? 
-
-
-[Keith guffaws]
-
-
-JACK: Fourteen is just looking at their hands.
-
-
-        ART (as Grand): [to Fourteen] This is gonna work, don’t you worry about it. 
-
-
-AUSTIN (as Orellia): No! Never in my life! Gig Kephart—
-
-
-AUSTIN: I just rolled 2d6 and got two ones.
-
-
-[Ali guffaws]
-
-
-        AUSTIN (as Orellia): Let me tell you something about Gig Kephart—
-
-
-KEITH: What was that roll for?
-
-
-AUSTIN: It was a fortune roll to see if she liked you.
-
-
-        AUSTIN (as Orellia): Gig Kephart is the worst of the worst. Vanya—
-
-
-KEITH (as Gig): Uh, hi, I keep hearing my name. [Austin laughs] I can’t hear much but I can hear that you guys keep calling me, what’s going on?
-
-
-AUSTIN (as Orellia): Is this for the—are you—I don’t consent to have my face on footage.
-
-
-JACK (as Fourteen): This is not for a show. This is not—[sighs].
-
-
-AUSTIN: As soon as you show up, Gig, one of the Torch units puts on the—a low-level, but still high-level light—flashing at your face to keep you from seeing her [Jack chuckles] to prevent her face from being on TV. She goes: 
-
-
-        AUSTIN (as Orellia): Thanks, Yam!
-
-
-KEITH (as Gig): Hey, how ‘bout this? I can take out my camera-eye, put it in the other room. 
-
-
-AUSTIN (as Orellia): You better do that!
-
-
-KEITH (as Gig): Okay.
-
-
-KEITH: I do that.
-
-
-AUSTIN (as Orellia): Also, you’re not a criminal at all! What are you talking about?! 
-
-
-KEITH (as Gig): I can’t do—I don’t—I don’t care at all about breaking the law. 
-
-
-JACK (as Fourteen): Tender! 
-
-
-AUSTIN: [laughing] Oh my God.
-
-
-        ALI (as Tender): Do I have to?
-
-
-        JACK (as Fourteen): Yeah, just come. It’s—we could use—alright.
-
-
-ALI: Okay, she stands up.
-
-
-        ALI (as Tender): Hello everyone. 
-
-
-AUSTIN (as Orellia): Tell me why I shouldn’t have them beat you into a pulp right now. No more games.
-
-
-ALI (as Tender): Well there’s just the four of us. 
-
-
-KEITH (as Gig): Or is there?
-
-
-AUSTIN (as Orellia): Who else is with you?! 
-
-
-[Ali laughs]
-
-
-KEITH (as Gig): Nah, that’s it. That’s it, that’s it, I swear.
-
-
-ART (as Grand): Look, we’re just here because some shit’s going down. And we’re the kind of people that go and solve it.
-
-
-KEITH (as Gig): You—we’re kind of like cops.
-
-
-[Ali laughs]
-
-
-AUSTIN (as Orellia): I knew it! Private cops are still cops.
-
-
-ART (as Grand): No, we’re like vigilantes! 
-
-
-AUSTIN (as Orellia): That’s worse!  
-
-
-KEITH (as Gig): Oh that’s—
-
-
-AUSTIN (as Orellia): That’s self-appointed cops! 
-
-
-ART (as Grands): No, but we’re like private cops for profit. 
-
-
-KEITH (as Gig): We’re criminal-antes. 
-
-
-AUSTIN (as Orellia): How much you bein’ paid for this? Huh? 
-
-
-ART (as Grand): You know what? I don’t think we talked about it. 
-
-
-AUSTIN (as Orellia): So you’re bad cops. 
-
-
-[Ali laughs]
-
-
-KEITH (as Gig): We’re—here’s what we are: we’re fixers. 
-
-
-ALI (as Tender): Yeah, that’s what we are. We’re fixers. 
-
-
-KEITH (as Gig): Fixers are cops that criminals have. That’s what we are.
-
-
-AUSTIN (as Orellia): Fixers are cops that criminals have?
-
-
-KEITH (as Gig): Yeah.
-
-
-ALI (as Tender): Yeah.
-
-
-AUSTIN (as Orellia): We don’t need fixing. So, if you would just leave and let us get back to work. 
-
-
-KEITH (as Gig): Have you guys seen some kidnapped kids? We’re just looking for some kidnapped kids. 
-
-
-AUSTIN (as Orellia): No, I haven’t, actually. I haven’t seen any kidnapped kids. 
-
-
-ART (as Grand): Are you kidnapped? 
-
-
-AUSTIN (as Orellia): [mockingly] Gig. Gig Kephart. It’s me, Gig Kephart!
-
-
-KEITH (as Gig): You’re not Gig Kephart! I’m Gig Kephart! 
-
-
-ART (as Grand): That’s a great impression of Gig Kephart.
-
-
-ALI (as Tender) It is.
-
-
-JACK (as Fourteen): Alright, look—
-
-
-AUSTIN (as Orellia): We watch your show and make fun of it. 
-
-
-        ART (as Grand): [softly] Oh shit.
-
-
-[Ali laughs]
-
-
-JACK (as Fourteen): Okay, well, look—can we move past this just for one second?
-
-
-KEITH (as Gig): Wait, hold on, wait woah woah woah woah woah.
-
-
-JACK (as Fourteen): Gig. 
-        
-        AUSTIN (as Orellia): We broadcast it. 
-
-
-KEITH (as Gig): Woah woah woah woah woah. Hold on, hold on, hold on, hold on, hold on. 
-
-
-[Ali keeps laughing] 
-
-
-AUSTIN (as Orellia): The Ark has these big projectors and we project it into the clouds and we all just look at it and laugh, it’s so funny. 
-
-
-        KEITH (as Gig): Hold on. As long as you’re laughing. 
-
-
-[Ali laughs harder]
-
-
-        JACK (as Fourteen): Alright, okay.
-
-
-        AUSTIN (as Orellia): Fucking punk.
-        
-JACK (as Fourteen): I’m gonna be straight with you. Some kids have been going missing. And we’ve been contacted by people who have been worried about them and want to know, you know, what’s going on there. And we followed the lead here, and now you’re here, and, you know. We just wanted to—do you know someone called Winchester? 
-
-
-AUSTIN (as Orellia): Yeah, I know Winchester. Winchester is fine.
-
-
-JACK (as Fourteen): Winchester’s fine?
-
-
-AUSTIN (as Orellia): And that’s all I’m gonna say.
-
-
-JACK (as Fourteen): And that’s all you’re gonna—
-
-
-AUSTIN (as Orellia): I’m not a snitch. 
-
-
-JACK (as Fourteen): Okay. You can leave and let us finish our work here. Or we are prepared for—[chuckles]. We are prepared for action.
-
-
-ART (as Grand): Yeah, see, but that’s the thing, you’re just—I understand that you’re the coolest kid in your neighborhood.
-
-
-JACK (as Fourteen): Oh, this isn’t gonna help.
-
-
-AUSTIN (as Orellia): I’m not. I’m not. I’m a kid who didn’t want to be on Gift-3. And who is figuring out how to make a life that I give a fuck about. So get out of my way, go down the tower, let us finish our work, and we don’t have to—this doesn’t have to become a fight, this doesn’t have to become an incident that you have to write down in a report. 
-
-
-ART (as Grand): There’s no reports, come on.
-
-
-ALI (as Tender): Yeah.
-
-
-KEITH (as Gig): Yeah, fixers don’t do reports. 
-
-
-ART (as Grand): You’re misunderstanding what we do. 
-
-
-ALI (as Tender): Also, while we’re having this conversation, we’ve all spent a fair amount of time making lives that we give a shit about. So, we can—[laughs].
-
-
-AUSTIN (as Orellia): Then understand that this is my choice to be here right now.
-
-
-ALI (as Tender): We are. 
-
-
-AUSTIN (as Orellia): And you shouldn’t get involved. I’m asking you not to get involved.
-
-
-ART (as Grand): Are all the other kids here?
-
-
-AUSTIN (as Orellia): No, the other kids aren’t here, what?!
-
-
-KEITH (as Gig): What is it about the show you don’t like?
-
-
-[Ali laughs]
-
-
-AUSTIN (as Orellia): Your opinion changes with every guest you have on. I’ve never heard you say the same thing twice. 
-
-
-KEITH (as Gig): Well, if I said the same thing every time it’d be boring.
-
-
-AUSTIN (as Orellia): If you said the same thing you’d be honest. And you’re not. And that’s why people like you. 
-
-
-ART (as Grand): This is fucking brutal. I’m so glad I’m not Gig.
-
-
-[Ali, Austin, and Keith laugh]
-
-
-AUSTIN: [laugh] Does Grand just say that?
-
-
-ART: Yeah.
-
-
-AUSTIN: Oh fuck.
-
-
-JACK (as Fourteen): Alright, okay. 
-
-
-KEITH: This is your—you did this to me, by the way. This is your fault.
-
-
-AUSTIN: [laughing] You did, you did do this. I rolled those dice, those dice could have come up two sixes, she could be starry-eyed for you right now. But also they came up two ones.
-
-
-KEITH: It is—it’s both Grand Mag’s fault and also Art’s fault [laughs]. It’s both your faults.
-
-
-[Austin and Ali laugh]
-
-
-JACK (as Fourteen): Alright.
-
-
-ART: I think it’s probability’s fault.
-
-
-[Austin laughs]
-
-
-JACK (as Fourteen): We can go. We can go. We can leave here and let you keep doing what you’re doing. And that’s, you know, that’s kind of appealing. But when we go back and the people who are worried about Winchester and about the others hear that, they’re going to send other people. And those other people are not going to be us, because we’re going to be somewhere else. We’re going to be on Moonlock, we’re gonna—We have this big ship and there’s a lot going on right now. And I cannot promise you that we are going to be better than the next people who are going to come. But they’re gonna come and this opportunity is gonna go. You odn’t have to come back with us, we’re not gonna, you know, take you back or tell anybody where you are. We just want to try and, you know, unpick this situation, at least a little.  
-
-
-AUSTIN: Garlic does a quick sign to Orellia and then turns back to y’all and says, like—and—er, Orellia says: 
-
-
-AUSTIN (as Orellia): The big guy thinks you’re telling the truth. I can set up a meet. I’m not bringing you back with me but I can—
-
-
-AUSTIN: And then, as she says “I can”, the alarm starts going off.
-
-
-ART: Oh shit, did that drone figure it out? [laughs]
-
-
-AUSTIN: The drone figured it out. And Orellia, Orellia Ject, says:
-
-
-        AUSTIN (as Orellia): Millet!
-
-
-AUSTIN: And slaps her head on her hand—her hand on her head. And the alarm is going off. And then she says:
-
-
-AUSTIN (as Orellia): Shit, we’re only gonna have—we have to—cover us! 
-
-
-AUSTIN: And she turns back this console and starts typing into the—these keys—and starts to move Yam on top of this workstation. 
-
-
-AUSTIN (as Orellia): Ten minutes before they get here, probably, we’re up pretty high. But I have to do this—I have to do this really complicated procedure. I have to install this—
-
-
-AUSTIN: And she holds up this collection of wires and circuits. 
-
-
-AUSTIN (as Orellia): —into Yam. And I don’t know that we’re gonna have time, so just—Cops, you can leave now and meet me by the Eastern Gate in three days.
-
-
-        KEITH (as Gig): Wait, what is that thing? What is that?
-
-
-        AUSTIN (as Orellia): It’s gonna let Yam talk.
-
-
-        KEITH (as Gig): Oh.
-
-
-AUSTIN (as Yam): We’re downloading the—we’re taking the design and we’re also installing the prototype just to see if it works. But—it doesn’t matter, shut up! I have to—
-
-
-AUSTIN: And she slides over on a stool and pops, very dram—not dramatically, but very nonchalantly, actually—just like uses a screwdriver to pop the front cover off of Yam. And begins to just try to start wiring this thing in. [The Notion begins playing]. Garlic—
-
-
-KEITH: Can I help? Or like—
-
-
-AUSTIN: Totally. Do you know how? I guess, how do you say, “I can help”?
-
-
-KEITH: I know how to robots.  
-
-
-AUSTIN: Yeah, you do. You do.
-
-
-KEITH (as Gig): I—I can maybe help? I can maybe help.
-
-
-AUSTIN (as Orellia): You can help?
-
-
-KEITH (as Gig): I can definitely help.
-
-
-AUSTIN (as Orellia): This isn’t the same thing as building an ice-skating rink, Gig. 
-
-
-KEITH (as Gig): I’m really good at robot stuff. Ice-skating rink—Why are you so mad that I helped those kids skate on ice?
-
-
-AUSTIN (as Orellia): Garlic, go watch the door. Gig...pick up a screwdriver.
-
-
-[Music continues to the end]
-
-
-
-
-
-
-        
-[a]I started here, at 21:23
-[b]Jacob, is there a way to reach you on discord or somewhere? ^^ Thanks for your help!
-[c]Hey Jacob, again, thanks for your work, just checking in on behalf of Transcripts at the Table since it's been over 6 months on this doc. If you could give a way to contact that would help so much
-[d]Terrible sorry! Didn't get the first message! I'm reachable on Discord at Commie By You Name#0678
-[e]I saw that most of the transcripts are complete, if someone else would like to finish this I will forfeit it, very sorry I never got around to finishing it. I have a document where I let Google auto-transcribe it that I never got around to using and I can link that if whoever takes it over wants that.
-[f]That would be awesome to have that auto-transcribed content. Thank you for getting back to us.
-[g]Alright I just opened it and apparently my cat typed a few pages of "q"s sitting on the keyboard, and I have to head to work here in a few, so I'll send it later tonight!
-[h]Here is the link to the auto-transcription, it's been probably about 80% accurate in my experience but it's definitely more of a helper than a solution. I'm relatively certain this starts when the current transcription ends. https://docs.google.com/document/d/1grpaGW84RD97bfVpTaAghAeaIgujB0G_eU28up3Lr84/edit
-[i]Great, thx! ive rq you on discord so that i can get paypal stuff done
-[j]Yes, if you haven't sent your paypal info, please send that to Austin, R, or myself (Cole).
+[music ends]
+[a]I can only explain pronunciation with polish pronunciation rules so please someone.. XD I marked the same things with the same letters
+[b]y = idillic, x = ihdillic, x = ihdillic??? i feel like is the way that makes the most sense
+[c]I gave my best interpretation here <3
+[d]is that a reference to something?
+[e]joe schmoe is like, an average guy, in english. a schmuck
+[f]????????????????????????
+[g]ah, latin

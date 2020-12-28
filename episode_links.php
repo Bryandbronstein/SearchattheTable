@@ -125,6 +125,10 @@ $episodeLinks = array(
         "link" => "https://docs.google.com/document/d/1zGovC79LsvuwVViOvqTCtz3SbRGHfZETRwkFm1WFFqg/edit?usp=sharing"
     ),
     array(
+        "title" => "﻿COUNTER/Weight 00: If Han Solo Used To Be Beyoncé, or: Hashtag Otechku",
+        "link" => "https://drive.google.com/open?id=1dhlsagqfVSudwUyokFRNvQWHkUOJIUC2D4sXBNDCNSI"
+    ),
+    array(
         "title" => "﻿COUNTER/Weight 01: I Would Like A Bribe",
         "link" => "https://drive.google.com/open?id=1mh8uLkw9dOkfiiMTvMUOilV-1Q9cC5OofAp_galM_RE"
     ),
@@ -235,6 +239,10 @@ $episodeLinks = array(
     array(
         "title" => "﻿COUNTER/Weight 31: Expertize with a Z (transcribed by Kay @sokratesnikon)",
         "link" => "https://drive.google.com/open?id=1G3esJnyHRLwCPO7ZLAR2DHR5LzTRN5YU-R_fL0dml3c"
+    ),
+    array(
+        "title" => "﻿COUNTER/Weight 32: Through The Crosshairs",
+        "link" => "https://drive.google.com/open?id=1jAkxN2wUXP2O50bvXo3nhA_aBhiwVMXn49T9LwouFjQ"
     ),
     array(
         "title" => "﻿COUNTER/Weight 33: A Fractal Garden and an Intercepted Message",
@@ -487,6 +495,10 @@ $episodeLinks = array(
     array(
         "title" => "﻿Winter in Hieron 21: The Shield of Our Will",
         "link" => "https://drive.google.com/open?id=1W1M9p_c-lcvtgg8TeKiIJUMez1UepP5yXZiz_l3Zyrg"
+    ),
+    array(
+        "title" => "﻿Winter in Hieron 22: A Holy Place",
+        "link" => "https://drive.google.com/open?id=1zYTlyZUxnQZv2s6Obdnn92_JXyoKzdJIes9MpYAC9Kk"
     ),
     array(
         "title" => "﻿Winter in Hieron 23: Make the Library Smile",
@@ -749,6 +761,10 @@ $episodeLinks = array(
         "link" => "https://drive.google.com/open?id=1FjBp_WmFXLHLKdiiKcJ01U1ZASbxtTGhQdO6la-A7ME"
     ),
     array(
+        "title" => "﻿Twilight Mirage 13: An Instinct Without A Word",
+        "link" => "https://drive.google.com/open?id=1r26GNDkvZOqO8-O4lFcX1WV3WPAG-c7Gij-y4p_fDgY"
+    ),
+    array(
         "title" => "﻿Twilight Mirage 14: The Value of Distance",
         "link" => "https://drive.google.com/open?id=1dWYhP7maRexQDS8kcA_JbFzMy-E6oRXGawiCwh4M63U"
     ),
@@ -801,6 +817,14 @@ $episodeLinks = array(
         "link" => "https://drive.google.com/open?id=1EBnNWYGS0mBluIvhTguvxjGk8DIgp-9FxMIme1YRgV4"
     ),
     array(
+        "title" => "﻿Twilight Mirage 28: This Year of Ours: The Scoundrel",
+        "link" => "https://docs.google.com/document/d/1lTmS4TdtfEeoN1wPlDmz9JfnAXz9E6J6_Qp3L-VdQxk/edit?usp=sharing"
+    ),
+    array(
+        "title" => "﻿Twilight Mirage 29: This Year of Ours: The Pilot",
+        "link" => "https://docs.google.com/document/d/1rmrBcI70ZO0yuLi_6Rf5-eph8eEa2iICxcl4G85NrAA/edit"
+    ),
+    array(
         "title" => "﻿Twilight Mirage 30: This Year of Ours: The Muscle",
         "link" => "https://drive.google.com/open?id=1x6RuF1UG5l3wPs2lQDTIXs30ysIE7w2G2q0pviVlqII"
     ),
@@ -819,6 +843,10 @@ $episodeLinks = array(
     array(
         "title" => "﻿Twilight Mirage 34: This Year of Ours: The Mystic",
         "link" => "https://drive.google.com/open?id=1DievgnHN1OujJN97CcmuyG0Vm45sMDF9yum2C1nWKg8"
+    ),
+    array(
+        "title" => "﻿Twilight Mirage 35: This Year of Ours: The Notion",
+        "link" => "https://drive.google.com/open?id=102V1dLuBS5xToyRnZNeMpU7j7Eth4PFYV-8a7iRP5ec"
     ),
     array(
         "title" => "﻿Twilight Mirage 36: Every Bad Idea",
@@ -1039,6 +1067,10 @@ $episodeLinks = array(
     array(
         "title" => "﻿PARTIZAN 28: Millennium Break: The Storm Over Cruciat",
         "link" => "https://docs.google.com/document/d/1tqYTK2HJ4ClTeoRHBF9n3SLVwCe5neUO8oHnxBf-B7A/edit?usp=sharing"
+    ),
+    array(
+        "title" => "﻿Bonus Episode: Sports Are Just Numerology",
+        "link" => "https://docs.google.com/document/d/15KtRVAFASW3vo7ip0vl2q3LZCo6T-bv7WPdExAGXMEA/edit?usp=sharing"
     )
 );
 

@@ -1,1707 +1,2487 @@
-﻿COUNTER/Weight 30: Another Facility Among Trees
+﻿COUNTER/Weight 28: A Special Kind of Warmth
 
 
-Transcriber: Ray B. 
+Transcribed by kira @queencustom (0:00:00 to 0:03:25) and Jen @wronghandle#1989
 
 
-[00:00:00] AUSTIN: It had been a nice visit, the school had blossomed even further than when he was last there and he felt like he had come to peace with his past with Maryland. But when it was time to go, he suddenly welled up with regret, and something else: fear. The things she was working on would, well... 
-[The Long Way Round begins]
-And so he chose a man, someone bright, someone who came from nothing, like he himself had, someone who had been with the September Project from the start, from before it was even September; and Ibex anointed this man his proxy. Except the fear remained. What would happen if Twelfth couldn't reach him? What would happen if Oricon discovered the institutes true nature? Their voices broke the mood wide open, their voices broke the mood wide open. 'What you need,' they told him, 'Are people so righteous that they'll be on their best behavior, even when their god isn't watching them. Let us do this for you. Let us build you a presence there, even when you are absent.' Ibex's eyes drew in.
+[MUSIC - "The Long Way Around" starts]
 
 
-AUSTIN (as Ibex): For a Divine that doesn't have a Candidate, you sure are eager to delegate power.
+AUSTIN: [narrating] 30 days ago, on Counterweight. 
 
 
-AUSTIN: Liberty and Discovery reached out with their many limbs, resting it on his left shoulder. 
+The room already smelled musty. The automated cleaner units Orth Godlove left behind did an admirable job of keeping the room free of biological contagions, but they did nothing to make it comfortable, let alone pleasing, to be in. But Ibex brings his own aroma wherever he goes, and within the first few steps of his arrival, the memory den took on a refreshing fragrance. The cleaner bots moved aside, lifting up their air scrubbers like trumpets announcing his arrival. He puts a hand on the old hero’s head. It’s warm, that special kind of warm that means things could move in any direction if pushed just so. Ibex was familiar with that heat. He practiced controlling it, bringing it from balmy to boiling to bring down a state, cooling it from scorching to sapid to ruin an economy. If you wanted to move history, you had to first learn to be comfortable in that mercurial warmth. He glided from one station to another. The press of a button, the flip of a switch, and then a cord pulled from its socket. And there on the bed, Jace Rethal struggles, desperate to feel cool air.
 
 
-AUSTIN (as Liberty and Discovery): No more Candidates,
+[MUSIC - "The Long Way Around" ends]
 
 
-AUSTIN: They whirred a solution into place, even as they spoke to him.
+AUSTIN: Hey everyone, welcome to Friends at the Table, an actual play podcast focused on critical worldbuilding, smart characterization, and fun interaction between good friends. We are, as always, presented by streamfriends.tv and runbutton.net. Today we are back to the Faction Game. We are back to Stars Without Number/a little bit of Microscope, which means we are back to Sylvia[1] Clare and Andrew Lee Swan. 
 
 
-AUSTIN (as Liberty and Discovery): Only peers.
+SYLVIA: Hey, I’m Sylvia!
 
 
-[The Long Way Around plays]
+AUSTIN: Welcome back! Where can people find you on the internet? Let’s do it up front, so that way we don’t forget it at the end.
 
 
-AUSTIN: Hey everybody welcome to Friends at the Table, and actual play podcast focused on critical worldbuilding, smart characterization, and fun interaction between good friends, we are presented by streamfriends.tv and runbutton.net. We are continuing our game of The Sprawl by Hamish Cameron, that book is so beautiful. I finally had a chance to look at that book, that book is so beautiful!
+SYLVIA: Yeah, you can just find me on twitter.com/captaintrash. That’s it. [DRE laughs]
 
 
-ALI: It's so good.
+AUSTIN: It’s a good name.
 
 
-AUSTIN: That is Ali Acampora, you can find her on Twitter @ali_west. Also joining me today, Jack DeQuidt:
+SYLVIA: Yeah.
 
 
-JACK: Hi there, I'm @notquitereal on Twitter. 
-AUSTIN: Also Art Tebbel: 
+DRE: [laughing] Sorry, Sylvia just going “Ayy, it’s Sylvia!”
 
 
-ART: Hey I'm @atebbel on Twitter.
+SYLVIA: It’s Sylvia!! I’m happy to be back! Hey, I got a new microphone! I sound good!
 
 
-AUSTIN: And... Keith J. Carberry:
+AUSTIN: You do.
 
 
-KEITH: Hi, I'm @keithjcarberry on Twitter and you can find the let's plays that I do at youtube.com/runbutton. Did we all decide to drop saying at, with Twitter handles? Did y'all-- is there a meeting I didn't know about?
+DRE: Hey I’m Andrew. You can find me on Twitter at @Swandre3000.
 
 
-AUSTIN: I still type it-- so I'm in this position now where because I've been putting up so many guest pieces on GiantBomb that when I write the like-- the bios for people, or when I like add the Twitter link, I'm really... unsure whether or not I should say at, and then the @ symbol, their name. Or is it--
+AUSTIN: That’s a good Twitter handle.
 
 
-JACK: I feel like it's like saying www dot,
+DRE: Thanks.
+
+
+SYLVIA: We’ve all got good handles here.
+
+
+AUSTIN: [laughs] We do. I’m at @austin_walker, if you don’t already know. We’re back to the faction game because a lot has happened. [SYLVIA and DRE laugh] And it’s time to take stock, let’s say.
+
+
+SYLVIA: That’s putting it mildly.
+
+
+AUSTIN: I think it is putting it mildly. Is this the first full faction game that we’ve had since we did the—? 
+
+
+SYLVIA: Since the holiday, yeah.
+
+
+AUSTIN: Since the holiday and since the re-jiggering of the factions?
+
+
+SYLVIA: We did a mini-session to— 
+
+
+AUSTIN: We did, okay.
+
+
+SYLVIA: —to sort out all— to sort of act out everybody coming to— the faction merging— 
+
+
+AUSTIN: Totally.
+
+
+SYLVIA: —but we haven’t had an actual game.
+
+
+DRE: Yeah, that was definitely more Microscope-y than— 
+
+
+AUSTIN: Yeah, it was. It was Microscope-y, and also we always agreed on what the outcomes were. So we barely even touched the rules of Microscope.
+
+
+DRE: Yeah.
+
+
+SYLVIA: Yeah.
+
+
+AUSTIN: But let’s just go over quickly what the factions are, where they’re at. Let’s start at the bottom here. The Odamas Fleet is the faction that Sylvia has direct control over. It is the group of pirates and genetic experiments turned pirates that are slowly heading down towards Kalliope, the kind of space L.A., with their fleet of ships.
+
+
+SYLVIA: I believe we just passed by — not Ionias. Where was— 
+
+
+AUSTIN: No, you’ve not— 
+
+
+SYLVIA: Was it Archonic that we just passed by?
+0:03:25
+
+
+AUSTIN: You just passed— I think you're passing through Archonic right now.
+
+
+SYLVIA: Well, I think that's where we were.
+
+
+AUSTIN: Let's seen.
+
+
+SYLVIA: Because that's how we came to join with the—
+
+
+AUSTIN: Horizon Tactical. 
+
+
+SYLVIA: Horizon, that's it. Yeah.
+
+
+AUSTIN: That might be right. Let's see. Yeah. You have— 
+
+
+SYLVIA: I'm pretty sure that's right. I'm pretty sure that's where we're starting.
+
+
+AUSTIN: Oh yeah. I'm looking at the wrong place here. Well, we have it written down, so let's just double-check again. You might have only passed through Vyshe, because you started at Tetrakal and you moved— yeah, I think you're in Archonic now. I think that's correct. And heading south toward Kalliope, past JoyPark, past Ionias.
+
+
+SYLVIA: Which will be interesting. 
+
+
+AUSTIN: It should be, because you're about to pass through Petrichor Automedia's space. Petrichor Automedia, of course, is the faction now currently run by Andrew Lee Swan. Formerly Snowtrak, formerly EarthHome Entertainment, now this big megacorp, Petrichor Automedia. They do it all. They do robots, they do movies. They do that sound that keeps you up at night. [DRE laughs] They do existential dread, they do efficiency operations. They're good. They're good. And their goal right now is— they need a goal. We need to talk to you, Dre, about what your goal is.
+
+
+DRE: So I was looking at all of this before we started. The two that stand out to me would probably either be Inside Enemy Territory, which is where you plant stealth assets on worlds. And it's equal to your Cunning score, which I think is 5? 
+
+
+AUSTIN: You should be able to see it over there. Yeah, it's 5. 
+
+
+DRE: Yeah. And then the only other thing I could think of would be— because it's expansion either way. It's either stealthy expansion or outright expansion. So I was thinking Planetary Seizure might be another possibility.
+
+
+AUSTIN: Yeah. Planetary Seizure almost— I guess the question we have to have here is, is it time for Rigour to strike? So what was the other one you were thinking of? Expand Influence? Or Inside Enemy Territory, is that the one you just said?
+
+
+DRE: Inside Enemy Territory.
+
+
+AUSTIN: Inside Enemy Territory is pretty good, in that it would be the bit of Rigour and Petrichor that is prepping to set things off. But I am also really interested in, what if it's just time to go?
+
+
+DRE: Yeah. I think that is more interesting. And I also think Inside Enemy Territory would be the half-goal to a Planetary Seizure. 
+
+
+AUSTIN: Right. Totally.
+
+
+DRE: So it might as well just be Planetary Seizure.
+
+
+AUSTIN: Planetary Seizure says [reading] take control of a planet, becoming a legitimate planetary government. Difficulty is equal to half the average of the current faction's Force, Cunning and Wealth ratings. If the planet somehow lacks any opposing faction to resist the seizure, it counts as difficulty 1. But I think all of the things that Petrichor has assets on, or all their possible targets, would have a ruling government currently. 
+
+
+DRE: Yeah. Would they do.
+
+
+AUSTIN: All right. So let's just slot that in though then, as the — 
+
+
+SYLVIA: Sure you don't want Peaceable Kingdom? [AUSTIN and DRE laugh]
+
+
+AUSTIN: Yeah, yeah. That's what they want. In fact, I'm also going to jump up to Hands of Grace, who currently need a goal also, and give them the goal Peaceable Kingdom. Which is the way we've come to understand, at least some perspectives on the Hands of Grace is, "Hey, they're fence-sitting." They're so afraid that everything's going to fall apart that they're not doing much of anything. So I like them as having Peaceable Kingdom right now.
+
+
+SYLVIA: They're licking their wounds right now.
+
+
+AUSTIN: Yeah. Exactly.
+
+
+SYLVIA: After everything that's happened.
+
+
+AUSTIN: Yeah. They've crawled up into this little corner here, the northwest part of Diasporan space. That's all they have left. Yeah. It's good times. Good times for them.
+
+
+Who else do we have here? We have the Golden Demarchy, Sokrates's reformist Apostolosian group. And their goal right now is— they have Inside Enemy Territory. Er, that might be wrong. That might be off.
+
+
+SYLVIA: That might be old from— 
+
+
+AUSTIN: I think that's old. 
+
+
+SYLVIA: —the Apostolosian empire.
+
+
+AUSTIN: That seems likely. Let me see something. Oh. No, you know what? 
+
+
+SYLVIA: I'm pretty sure.
+
+
+AUSTIN: Yeah, I think what they want actually is also Planetary Seizure of Gemm. That's what that other note is there. Because Gemm is currently a Hands of Grace planet, is technically Diasporan. So if you look at the map as we have it right now, I need to just— 
+
+
+SYLVIA: I thought they have their own little southern pocket as well.
+
+
+AUSTIN: Yes. I need to upload this new map to the website, and maybe I'll try to do that tomorrow. So the map is now broken off into each of these different factions, but sometimes inside of a faction there will be— instead of faction space, there is still a planet that belongs to another faction. 
+
+
+So in this case, the Golden Branch Demarchy, again, Sokrates's reformed Apostolosian empire, they have this little corner, this little pocket in the deep south of the Golden Branch. But in the pocket is Slighter. What's on Slighter, again? It's been awhile since I've thought about some of these factions. There they are. They're all the way at the top. Hundreds of thousands of people … right, right. There's an archive. That's where Sokrates found Integrity. And then also Gemm, which is more or less— where the Kingdom game started was on Gemm where all the millions of refugees are. Gemm is technically Diasporan, a Diasporan planet, a Hands of Grace planet. So I think Sokrates wants to claim that, so that the Golden Branch Demarchy can actually help those people. That's what their goals are.
+
+
+Who's left? Rapid Evening definitely just wants to keep Expanding Influence. I think probably to— let's see here. I kind of like the notion of them wanting to get to Minerva and— I don't know. I like the notion of they have maybe also sat on their hands for too long. They thought like, "Oh, our tech is so powerful that we can just get by that way." So maybe they're seeing the fracturing Minerva Strategic Alliance, formerly the OriCon Expeditionary Group and Minerva Mining and Mechanics. And they're like, "Oh, maybe we can scoop some of this up and start putting some agents on Minerva maybe."
+
+
+SYLVIA: I do want to ask, do they know that Rigour knows about them?
+
+
+AUSTIN: Yes, because we got that— 
+
+
+SYLVIA: That could also be a factor in them trying to move.
+
+
+AUSTIN: Yes, totally. Totally. We got that kind of talk between Jamil Quartz-Noble and Aria a couple of episodes ago. And that was basically like, "Hey, we have to go get to the safehouse and hide for a little bit."
+
+
+SYLVIA: I forgot Jamil was part of the them.
+
+
+AUSTIN: Yeah. Yeah, in a way this almost feels like that. Or it's like, "We need to set up new safehouses in new places like Minerva instead of in Petrichor, instead of on Counterweight where they knew where we are." So yeah, I'll make that their goal. I'll make it Expand Influence to Minerva XII.
+
+
+The Righteous Vanguard I think is now Planetary Seizure, seize Counterweight. Right? That's where we're at in this game right now.
+
+
+Minerva Strategic Alliance has Destroy the Foe, destroy Petrichor. We'll see how all that goes. But that's kind of where we were at. In the last faction game, we had that scene in which the newly formed Minerva Strategic Alliance, which is led by these twin business ladies, is like, "Yeah, no. We're gonna put the leash back on Petrichor." We'll see how that goes.
+
+
+And I think that that's everybody, in terms of what they want.
+0:11:32
+
+
+SYLVIA: Yeah, you got them all.
+
+
+AUSTIN: Where does anyone want to start? Or do you have any questions before we move forward?
+
+
+SYLVIA: I think it was pretty clear. I'm not 100% sure where to start, if I'm being honest. [AUSTIN chuckles] There's a lot to do—
+
+
+AUSTIN: There is!
+
+
+SYLVIA: — here. Is there anybody that you guys in particular want to touch on, to make sure we get to today?
+
+
+AUSTIN: Well, your two factions, obviously.
+
+
+SYLVIA: [laughing] I mean, other than that. Yeah.
+
+
+AUSTIN: We have limited time today, but I think it might make sense to just kick it off with— do you want to— let's— god. So the last game was so heavily Ibex and Rigour that I can't decide if we need to stay away from them for a few seconds or if we should follow forward on them. I think let's save them for later in the game.
+
+
+SYLVIA: We could try and do the—
+
+
+AUSTIN: Or do you want to do one and then the other?
+
+
+SYLVIA: No. I was gonna say we could do the ramifications of their movements. So.
+
+
+AUSTIN: Yeah. So in other words, maybe a scene on Counterweight? Or a scene— you know what? How about we take a look at what's up with the Hands of Grace, which— 
+
+
+SYLVIA: Oh yeah. I'm into it.
+
+
+AUSTIN: The opening of this episode is at a peaceful place coming off of the last one. Something about them continuing to lick their wounds. I just like the— whenever we have Grace scenes, there's lots of slow movement and sometimes interjected with fast movement. But it's lots of slow parade marches, a fleet in orbit. Movement but careful, slow movement, and I want to open up a shot on that. So what are they doing today?
+
+
+DRE: I have a question about that, specifically about Sigilia. I mean, the only thing on that planet is marked as a true alien. 
+
+
+AUSTIN: Yup!
+
+
+DRE: Have we ever discussed what that is?
+
+
+AUSTIN: The closest we got was that is where one of the weapons from the Kingdom game was being developed. That's as far as we've got with it. That comes from when we did world generation months and months and months ago. Sigilia was just marked down as "a true alien." And we had spoken about, in the world generation, that even the Apostolosians, who are maybe aliens or maybe trace themselves back to ancient Atlantians or who knows what they really are? They're still basically people. They're basically humans at the end of the day.
+
+
+SYLVIA: Genetically similar enough to humans to be considered just an offshoot of humans.
+
+
+AUSTIN: Especially genetically similar enough to whatever humans are 10, 20, 100 thousand years in the future in this setting. Right? I don't even know— I'm willing to handwave this little bit of it. I'm sure that if we had— if we were an actual TV show, we would have much more interesting talks about how to make Apostolosians visually distinctive or if we even should do that. But we said, "If they're going to be aliens, it's going to be not just an easily— not Star Trek aliens."
+
+
+DRE: Yeah. It's not going to be blue people.
+
+
+AUSTIN: Right. Exactly. And so, Sigilia was that. And we know that it was tied to the creation of the device that made Weight. And that's about all we've known about it. And I'm still not sure if we should go there and define that more or not. I don't know. Maybe we should. Do you think— do you have any ideas about that place?
+
+
+DRE: No, I don't. And I had totally forgot that in the Kingdom game, it was a place for weapon development. 
+
+
+AUSTIN: It wasn't necessarily a place for weapon development. it was just that is where one of the— half of the weapons was. And that was when it was still Apostolosian. And it was going to be brought to Counterweight along with something from what is now Minerva XII.
+
+
+SYLVIA: Was it being secured there, or was it just moving through? Was it being protected there?
+
+
+AUSTIN: I think it was being developed there, is kind of the way I phrased it then, and it was half of this thing that was going to be. But maybe it was being secured there, because we've also talked about it as being potentially Rapid Evening tech. So maybe it was recovered from the Rapid Evening. Or it was stolen or put into the wrong hands. We haven't really dug into that stuff. And I'm pretty open when I say— I have plans for some stuff, I don't have plans for other stuff. 
+
+
+I haven't sat down and hammered out what a true alien is because I think it's really fascinating. I wanted it to eventually, at least, be part of this game. So maybe it is time to talk about what the thing is. So yeah. Maybe it's Grace and Vicuna moving from Garden to Sigilia.
+
+
+SYLVIA: I'm assuming that Sigilia is still a pretty secure planet, because they were securing such a powerful item there. Right? So it's probably a stronghold for them.
+
+
+AUSTIN: Well, we can literally just see because I can tell you what's on or is not on Sigilia, actually. Yeah, okay. So the item that's there is a thing called Book of Secrets. And that says, "re-roll one die for an action taken on that world, or force an enemy faction to re-roll one die." So for the sake of this game, it's like a time machine. It goes again. You either get a second shot at what you do, or else you make someone else go back and try it again. Which, again, is fascinating— 
+
+
+DRE: I think that fits with the goal of being Peaceable Kingdom. I mean, it's a defensive weapon. So that makes pretty sense with the kind of technical part of it.
+
+
+SYLVIA: It could also tie into the alien life form there.
+
+
+AUSTIN: Right. And what the device is that made Weight. Literally, it took from Counterweight and rewound it into this beautiful, perfect world. Right? 
+
+
+SYLVIA: We don't have to go deep, because we just don't have the time to deep-dive into it. But I'm liking the idea of something about this alien biology was used in the development of this thing.
+
+
+AUSTIN: Yeah, totally. Even if it wasn't really an even alien— it could be something that's beyond what we think of as alien biologies. Right? I like it a lot.
+
+
+So actually, how about this turn— I think we just open on shots of Vicuna in Grace looking at images. And then we get a shot of Sigilia similar to the one that you got in the Kingdom game. I kind of see it as a very— a yellow planet with a fog over it and old ruins, old Apostolosian ruins that have not been cleared away the way you normally clear away— the way the Diaspora has cleared away the rest of the ruins. Right? Normally, it moves in— maybe the Diaspora doesn't clear away the ruins the way that OriCon does. OriCon just steamrolls everything like, "Oh, this is a theme park now." Maybe the Diaspora has always been like, "Oh, we just can convert what's here into our new usage." Right? Like, "We'll keep the old Apostolosian archways and just build a new building around it. We'll make—"
+
+
+SYLVIA: They just gentrify? 
+
+
+AUSTIN: Yeah, exactly.
+
+
+SYLVIA: Yeah. It's perfect for them.
+
+
+AUSTIN: Yeah. Like, "Oh, we don't want to burn down their museums, we just want to fill it with Starbuckses." [DRE chuckles] It's great.
+
+
+SYLVIA: What was— Constellation Coffee.
+
+
+AUSTIN: Yeah, exactly. Exactly. So maybe it is that there are all these old ruins there that have not been — but even these have not been disturbed anywhere near the way the other ones have. And I like just opening on Vicuna saying, 
+
+
+        AUSTIN (as Vicuna): It's time to mobilize what's on Sigilia.
+
+
+AUSTIN: Maybe even a light debate back and forth between Vicuna and maybe not the voice of Grace in that we hear words, but some sort of vibration, sort of color that communicates tone. And eventually we see bits of Grace starts to move. We get an outside shot of the body of Grace and little rings on her - almost like bracelets that are around parts of her body - start to rotate, as if to activate something far away.
+
+
+SYLVIA: I really like the color idea. So I think she's in the cockpit, and when she's saying these things, there's a sequence of lights sort of playing. And it pulls out, and because Grace is missing the arm still—
 
 
 AUSTIN: Right.
 
 
-JACK: Like you don't really need to do it.Unless you're a grandma or a grandpa? They're allowed to do it.
+DRE: Oh yeah.
 
 
-KEITH: Well here's the thing is because most-- a lot of people don't have their name as the thing, like Jack I'm gonna-- I'm gonna pretend that I'm you for a second.
+SYLVIA: — you just see inside where the arm was just this constant small motion— 
 
 
-JACK: Hi!
+AUSTIN: Oh, that's really good.
 
 
-KEITH: Hi, I'm not quite real. And then until you say on Twitter I just think that you're starting to craziest sentence.
+SYLVIA: — with the light underneath it changing. Just something within Grace.
+0:20:06
 
 
-[laughter]
+AUSTIN: I like that. I like that a lot. All right. So I think what's actually happening that turn is either they're buying a new asset - they have 15 credits saved up - or they are using postech industry to get more money. But let's just peek at what they could get for 15 credits.
 
 
-JACK: Hi, I'm not quite real and it's Sunday.
+DRE: A lot.
 
 
-[More laughter]
+AUSTIN: They could get a lot. They've been saving for a little bit here. Their Force is 8, their Cunning is 7. So let's look at some Force 8 assets. They could theoretically buy up another capital fleet— actually they need to pay down their capital fleet. One second, let me just do that. Okay, so they have 13 credits, not 15. That's still sizeable. Ah, asset tables. Yeah, that's still enough to get a middle thing. But maybe they keep saving up. Maybe this is like they're building up to get something really fantastic.
 
 
-AUSTIN: [laughing quietly] Good, good start. So.
+SYLVIA: I think they want to go for something huge. Right?
 
 
-[ Yet more laughter]
+AUSTIN: Yeah, probably.
 
 
-AUSTIN: Start of the game. Our agenda [reading] "make this world dirty, high tech, and excessive. Make big things bigger and small things smaller. Fill the character's lives with action, intrigue and complication. Entangle the character's lives in The Sprawl and play to find out what happens" Our personal directives-- I think these are still them, more or less? Aria, did you change yours or are yours the same?
+SYLVIA: Because can't really be building this big thing, and then it's like, "Oh. No, we just got a party machine."
 
 
-ALI: No, I'm keeping mine.
+AUSTIN: Right, exactly.
 
 
-AUSTIN: Okay, [reading] "When you value heroism over the mission, mark experience. When your desire for fame draws unwanted attention to the mission, mark experience." AuDy, I only have one of your's written down on my paper because I'm a bad GM... I've actually been prepping from Roll20 so I've seen whatever it is now, I just didn't ever actually copy it over to...
+SYLVIA: Which is still my favorite item in the game, even though I know it's not an actual party machine. [DRE laughs]
 
 
-JACK: Ah, okay.
+AUSTIN: If only it were. 
 
 
-AUSTIN: [reading] "Continually broad--" Okay, your first one is "When you discover more information about the cause of your sentience, mark experience. Continually broaden horizons, look for hidden things, and cultivate saplings. When those hinder the mission, mark experience." Cass... you also changed yours, right?
+SYLVIA: It's just my favorite.
 
 
-ART: I did.
+AUSTIN: They could afford psychic assassins right now. That's a thing they could afford.
 
 
-AUSTIN: Yours are...
-
-
-JACK: Fuck Divines.
-
-
-AUSTIN: Right. "When you harm a Divine or their interests, mark experience." and "when your former membership in the Apostalosion royalty hinders the mission, mark experience." And Mako, yours are [laughing] "When your smart ass mouth ruins the mission, mark experience. And when someone-- When you take something the September Institute wants, mark experience." I think that needs to still be in the form of  it being... it can't just be like 'when you get the thing you want', like that's not-- I kind of just like revisiting it now. 
-
-
-[00:05:00] KEITH: Yeah, yeah. Well I put it out there for feedback, and then no one said anything, so I wasn't even sure if we were taking that.
-
-
-AUSTIN: Yeah, I think it's mostly good... the big thing with it is that personal directives should be about-- like everybody's personal directives are about like a thing that is their thing that... kind of does get in the way. Like, personal directives are... the thing that happens in the Cowboy Bebop episode, where the rest of the Bebop is like 'I fucking can't believe you Spike, why the hell are you off doing that bullshit?' or like ‘god damn it Fey, how do you owe this person this much money?' Those are where they get experience. 
-
-
-KEITH: So it should be something that's like 'when you buy more robots than you have money to pay for...'
-
-
-[laughter]
-
-
-KEITH: 'mark experience'
-
-
-AUSTIN: Yes, but there are occasional things that are like 'when you discover more...' so I don't want to say it's completely off the-- off the mark... let's just keep it for now, you know what, maybe it's fine 
-
-
-KEITH: Yeah, cause I spent the rest of the game with...
-
-
-AUSTIN: Yeah, you spent a lot of time not gaining anything from that one, so...
-
-
-KEITH: Yeah.
-
-
-AUSTIN: Let's keep it... Right now our-- our mission directives are "When you take the job, mark XP. When you obtain actionable information on Rigour, mark XP. When you locate and secure Maryland September, mark XP. If every member of the Kingdom Come leaves September alive, take two XP. And when you get paid, take XP." 
-
-
-KEITH: Last episode was... crazy?
-
-
-AUSTIN: Uh huh.
-
-
-KEITH: Because... now we're basically working for the bad guy...
-
-
-AUSTIN: I guess.
-
-
-KEITH: Just 'cause he asked us to.
-
-
-AUSTIN: Well no, 'cause he's paying you twenty credits.
-
-
-JACK: And also, other fairly major reasons, like... maybe...
-
-
-[laughing]
-
-
-KEITH: No, I'm not saying he didn't make a good case.
-
-
-AUSTIN: Okay.
-
-
-KEITH: It's just fucking crazy.
-
-
-ALI: [overlapping with Keith] We're just working for a guy because we just work for random guys? Like its not...
-AUSTIN: Right, like-- tell me a time you worked for the good guys. 
-
-
-JACK: I've worked for this guy before, he's fine.
-
-
-[laughing]
-
-
-AUSTIN: That's true.
-
-
-KEITH: Some guys-- the one-- the sad one we work with is good.
-
-
-AUSTIN: Orth is pretty good, he doesn't exist in a position to hire you anymore though. 
-
-
-ALI: Yeah he's a member-- we hired him?
-
-
-AUSTIN: [laughing] He's-- yeah...
-
-
-KEITH: The only position Orth exists in is the fetal one.
-
-
-[Everyone makes sad 'oh no' noises]
-
-
-AUSTIN: Baby Orth.
-
-
-[Ali laughs]
-
-
-JACK: Oh my god, Austin, does Orth count in the 'people can't die' thing?
-
-
-AUSTIN: Oh yeah, that's every member of the Kingdom Come.
-
-
-JACK: Did you just put Orth and Jacquie...?
-
-
-ART: The two people most likely to die.
-
-
-AUSTIN: Yeah weird.
-
-
-JACK: Like did you just put them on our ships so you could kill them later?
-
-
-AUSTIN: No, I put them on the ships so that one of you would die so they wouldn't, obviously. 
-
-
-[laughter]
-
-
-AUSTIN: We'll find out.
-
-
-JACK: [overlapping with Austin] Honestly that's your mission directive.
-AUSTIN: [laughing] Yes! No, my mission directive is... to fill your lives with action, intrigue, and complication. 
-
-
-JACK: And sadness.
-
-
-AUSTIN: And I've taken XP for that quite often.
-
-
-[laughter]
-
-
-AUSTIN: Um... so here we are! You're on September, you're in this old, abandoned facility... what do you do?
-
-
-[quiet laughing]
-
-
-KEITH: I assess!
-
-
-JACK: [sarcastically] Good move.
-
-
-AUSTIN: What's that mean though, like what are you-- describe to me your assessments.
-
-
-[Ali laughs]
-
-
-KEITH: I just-- I want to know even what the building that we're in is.
-
-
-AUSTIN: Um, AuDy can just tell you that, which is-- this is-- AuDy recognizes the design straight up. It is a... it is a building built in the style of the kind of resistance bases that were established to defeat Rigour on that planet ages ago. It's like-- it's a super modular design that has stuck around for all of that time, and that literally runs on the pre-Divine version of the Liberty and Discovery software. But there's more to learn, so... I guess the other thing you know is that this is a-- it's coordinates that Ibex gave you, right. So it's some sort of base that's tied to Ibex, but go ahead and roll Assess if you'd like to. Which is... Edge.
-
-
-KEITH: [quietly] Edge...
-
-
-AUSTIN: So I like this as an image of just like, you're all here in this place and Mako is just like wandering around... and misses, good.
-
-
-[quiet laughter]
-
-
-KEITH: Yeah, I wander around and nothing useful happens.
-
-
-AUSTIN: One second, let me take a look at your sheet...
-
-
-ART: Well bad things happen when you miss assess.
-
-
-AUSTIN: Yes. Yes bad--
-
-
-JACK: Oh, they do, don't they!
-
-
-AUSTIN: Yes, never miss a roll.
-
-
-[Ali makes a scared noise]
-
-
-AUSTIN: Let me just look at your sheet real quick. 
-
-
-KEITH: Oh, no, well I guess I didn't--
-
-
-AUSTIN: Think that through...
-
-
-KEITH: Take into account the consequences of looking around.
-
-
-AUSTIN: Listen, there's--
-
-
-JACK: I am curious, how does Mako screw up assessing a place?
-
-
-AUSTIN: There's lots of ways--
-
-
-JACK: Is that just not looking at a thing? Or is it failing to see a thing?
-
-
-[00:10:00] AUSTIN: [overlapping with Jack] This is-- no, that's-- those sort's-- I mean that could be one way, right that's totally a way I could do this. It could be like 'oh no you think everything here is cool and fine' that's a totally acceptable thing. Another thing to do, and a thing I actually started to do in Dungeon World last campaign, was I started giving false information, and we-- and I only did this a couple of times, it was a-- it was a suggestion by a friend of the show, Faylen Parker who, when he runs his Dungeon World games, has a house rule that if someone messes up a research, or an assess style roll, give them false information, and if they act on that false information and it hurts them, give them experience. 
-
-
-JACK: That's so good.
-
-
-AUSTIN: And I like that quite a bit, but in this case what I'm actually going to look at is... some of... your...
-
-
-KEITH: So where does-- sorry, where does it say where the bad stuff is?
-
-
-AUSTIN: There isn't, the bad stuff--
-KEITH: [overlapping with Austin] -- the basic moves the same question?
-
-
-AUSTIN: The bad stuff is just whenever-- whenever you roll a six or below, the MC gets to make a move as hard or soft as they want. 
-
-
-KEITH: Oh, okay, so it's just a general...
-
-
-AUSTIN: That's just the universal rule is 'don't fail a roll'
-
-
-KEITH: Okay, I thought there was a specific assess thing that wasn't working.
-
-
-AUSTIN: No. No, no, no, any failure-- I mean some failures have extra, special things where it's say's like 'oh if you fail this then this is the result' but... but assess is just like-- most moves are just 'oh, I get to do a thing' and I have a list of moves just like I did in Dungeon World and if you go back to, I think, the first episode of the Sprawl, I went over what those moves were. But those are the sorts of things that are just like... a gesture that there's something bad coming, or do damage as I've established it already, but in this case what I'm actually looking at is stuff on your character sheet to see if there's something that I can like reference, in terms of you being back on September. For instance you have... I thought you had the-- oh, right yeah, you have the Owned tag, right?
-
-
-KEITH: I do, yeah. 
-
-
-AUSTIN: Yes. So--
-
-
-KEITH:  The-- Mako doesn't know that he is Owned.
-
-
-AUSTIN: [overlapping with Keith] Correct.
-
-
-KEITH: He thinks that he is Hunted.
-
-
-AUSTIN: Right, though it's actually extra interesting now, because that means something different than it did last episode.
-
-
-KEITH: Right.
-
-
-AUSTIN: Owned used to mean that... when-- in my mind, Owned used to mean that at the end of the day, September owned whether or not you could be... whether or not you could use your abilities. And now it doesn't necessarily mean that. But so what I think it means now is that... you walk into a room, and the lights turn on, and it says: 
-
-
-AUSTIN (as September AI): Welcome home, student Trig!
-
-
-KEITH: Mmm... they forgot to take me out of the system.
-
-
-[Ali laughs]
-
-
-AUSTIN: I think you're alone in this room, it's just like a barracks-- it's like a quarters. There are some old cots, like old bunk beds. 
-
-
-[Jack laughing]
-
-
-JACK: Does it say something like 'you have forty credits in unpaid library...' 
-
-
-AUSTIN: [overlapping with Jack, laughing] Yes!
-
-
-[everyone laughs]
-
-
-JACK:... Late fees.
-
-
-AUSTIN: 'you have four hundred and twenty two new messages' and it's all just like-- it's all just messages from--
-
-
-JACK: 'Come to the international student meeting, in...'
-
-
-AUSTIN: That's exactly what it is, it's exactly those, yes.
-
-
-ART: Why worry about all those robots you bought from them.
-
-
-JACK: Book stacking robots...
-
-
-AUSTIN: So...
-
-
-KEITH: Come to their show of Spies and Dolls.
-
-
-[quiet laughter]
-
-
-AUSTIN: So what else-- what else are people doing?
-
-
-JACK: Um... what do-- what do these Discovery terminals-- what are they doing? Are they just inactive or...
-
-
-AUSTIN: [overlapping with Jack] They're waiting, waiting for input, basically. 
-
-
-JACK: Oh, cool... can I interact with one of them?
-
-
-AUSTIN: Totally! What are you doing?
-
-
-JACK: Um [sighs], I'd like to... see if I can see the last messages that were sent or received on this terminal. 
-
-
-AUSTIN: Sure... it's gonna be a roll of some sort to like interface with this. I think this might be... I think this is probably a research roll. That sounds to me like [reading] "when you investigate a person, place, object, or service using a library, dossier, or database, or a combination of them"
-
-
-JACK: That sound exactly what it is, right?
-
-
-AUSTIN: And the question that you asked would be like, the way you under--  you got to ask the 
-question "who owned or employ blank" or something like that, you know.
-
-
-JACK: Yeah.
-
-
-AUSTIN: So go ahead and give me a mind roll.
-
-
-JACK: Okay...
-
-
-AUSTIN: So AuDy just walks right up to this machine...
-
-
-JACK: And I miss it.
-
-
-[Ali makes a worried noise]
-
-
-AUSTIN: Good, great.
-
-
-JACK: This is a great start. 
-
-
-AUSTIN: It is.
-
-
-KEITH: We're bad at this planet, this is not a good planet for us.
-
-
-AUSTIN: Yeah, this is bad-- well you're getting all your bad rolls out of the way. [sighs] So...
-
-
-JACK: Never a time like now!
-
-
-[quiet laughter]
-
-
-AUSTIN: God... When you approach it and you start tapping the keyboards, it says-- I guess, are you tapping a key-- what's the interaction look like?
-JACK: Oh, I think it's... you know like at drive-through's they have those touch screens that really aren't that good.
-
-
-AUSTIN: Yes, mhm.
-
-
-JACK: Because they're pressure based, rather than like the ones on our phones.
-
-
-AUSTIN: Yes. So you press it once, and it's definitely and old screen, you've definitely used better, newer touchscreens, you're totally right, it's like the drive-through ones. And it-- as soon as you touch it, it says-- it says 'nearfield communication identifies new...'
-
-
-JACK: Aw jesus.
-
-
-AUSTIN: 'New firmware upgrade: beginning.' And it wipes the database and installs the newest Liberty and Discovery system into the-- into the base, lifting it from you. You feel the doors now.
-
-
-[short pause]
-
-
-JACK: I mean I guess this could be interpreted as a good thing.
-
-
-[quiet laughter]
-
-
-[00:15:00] AUSTIN: Anyone else making rolls?
-
-
-ART: [overlapping with Austin] That's what everyone says after good things happen.
+SYLVIA: That's—oh, that's really sick! And that could also play into the alien stuff.
 
 
 AUSTIN: Yeah.
 
 
-KEITH (as Mako): [away from the microphone, as if yelling from another room] Something weird happened, I had a few messages and they're all gone!
+DRE: Yep. 
 
 
-[Everyone laughs]
+SYLVIA: Oh, should we do that?
 
 
-KEITH (as Mako): A couple of them looked like really solid leads!
+AUSTIN: I think maybe they buy some psychic assassins.
 
 
-[More laughter]
+SYLVIA: Yeah. Hell yeah! Let me tell you, the next month or whatever until we do the next one, I'm just going to be scribbling down all these ideas for alien stuff, because it's my favorite.
 
 
-AUSTIN: [smiling] Aria, what are you doing?
+AUSTIN: I like it— they are, oh man— actually, is this what the literal Hands of Grace are like? In that the thing they can do, they have the elements of Grace that offer the light empathy stuff, a lighter version of her ability to see into people's minds and make them feel really guilty and bad, but also this element of Grace which is— this ties into the Book of Secrets stuff, too. Where— what is more graceful than knowing how you might fail and going in a different direction? Right? Or failing gracefully, such that when you fall, you don't fall with a 1, you fall with a 2 or a 3 because you got to reroll it. And these psychic assassins are effectively doing this little minor version of what Grace can do, which is see the negative outcome and spin it just so, so that they land instead of falling.
 
 
-ALI: [laughing] What's like... I guess it would be another assess, but is there like anything 
-valuable in this warehouse that we could... take?
+SYLVIA: I like it too because it sort of plays into why— because I believe, if I'm remembering right, the September Institute are sort of threatened by the Hands of Grace?
 
 
-AUSTIN: [inhales deeply] That does sound like another assess, I think... I think it might be.
-JACK: Come on, please let there be--
+AUSTIN: Yes.
 
 
-AUSTIN: No, no no, that's... 
+SYLVIA: And this is sort of an offshoot of what Strati can do, not with tech but with alien stuff.
 
 
-KEITH: Pilfer, it's the pilfer roll.
+AUSTIN: With pure biology. Yeah, I like too. I'll think a lot about that over the next week or two, about what was the Diaspora's response— what was everyone except for Ibex's response in the Diaspora when Strati were first theorized?
+ 
+SYLVIA: Yeah. 
 
 
-[laughter]
+AUSTIN: That's on Sigilia, which is at 00/03. Okay. Starts stealthed. Great. That was an easy opener.
 
 
-AUSTIN: It would be a pilf-- yeah, give me a pilfer. Yes, I  think that would be another assess, something like 'where can I gain the most advantage' would be like yeah I could tell you some cool stuff that's here.
+SYLVIA: Yeah. Do you want to just go down?
 
 
-ALI: Okay.
+AUSTIN: Yeah. Let's keep going down the list. How's that sound? Who's next? 
 
 
-AUSTIN: So yeah, so that's 'when you closely study or situation'
+SYLVIA: So Minerva. 
 
 
-[Jack gasps excitedly]
+AUSTIN: Minerva Strategic Alliance. All right. They want to destroy Petrichor. Let's see where they have assets, decide what they're going to do, and then frame a scene around it. So they have Archonic, and the closest thing that they have, the closest place where they can hurt Petrichor is JoyPark. They could also probably swing at Petrichor on Counterweight if they wanted to just— if it was time to go.
 
 
-AUSTIN: Look at that, Ali rolled an eleven.
+DRE: Oh, I forgot that they have something there.
 
 
-ALI: [spoken] Ha ha ha!
+AUSTIN: I think both.
 
 
-AUSTIN: Aria finally breaks the-- so, I gave--
+SYLVIA: Do you think they'd want to try to punch Petrichor off of Counterweight?
 
 
-ALI: Plus three hold.
+AUSTIN: We've seen that happening a little bit in a Chime a couple of weeks ago, which is what AuDy was doing. Remember? Delivering doctored Petrichor movies. They could. Let's see. What do they have? They have cyber ninjas on Counterweight! Minerva has cyber ninjas, pretech researchers, commodity brokers, and a hostile takeover.
 
 
-AUSTIN: "Gain three hold. In the ensuing action you may spend one hold at any time to ask the MC a question from the list below if your examination could have revealed the answer. The MC may ask you questions to clarify your intent, take plus one forward when acting on the answer." [reading the potential questions] "What potential complications do I need to be wary of? What do I notice despite an effort to conceal it? How is blank vulnerable to me? How can I avoid trouble or hide here? What is my best way in/way past/way out? And were can I gain the most advantage?" And also more "Who or what is my biggest threat in the situation? And who or what is in control here?"
+DRE: I have marketers on Counterweight. [laughs]
 
 
-[quiet laughter]
+AUSTIN: Is that all you have? [SYLVIA laughs]
 
 
-ALI: Um... I think I'm definitely going to go with 'where can I gain the most advantage?' in, just like... looking around at all the stuff that's in here and trying to see...
+DRE: I have marketers and a base of influence.
 
 
-AUSTIN: Sure. So you find two things right away. One is... you notice that there are only two ways in and out. You find a-- you a like map of the facility. And it-- it clari-- it confirms that the way you came in through the kind of landing pad and the stairwell that's attached... to that-- that like goes up to where that landing pad is, those are the only ways in and out where you are and there's another way out of here but it's kind of far from here. There's a long underground passage you can take that plops you up, southwest of where you are... and I'm going to reveal it... on the map... here. Alright. So that's all you see. So that's-- that's your best-- so in other words the place where you have the most advantage are like up near the choke points. There are really only two ways into this place. 
+AUSTIN: What's your base of influence score? 20? That's pretty good.
 
 
-ALI: Okay, what do I notice despite an effort to conceal it? 
+SYLVIA: Well, keep in mind, the defender chooses what's to defend.
 
 
-AUSTIN: So there is... what are you doing, like where is Aria looking?
+AUSTIN: Oh, that's true. That's true. 
 
 
-ALI: I think that she's more like just exploring the facility, like Mako was. 
+DRE: Oh yeah.
 
 
-AUSTIN: Mhm, okay so... alright so you find a... an armory, like a barracks style armory where it's clear a security unit would have geared up, and it's basically empty, all of the lockers have been cleared out of weapons and gear, but you find an ID card that probably slipped out of someone's pocket. On the card is a picture of a man who has kind of tan skin, like weathered tan skin, a square jaw, tight eyes, a really big wide smile which is kind of awkward because he's also just in military gear, and it's just like-- he looks maybe a little more... just a little more happy than most people would look in a picture like this. And it says Declan M., Tzadik Unit, T Z A D I K. Tzadik Unit...
+AUSTIN: Good job knowing the rules, Sylvia!
 
 
-JACK: Oh!
+SYLVIA: No problem. 
 
 
-AUSTIN: And then it probably says... I think that's all it says, it doesn't say anything else. There's a-- there is... when you lift it’s, it's kind of like a-- it feels like it's made of metal, it has like a heavy density to it, it's nice, it feels good in your hand. And you can imagine that it probably contains data.
+AUSTIN: Thanks, buddy.
 
 
-ALI: Okay, would I recognize the word Tzadik from any signs or...
+DRE: Rude.
 
 
-AUSTIN: No, you've never heard it. No, unlikely. Deeply unlikely. 
+AUSTIN: It would have been bad if we had goofed on that. You did it! 
 
 
-ALI: Okay... I'm gonna save my last hold.
+SYLVIA: Well, I mean, it just gives Dre more choice over what happens with his stuff. Right?
 
 
-AUSTIN: Okay. Cass, what are you doing?
+AUSTIN: Except that I think he only has the marketers. Right?
 
 
-ART: I'm gonna roll "I Love It When A Plan"
+DRE: Yeah! Listen, I love the idea of marketers fighting against secret military assassins. [laughs]
 
 
-JACK: Yes!
+SYLVIA: Well, what I really like— what we could do is, not have be an actual fight, but almost a SWAT raid of Petrichor's ranch on Counterweight.
 
 
-AUSTIN: Okay, sound's good.
+AUSTIN: I kind of like— oh man, what's the HP on the marketers?
 
 
-ALI: Do we have a plan?
+DRE: 8.
 
 
-JACK: Absolutely.
+SYLVIA: It's such a good sentence! 
 
 
-ART: [overlapping with Jack] I don't have to have a plan, that's the point.
+AUSTIN: It is. [DRE cracks up] All right. I think they're going to try a hostile takeover.
 
 
-[Soft laughter]
+[overlapping]
+DRE: Okay.
+SYLVIA: Okay.
 
 
-ART: There's my Plan move...
+DRE: How does that work?
 
 
-KEITH: [overlapping with Art] It's the other one that has to have a plan. 
+SYLVIA: That makes sense.
 
 
-ART: Here's the Plan: I need a plan. I Love it When a Plan Comes Together...
+AUSTIN: It is Wealth versus Wealth. So that is— the way attacks work in this game, it's 1d10 plus the relevant stat.
 
 
-AUSTIN: [Smiling] No plan necessary. 
+DRE: I don't have a lot of Wealth.
 
 
-ART: Yeah, I'm just going.
+AUSTIN: You don't? No? Oh boy, this is gonna be good, because hostile takeover is great. Let's do the roll, and then we'll see what's happening. Then we'll frame a scene around what's happening.
 
 
-AUSTIN: Okay. 
+DRE: So 1d10 plus my Wealth?
 
 
-[Art rolls I Love it When a Plan Comes Together]
+AUSTIN: Yeah. What is Minerva's Wealth? Minerva's Wealth is 8.
 
 
-ART: Well that sucked. That was bad.
+DRE: 8. It's 8.
 
 
-AUSTIN: Buddy. You rolled a six, how did you roll... what are you doing?
+AUSTIN: Oh, good. Oh. Well, you lose.
 
 
-[everyone groans]
+DRE: Yeah. There's literally no way for you to not beat me.
 
 
-[00:20:00] AUSTIN: Oh boy, y'all are making it hard for me right out the gate, huh?
+AUSTIN: Andrew rolled a 5. [DRE laughs]
 
 
-ART: Yeah...
+SYLVIA: Aww, buddy. Oh god!
 
 
-AUSTIN: I wasn't- I was not prepared to- you don't... I'm gonna have to move you over, I think, from this screen to this screen. 
+AUSTIN: All right. So that does— I got a 15. [SYLVIA laughs] So then [reading] once matched, the attacker rolls 1d10 and adds the relevant attribute for the asset. For example, a military unit attack blah blah blah. If the attacker's roll exceeds the defender's roll, the attack is a success. The defender asset suffers damage as given on the attack line of the attacking asset. In this case, I think it is 2d10.
 
 
-JACK: Oh dear.
+DRE: Which are you— what are you attacking with?
 
 
-ART: Wait I can't see it, I have all my character sheets open.
+AUSTIN: I'm attacking with hostile takeover tactic. So I'm going to roll 2d10. That's a 17. What's the total life on a marketer again?
 
 
-[laughter]
+DRE: 8.
 
 
-JACK: Ah, clocks have been upgraded.
+AUSTIN: Okay, I'm going to read what happens.
 
 
-ART: Look at this!
+DRE: Those are some dead-ass marketers.
 
 
-KEITH: This looks really good.
+AUSTIN: No, they're not, because here's how hostile takeover works. [reading] If a hostile takeover does enough damage to destroy a faction— oh, maybe this is only factions. Let me see. Is it factions, or is it items? One second, I might have written this down wrong. I believe you just get it. [reading] If a hostile takeover does enough damage to destroy a— it says a faction, but earlier it says assets. So I think it's assets. Hostile takeover assets allow a faction to seize control of damaged and poorly controlled assets. Quote, "If a hostile takeover does enough damage to destroy a faction, the target is reduced to one hit point and acquired by the hostile takeover's owning faction." Maybe they do just mean faction, but I kind of— I don't know.
 
 
-AUSTIN:  This looks pretty good, so there's a new clock.
+DRE: I think they mean asset.
 
 
-KEITH: I know that nobody listening has ever really seen the clocks but...
+AUSTIN: Otherwise this is kind of useless. Right? 
 
 
-AUSTIN: The old ones... were garbage that I made with the tools just in Roll20 to like draw 
-circles and stuff. Now I've lifted the really nice digital setup from the Sprawl book and then added some nice colour...
+DRE: Yeah.
 
 
-JACK: I feel we should say that
+AUSTIN: So. So do you think we just get the marketers? What's—
 
 
-KEITH: [overlapping with Jack] Did Hamish get Doc Brown to help with the art for the book?
+DRE: I think so.
 
 
-AUSTIN: Oh no the alert stuff is all- I mean yes, Doc Brown was involved with the clocks. Totally. And then...
+SYLVIA: We can just house rule it, even if we're not right.
 
 
-JACK: [overlapping with Austin] The thing is...
+AUSTIN: Yeah. Totally. 
 
 
-AUSTIN: [smiling] Go ahead Jack.
+SYLVIA: We do that enough.
 
 
-JACK: [laughing] What we're looking at are digital clocks with boxes that could be filled in coloured to show that the clocks are moving. Instead of colouring in the boxes though Austin has written, in a digital clock font, the word "Alert" in each box and then in the last box are three exclamation points.
+AUSTIN: I think it's really fun. It's really fun for them to have just done a hostile takeover on the marketing team for Petrichor/EarthHome. What's that look like on Counterweight?
 
 
-[Ali Laughs]
+DRE: I think it is— we kind of got rumblings of this in the last game, where we had talked about Jorne being like, "Naw, I'm outta here. I'm going to go into the line railing business."
 
 
-AUSTIN: [overlapping with Jack] Yep, because there are...
+AUSTIN: Right. 
 
 
-JACK: So there are [counting under their breath] Nineteen alerts on screen right now and nine exclamation marks.
+DRE: Or whatever. Oh, it was with his casinos. It was his casinos. Right? His casinos along the— er, the gambling machines in the trains.
 
 
-AUSTIN: Okay so- [laughs] It's a lot. Cass... so you're doing your plan which I think is just like... 
-you're seated somewhere and you have your HUD up...
+AUSTIN: Right. That was Jorne. Yeah.
 
 
-ART: Yeah.
+DRE: So I think it's just people being like, "This is— we gotta get the fuck outta here."
 
 
-AUSTIN: Right? To... review all the details that you have, to try to like- you're just doing the first step, like literally the first step in your planning process which is like: I'm gonna put everything all out on the table, if this was a physical thing you wouldn't have even gotten your thumbnails and your red yarn yet. Like you're still in the 'I'm gonna lay out all of my photographs' stage.
+AUSTIN: You think there was almost like— do you think the hostile takeover was people at Minerva noticing this pushback from a handful of EarthHome employees who had bounced?
 
 
-[Jack laughs]
+DRE: Yeah. They're at whatever bar corporate bigwigs on Counterweight go to. And a couple of Minerva guys are overhearing some Petrichor people be like, "I don't know what is going on." And they're like, "Well hey, we've got some openings over here, if you want to check out. Send me your Counterweight LinkedIn profile. [AUSTIN snorts and laughs] Maybe we could network and get you hooked up over here at Minerva."
 
 
-AUSTIN: And... one of the like digital photographs has like a little... there's a little dust on it? And you go to touch it, like Minority Report style to like get- 'why is there weird digital dust there?' and you touch it and it... it just turns to digital dust. Your neural interface is breaking. Your neural interface with hardware decay? You can't use it for the rest of this mission... until you get it repaired.
+AUSTIN: [groans] I like that a lot. I do want to— let's talk about— what were the twins named again? I'll have to find them really quick. We had to have written them down. Right? 
 
 
-[Soft laughter in the background]
+DRE: Somewhere. Yeah.
 
 
-ART: Wait but- aw... that's not what my neural interface did.
+AUSTIN: Maybe they’re not in this— 
 
 
-[Louder laughter]
+SYLVIA: By the way, I just got the notes page up, and the animal that Google assigned to me for my anonymous thing is Anonymous Ibex. So that’s pretty great.
 
 
-AUSTIN: Mm.
+AUSTIN: Oh my god! It’s the best! [DRE giggles] I’m going to take a picture of it right now. Oh my god. It’s so good.
 
 
-ART: [Fake indignantly] Fine.
+DRE: I want to see Anonymous Alligator.
 
 
-KIETH: What else did it do? 
+SYLVIA: [softly] Oh man.
 
 
-ART: That was a- I thought it was a targeting computer.
+AUSTIN: All right. I forget their names. We’ll have to go back and listen to what their names are.
 
 
-AUSTIN: It's a neural interface with a targeting suite, it's not just a targeting suite.
+SYLVIA: We can go back.
 
 
-ART: [vague grumpy noises] Great.
+AUSTIN: It’s not the end of the world. But I like them as— I want them in almost like a cockpit-mode, but instead of being like they're in giant robots, it’s just them in their office. In their corner offices in their penthouse suites, buying and trading Petrichor stock on Counterweight, interfering with supply lines, buying out space UPS that delivers all Petrichor’s robots and films to Counterweight. They’re just like, “No, we don’t run there anymore. No, sorry. No.” Or just buying it out and dumping shit into space. Just dumping dozens and dozens of— obviously not film reels, but the high-quality HD super VR film stuff just into an empty space system where no one will ever find that shit. And maybe even more importantly, because if we think about what marketing looks like, let’s be a little bit more serious about this. How about this: one of the things that they do is Minerva releases - I’ll just tear it from the headlines - Minerva does this amazing corporate blast about how important the privacy and security of its consumer citizens are. “The consumer citizens of the Orion Conglomerate need to be able to participate in a market that treats them as individuals not just demographic data.” And they push this solution. Obviously this solution has to be through the market too. But they make it really fashionable to wear a different face that fucks up the alogrithmic read of what all of Petrichor’s face-scan technology is. The stuff that's— you walk into a store, and it’s like, “Oh, Mr. Swan, we know exactly what drink you want.” You walk in, and they’re just like, "Oh, Mr." and then bzzzzt. Just noise. Nothing. It doesn’t know how to read you anymore. Maybe it’s not even— your face doesn’t look actually different, but on all of Rigour’s readings, the people on Counterweight stop— they can’t be boiled down to algorithm anymore, because it breaks up. That’s what marketing looks like. That’s the thing that has been taken over. Except now— 
 
 
-ALI: Remember before we started this when Austin was like 'make sure you use your 
-cyberware'.
+SYLVIA: Now they have it.
 
 
-AUSTIN: Uh huh. 
+AUSTIN: Now they have it. Right? It got to a point where Rigour had to cut that division because it was doing so poorly. And so Minerva buys it up on the cheap, keeps selling the “Oh, you need to protect your face from marketers” shit, but then has the backdoor built in to immediately get by that stuff. That is my dystopic vision of corporate warfare. [DRE chuckles]
 
 
-ART: [overlapping with Jack] Well mine's broken.
+SYLVIA: It’s really good. 
 
 
-JACK: Oh sorry you can't. It just says 'alert' now. That's twenty.
+AUSTIN: Ugggh. We live in the worst of worlds. Okay. So the only question I have about this rules-wise is does the marketer soak all that damage? Or does any of it slip through? I think they soak it all.
 
 
-ART: Well I still get my one hold for the plan so...
+DRE: I think so. I think— because you were targeting them.
 
 
-AUSTIN: [smiling] That's true. Good job buddy.
+SYLVIA: I think so.
 
 
-ART: And once we get to a point where we can have a plan I still have my other planning...
-AUSTIN: And listen you could totally get your neural interface fixed, that's a thing you could... like none of you-
+AUSTIN: Right. Nothing gets through. You have to actually hit the base— 
 
 
-ART: [overlapping with Kieth, sarcastic] Yeah that sounds totally plausible.
+DRE: Yeah. And so they’re reduced to one, and now they’re owned by Minerva.
 
 
-KIETH: Could I fix that?
+AUSTIN: Right. So we should update that. Where is that document? Here it is. Minerva, let’s add a line. And now where’s Counterweight? Here we go. Coulda sent the cyber ninjas. Didn’t. Sent the hostile takeover tactic. Welcome to Counterweight.
 
 
-AUSTIN: ... No you'd need to find a Tech. A Tech has moves that could do that.
+SYLVIA: Shoulda sent the cyber ninja. [AUSTIN chuckles]
 
 
-KIETH: Okay.
+AUSTIN: Hostile. There we go. Who is next?
 
 
-AUSTIN: Again unless you had- you could if you had the move that was like 'repair stuff'...
+SYLVIA: Righteous Vanguard.
 
 
-KIETH: I don't have that move.
+AUSTIN: Oh boy. Let’s— 
 
 
-AUSTIN: But I don't think anybody here has that stuff...
+SYLVIA: Do you want to do them, or do you want to— 
 
 
-ART: I mean there's some good things about these clocks... like who cares how high the Righteous Vanguard clock gets at this point.
+AUSTIN: No, let’s wrap back around to the Righteous Vanguard. Though— 
 
 
-[Laughter]
+SYLVIA: All right. You got something in store of them?
 
 
-AUSTIN: I'll go over what the clocks are right now. Legwork clock is empty, action clock is empty, there's a bunch of corporate clocks, Petrichor Automedia is at twenty two hundred which means there's only two slots left before things go really bad there, three- Hands of Grace is at three- twenty one hundred... Rapid Evening is at eighteen hundred, Righteous Vanguard is at twenty two hundred, The Golden Branch Demarchy's all  the way back at fifteen hundred, and the Minerva Strategic Alliance is at twenty two hundred. 
+AUSTIN: No, I don’t.
 
 
-JACK: Do we need to worry about Righteous Vanguard at this point?
+SYLVIA: Just not sure yet?
 
 
-AUSTIN: That's what Cass was kind of saying... I wouldn't want any of these clocks to continue advancing is what I'll say.
+AUSTIN: I don’t want to stick on Counterweight twice in a row is what I don’t want to do quite yet.
 
 
-JACK: Right, so is this almost like that video game thing of like 'we're with these guys now but maybe their people don't know so [laughs] they're still shooting'.
+SYLVIA: Oh, that’s a good point.
 
 
-KIETH: My favourite clock is the threat clock that has two alerts and then the name is just four question marks.
+AUSTIN: So let’s talk about the Rapid Evening for now.
 
 
-AUSTIN: Uh huh, so I know what that is, I have a- on the GM side each of those threats has a name next to it [laughs].
+SYLVIA: Rapid Evening? Okay.
 
 
-ART: What I like is that clock at the bottom that's "The Kingdom Come".
+AUSTIN: They want to Expand Influence into the Minerva Strategic Alliance. Oh, a thing we should be thinking about too is the bonus tags that these different divisions have. Is there anything you could have done with Petrichor, by the way?
 
 
-ALI: Yeah what's that?
+DRE: Not on— not as defense, no.
 
 
-JACK: Oh no...
+AUSTIN: Okay, I wanted to make sure. Very important stuff. Okay. Expand Influence, hmm. 
 
 
-AUSTIN: We established that during our... during the disinterest- detachment, I always say disinterest. The detachment fight.
+SYLVIA: They’re trying to get to Minerva XII, right?
 
 
-KIETH: You just don't care to learn the right name.
+AUSTIN: Yeah. Let’s see where they have stuff right now. Rapid Evening. Base of influence. Man, they have bases of influence everywhere.
 
 
-[00:25:00] AUSTIN: [sarcastic] I know, I can't decide. You know I'm just a little ambivalent about the whole thing.
+SYLVIA: Yeah, they’re everywhere.
 
 
-ART: Boo
+AUSTIN: But not on Minerva XII quite yet. God, do they have anything that––
 
 
-[laughter]
+SYLVIA: Let me look at— is there a Stars Without Number thing about how to get stuff on another planet?
 
 
-AUSTIN: The Kingdom Come's clock is the damage done to the Kingdom Come, it's the Kingdom Come's harm clock. 
+AUSTIN: Yes. And it’s a lot of— there are certain assets that need permission to get there. But that’s not the case everywhere. So they really need to get from Kesh to Minerva XII, unless they have something closer. But it looks like Kesh is probably their closest bet. They don’t really have much on Kesh. Oh, right. Kesh is the 19— the 20th-century planet? Or is— it's the 19th-century planet, where the Rapid Evening— are they–– no, there they are. There’s only tens of thousands of people on that planet, and they’re stuck with 19th-century technology. They must have been some other faction from before this game ever started that dealt with some high-tech shit that was too dangerous. And the Rapid Evening kind of put them on lockdown, which is part of why it’s hard to get anything from there, because their technological level is low.
 
 
-ALI: Ohhh
+SYLVIA: The cruelest fate! They turned them into steampunks. [AUSTIN and DRE crack up]
+35:08
 
 
-AUSTIN: So it's basically fine. It's at fifteen hundred it's been hit once but like you know, at some it won't be very nice.
+AUSTIN: They just— everyone opened their doors one morning, and at the base of their door was a package. And they opened it up, and it was just brass goggles.
 
 
-JACK: [overlapping with Art] Rear left engine... you know
+SYLVIA: Yup!
 
 
-ART: It's gonna decide it hates us and start to work against our interests.
+DRE: And a top hat.
 
 
-AUSTIN: No... no.
+AUSTIN: [whispers hoarsely] “Anything but this! No! Oh, there’s a belt in here. Oh no, it has gears as the belt buckle! That doesn’t make any sense. That’s not how gears work!”
 
 
-JACK: The ship doesn't have an AI on it other than... well as far as we know [laughs].
+SYLVIA: “Oh no, we’re living in a Panic at the Disco video!” [DRE and AUSTIN laugh]
 
 
-AUSTIN: [laughing] Yeah. Okay...
+AUSTIN: Oh, boy. Oh, brother. Ahhh.
 
 
-JACK: Ah, right...
+SYLVIA: Okay. I’m trying to look up the specific assets that can move between.
 
 
-AUSTIN: There's some other question, was there another question? No. Oh, I wanted to say something else about the Righteous Vanguard thing which is: if you recall there was a bit in the last episode where Ibex kind of said like 'It would be great if I could just say we're even, but some things are out of my hands'. 
+AUSTIN: So we— yeah. We can see what all of their assets are. I don’t think that they have many. I think space marines might be able to move a thing? Yeah, they can move 1 hex without permission. Sadly, they are more than 1 hex away, so that’s not going to help.
 
 
-JACK: Yeah...
+SYLVIA: We could just start them moving there. Or do they have to move to a planet?
 
 
-AUSTIN: It's important to note that killing Ibex does not automatically end the Righteous Vanguard, right?
+AUSTIN: I think you have to move to a planet unless you are–– I guess not. I guess you don’t have to.
 
 
-JACK: Right he def- he probably has shareholders and things, like a board...
+SYLVIA: Because that’s how the Fleet’s been doing it.
 
 
-AUSTIN: Shareholders and a Divine and... you know, a population he has promised some things to.
+AUSTIN: Is 1 at a time.
 
 
-JACK: [laughing] And a Divine that is fairly antagonistic towards him.
+SYLVIA: We moved a little bit through dark space. But it’s been 1 at a time.
 
 
-AUSTIN: Yes, so... so that is why I have not yet wiped this thing. 
+AUSTIN: Yeah, that’s true. Let’s just do that. Again, we can just house rule it. I think that there’s a little bit— 
 
 
-JACK: Okay.
+SYLVIA: Do you want to just drop them?
 
 
-ART: I think in the resulting confusion we could at least...
+AUSTIN: No, I want to–– it should take a turn for them to get there. You know? Maybe not. Maybe it’s hotter if they just fucking show up, given where we’re at with the main game. Given that this is–– this episode should be maybe, “Okay, shit is popping off in the episode.”
 
 
-JACK: We could at least? Okay I'm wondering whether or not... Ah, how stealthy do we want to be at this point?
+DRE: Yeah, I think so.
 
 
-ALI: The most stealthy.
+AUSTIN: So let’s just house rule it in this case like they were on the way. It has been a long time since a faction game. They didn’t have a move last faction game. We didn’t deal with what that past game was, so maybe these characters were already on their way. Is this Tetsuo again?
 
 
-ART: [overlapping with Kieth] So stealthy.
+SYLVIA: Tetsuya. 
 
 
-KEITH: I vote very stealthy.
+AUSTIN: Oh, sorry. Yes.
 
 
-[quiet laughter]
+SYLVIA: I didn't name my character [DRE laughs]— I’m not that big of an Akira nerd. I am listening to the soundtrack, though.
 
 
-AUSTIN: I'm bringing us back over to the map.
+AUSTIN: You’re an–– oh, good. Good. 
 
 
-JACK: Okay so I won't do my plan.
+DRE: I'm sorry, Akira?
 
 
-AUSTIN: What was your plan?
+SYLVIA: It’s literally what I thinking of when I played this guy. 
 
 
-JACK: I'm scared to say it now Austin...
+AUSTIN: Okay. So yeah. Is it Tetsuya and the Eclipse? 
 
 
-AUSTIN: [smiling] Okay.
+SYLVIA: I don't know. I kind of— 
 
 
-JACK: You might just do it.
+AUSTIN: Or do you think it’s a different division?
 
 
-KEITH: Well let's listen to the 80,000 year old secret robot life.
+SYLVIA: I think it’s different division, because I’ve been thinking about what his job is. And I like the idea of calling what his unit does a Heresy Unit, because they go after Divines.
 
 
-[Everyone laughs]
+AUSTIN: Oh, I love that so much. Write that down right now! Before we forget!
 
 
-JACK: I'm doors now.
+SYLVIA: Yeah, I will. So I think it would be a different unit, a different sort of colonization unit.
 
 
-[More laughter]
+AUSTIN: Okay. Hmm. So it’s going to be a new character here, huh? Oh god, Natalya is still here in Rapid Evening. [sighs] I’d better move her somewhere else.
 
 
-JACK: Okay, so should we just, do we want to take this big long tunnel? My plan was I was gonna try and page Maryland September through the computer system... but I think that wouldn't be great because I feel that a computer just saying 'Maryland September to the terminal please' would alert... everybody. 
+SYLVIA: I mean, she’s kinda technically. But not really.
 
 
-ART: Oh yeah...
+AUSTIN: Not really. 
 
 
-ALI: Yeah, that's- mmm...
+SYLVIA: Not really.
 
 
-ART: [overlapping with Jack] Not my favorite plan.
+DRE: At least, she thinks she is.
 
 
-JACK: Also we don't know what condition she's in. No...
+SYLVIA: Yeah. She doesn’t know— 
 
 
-ALI: So like we, we can go outside, like there's the September Institute but there's also like towns and stuff?
+AUSTIN: In her best moments. Right. 
 
 
-AUSTIN: Yes, when you're flying over... this is, you're near a city, you're outside a city by a couple of miles, you don't know anything about that city and that is the city where... the main September Institute campus is. 
+SYLVIA: —anything is going on. Oh yeah, we still have––
 
 
-ALI: Okay, does...
+AUSTIN: I added her down there.
 
 
-KEITH: It's a nice campus!
+SYLVIA: We still have Oren listed. We should probably scratch him out.
 
 
-AUSTIN: It is a nice campus.
+AUSTIN: Wait, Oren or Omen?
 
 
-ALI: Does Mako know anything about that city? 
+SYLVIA: Omen. 
 
 
-AUSTIN: Sure, probably.
+AUSTIN: Because there is also Oren. Oren I think is––
 
 
-KEITH: Yeah!
+SYLVIA: Oren is the JoyPark guy.
 
 
-AUSTIN: What do you want to know about that city Mako? In fact, here's what I'll say is... you can ask me questions as if it were, as if  you had successfully rolled a ten on Research.
+AUSTIN: Did Oren die yet?
 
 
-KEITH: Okay, uh... well I guess, real quick I want to talk to everybody else, what is our primary... what do we want to get done first?
-ALI: Hmm, we want to get into the September Institute, right? 
+SYLVIA: I thought we killed off Omen. I thought––
 
 
-KEITH: Okay
+AUSTIN: We definitely killed Omen. I’m going to strike through Omen.
 
 
-JACK: Would it be maybe worth attempting to secure Maryland before we even consider making a move on Rigour?
+SYLVIA: Oren’s still around. Oren’s running the JoyPark’s day-to-day.
 
 
-ALI: [Emphatically] Yes. 
+AUSTIN: Right, correct. Correct.
 
 
-KEITH: Yeah.
+SYLVIA: Yeah. They just have extremely similar names.
 
 
-ALI: [Overlapping with Jack] She's a like...
+AUSTIN: So let’s–– actually, so that’s the Eclipse Heresy Unit. So what is this–– this is a colonization group? Or is this a––
 
 
-JACK: I mean, Austin laughed there because the idea of making a move on Rigour is so wildly implausible.
+SYLVIA: I think maybe it’s a–– are they going to attack? Do you want them to attack and try and take over? Or––
 
 
-AUSTIN: [Laughing, overlapping with Jack] Yes. It's so implausible that I didn't make a- I didn't give you a directive that was "make a move on Rigour".
+AUSTIN: No. So I think— so they land. They land this turn, because they’re moving without permission. But you have to imagine there is an attack there. Right? But it’s not an attack where there’s a roll. It’s just they’re landing on this planet. So to remind us of what Minerva–– oh, how about this. Okay, so Minerva XII is actually two things.
 
 
-ALI: [Confused, incredulous] Yeah, wh- are we doing that at all? 'Cause we shouldn't!
+SYLVIA: It’s a police state.
 
 
-JACK: Hey, last time I tried to fight Rigour it went really great until it didn't go really well at all. Ever.
+AUSTIN: It’s a police state, one. So there’s Minerva XII, which has a toxic atmosphere, really unpredictable weather, superstorms and stuff like that. It's a police state. And there’s millions on that planet. Millions of people who are, like on Counterweight–– er, like on Slate, living in poverty conditions, working their asses off very little of anything. Maybe they’re not even–– they might not even be working their asses off. They might be the sort of Cloud Atlas/Orison of Somni-451 style, again, consumer citizens. They're given— it’s like a capitalism welfare state where everything is still about consumption, but you’re also given a basic living wage just for keeping these giant businesses afloat. So that everyone is getting enough money to eat and then give more of that money back away to the executive class. So that there isn’t a riot. Right? So there isn’t a revolution. It’s just keeping people kind of content enough, subsisting just enough that there isn’t a revolution. But there is also Minerva XIIa, which is the moon where there’s the automated mining facility. And that’s where all the money is for Minerva. That moon, maybe it’s even a series of moons.
 
 
-[Laughter]
+SYLVIA: What if we have them land on the moon?
 
 
-ALI: You don't have a Candidate anymore so maybe it'll go better this time. 
+AUSTIN: Yeah, that’s what I’m thinking. 
 
 
-AUSTIN: [Overlapping with Ali] That's true.
+DRE: Yeah.
 
 
-JACK: Mmm...
+SYLVIA: Yeah. They’re going straight to where the money comes from.
 
 
-ALI: Mm [Laughs]. Ah yeah anyway I was gonna say that like, Ibex told us specifically to find out what's going on there, but we don't want to like... we don't want to cause a shuffle... inside of the September Institute. Right?
+AUSTIN: Yeah. This is the opposite between–– the Rapid Evening is not Ibex. The Rapid Evening is not Sokrates. They are not coming to save people. They’re coming to destroy Minerva. Right? Or really, they’re coming to build a new power base for themselves so that they can continue to police the sector.
 
 
-JACK: What d'you mean by shuffle?
+SYLVIA: They’re very pragmatic about their shit.
 
 
-ALI: We just want to like investigate and go, right? We don't want to...
+AUSTIN: Exactly. I like that a lot.
 
 
-JACK: Oh, you mean a ruckus.
+SYLVIA: They’re looking at the bigger picture of maintaining the equilibrium of the tech. So yeah.
 
 
-KEITH: Yeah, there's definitely no one there I still want to...
-ALI: [Overlapping with Keith] Yes. No ruckuses!
+AUSTIN: Totally. All right. So let me know if you come up with a name for this. Let’s put them on Minerva XII.
 
 
-KEITH: ...punch in the mouth!
+SYLVIA: I don’t have another Heresy Unit in me right now. I’ll have to thing of something.
 
 
-AUSTIN: I mean there might be.
+AUSTIN: That’s fine. Sleep on it. We’ll see how it goes.
 
 
-KEITH: That's my whole thing now. That's my new... character trait.
+SYLVIA: But yeah. I’m thinking–– we said they have drop pods, right?
 
 
-ALI: [Laughing] You like sockin'em?
+AUSTIN: Totally. 
 
 
-JACK: [Overlapping with Ali] Mouth punching.
+SYLVIA: So just them crashing–– I think in the way this would be formatted as a show, we have an earlier scene of just these pods flying through space. And then we do Minerva scene.
 
 
-ART: That should've been your new directive. 'When mouth-punching gets in the way...'
+AUSTIN: Oh, do you they don’t have ships? It’s just the drop pods?
 
 
-[Ali laughs]
+DRE: Yeah.
 
 
-JACK: Do we know the...
+SYLVIA: I think for this type of unit, yeah, it’s just the drop pods. It’s either you––
 
 
-KEITH: [Overlapping with Jack] When socking someone right in the jaw puts the mission at risk...
+AUSTIN: Oh man. Were they launched from Kesh? Did we get the scene early on in this episode of just 19th-century Victorian Kesh with people walking through the streets, and then almost Fooly Cooly-style, the steam dissipates from up on the hill, and these giant towers turn just so. And then a grenade launcher thwwp sound happens. And it’s just the pods launching from Kesh towards Minerva.
 
 
-[Laughter]
+SYLVIA: Yeah! That’s exactly what I was thinking. I was thinking either the towers there or a mountain or something coming up a little bit. And then just these things flying out. And nobody who lives on Kesh knows what the hell is going on. 
 
 
-JACK: [In their serious voice] Where does this tunnel come out?
+AUSTIN: But this happens every now and then.
 
 
-AUSTIN: Scroll the map down a little bit.
+SYLVIA: It happens every now and then, and they think it’s an omen of some kind. 
 
 
-JACK: All I can see is a tiny, teeny-tiny square.
+AUSTIN: Right. Exactly.
 
 
-AUSTIN: That's a building.
+SYLVIA: But really, it’s the Rapid Evening. Who I think have a base in the planet itself. And then later we have–– like I say, that happens before the Minerva thing. And then after that, we have them landing.
 
 
-ALI: It's a single...
+AUSTIN: Right. We have the launch. And then it cuts to them, yeah, slamming into–– you know what it is? It’s the shot of the twins in their high rise. Pulling back out from that, the high rise literally cuts through one of the domes on Minerva XII. It literally goes up past the dome, through the middle of the dome, almost like a space elevator. In fact, maybe it is a space elevator.
 
 
-JACK: [Overlapping with Ali] Do we know what that building is?
+SYLVIA: I think they would have a space elevator for Minerva XII.
+
+
+AUSTIN: Totally. And so they’re halfway up that, before it becomes just the wire elevator part. And then it pulls back from that to the moon. And the drop pods hit, and then the “It’s about damn time” Jim Raynor moment. Right?
+
+
+SYLVIA: Yeah. I also really like drop pods being like–– this unit’s been like, “Okay, we’re sending you out to do this. And we’re giving you just enough supplies to do this, and if you don’t do it, you’re deniable.”
+
+AUSTIN: Right. The drop pods themselves are what will turn into the base. Right? The drop pods land, and then the team is going to reconfigure them into a modular base or drill system that drills into the ground and builds a different base. You know?
+
+
+SYLVIA: Oh, I love the drill system! Because the drill system then— I like the drill system too because then it gives the pods this really cool spiral design. 
+
+
+AUSTIN: Yeah. Totally. I like that a lot. And it's not— again, I think that their space marine unit is not a giant space marine— it's just a handful of super soldiers. Right?
+
+
+SYLVIA: I was thinking six people at the most.
+
+
+AUSTIN: Totally. We need to figure out who those— here's the thing I like about this game right, is we run a one-shot of just that team doing what they're doing. 
+
+
+SYLVIA: I know!
+
+
+AUSTIN: I love it so much.
+
+
+SYLVIA: Really quick, I generated a name earlier, and I just want to write this person down as being part of that unit. I got the name Kiva Helsing.
+
+
+AUSTIN: Ahhh, that's a good name!
+
+
+DRE: That is a great name.
+
+
+AUSTIN: Kiva Helsing runs this unit, and she is the best.
+
+
+SYLVIA: I'm going to write that down.
+
+
+AUSTIN: All right. Let's call that pretty successful. So they were trying to expand into— where is it? Da da da. What was the actual— Expand Influence? Okay. So they haven't yet planted a base of influence. They've just landed. Next turn they can plant that base. They can buy that base. Da da da. Oh, let me go back really quick and do the money stuff again. Minerva is just rich as hell, by the way. 
+
+
+SYLVIA: That makes sense.
+
+
+AUSTIN: Minerva makes monnney. They make money.
+
+
+DRE: I'm jealous. [giggles]
+
+
+SYLVIA: They have Wealth 8. And the closest to that from anyone else is 4. They have double the Wealth of most people. It's perfect.
+45:25
+
+
+AUSTIN: It really is.
+
+
+SYLVIA: Also, next up we have the Demarchy.
+
+
+AUSTIN: One second, I want to get— okay. I want to get to them. I just want to make sure that the upkeeps are all paid.
+
+
+SYLVIA: I just wanted to mention so we can start thinking about it.
+
+
+AUSTIN: Okay. Yeah, so Minerva has to pay 3 for upkeep. And then does Rapid Evening have any upkeep? No. Okay.
+
+
+SYLVIA: I don't think so.
+
+
+AUSTIN: So Minerva right now is sitting on 24 creds. Like you do. 
+
+
+SYLVIA: Jesus. They literally are just space Wall Street.
+
+
+AUSTIN: Oh yeah. Totally. 100%.
+
+
+SYLVIA: It's great. I hate them, it's great.
+
+
+AUSTIN: Yup! [SYLVIA laughs] I mean, that is true for everybody. Right? Who is there to love anymore? Is there anyone?
+
+
+SYLVIA: I mean, the Rapid Evening I'm kind of into. But in a very much like, "You are terrifying!" way.
+
+
+AUSTIN: Right. You're into them the way you can kinda-sorta be into any counterintelligence––er, intelligence agency, which is like, "Oh man, spies are dope. Oh wait, this is terrifying. This is the worst."
+
+
+SYLVIA: Yeah. "Oh wait, you literally have a branch of your thing dedicated around the idea of killing gods."
+
+
+AUSTIN: Right. Yup, yup. Cool. Great. All right. So wait, who's next?
+
+
+[simultaneously]
+SYLVIA: The Demarchy.
+AUSTIN: Oh, the Demarchy.
+
+
+AUSTIN: The Golden Demarchy. [sighs] So they also want Planetary Seizure here. They want to take over Gemm. Do they have anything on Gemm yet? 
+
+
+SYLVIA: They have a base of influence on Gemm.
+
+
+AUSTIN: And that is it, probably.
+
+
+SYLVIA: And they have a demagogue.
+
+
+AUSTIN: A demagogue on Gemm. Ooo fancy.
+
+
+SYLVIA: That is fancy.
+
+
+AUSTIN: I think that that demagogue is probably a local, someone who's been converted to— someone who knew— okay, what about this? What it was one of the people who was— what if it was someone who used to be a soldier in the Seventh Sun back when Sokrates was part of the Kingdom fleet, who was—?
+
+
+SYLVIA: Yeah, I was going to say either— yeah, that's better than what I had was just someone who had met Sokrates when he was just there getting Integrity.
+
+
+AUSTIN: What if it's the same person who met them twice?
+
+
+DRE: What if it's—
+
+
+SYLVIA: The same person. They met again.
+
+
+AUSTIN: What were you going to suggest, Dre?
+
+
+DRE: What if it's the person that Sokrates refused to give up, that sent the email?
+
+
+AUSTIN: Oh, that's really good.
+
+
+SYLVIA: That's super good!
+
+
+AUSTIN: Yeah. I like that a lot.
+
+
+DRE: We never named that person. 
 
 
 AUSTIN: No.
 
 
-JACK: So we know that it comes up... at a building.
+DRE: I mean, if anyone's going to be blindly loyal to Sokrates, it'd be—
 
 
-AUSTIN: Yes.
+SYLVIA: It's the person whose life they saved.
 
 
-KEITH: Okay.
+AUSTIN: I like that a lot. Okay. So yeah, maybe they're that demagogue unit. Let me just generate a quick Greek name. [sing-song] Greek name generator, that's how this works.
 
 
-JACK: Do we want to split the party?
+SYLVIA: I'm literally doing that right now. [DRE giggles]
 
 
-AUSTIN: Good! Great! Always the best sentence. Like. In all RPGs.
+AUSTIN: Thank you, internet.
 
 
-[00:30:00] KEITH: [Overlapping with Austin] Just don't... let's not do that. No, no, no, no, no.
+SYLVIA: How about Erasmus?
 
 
-[Laughter]
+AUSTIN: Erasmus is pretty good. Oh, we can't use Erasmus. Erasmus is already a major NPC in another tabletop game I'm playing in. I'm playing a Burning Wheel game on Fridays most weeks, and I'm playing a character who is maybe a little too close to home. He's a revolutionary philosopher who's realizing that maybe his revolutionary philosophies aren't saving people as much as he wishes they were. And there is another newer, hotter revolutionary radical philosopher who is named Erasmus. And my character right now is going around constantly reading the pamphlets of Erasmus. It's pretty good. I almost just said Basili. My character in that game is named Basil, so we can't— it can't be that, either. Let's see.
 
 
-ALI: [Laughing] It's worth-
+DRE: Ariadne?
 
 
-AUSTIN: [Smiling] I'm not saying it's a bad idea
+AUSTIN: I thought— isn't that a lady name? Or am I wrong about that?
 
 
-JACK: I'm saying that it might actually be... cool?
+DRE: It is. 
 
 
-ART: [Overlapping with Jack] We can cover twice as much ground that way.
+[simulataneously]
+SYLVIA: I mean, it is, but.
+AUSTIN: Oh, you know what? Yeah. Whatever.
 
 
-JACK: We can cover twice as much ground that way!
+AUSTIN: Right. Yeah. No.
 
 
-AUSTIN: Maryland will be safe twice!
+SYLVIA: We've used a lot of masculine names for the Apostolosians.
 
 
-KEITH:  [Overlapping with Austin] You're making- I've seen Scooby Doo, I know the reasons why it's not a good idea.
+AUSTIN: Who are supposed to be much more— I don't even know—
 
 
-JACK: [Overlapping with Keith] It goes so well in Scooby Doo.
+DRE: Yeah.
 
 
-ART: [laughing] They always catch the bad guy, Scooby Doo never loses.
+SYLVIA: More gender neutral.
 
 
-JACK: Yeah, they do!
+AUSTIN: Much more gender neutral, at least. That's not what their pronoun system is like, and I suspect they have different name conventions. So yeah, Ariadne. Totally.
 
 
-AUSTIN: [laughing] That's true!
+DRE: Ariadne also, in Greek lore, is who helped Theseus kill the Minotaur and escape from the—
 
 
-KEITH: Yeah but Shaggy always gets so scared!
+AUSTIN: Right. Which is really good for what we're doing. 
 
 
-[laughter]
+SYLVIA: Really good.
 
 
-AUSTIN: Is Mako a Shaggy?
+AUSTIN: So let's— asset tracker and ba ba ba. Golden— there is it. It's under here for The. The Golden Demarchy. Let's name that.
 
 
-ALI: [Laughing] Yes.
+SYLVIA: I just want to look up what demagogues do.
 
 
-AUSTIN: Oh no...
+AUSTIN: I don't think it does much. Otherwise I would have made the note of it here. I think it's just a strong Cunning unit. I'm pretty sure.
 
 
-JACK: [Confused] Mako?
+SYLVIA: Yeah. It just says [reading] popular leaders of a faith or ideology that can be relied upon to point their followers in the direction of maximum utility for the faction.
 
 
-AUSTIN: Mako's a Shaggy...
+AUSTIN: Right. All right. So I think they're going to attack the Hands of Grace here on this planet. What do the Hands of Grace have to defend with?
 
 
-[Laughter, then a quiet moment]
+SYLVIA: It's Cunning versus Cunning, I believe.
 
 
-JACK: Austin, do I have security camera access?
+AUSTIN: It is Cunning versus Cunning. What do they have in terms of what can—
+
+
+SYLVIA: Let me see. 
+
+
+AUSTIN: This is Gemm? Okay, so they actually have some stuff here. [chuckles] They have space marines there. So if that hits, that's rough. And they also have postech industry. So if they want to fight back, this could be a bit of a slog. But let's see. So it's Cunning versus Cunning?
+
+
+SYLVIA: Yeah. So that is––
+
+
+AUSTIN: It's a close one. Oh, except wait one second. Let's see if this [chuckles]–– what's the tag that the Golden Demarchy has?
+
+
+SYLVIA: Machiavellian.
+
+
+AUSTIN: Which says, "Once per turn, this faction can roll an additional d10 when making a Cunning attack."
+
+
+SYLVIA: Oh shit! [DRE laughs]
+
+
+AUSTIN: So it's roll 2d10 plus 6. And then someone else want to roll for the Hands of Grace here?
+
+
+SYLVIA: Yeah, I'll do it. That's 1d10 plus 7, right?
+
+
+AUSTIN: Yeah. 
+
+
+SYLVIA: 14.
+
+
+AUSTIN: Okay. Sorry, I was just checking to make sure that the Hands of Grace didn't have a cool thing. 
+
+
+SYLVIA: They have fanatic.
+
+
+AUSTIN: Yeah, which is, "The faction always rerolls any dice than come up as 1." They always lose ties during attacks, though. Holy shit!
+
+
+SYLVIA: Doesn't matter. Holy shit. [DRE laughs] Austin rolled perfect!
+
+
+AUSTIN: I rolled 26. I rolled two 10s. 2d10 plus 6. I rolled a 26. 
+
+
+SYLVIA: You have this planet.
+
+
+AUSTIN: Ariadne just— whew. So what's the damage on a demagogue here?
+
+
+SYLVIA: It is—
+
+
+AUSTIN: That I should have written down. Oh wait, no. 
+
+
+SYLVIA: I have the page. I'm—
+
+
+AUSTIN: I don't even— it should have—
+
+
+DRE: 2d8.
+
+
+AUSTIN: Yeah, it's just here in the spreadsheet. I just needed to dig it up. Okay. So 2d8. Let's roll that. All right, that's 8 damage to the space marine force here. Where is that? Okay. So that's down to half of its HP, half of its original HP. That's pretty substantial. 
+
+
+SYLVIA: How do you think this would play out?
+
+
+AUSTIN: Good question. So I think it's—
+
+
+SYLVIA: I'm thinking there's sort of this underground support movement for the Demarchy. And maybe the law enforcement on Gemm caught wind of it. And they tried to stop this meeting that Ariadne was leading, but people were just so for the Demarchy and what was being talked about, and want to join it and upset with the powers that be on Gemm already, that when they tried to break it up, it ended up sort of turning into this riot that resulted in the police just getting—
+
+
+AUSTIN: So there's an extra wrinkle here, which is that space marine unit is not just a space marine unit. It's Fortitude. It's the Divine Fortitude.
+
+
+SYLVIA: Oh shit! Okay. That is––
+
+
+AUSTIN: And they wounded it. They almost killed it.
+
+
+SYLVIA: That changes everything.
+
+
+AUSTIN: So what happened there? And what is Fortitude?
+
+
+SYLVIA: Yeah, we don't even know what Fortitude is. I like the idea of Fortitude being not just one thing but a few— when I think of Fortitude, I think of a group of Rigours, of things that look like Rigours but with shields and stuff. Literally robot riot cops is what I'm thinking of. But they can reform into different formations and stuff. They're very protective.
+
+
+AUSTIN: Right. So is— maybe we should spin this— er, not spin but continue this line of— we hit their earlier already, where people from Petrichor bounced and joined Minerva. Maybe this is another scenario of—
+
+
+SYLVIA: Do you think Fortitude's going to leave?
+
+
+AUSTIN: Not all of Fortitude. But it had pilots, right? Because it has a Candidate maybe and also has—
+
+
+SYLVIA: It has people who have to be within.
+
+
+AUSTIN: Right. How does that work?
+
+
+SYLVIA: Because I'm thinking of Fortitude as this big phalanx, basically, if that works.
+
+
+AUSTIN: And it's— they kick in the door to the speech that's happening and march in with energy batons at their sides. And there are people there who won't do it. And it becomes, not just a riot— it doesn't just become the people who are protesting are being hurt. But there are parts of the Fortitude phalanx that are pushing back.
+
+
+SYLVIA: Yeah.
+
+
+AUSTIN: I'm now going to— there was a really good Candidate name that I wanted to use. One second. 
+
+
+SYLVIA: Was it Camel?
+55:05
+
+
+AUSTIN: No. It was not Camel. [DRE cracks up]. Good hustle, though. [SYLVIA laughs] I'm going to link it. I'm going to link it. This comes from Ice_Cream_Jones on Twitter. Linsday? Is that her name?
+
+
+SYLVIA: Lizzie.
+
+
+AUSTIN: Lizzie, Lizzie.
+
+
+SYLVIA: Who's holding it down on the wiki!
+
+
+AUSTIN: Shoutouts to Lizzie. Totally! By the way, there's a wiki now. I forgot to mention that.
+
+
+SYLVIA: Yeah. She is crushing it.
+
+
+AUSTIN: She is crushing it. So is—
+
+
+SYLVIA: counterweight.wikia.com?
+
+
+AUSTIN: Yeah. counterweight.wikia.com, and then also killing it is Shaun, Shaun P. Welch on Twitter. Shoutouts to them also.
+
+
+SYLVIA: Yeah. Check it out.
+
+
+AUSTIN: I really like— look at this gerenuk. 
+
+
+DRE: Whoa!
+
+
+SYLVIA: Oh, perfection.
+
+
+DRE: Look at the neck on this fellow.
+
+
+AUSTIN: It's like a giraffe-necked deer. I love it so much. 
+
+
+SYLVIA: What a good buddy.
+
+
+AUSTIN: Okay. So what if the Candidate of Fortitude is in similar armor? At this point, I'm just kind of thinking of Iron Man armor. Right? 
+
+
+SYLVIA: Kind of, yeah.
+
+
+AUSTIN: Not as— it doesn't do the kind of body-horror stuff that we saw with the Rapid Evening stuff. It's a little bit more mechanical than that. It still has a face. And everyone in that unit— or maybe it's not. Maybe it's more form-fitting, like Orindators from Morrow Wind. Do you know Orindators from Morrow Wind? Everyone google Orindator really quick.
+
+
+SYLVIA: I'm doing that right now.
+
+
+AUSTIN: O-R-D-I-N-A-T-O-R.
+
+
+SYLVIA: Ohh.
+
+
+DRE: Ooo.
+
+
+SYLVIA: Yeah. That's really good.
+
+
+AUSTIN: It's the face. In Morrow Wind, they have the face of Vivec, who is a god, who is a living god. And I like that the Candidate's face just starts to look like that, and everyone else has the Candidate's face on— has a mask of the Candidate's face.
+
+
+SYLVIA: I want to— I would really like it too if that face has been the face of Candidates for Fortitude for a while. Their face just sort of ends up changing to be that.
+
+
+AUSTIN: Yeah. To that. Totally. It's not like—
+
+
+SYLVIA: I also think that the Candidate is in— their Fortitude unit or whatever is a foot or maybe 2 taller. It's much bigger than the other ones.
+
+
+AUSTIN: Oh, totally. I didn't finish saying the thing I was saying, which is I think like Iron Man, it literally hovers above the rest of the units. Like it's popped up. You're right. It's probably also bigger than them, but I like that it's hovering over them. It's at eye level with Ariadne on the stage. And they're staring back at him, at Gerenuk, and saying— continuing their speech about democracy and freedom.
+
+
+AUSTIN (as Ariadne): Fortitude is supposed to be a symbol of solidarity. It        's supposed to an example of what democracy can give us, and instead, they're here with batons. 
+
+
+And then just the riot breaks out. And I almost like the Candidate not wanting to even be— maybe it would've been within the Candidate's power to win this fight, and he just turns a cold shoulder to it. He doesn't organize his troops the way he's supposed to, to play out the Machiavellian angle. Right? 
+
+
+SYLVIA: I like the idea of Gerenuk also being sort of petty.
+
+
+AUSTIN: Yeah! Totally. Totally.
+
+
+AUSTIN (as Gerenuk): This isn't what I'm supposed to be doing. I'm supposed to be a hero, god damn it.
+
+
+        SYLVIA (as Gerenuk): Yeah, I'm better than this.
+
+
+        AUSTIN (as Gerenuk): What the fuck is Grace doing?
+
+
+AUSTIN: Which maybe is not the best thing for the quickly crumbling lines of Grace. All right. Let's get to your thing because I know we're short on time here.
+
+
+SYLVIA: Yeah. And then if Dre has to bounce before mine, you and I can just do it.
+
+
+AUSTIN: Totally. 
+
+
+SYLVIA: Because it's going to be super minor.
+
+
+AUSTIN: Yeah. Dre, what are you up to?
+
+
+DRE: So what are the rules in terms of moving things from planet to planet that don't have—
+
+
+AUSTIN: You need something to move them. There are units that do that, but not—
+
+
+DRE: They're expensive.
+
+
+AUSTIN: They tend to be. They tend to be. You have extended theater, for instance, which can move any non-starship asset 2 hexes for 1 faction credit.
+
+
+DRE: Yeah, but that's only from Ionias. Right? I can't hop it from Ionias to JoyPark and then use extended theater to move stuff from JoyPark.
+
+
+AUSTIN: Well, let me double check. I think extended theater is really dope. Let's see. [reading] As an action, any 1 non-starship asset, including itself, can be moved between any 2 worlds within 2 hexes of the extended theater. So for— so wait, where is it?
+
+
+DRE: It's on Ionias, I'm pretty sure, right now.
+
+
+AUSTIN: Okay. So it could move anything from JoyPark to Kalliope. Let me see here. One second. Theater. Yeah. So anywhere from JoyPark to Ionias, down to Kalliope. Kaffe is probably just outside of range. September is just outside of range. But including itself. It could move itself to JoyPark.
+
+
+DRE: Yeah. I just feel like the move is going after Archonic, prepping to go after Archonic. So I think there probably is— so extended theater can move itself, you said?
+
+
+AUSTIN: Right. Or anything else. And we just said—
+
+
+DRE: And it costs a fac cred, right?
+
+
+AUSTIN: Yeah. The other thing I'll say is if you want that thing to be on JoyPark because that would make move sense, totally do that. Because we didn't have time to go over this stuff during the downtime to make sure that it was right when we redid all of the things, all of the faction stuff, for this game, when we brought all the factions down. So that could make sense, to just be on JoyPark, because that is a more strategic position for it. From JoyPark, you can hit September, Archonic, Ionias, and Vyshe easily. So I think we just move that there, and that's not your turn. That is just where that should have been to begin with.
+
+
+DRE: And then it's 1 credit every time you move a non-starship asset.
+
+
+AUSTIN: Right. So you can't move a starship.
+
+
+DRE: I have—
+
+
+AUSTIN: And also a starship can move itself. But if you wanted to move Rigour there, you could do that.
+
+
+DRE: Yes. So I think the move is— what all do I have on Ionias that's military?
+
+
+AUSTIN: Well, you can only move one thing at a— unless maybe you—
+
+
+DRE: Ohh.
+
+
+AUSTIN: That's its special ability. It doesn't explicitly say only one at a time. Right?
+
+
+DRE: Yeah. 
+
+
+AUSTIN: Hmm.
+
+
+DRE: And I don't know that— there's rules as to how many actions you can—
+
+
+AUSTIN: It's one. As an action, any one non-starship asset, including itself, can be moved. So you only get one action per turn. So in this case, one action would be moving one thing, which could be Rigour.
+
+
+DRE: Yeah. I think it is—
+
+
+AUSTIN: Rigour and Ionias, which again in-system is represented by a grav tank formation, but that's not what Rigour is. We've seen what Rigour is in the last episode. But what we do know about Rigour is that Rigour is embodied in the physical infrastructure of a place. So it's the command center, and it is a big robot, but it's now also— so are you moving it to JoyPark or are you moving it to—?
+
+
+DRE: Well, it's currently on Ionias, so I think I can only— I can move it to JoyPark but then I can't move it to Archonic.
+
+
+AUSTIN: No. You can move it to anywhere within 2 spots of JoyPark.
+
+
+DRE: Oh fuck! [laughs]
+
+
+AUSTIN: It could be on September if you wanted. 
+
+
+SYLVIA: This just got scary.
 
 
 AUSTIN: Yeah.
 
 
-JACK: Can I turn on a- well hang on - should I turn on a security camera at the bottom of this tunnel?
+DRE: Okay. So I'm kind of torn between do I put it on September, because that's where the ground game is going?
 
 
-AUSTIN: [Overlapping with Jack] They're on.
+AUSTIN: Shit! Maybe we can put it on— OHHH NOOO!
 
 
-JACK: Oh, okay, can I see the security camera at the bottom of this tunnel? Will that attract attention?
+SYLVIA: OH SHIT! [DRE laughs]
 
 
-AUSTIN: Will turning- No.
+[simultaneously]
+AUSTIN: Oh shit!
+SYLVIA: Oh shit!
 
 
-JACK: What's in the...
+SYLVIA: Oh shit! [DRE is still laughing]
 
 
-AUSTIN: Where do you want to- which one do you want to turn on? 'Cause there's a ton.
+AUSTIN: I think we have to.
 
 
-JACK: {Overlapping with Austin] I want to see what's going on... I want to see what's going on in that building.
+DRE: I mean, that's the most interesting thing to do, is to put fucking Rigour on—
 
 
-AUSTIN: Inside the building is an... it's a bunch of empty cubicles. No it's not a bunch of empty- it's a bunch of cubicles that are filled with tables and desks, and that have consoles on them, and... there's nothing in them, and it's clear that no one has ever worked there. There is another- Mm, I think this is a roll. I think... no, you failed that other roll, I'll give you this one, I'll let this stand. There's another camera facing outside of that building and it is a kind of a large street... What time of day is it?
+SYLVIA: Oh my god!
 
 
-ALI: Mid afternoon.
+AUSTIN: Okay. So is this Natalya— okay, so we know that— so it doesn't know that September is where Ibex has anything. It doesn't know the September-Ibex connection, which is also not my favorite 1970s heist film. 
 
 
-AUSTIN: Okay...
+DRE: [laughs] Yeah, I guess. Because the only way it would know that was if Natalya knows that.
 
 
-JACK: Getting towards evening.
+AUSTIN: She doesn't know that, but she does know that it's a threat. She does know that that's where Strati are built.
 
 
-AUSTIN: So... there's a camera outside that reveals- you kind of flip through a bunch of different cameras, you flip through one that's the interior of that office that's completely fake and empty, then there's a reception area and that has a person working the reception desk. And then there's a camera facing outside from there that is, every once in a while someone walks past and there are two other office buildings that you can kind of see from there.
+DRE: Yeah, to fight Divines.
 
 
-JACK: Okay, I'm going to convey this information to everybody.
+AUSTIN: So maybe Rigour is like, "Oh, it's time to shut that shit down." 
 
 
-ART: How-
+DRE: Yeah.
 
 
-KEITH: Can I ask my research questions?
+AUSTIN: Huh. Okay. I like this. How about this? How about— here's the shot [DRE laughs]-- 
 
 
-AUSTIN: Sure.
+SYLVIA: Dude, this is great.
 
 
-KEITH: How secure is the September Institute?
+AUSTIN: —is Minerva keeps interfering with these shipments to Counterweight of EarthHome material, of SnowTrak vehicles, of all the Petrichor stuff. So we've seen them drop off stuff that this garbage dump all throughout the episode. Right? They dropped off— the first time we see it, it's just film reels. The second time we see it, it's all big robots. The third time, it's t-shirts. They've interfered with all of these, all the shipping of all the Petrichor stuff. And then there's a shadow over all that stuff in this garbage dump that they've created, and it's Rigour. And it's Natalya pulling up the September Institute's HQ on Rigour's scanners. And of course Rigour is Rigour, but all the Divines have a few other ships with them. And it's just that shadow moving slowly toward September in the distance. This is going to be the worst. I'm very excited.
 
 
-AUSTIN: [Sighs] It's pretty- it's pretty secure. You're still looking at the map, right?
+SYLVIA: It's going to be the best. I'm so pumped.
 
 
-[Collective mhm's]
+DRE: There's also not a lot on September.
 
 
-AUSTIN: Or wait, do I have you on the map or do I have you on the clocks? I have you on the map.
+AUSTIN: No. There super isn't.
 
 
-JACK: Map.
+DRE: [laughs] I guess they never thought anybody would— 
 
 
-AUSTIN: So... you know that the institute itself- and you're able to relay this, is surrounded by four- by three walls. By three walls and an ocean, and also along the side of the ocean are these big weird... basalt formations, big rock formations...
+AUSTIN: Right! 
 
 
-KEITH: Okay.
+DRE: ––would try to go there.
 
 
-AUSTIN: That come up and form a kind of a natural cover, or a natural... obstacle to approaching it from the seaside.There are... there are guards at the gates, very few people get in or out... without clearance, either being workers or students, and you know that there is security there, and while you were there, which was a while ago, things never got violent, but you know there is armed security there.
+AUSTIN: Totally. Totally. Oh boy. I mean, it has— oh! Wait. Okay. Well, there is this.
 
 
-KEITH: And we already know... Maryland's position in the September Institute. She's like... head honcho?
+DRE: Oh, it's got transport lockdown.
 
 
-AUSTIN: [Overlapping with Keith] No, not really, like... no.
+AUSTIN: It does have transport lockdown. So let me read transport lockdown. This is cool. This is a good game. This game works in interesting ways. Transport lockdown says [reading] transport lockdown techniques involve selective pressure on a local routing and shipping company or companies. On a successful Cunning versus Cunning attack against a rival faction, the rival faction cannot transport assets without 1d4 fac creds and waiting one turn. So maybe— it that just the move that September is making? Does that— it doesn't seem like it hits automatically.
 
 
-KEITH: We don't?
+DRE: It says Cunning versus Cunning attack, so that's—
 
 
-AUSTIN: You never met Maryland...
+AUSTIN: I guess my question is, is that an action? Or does that just fire by itself when this happens? 
+1:05:35
 
 
-JACK: Twelfth is...
+DRE: Ooo, that's a good question. I'm checking. [laughs]
 
 
-AUSTIN: Twelfth is the head of the September Institute- 
+AUSTIN: I know, I know. I'm looking at it right now. On a successful Cunning versus Cunning attack against a rival— I feel like it has to be— it doesn't say action, though. Or as an attack.
 
 
-KEITH: Right.
+DRE: Then I think it is probably just—
 
 
-AUSTIN: He is the Headmaster, and the... Provost Regent.
+AUSTIN: A reaction?
 
 
-JACK: Also terrifying.
+DRE: ––a reaction, yeah.
 
 
-AUSTIN: Also kind of terrifying... I don't know, I have mixed feelings about him. Maryland you never met, and was gone by the time you were a student.
+AUSTIN: Okay. So let's make that Cunning versus Cunning attack. What is—
 
 
-KEITH: Okay.
+DRE: You got your attack of opportunity. Yeah.
 
 
-AUSTIN: She was a... she founded the Institute, is what you know, there's like a statue of her, there's a statue of her in a nice little park and a... quad. I guess it's not really a quad, it's kind of a triangle, it's kind of a tri? [laughs] And there's a statue of her inside of that... and you know that she's spoken of as being the... the first person to have really discovered Stratus... like the science of studying Strati. She wrote a book called... Strati and Socio- what was it, it was- I wrote this down recently 'cause I'm the biggest nerd. It's not the one that was already mentioned in a previous episode either!
+AUSTIN: Yeah. Exactly. Even in this game. Petrichor's Cunning is 5. And the Righteous Vanguard's a 7. 
 
 
-[Laughter]
+DRE: So is that just a 1d10?
 
 
-AUSTIN: It's Strati and Sociologistics Towards an Interventionist Structuralism.
+AUSTIN: Yeah, I think so. And I'm going to double check based on what things are. Let's make sure psychic academy doesn't change things. [laughs] Psychic academy is really good. Make your roll.
 
 
-ART: Oh my god...
+DRE: Oh god. Does it change things?
 
 
-AUSTIN: That's what it was called. Uh huh.
+AUSTIN: It changes things. Or it can. 
 
 
-[00:35:00] KEITH: [Laughs] Okay, so that's, that's all stuff that I knew.
+DRE: So that roll.
 
 
-[Laughter]
+AUSTIN: 1d10 plus—
 
 
-AUSTIN: Mhm.
+SYLVIA: So 13?
 
 
-JACK: And does Cass say 'oh my god' when Mako tells us this?
+AUSTIN: What is— Righteous Vanguard, 7 on Cunning. Okay. Okay, so here's the thing psychic academy does. Psychic academy says [reading] this faction can provide psionic mentor training to qualified psychics. Once per turn, this faction can also force a rival faction to reroll any 1d10, whether or not the faction is involved in the roll. So reroll that 1d10.
 
 
-AUSTIN: Does Mako know the name of that book?
+DRE: Okay. Nope!
 
 
-KEITH: No, Mako had to struggle just as hard to figure it out.
+AUSTIN: Oh shit! [SYLVIA laughs]
 
 
-AUSTIN: [Laughing] Good! Good!
+DRE: 15!
 
 
-[Laughter]
+AUSTIN: Rigour comin'! You rolled a 15. All right. So there's no counter here. 
 
 
-ART: I don't think Cass-
+SYLVIA: Made it worse.
 
 
-KEITH: Is it only because like a one- a 101 professor said it like ten times.
+AUSTIN: I think they're just not prepared for what Rigour is. Right? The September Institute Strati were designed to fight Grace and to fight Fortitude, to fight Service, to fight the modern Divine. Not to fight this ancient thing that is— it's one of those things where the code base is just so different that it just doesn't hit in the way it's supposed to. And I think it's just— so it's there. Let's move it there, onto September. Christ. Ohhh, I didn't think about this even a little bit.
 
 
-AUSTIN: Yes, exactly. 
+DRE: It's fine, it's fine.
 
 
-KEITH: Like, and had to, you had to mention her book.
+SYLVIA: No, it's good. I'm very pumped about that.
 
 
-ART: Cass doesn't find it quite as precious that the universe decided that's what that book is named.
+AUSTIN: [morosely] Me too.
 
 
-[Laughter]
+DRE: It's going to be great when Natalya and Orth get to meet again.
 
 
-AUSTIN: Yes. That's just  'cause Cass doesn't know the universe's creator on a name-to-name basis.
+SYLVIA: Oh fuck!
 
 
-[Laughter]
+AUSTIN: [unhappily] It's going to happen. [small moan] Oh, Orth.
 
 
-JACK: Right! Yes, that's also true.
+SYLVIA: I'm not looking forward to that.
 
 
-KEITH: Does that count as my follow-up or do I still have a follow up?
+DRE: Poor Orth!
 
 
-AUSTIN: You have a follow up.
+AUSTIN: Oh, precious baby Orth. [under his breath] Fuck. Man.
 
 
-KEITH: Okay! Let's see...
+DRE: God, no matter what we do, we just shit on Orth. [cracks up]
 
 
-AUSTIN: If there's something that's not here and you just want to ask generally, go for it, but I want to make sure we at least thought in these terms before we jumped to just asking broad questions.
+AUSTIN: Uh-huh. Yep. Yep. [SYLVIA sighs] All right. So given this, do you think Planetary Seizure is actually— do you think Planetary Seizure, September, is the goal?
 
 
-KEITH: Yeah... Do we- did we get... coordinates to Maryland or do we just like know 'oh she's there'.
+DRE: Yeah, yeah.
 
 
-AUSTIN: No, they're- they're...
+AUSTIN: Okay. Again, we hadn't had time to really review this stuff. All right, let's do— you have to go, Dre. Thank you so much for being here.
 
 
-JACK: [Overlapping with Austin] We got coordinates to the base, right?
+DRE: Yeah, I do.
 
 
-AUSTIN: Yeah, the coordinates you got were the ones that took you to this base.
+AUSTIN: We're going to wrap this up. I still don't know what Ibex is going to do, so you'll have to listen to find out, Dre.
 
 
-KEITH: Can I ask where would we find Maryland?
+DRE: I will. I will.
 
 
-AUSTIN: You would have no idea.
+AUSTIN: Thank you again for joining us.
 
 
-KEITH: Yeah, that's what I figured. Ah... maybe I know a secret spot!
+DRE: Bye.
 
 
-AUSTIN: No, like you know like a nice cafe, that's what you know.
+AUSTIN: Bye-bye.
 
 
-KEITH: Yeah, I know where the best coffee drinks are.
+SYLVIA: See you, Dre. 
 
 
-AUSTIN: Yeah.
+AUSTIN: What's going on with your fleet, Sylvia?
 
 
-ART: I'm sort of like interested in a follow up to the security question if you're taking, like, ideas.
+SYLVIA: So I was— one, I'm very happy that Rigour is not on September now— I mean, JoyPark now. I'm very happy about that.
 
 
-KEITH: I'll take an idea!
+AUSTIN: Really just opened up a line, huh?
 
 
-ART: Like... armed guards is one thing, how seriously are they checking credentials? Like I've been to college campuses before, and on most college campuses you can walk around wherever, but most colleges aren't teaching you how to... destroy weapons of war.
+SYLVIA: Yeah, kinda helped me dodge a bullet there. I think we're just going to move— that's why I was saying it's not going to be a huge thing to miss, because we're still just moving. We're still moving to JoyPark.
 
 
-AUSTIN: It was never hard for you, Mako, because you were a student.
+AUSTIN: Right. So the question there is, can you get into JoyPark or will they fight you on that?
 
 
-KEITH: Okay, right. It still says I'm a student!
+SYLVIA: Exactly. Do you think they would?
 
 
-AUSTIN: There was this time that you wanted to bring someone back to the dorm with you, they did not get in, and you were like 'why not' and they were like 'because they didn't file- fill out the right paperwork, it's gonna take them three months to fill out the right paperwork to visit you for a night,' and you were like 'mfeh' and snuck them through a wall. That was a good night.
+AUSTIN: Yeah. Totally. Because they're going to add—
 
 
-KEITH: Through a wall?
+SYLVIA: It's Dre's faction, but––
 
 
-AUSTIN: Like over a wall, like you snuck them through a... a back way. In fact I think you probably- what you probably did was very romantic and silly, was walked them through this like, weird back area near the bay- near the ocean that runs up against it, hopping from stone to stone around the back of this thing.
+AUSTIN: I don't think they just let you— 
 
 
-JACK: Hmm, so it's...
+SYLVIA: —I think you can play them all off.
 
 
-AUSTIN: It was very dangerous and you were very young and stupid.
+AUSTIN: Yeah. Let me see something.
 
 
-KEITH: But I did it, it works!
+SYLVIA: What are we— whoops, that's the file name.
 
 
-JACK: [Overlapping with Keith] It's simultaneously a weapons research facility and also just a university-
+AUSTIN: So yeah. What are you moving? You're moving the Yersinia, obviously.
 
 
-AUSTIN: Yes.
+SYLVIA: We're moving just the Yersinia. What does—what's the?
 
 
-JACK: In terms of like, you can just sneak in if you're really careful.
+AUSTIN: Oh right. So wait, what is Yersinia actually? What type—?
 
 
-[laughter]
+SYLVIA: Yersinia is a—
 
 
-ART: Is- is everyone-
+AUSTIN: Is it a scavenger fleet or a—?
 
 
-KEITH: The head scientist has a sock on his doorknob [laughs].
+SYLVIA: No, it's a capital—
 
 
-[snrk]
+AUSTIN: Is it a capital fleet?
 
 
-ART: Is everyone a Stratus or is there someone there studying like, literature?
-[00:38:00] AUSTIN: there- there are strati in there studying literature
-[Ali laughs]
-AUSTIN: It is-- it's because--
-KEITH: It's a liberal arts...
-AUSTIN: It is, right? Like it's- this is the thing is, is at least when you were here the modus operandi was 'hey what is a Stratus?’ Part of that was 'how do we weaponize these,' but part of it was, like, what does it mean to have this weird enhanced empathy and also read great fiction?
-JACK: I cannot believe that we're this late into season two of Friends at the Table and this is the first time we've gone to a university.
-[Ali laughs]
-AUSTIN: [smiling] It's amazing.
-[Keith laughs quietly]
-ART: Well I mean part of that's because we destroyed the only known university in season one during the world generation.
-JACK: [fake indignant] Well now hey, now hey now... [laughs]
-KEITH: I bet there was a university where- where wood elf David Bowie lived.
-ALI: Ohhh...
-AUSTIN: Naw he just kinda hung out, he just kinda hung out in the woods.
-[Ali laughs]
-AUSTIN: He was nice, I miss him.
-ALI: Ok--
-JACK: Ok... So I feel like we should make a hard move, I feel like we're trying to get into the boat here.
-AUSTIN: You are definitely--
-KEITH (as Mako, jokingly): Listen, I know this back way where we hop on rocks [he laughs]!
-ART: Could Mako get us in the system... I mean I know child Mako couldn't but could adult Mako, you know, fog their security devices?
-KEITH: You mean could I make it look like three months ago you did all the proper paperwork?
-ART: Yeah.
-AUSTIN: Uhh, not right this second, not from here, but from there? You could definitely give it a shot.
-ART: Let's get- let's get Mako there, that should be our first...
-KEITH: Alright, get me-- 
-ALI: Yeah we have to--
-ART: Maybe this is the start of a plan.
-JACK: Oh, hey, hey!
-ALI: Well we have to get into the building so...
-ART: Yeah but I could, I could help, I could help...
-ALI: Right.
-AUSTIN: He's saying he could make a 'here's where the plan'...
-ART: Right, I could make a "Here's the Plan" but we should all like...
-AUSTIN: Oh, right, not 'here's where the plan'...
-ART: ...'cause the plan is ridiculous.
-[Ali laughs]
-ART: Here's a "Here's the Plan".
-JACK: So run me through the here's the “Here's the Plan.” 
-KEITH: What's the here's the “Here's the Plan” plan?
-ART: Here's the plan plan...ing. 
-[00:40:00] AUSTIN: Oh boy.
-ART: So we, we go through the tunnel, we get to the building at the other end of the tunnel, and we try to get Mako into the system there. Once we're credentialed we can theoretically move around the campus unfettered. The problem with giving everyone else a task contingent on this is if Mako fails this first bit everyone loses their plus one.
-AUSTIN: That is true!
-JACK: Also...
-ART: So here's a very- here's what I think I can say that doesn't necessarily hinge on this. I think... oh...
-AUSTIN: Uh huh.
-KEITH: If you don't specify how I'm getting you in I could try several different ways to get you in, surely one of them will work.
-ART: No, it's fogging, fogging is the way, that's... fogging or people fogging as we like to call Mako talking to...
-[giggles]
-ART: And once we're in...
-JACK: I don't think...
-KEITH: [00:41:02]  ...They get very confused, a little bit dazed...
-ART: So, so post credentialing, or even, no matter what happens with the credentialing we have to, we have to go forward from there and when we get through with that I think we should split up... Scooby Doo style, and I think it should be... me and Aria going for September, and Mako and AuDy, because AuDy's gonna continue to run into problems and Mako can try to smooth those over... and they go for the actionable information, or however that was phrased. I thought I wrote that down and I-
-AUSTIN: That's right, you're right, ok!
-KEITH: Ok.
-ART: Unless anyone has a problem. This is the time to iron that out.
-ALI: This seems ok, do you want to give...
-JACK: No, this seems fine.
-ALI: ...Can we give Jacquie and Orth tasks?
-AUSTIN: Sure.
-KEITH: Oh, right, they're here!
-Mako: You guys are really quiet.
-JACK: Could we get them to…
-AUSTIN (as a character): It’s very overwhelming! Yo0u know it's just  [sighs] you know I was just on Counterweight a couple... weeks ago. I miss a lot of-- I…
-Mako: You're homesick?
-AUSTIN (as a character): Yeah... I’m a little homesick.
-KEITH (as Mako, but it’s a goof): I get it, whichever one of you is talking. [smiling]
-AUSTIN (as Orth): It's me, Orth. [just talking in his normal voice] when I’m down here I’m Orth... 
-AUSTIN (as Jacquie): [talking in a higher, southern voice] And when i'm a little bit more wisecrackin' and quick talkin' it's me, Jacquie!
-[everyone laughs]
-ART: Ok....
-[more laughing, Ali giggles]
-JACK: From the saloon!
-AUSTIN: Howdy pardner! Cowboy Jacquie!
-ALI: [laughing] Stop!
-ART: Can I, can I send them on their own mission or is that a bad idea?
-JACK: No, no we want to put them in the safest possible room, and just have them close the door!
-AUSTIN: [overlapping with Jack] Yeah, you could totally send them on their own mission, yep!
-ART: So I should have them do like their own guerrilla operation against the security to try and like draw them away from us.
-AUSTIN: You could totally do that. You would make a roll for that.
-KEITH: [overlapping with Austin] Couldn't we just have them go to the library to get microfiche of Maryland?
-[laughter]
-AUSTIN: Aw, that would be-- only if I get to just write that short story happening, if I get to write that fanfic of them hanging out.
-KEITH: [quietly] Yeah.
-AUSTIN: Um, so here's the, here's the thing...
-KEITH: It's the safest and most useful place for them, so they don't die.
-AUSTIN: There is a thing I want to...
-ART: ...Operations?
-AUSTIN: Yes. so there are operations in this game, it's a thing I don't think we talk about very often... if you turn to page... whatever page this is, 220 in your Sprawl manual... mission packages. There is a thing called operations, there's a move called “Conduct an Operation.” "When you lead a planned and coordinated operation, describe your plan and who is carrying it out, and then roll Edge. On a 10+ everything goes according to plan, you and your team are in perfect position to carry out the final element of the plan, the MC will describe the scene and present you with an opportunity to act. 7-9 you get your opportunity to act, but it wont go as smoothly as you would like, choose 1. Either: a preliminary task was not completed on time or accurately, choose a task and the MC will describe how it causes a problem, or: There is an unexpected complication, choose a consideration and the MC will describe how it causes a problem. On a 6 or minus the MC will describe the scene and make a move that puts you on the back foot, both problems described on a 7-9 apply as well. Conduct an operation will be used for side missions, or any part of the main mission that the players or the MC don't want to spend a lot of time on. Use it when failure or complication could be interesting, but the details of the mission and its execution are not." Then there's a bunch of like, mission kind of... parameters that it suggests, like "destruction." Like if your thing is I wanna go destroy a building, or destroy a... something then like... the tasks you need are: "determine the location of assets, establish the matrix overwatch, take positions," and it could be complicated by: “security teams, environmental factors, or the mobility of the target asset." And so you just make that roll, and we would just zip to, your in position to pull the trigger, right? Instead of like... instead of having a whole big scene where Mako gets into matrix overwatch, he would just be there. So I'm totally up for using those here, because this is such a big thing, but I also really just like the notion of using it as a way to talk about what Orth and Jacquie are doing. But it would mean, it would mean Cass making that roll, and something could go wrong.
-[00:45:00] KEITH: Does Cass have to make that roll?
-AUSTIN: Oh yeah.
-KEITH: What is your edge like?
-ART: Its ok... it's a one.
-[Ali makes a scared noise]
-AUSTIN: But...
-JACK: I could aid him on it.
-KEITH: [overlapping with Jack] I could assist?
-AUSTIN: You could definitely aid him on it, yeah. Again that would mean it would open you up for, for repercussions if the roll went bad.
-ART: We should figure...
-[Everyone talks all at once, it goes horribly wrong.]
-AUSTIN: Whoa, whoa, whoa, one at a time.
-ART: We should figure out what it is first.
-AUSTIN: Yes, you should figure out what it is, and if you want to do it, before you talk about aiding or anything else.
-[Jack hmms]
-AUSTIN: So what would you like them to do? And what would you like you to do?
-JACK: Um, ok, so do we, do we want to have them moving around at the base, or do we want to have them accomplishing a task that they could from within the kingdom come?
-ALI: They're probably safest in the base, right?
-AUSTIN: Yeah, they're super safe here, I would not hurt them unless you all failed some rolls really miserably... and like, I would, I would show you-- quote-unquote I would ‘show you the barrel of the gun.’ I would not be like, ‘oh they're dead, you come home and they're dead!’ without first giving you like five scenes of them being like ‘we're hearing weird noises, what's going on?’ and you being like ‘eh whatever, they're fine.’ And then I would kill them.
-JACK [as Orth]: People are shooting at us.
-AUSTIN: Exactly.
-ART: So we could like-- basically they could just be rear guard.
-AUSTIN: Yeah, they could just--
-ART: You know, make sure no one’s coming behind us, but that, that seems like a waste of their talents, you know?
-AUSTIN: This is such a boat thing, and it's just, it's not even funny, i'm just really excited. for a certain moment of this game. there's a thing y-- god.
-KEITH: I think they should come with us, and they should go to the library and do some research!
-JACK: I have a suspicion that we're gonna leave this building and the planets gonna be in ruins or something. [laughs]
-AUSTIN: No, it's like, whatever the opposite of that is.
-JACK: [kind of sarcastically] Oh, ok.
-ART: Nothing’s as terrible as we imagine it to be right now?
-AUSTIN: That's part of it, sure [in his GM 'I know something that you don’t' voice]
-JACK: Uh, yeah, I reckon we can just go out, I reckon that until the gates-- I reckon we can just move in this area without fear of Rigour. No, without fear of anything except Rigour.
-AUSTIN: [in an ominous GM voice] Alright, I think I have to do a thing, just to like, be fair, 'cause I'll, as much as I-- I have to do a thing to be fair. AuDy, on the Liberty and Discovery system, like you're in that system now, right?
-JACK: Yeah.
-AUSTIN: There are a bunch of buttons, and like all of the messages and stuff are gone, but there are still a bunch of buttons on the screen, and like the cameras was one of them, like security or something like that. Resources is one of them, and you click on that and that's like, totally empty, 'cause it's just like a list of the armaments that used to be in that armoury, and a couple of Riggers, and those are clearly checked out, there's a, there's one thing that's like Supplies, and it tells you how much food and rations and water and electricity is available, and you're set on all those things. it's almost like an IOS game, like it's almost like a bunch of menus that you can go into, and one of them just says Map. 
-JACK (as AuDy, but only sort of): [laughing] Alright, fine, who wants to look at the map, I have a map.
-KEITH (as Mako): There's a map?!
-AuDy: Yep.
-AUSTIN: You click the button... I just want to make sure the scale is clear, and the rest of the map is... here.
-ALI: Thaaat’s a big one!
-JACK: [makes a slightly scared, incredulous noise]
-Mako: What's that swirl? What's that angry swirl?
-AUSTIN: That is... the Slate Mineral Cooperative. 
-JACK: When Austin said he was doing a lot of prep for this episode... [laughs] there is a complete map on the screen at the moment, showing multiple districts, and...
-KEITH: (overlapping with Jack) Yeah, what he meant was copy/pasting triangles.
-[Ali laughs]
-AUSTIN: There's a lot of that. And I resized some of them also, thank you.
-JACK: What are those little dots to the right?
-AUSTIN: You don't know. Buildings, like it actually says buildings. If you click on one it just says "a structure."
-ART: What if we just sent Orth and Jacquie to do like, recon in the town?
-AUSTIN: Totally doable.
-JACK: We could do that, yeah...
-ALI: Yeah, I was thinking that... or like the empty office building, 'cause that seems weird?
-AUSTIN: I mean, you'll have to go there too if you end up...
-ALI: Ok.
-JACK: Yeah I feel that the tunnel is probably our best bet in.
-ART: Whoever's gonna role to aid me, do it.
-JACK: Keith and I have the same so...
-AUSTIN: [overlapping with Jack] So who wants to do it then?
-JACK: Go for it Mako.
-AUSTIN: Ok. And how are you helping?
-KEITH: I guess, I guess the way that im helping is by describing like the layout of the town, and where to go if they're in trouble, and like, where to go to find people that know stuff?
-AUSTIN: That totally works, yeah.
-KEITH: Eleven!
-ALI: [quietly] Oh thank god...
-AUSTIN: Alright! so take a plus one.
-ART: Do we get anything for getting more than ten there?
-AUSTIN: No. I'll double check, but I don't think so, no. It just, the thing is, if you mess up, Mako's fine.
-[00:50:00] KEITH: Plus one! There you go, seven!
-[Ali makes a scared noise]
-ART: Plus one, seven!
-AUSTIN: Ah, alright, so you get to decide...
-KEITH: Love those Aid rolls.
-AUSTIN: So I'm gonna call this infiltration from the established things. 
-ART: That's what I'm trying, yes.
-AUSTIN: Which is... "when you want to maneuver without being detected complete these tasks: determine entry points, establish matrix overwatch, avoid detection, and maneuver to objective point. it may be complicated by these considerations: position and status of security teams, virtual surveillance, vigilance of enemy, location and environmental factors." Cass, you choose, either one of those tasks was not completed on time or accurately, or there's an unexpected complication from that list of potential complications. 
-ART: [quietly] Shit. [louder] What was the last complication again? The thing about environment?
-AUSTIN: Location and environmental factors. 
-ART: That one.
-AUSTIN: I'm also gonna ch... ok. So... I think you-- I also just love this like, 'whatever we do we cant get Jacquie and Orth killed,' and before any of you have left this base youve sent them into this fucking city. 
-[Jack laughs]
-ART: Well I sort of imagine this happening in parallel, that's just not how the roll system works.
-KEITH: [overlapping with Art] It's a nice place!
-AUSTIN: Right. Alright. As they come through, and, and you can watch them on, AuDy pulls up the camera system, and you see them leaving that first, that building you're in, and you kind of hop from camera to camera, there are a couple of other ones like, down the block that are still like, where they’re still viewable, where you can still move into them. You’re not hacking into them, they’re just part of this system to secure, to make sure the blocks are secure, and they’re secure... and then there's the sound of thunder. And from the coast a rainstorm starts to move into Mode City, also the name of this place is Mode City, and theyre able to go do their mission but like... I don't know if its a, if its a-- I think Mako can probably tell you, sometimes when the storms hit here, when they hit really bad, communication gets really rough. So they're theoretically doing recon, but actually contacting them is going to be very difficult.
-JACK: [sarcastically] The most useful recon
-AUSTIN: Yeah
-AuDy: Well let's go, how are we splitting up? Are we splitting up? 
-Cass: We're splitting up after we get there
-Aria: Yeah
-AuDy: Ah yeah, we're getting credentials first. Ok, and what, do we want to take the tunnel? Or do we want to risk it through the forest?
-Aria: Uh... tunnel?
-Cass: Tunnel.
-AuDy: Yeah, why not, I have bad memories of trees. 
-AUSTIN: Alright, alright you're in Mode City, you're in an area of high-rises, the buildings cut up pretty high into the sky, and its-- how many of you have been in... real cities before? AuDy? Like non-domed cities? AuDy?
-JACK: Presumably, at some point.
-AUSTIN: Cause you used to park cars on Archonic. Mako, you've been here before, Aria, you must have toured to places that didnt have domes, right?
-ALI/Aria: Yeah I, I moved, I've only lived on Counterweight for like six years
-JACK: And I guess Cass has seen them in the war, right?
-AUSTIN: Yeah, or at least has seen...
-ART: Well what's the capital of Apostalos look like?
-AUSTIN: Yeah... well it looks sort of like this, right? So that's the thing about this place, Cass, you come up and... I think you have this weird, it's not quite deja vu, but like... Alright so when I lived in London, Ontario I moved to a place eventually where there were all of these buildings that had this like, very... very strange yellow stone... and like all of them had it, like this strikingly bright yellow. And it was just like, I don't know what happened there, I don't know if it was like the same developer had them, the same developer built all these different homes, or what, but now, even now when I see anything built with that yellow stone I think about that place, and like my-- it's like 'oh I'm thinking about it' but like something in me fires and I'm there, for a split second, thinking about that. And the second you come out of this building, or the second you look, you see it out of a window, when you pop out of where this building is, that like 'oh weird, this is Apostolosian stuff that's been re-- it's been either take over or, or kind of, a new facade has gone up over it, but you recognize the like, the sandstone, and the general architectural style, of Apostolos. The other thing is... as you come up through this... I guess we're not, I can't believe you sent them out first, ok. You...
-ART: [indignant] It's how the rules work, we didn't have a choice!
-[Ali laughs]
-AUSTIN: You could have gone to this thing first, and then come back, and made it-- it's not-- no ones in a rush. So you, you come through...
-[laughter]
-KEITH: [00:54:49] Were kind of all right i think? 
-AUSTIN: I guess? I don't know? Listen, the-- the faction game moves in thirty day chunks, you've been here for six hours or something, not even.
-ALI: [quietly, scared] Oh god.
-[00:55:00] ART: You were getting impatient with us! You, Austin!
-[Sli laughs]
-AUSTIN: Yes, yes but not in like... not in like this way, not in the meta, broad sense, only in the micro sense. So you come out of the, it's like a basement floor, it's like a sub basement floor, through a set of... of doors that then lead to an elevator, that comes up the, there's no button for the floor that you're on, like theres no, it doesn't look like there's a way to go back down that way, but AuDy, you, you know that you can just run this elevator, so it's not a problem... for you anyway. You leave the elevator and you're in that empty office building. Things seem... like its not dusty, it doesn't smell bad in here, but things are definitely... under used.
-[The Long Way Around starts playing]
-AUSTIN: Like there are old computer consoles that are, they're out of date, like they were definitely here before... Mako was a student. It'd be like finding a windows 3.1 desktop today, and as you start moving towards the main exit, you hear the voice of... Aria probably notices it first? You hear like, the voice of a famous television, or like a famous whatever the television equivalent entertainer is, like a youtuber basically, thats playing on some sort of device in that next room. What do you do?
-ALI: Oh...
-JACK: If there's someone in it, they're probably going to be a little disturbed by just someone coming up through their basement.
-AUSTIN: You know there is someone in it, because you saw her in the previous... when you were looking at the cameras.
-ALI: The receptionist.
-JACK: Oh yeah! You see, receptionists are pretty good at talking to people, just not when they have come up through the building of the reception. Lets go, why not!
-ART: Yeah, we could be maintenance, who knows what we are.
-JACK: Yeah!
-KEITH: [laughing] Yeah, who knows what we are?
-ALI: Yeah, one of us can like, distract her, while the rest of us sneak past and out of the building, maybe?
-JACK: Mako, you're up!
-[00:57:36] [The Long Way Around plays]
+SYLVIA: ––fleet, I think. Or strike fleet. Oh yeah. No. It's pretech infantry and a base of influence.
+
+
+AUSTIN: Oh, right. It's a very weird thing. I forgot that that's what we did with it.
+
+
+SYLVIA: Yeah. We made it a mobile base of influence.
+
+
+AUSTIN: That is what we did.
+
+
+SYLVIA: Because the whole idea was that this was the operating—
+
+
+AUSTIN: And it could generate stuff, basically. 
+
+
+SYLVIA: Yeah. Oh, and Jillian's there.
+
+
+AUSTIN: Hmm?
+
+
+SYLVIA: Jillian's there.
+
+
+AUSTIN: Oh, right. Yes. We knew Jillian Red is actually on ship. So the planetary government does need to give support for this asset to be either created or transported into its zone. 
+
+
+SYLVIA: Okay.
+
+
+AUSTIN: So you would need to get Petrichor's support to do it. And if you don't have it, you'd have to bust your way in, which is probably doable. Let's see. 
+
+
+SYLVIA: I think that's probably what they would do— 
+
+
+AUSTIN: You don't mention. You don't say.
+
+
+SYLVIA: Truth be told. Yeah, weird that the pirates are like, "Wait, no. We're not going to listen to you. What?"
+
+
+AUSTIN: [reading] Some assets require the permission of the planetary government in order to purchase them or move them onto the planet. This is not a formality. The standing government's forces can physically disrupt any attempt to recruit an asset onto their world or shoot it down in its vulnerable entry phase. Whether or not this permission will be extended usually depends on the faction's relationship with the planet's government, though bribes of 1d4 fac creds can occasionally suffice. Under no conditions will a government willingly permit the recruitment or entry of assets powerful enough to overthrow them. So here's the question. Do you think Rigour just lets it through with a bribe? Or do you think you need to build something to stealth the ship or to, like a space marine, get in without permission or something like that? That's the question.
+
+
+SYLVIA: Well, one, I don't know if Rigour would go for a bribe.
+
+
+AUSTIN: Rigour would not like a bribe? Rigour is not a J-m unit?
+
+
+SYLVIA: I don't think Rigour is looking for a tarp.
+
+
+AUSTIN: No tarps. 
+
+
+SYLVIA: No tarps.
+
+
+AUSTIN: Okay. Then it might—
+
+
+SYLVIA: So I think we're going to find a way to get through.
+
+
+AUSTIN: You might be able to just buy stealth. That's the other thing, because you can straight up buy stealth. It just costs money.
+
+
+SYLVIA: Let me see. That would be under—?
+
+
+AUSTIN: I think it's Cunning, but you might not have the thing high enough. Let's see. Or you might have to go around. Right?
+
+
+SYLVIA: Make sure— yeah. Which would make us have to go close to September.
+
+
+AUSTIN: Oh my god.
+
+
+SYLVIA: ––which might be the more interesting scenario.
+
+
+AUSTIN: We'll see. That might be good.
+
+
+SYLVIA: Stealth is Cunning 3.
+
+
+AUSTIN: Okay. So you probably have that.
+
+
+SYLVIA: I believe we do.
+
+
+AUSTIN: You have Cunning 5. Yeah. You have Cunning 5, so you could totally do that. What's the cost on stealth? Or is it special? It might be one of the special ones that—
+
+
+SYLVIA: It is— I can't find cost on there.
+
+
+AUSTIN: Cost is 3. Cost is 3. 
+
+
+SYLVIA: Oh, 3.
+
+
+AUSTIN: It costs 3 to stealth something. So you could spend this turn buying stealth for Yersinia.
+
+
+SYLVIA: I think that's what we'll do for that.
+
+
+AUSTIN: Oh, do you think this is the— do you think— August is the name of the Horizon Tactical Solution? 
+
+
+[simultaneously]
+AUSTIN: Augustus. 
+SYLVIA: Augustus, I believe, is the name.
+
+
+AUSTIN: Do you think—
+
+
+SYLVIA: He's the new guy.
+
+
+AUSTIN: Yeah. Do you it's him or someone else on the ship maybe that figures out how to do that sort of stealth stuff? Do you think— okay, so one, what does stealth look like on this ship? Is it literally that the ship disappears? Or is it something else?
+
+
+SYLVIA: No. I think what this would be would be making things to disrupt sensors.
+
+
+AUSTIN: Yeah. What if it's not even that? What if it's just diversionary tactics? Like, "Yeah, we assume you can get out, as long as we go fuck some shit up for a few minutes."
+
+
+SYLVIA: Ohh, that's really good actually.
+
+
+AUSTIN: What this is— it's a tactic. Stealth isn't— when you look at it in Stars Without Number, stealth is a tactic. It isn't a special ops unit. It isn't a piece of technology. It's a tactic. So yeah. I kind of like it as you launch all of your riggers and all of your fighters, and those draw away the force long enough for the Yersinia to pass through. 
+
+
+SYLVIA: Yeah. Because the Yersinia isn't just military people. There's families and stuff on there. So they want to draw attention away from that because they're like, "We need to be able to bring our people to Kalliope." So I like that a lot. And I think that would be— what I really like— the idea of that is Diego wants to sort of be in charge of that operation, but as it goes on, Augustus sort of steps up. 
+
+
+AUSTIN: Okay. I like that a lot.
+
+
+SYLVIA: And just in the middle, he starts calling for different formations and stuff that ended up sort of saving them, as opposed to Diego's idea. So setting up sort of a power struggle there.
+
+
+AUSTIN: Yeah. Totally. That's the best.
+
+
+SYLVIA: I have some ideas that I want to talk to you about off-air for what's coming up.
+
+
+AUSTIN: Definitely. I'm excited. I also like the notion of like, "Well, how are we going to get back on the ship?" "Don't worry about it, we never leave anybody behind. You should know that, Augustus." Or maybe that's the thing, is that Augustus actually already knows that, based on what he's seen with the crew.
+
+
+SYLVIA: How he's been treated.
+
+
+AUSTIN: Yeah. They didn't even leave him behind, so.
+
+
+SYLVIA: Because I think— we haven't really had a chance to do this, but I want to sort of, as things progress, show this sort of almost mentor role that Hudson starts taking towards Augustus. And Diego is very unhappy about that. 
+
+
+AUSTIN: Yeah. In that, "This is not supposed to be— this was supposed to be my relationship with this guy that I was torturing."
+
+
+SYLVIA: Yeah. Exactly.
+
+
+AUSTIN: Good.
+
+
+SYLVIA: It goes both ways. "No. One, he's supposed my—" 
+
+
+AUSTIN: Plaything. Right? "My toy."
+
+
+SYLVIA: "––victim, and two, I'm supposed to be your confidante."
+
+
+AUSTIN: Right. Not this guy.
+
+
+SYLVIA: But instead, because Augustus has basically— because they haven't had riggers before, he's sort of stepping in as their rigger—
+
+
+AUSTIN: Expert. Yeah.
+
+
+SYLVIA: —head. Yeah. 
+1:15:15
+
+
+AUSTIN: The other thing here is that, because the Yersinia is a production facility, it means they can lose the riggers if they want. And just put together new parts for them. Right? 
+
+
+SYLVIA: Exactly. 
+
+
+AUSTIN: I like that a lot. I wish we had more time to do just Yersinia stuff all the time, because it's so good. 
+
+
+SYLVIA: It's so good. I love it.
+
+
+AUSTIN: Again, it's like a big outlaw star that can make stuff.
+
+
+SYLVIA: I have way too many ideas to fit in for stuff, both on the Yersinia and what an Odamas, because they have stuff on Kalliope, what that looks like. We can talk about it off-air.
+
+
+AUSTIN: Sounds good.
+
+
+SYLVIA: So we still have to do Ibex's stuff. Right?
+
+
+AUSTIN: So they get some stealth?
+
+
+SYLVIA: Oh yeah. They get stealth. 
+
+
+AUSTIN: I just wanted to make sure you add it to the— we add it to the faction.
+
+
+SYLVIA: I did not. I will do that now. And now we just have Ibex's crew to do.
+
+
+AUSTIN: Yeah. Okay. So the last game ended with that speech from Ibex, from the Righteous Vanguard— 
+
+
+SYLVIA: Oh yeah. On Counterweight.
+
+
+AUSTIN: —Counterweight and then the hum of Rigour, which now we've seen has been in motion. But the goal, still, right now is to take over Counterweight. Right? That's what it wants is to be in charge of Counterweight. And so the question here is, let's remind ourselves how seizing a planet— what that actually looks like in terms of rolls. Seize planet [reading] faction seeks to become the ruling body of the world. Faction must destroy all unstealthed assets on the planet belonging to factions who oppose their attempt before they can successfully take control. If all assets cannot be destroyed in one turn, the faction must continue the attempt next turn. So they're probably not going to make this seize the planet thing here. They're going to fight something specifically.
+
+
+SYLVIA: So all they have on Counterweight right now is their capital fleet.
+
+
+AUSTIN: Yeah. To be fair, though, that's a fucking great thing.
+
+
+SYLVIA: No, that's what I'm saying. Their only option is Force right now.
+
+
+AUSTIN: Right, right. And they have a base of influence.
+
+
+SYLVIA: So do we want to go with that? Or do we want to— oh, they have a base of influence?
+
+
+AUSTIN: Yeah. Which means they can buy new stuff there.
+
+
+SYLVIA: Oh okay. Oh. No, they have more than that. They have Ibex the seductress there, which we neeed— they need a gender-neutral term for that.
+
+
+AUSTIN: They really do. Good job, Stars— 
+
+
+SYLVIA: They also have popular movement, so.
+
+
+AUSTIN: Yeah. They sure do. Okay. So they have a bunch of things here.
+
+
+SYLVIA: I had scrolled down too far.
+
+
+AUSTIN: That's fine. Oh yeah. That doesn't do anything, the popular movement. So they can make Cunning attacks, they can make— actually, what does this unit do? What does Ibex actually do in terms of rolls? [reading] As an attack, it does no damage, but an asset that has been attacked immediately reveals any other stealth assets on the planet. Okay, that's not that— oh, and it can move. That's the other thing. Ibex can move freely, kind of, 1 hex at a time, as much as he wants. 
+
+
+God, I'm just thinking of the time we were like, "Oh, I guess this faction has a seductress. What's that look like? Uh, what if it's a cool duded named Ibex? Let's talk about that guy. What's that guy? Oh, that guy sounds cool. What's he like?" 
+
+
+SYLVIA: Yeah. And now—
+
+
+AUSTIN: And now we have lots of ideas about what he's like. God. 
+
+
+SYLVIA: It was just— the second you described him getting— the second you described him, I was like, "This guy's gonna be huge."
+
+
+AUSTIN: He's gonna be huge. This guy.
+
+
+SYLVIA: "This is an important guy. Not only is he a Candidate, but this guy is important."
+
+
+AUSTIN: This guy is an important guy. All right. I think it's going to attack.
+
+
+SYLVIA: Yeah? With the seductress or something else? 
+
+
+AUSTIN: I think with Righteousness. Right? 
+
+
+SYLVIA: Righteousness?
+
+
+AUSTIN: Oh, I think it's— the thing with Righteousness is at a certain point, it's— these different units are indistinguishable. The popular movement of the people are enabled by the Righteousness software that runs in their weaponry and that plays from their speakers. Right? Righteousness is— that's the thing, it takes hold. And it makes whatever you're doing seem so much more important and so much more focused. So when we roll for the "capital fleet," it's not just the fleet nuking things from space. It's Righteousness enhancing the popular movement that tries to overthrow the nearby— whoever's in control nearby. And that's the question. Where's it swinging? Who is it swinging on? I think most likely, it's the Hands of Grace who— oh, lord!
+
+
+SYLVIA: [reading] the controlling faction on—
+
+
+AUSTIN: There is no controlling faction currently on Counterweight.
+
+
+SYLVIA: Okay. Then I think Ibex would go right after the Hands of Grace.
+
+
+AUSTIN: Oh, fuck.
+
+
+SYLVIA: What?
+
+
+AUSTIN: Hands of Grace don't have any units on it anymore, except the base of influence.
+
+
+SYLVIA: Oh. Yeah, no, that's perfect.
+
+
+AUSTIN: Oh man. I didn't even set that up. That's just— 
+
+
+SYLVIA: Yeah. Well, it makes so much sense, because they've been repositioning.
+
+
+AUSTIN: They've been juggling and trying to— they've been trying to keep hold of Sage. They've been trying to get stuff happening on Sigilia. They've been trying to push down revolution on Slate. They've been everywhere, and now they're not on Counterweight. So Force versus Force roll.
+
+
+SYLVIA: So Ibex sees a moment of weakness in his biggest rival.
+
+
+AUSTIN:Exactly.
+ 
+SYLVIA: Pitch perfect.
+
+
+AUSTIN: All right. Let's see how it works out though. 
+
+
+SYLVIA: Is this Cunning versus Cunning?
+
+
+AUSTIN: No, it's Strength versus Strength. It's Force versus Force.
+
+
+SYLVIA: Oh, you're doing a capital—
+
+
+AUSTIN: Yeah. It's the capital fleet. It's Righteousness. I think it's 8 versus 8. 1d10 plus— yeah. Actually, it looks like— the Hands of Grace don't have any assets here. All they have is the base of influence, so they can't even defend. 
+
+
+SYLVIA: So it's just a direct hit?
+
+
+AUSTIN: I think it's just a direct hit. You can't just leave your bases of influence unprotected completely. You need— it's like in Magic: The Gathering where you don't have any— or Hearthstone. You need something with taunt. You need a creature to block the attack. [SYLVIA laughs] Obviously. Capital ships do a lot of damage, so.
+
+
+SYLVIA: Oh, man. How much? Let me see. 
+
+
+AUSTIN: [anxiously] A whole bunch. It's a whole bunch. 
+
+
+SYLVIA: Would it— I don't know if it— it doesn't have enough to take it out completely though, huh?
+
+
+AUSTIN: [anxiously] It'd 3d10 plus 4.
+
+
+SYLVIA: Oh, it could be, because it's 27 HP.
+
+
+AUSTIN: Yeah. And that damage will hit the Hands of Grace. All right. Well, let me roll this 3d10, plus what was it?
+
+
+SYLVIA: 4.
+
+
+AUSTIN: Is that what it was? Plus 4?
+
+
+SYLVIA: I can check. 
+
+
+AUSTIN: Yeah. Let me just pull it up again here. Yeah. Capital fleet, yeah, plus 4. 3d10 plus 4. Christ. All right. 25 damage. 
+
+
+SYLVIA: That is 2 way from wiping them out!
+
+
+AUSTIN: Yeah. So let's—
+
+
+SYLVIA: 25. Holy shit. You're rolling a ton of 10s today, by the way.
+
+
+AUSTIN: I know. This is very scary. I don't think I've ever rolled this many 10s before in my life. All right. So let's go to the Hands of Grace and their Counterweight— oh, wait. The Counterweight— no, no, no.
+
+
+SYLVIA: Wait. Am I looking at the— I was looking at the wrong one.
+
+
+AUSTIN: You were. You were looking at the wrong one. The Hands of Grace Counterweight base is only 20.
+
+
+SYLVIA: I was looking at the one above it.
+
+
+AUSTIN: So that's gone. 
+
+
+SYLVIA: Holy shit. 
+
+
+AUSTIN: The Hands of Grace have lost their hold on Counterweight altogether. Let's delete this whole row. That's fun.
+
+
+SYLVIA: That's the first—
+
+
+AUSTIN: That's the first real hit. So they lose. Here's another question. Rules. Rules are cool! If it goes— does the attack bust through and do— does all whatever I just rolled–– what did I just roll? 25?
+
+
+SYLVIA: 25.
+
+
+AUSTIN: Does the extra 5 hit or just the flat 20?
+
+
+SYLVIA: I say let's just go with the 20, because it wouldn't make sense to do, "We made a bigger crater."
+
+
+AUSTIN: [laughs] "No, we really hit you!" Yeah. Totally. 
+
+
+SYLVIA: We peed on the rubble afterwards. It was a moral hit.
+
+
+AUSTIN: It was a moral hit, yes. All right. So that means the Hands of Grace are down to 26 HP.
+
+
+SYLVIA: Oh, damn,
+
+
+AUSTIN: Which means that it's weaker now than the Minerva Strategic Alliance. It's weaker than the Righteous Vanguard. It's weaker than the Rapid Evening. It's weaker than the Golden Demarchy. 
+
+
+SYLVIA: They're the weakest right now.
+
+
+AUSTIN: They're weaker than Petrichor and weaker than the Odama Fleet. They are— let me put it this way. Ibex has lethal to continue the— 
+
+
+SYLVIA: [laughing] Jesus christ.
+
+
+AUSTIN: Fuck, I'm going to have to change some maps. [sighs] So what's this look like? I think this is— I think this is happening— I think maybe this whole episode is playing out along with the previous episode. Right? So the previous episode was the Chime moving through the dark of space for a month. And all of this is— it opens with "30 Days Ago." Right? And then "27 Days Ago" instead of being "7 Days From Now." Right? And it's slowly leading up to Rigour lands on September and the speech. We just get the speech that Ibex gives. Right? Or we don't get the speech, but we get him preparing. We get— throughout this episode, it's Ibex scribbles notes for the speech down that he wants to give and practicing it in the mirror and getting a new haircut and—
+
+
+SYLVIA: It's a weirdly human moment of him making sure he's getting it right.
+
+
+AUSTIN: He's getting it right. And then meetings with his advisors. And every now and then, via video footage, shots of violence. Of Ibex talking to an advisor, and th advisor just says, "The raid on the Hands of Grace base in the eastern dome went well." Or footage of a door being kicked in. Oh, this is the wrong map. I wanted to take us to Counterweight itself so we could see it. Right. Sorry, it's not the eastern dome, it is the northern dome. This Diasporan dome up top is taken over by Ibex first, for sure. And then it goes out from there. And one dome falls, and then another dome falls. And we end up getting to where that speech is, and the thing is - what we didn't know, what the viewer doesn't know - is by then, it's already happened. The reason that felt so celebratory, the reason why that didn't look like a coup is because the coup already happened. The reason no one shot at Ibex while he was giving that speech it because it wasn't a rallying cry, it was a job well done.
+1:25:44
+
+
+SYLVIA: Oh yeah. I think— that speech, was that broadcast by him at a secure location?
+
+
+AUSTIN: No, that was in the middle of—
+
+
+SYLVIA: Because I was going to say the podium should be right at the final base of influence of the Hands of Grace. 
+
+
+AUSTIN: Right. Well, it was. It was in Centralia. It was in the middle— it was in Monument Square that was supposed to be— that was kind of the heart of commerce and power for— yeah.
+
+
+SYLVIA: Are there— because we've talked about how, on Garden, there was monuments for Divines and stuff. Are those on— would those be there, as well.?
+
+
+AUSTIN: Yeah. Totally. Right. But the monuments there— okay, how about this? [laughs] So there're— 
+
+
+SYLVIA: Well, because I— yeah, go ahead.
+
+
+AUSTIN: So there are monuments to all of the heroes of the war. Does Ibex only pull down Grace's and leaves up Peace for Addax? As this move of like, "Listen, that's what a real hero looks like. Addax did something when it was necessary to do something."
+
+
+SYLVIA: I think that also plays into a lot of— I've always seen Ibex and Addax having a very tense but respectful relationship, especially after our Kingdom game. So—
+
+
+AUSTIN: Does he leave up the statue of Jace?
+
+
+SYLVIA: —Grace's— yeah. I think he thinks it would be a bad move to— I don't think it's the same relationship he has with Addax, but he thinks, "Oh, it's a bad move if I take down a thing with Jace." I think what would be— I like the idea of the rubble of the statue of Grace falling at the base of Peace.
+
+
+AUSTIN: Me too. Yeah.
+
+
+SYLVIA: Because they were next to each other. But Grace is destroyed now and is just lying in pieces behind Ibex while he's speaking and then at the feet of Peace.
+
+
+AUSTIN: Yeah. I think we get shots of people elsewhere in that big park where he's delivering the speech who are lounging on it and around it, sitting on it and clapping. And yeah. I like that a lot.
+
+
+SYLVIA: Having a picnic.
+
+
+AUSTIN: Literally having a picnic on the ruined statue of Grace. It's so good.
+
+
+SYLVIA: Yeah, it's really good.
+
+
+AUSTIN: And I think, yeah, it is a combination of military strikes at a handful of holdouts, but mostly it's the thing Ibex does, which is be the guy who seems reasonable in an unreasonable world. It's lots of - again, we've seen this twice already in this episode - it's people who are being convinced to change sides. It's them being told, 
+
+
+[MUSIC - "Love's First Explosion" starts]
+
+
+AUSTIN (as Ibex): Listen, I do know what's best for us. And I can see where you are useful here. Come work for me.
+
+
+AUSTIN: And they say yes. 
+
+
+AUSTIN (as Addax): Centralia's Memorial Square has never been a quiet place, at least not since I've been here, since the end of the war. The inconsistent architecture seeks to combine the improbably whirling of Diasporic construction with the focus-tested blocks and spheres of OriCon, every curve so algorithmically studied that it was transformed into a hard line. And all of that built on top of the ruins of Apostolosian marble. The result is a space that echoes sounds in strange, discordant ways. But that day, something strange happened. In the park at the core of Centralia, a new cadence had taken hold. People laughed. And when the laugh bounced from building to building, it didn't twist. It amplified in joy. As vehicles moved by blasting music through the park and the streets, the songs took the architecture into themselves so that each note was performed at a new venue, an intimate stage. 
+
+
+And the rumor that day was that he'd speak soon, there where he'd pulled the statue of Grace down, shattered her hold on the Diaspora here in a single symbolic gesture. 
+
+
+[MUSIC - "Love's First Explosion" ends]
+
+
+He'd add his voice to the concert. And then he did. And though I know that this is how it works, I feel that even now, years later, like he looked at me, looked through me and demanded I see in myself the best version of who I could be. And he demanded I be that person. Watching Ibex take the stage was a strange moment for all of us on Counterweight. All the hope and so little vision towards the cost of change. There was one man in the crowd though - his curly hair already growing back - who knew all too well how expensive transformation could be. 
+
+
+[MUSIC - "The Long Way Around" starts]
+
+
+But Jace knew something else, too, maybe better than anyone else on the planet, maybe better than anyone else in the sector. He knew that living the same day over and over was cowardice dressed up in pragmatism. And finally, he was done being scared. 
+
+
+I remember that it was warm that day, a special sort of warm. I remember, because when Ibex pulled away that fake sky, when I looked up and saw the burned atmosphere and the way it distorts the stars, when I saw Weight and all its beauty, I shivered. And then he saw me, Jace did. And the warmth came back. And people cheered, but I barely remember that. I barely remember the speeches or the music or the food or the dancing or that night. But I remember the warmth, and even now I hold onto it. One vice, one gift I let myself have. The warmth.
+
+
+Addax Dawn, member of the Rapid Evening, signing off.
+
+
+[MUSIC - "The Long Way Around" ends] 
+
+
+
+
+
+
+
+
+________________
+[1] The name in the audio is no longer in use.

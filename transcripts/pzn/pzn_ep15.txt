@@ -3586,13 +3586,13 @@ ART laughs.
 AUSTIN: I, like, I think--
 
 
-ART: Well, fictionally, there’s a, there’s like, you know. Everyone knows Fort Icebreaker is the strongest, most impenetrable thing, right?
+KEITH: Well, fictionally, there’s a, there’s like, you know. Everyone knows Fort Icebreaker is the strongest, most impenetrable thing, right?
 
 
 JACK: Yeah, I was wondering about this. Why haven’t they done this before??
 
 
-ART: (overlapping) At some point, it’s like, having guards there is perfunctory.
+KEITH: (overlapping) At some point, it’s like, having guards there is perfunctory.
 
 
 AUSTIN: Right, it’s not what it’s for. It’s not, it’s not meant to be… no-one’s taken Fort Icebreaker before cause it’s Fort Icebreaker. It shoots you before you get anywhere near it. You know what I mean? Like, there isn’t-- there, it’s part of a big military base, it’s like, there’s-- those other methods of infiltration haven’t been available, no-one’s done the thing you’ve done. This is like that bit in Hitman, where Diana goes like, “huh.”
@@ -4033,7 +4033,7 @@ AUSTIN: (overlapping) I’m guessing you’re, you’re… (laughing)
 SYLVIA: Okay! Yeah! Sure, that’s-- I have a feeling that’s not gonna work?
 
 
-KEITH: Motion’s going to be really good at searching.
+KEITH[a]: Motion’s going to be really good at searching.
 
 
 JACK: It seems like it’s also gonna be very good at killing!
@@ -4066,7 +4066,7 @@ JACK: Has it ever gone really well for us outside of finale situations?
 AUSTIN: Pffffffff… you know, bud... (laughing) I’m having a hard time thinking-- ah, yes! Yes it has! I can think of times in Counter/WEIGHT where y’all won fights, and it was, and it was sad that you won those fights in some instances.
 
 
-KEITH: Jack… with the right attitude, any episode can be a finale.
+KEITH[b]: Jack… with the right attitude, any episode can be a finale.
 
 
 JACK and AUSTIN laugh.
@@ -4117,7 +4117,7 @@ KEITH: (overlapping) Oh yeah!
 SYLVIA: I think it’s one of those things where Millie’s immediately, like, “if you guys aren’t gonna take this seriously, we’re all going to die, so I’m going to take this seriously right away.”
 
 
-KEITH: Yeah, I think this is a running situation, this is like… (laughs)
+KEITH[c]: Yeah, I think this is a running situation, this is like… (laughs)
 
 
 JACK and AUSTIN laugh.
@@ -4135,7 +4135,7 @@ JACK: Oh, phew (!)
 AUSTIN: Yeah, one artillery cannon against a Divine, let’s, let’s see how it goes. Um, uh, and then--
 
 
-ART: Well there’s all those extra, all those ads.
+ART[d]: Well there’s all those extra, all those ads.
 
 
 AUSTIN: What?
@@ -4144,7 +4144,7 @@ AUSTIN: What?
 JACK: The Divine has ads.
 
 
-ART: The Divine has ads.
+ART[e]: The Divine has ads.
 
 
 AUSTIN: Oh, yes, yeah, true, the Divine does have ads, it’s tr-- it’s true. Well, the, you’ll see what the Divine is, we’ll get there. Um. So, uh, I’m trying to think if there’s anything else here. Do you have any other questions as these things, like… march is too strong, right? There’s an inevitably in how they move, especially the two Kosmos units up front, they-- they do not move the way you might think a zombie does, they move, um, like, they move like a patrol officer or something, right? Like, or like a, guard at a-- they move as if they’ve already taken over the place, and they’re kind-of like doing that thing where they’re, like, taking slow pacing steps and scanning the horizon? Um, it’s clear that they-- it’s clear that they know that they’re here to kill you, but it’s not necessarily like, they’re like, “alright, pumping myself up, get ready to be in a fight”, y’know? That’s just not where they are, let’s say, emotion.
@@ -4836,3 +4836,8 @@ And you can see the face of the pilot of the, of the Pneuma, the elect of Motion
 
 
 AUSTIN (as Hyacinth): You move as quickly as she does. She has taken notice of you.
+[a]This should be Art?
+[b]Should be Art
+[c]Should be Art
+[d]Should be Keith
+[e]Should be Keith

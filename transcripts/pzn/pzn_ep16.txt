@@ -4999,19 +4999,19 @@ JACK: (laughing) Yeah.
 AUSTIN: You would-- you would be basically giving someone who is theoretically your enemy a weapon. Your choice! I’m here for it, if you wanna do that mission, um, but I do-- but I do just wanna, I wanna make sure that no-one thinks that it would be a cakewalk.
 
 
-KEITH: What if we had a shrink ray?
+KEITH[a]: What if we had a shrink ray?
 
 
 AUSTIN: Unfortunately, I think everyone left those at home, those are, uh, 7 load, and I don’t think anyone has 7 load.
 
 
-KEITH: What about a flashback to give me a shrink ray?
+KEITH[b]: What about a flashback to give me a shrink ray?
 
 
 AUSTIN: That would be 13 stress.
 
 
-ART: And it would be-- and it would still be 7 load.
+ART[c]: And it would be-- and it would still be 7 load.
 
 
 AUSTIN: It’d still be 7 load, yeah, you’d have to do two flashbacks, the first one would be somehow making it (laughing) so that you can carry 7 loads of things, more than what you’ve already declared.
@@ -5636,3 +5636,6 @@ And while the events of this day have lead to a great deal of confusion, includi
 
 
 And they are bright red, with a splash of white, the same texture and color of a Portcullis Gate opening. And you see those colors in your head - those waves, that splash of color in an empty space. And then there’s the sound of gulls on an empty shoreline, as his miracle completes, and this leviathan fortress slides, invisible, into the sea.
+[a]Should be Art
+[b]Should be Art
+[c]Should be Keith

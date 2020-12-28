@@ -143,7 +143,7 @@ const transcripts = [
             "1rCJ8OQ1atSO23_iEOvU1R2j9YAkVT41CodJpqMMlc-g",
             "1uIObGIs8zbaMIy8kYmjuHMLHZpqua3XxZu1A2mwY7bE",
             "1W1M9p_c-lcvtgg8TeKiIJUMez1UepP5yXZiz_l3Zyrg",
-            //Winter in Hieron 22: A Holy Place
+            "1zYTlyZUxnQZv2s6Obdnn92_JXyoKzdJIes9MpYAC9Kk",
             "1RBXGpN2VOEXx-gKN7Vf6--zATRkhkQ6pkIRBX1LNaRY",
             "1BY6FWPqBamQh4SozBm8HnOOpMjyQs4gUnu-qvWVjXpE",
             "1LNMAGsThH5QPFZWBq4zMjyN3OY41zIzhONTfpvPjrIY",
@@ -211,7 +211,7 @@ const transcripts = [
         season_name: "cw",
         IDs: [
             "1zGovC79LsvuwVViOvqTCtz3SbRGHfZETRwkFm1WFFqg",
-            //COUNTER/Weight 00: If Han Solo Used To Be Beyoncé, or: Hashtag Otechku
+            "1dhlsagqfVSudwUyokFRNvQWHkUOJIUC2D4sXBNDCNSI",
             "1mh8uLkw9dOkfiiMTvMUOilV-1Q9cC5OofAp_galM_RE",
             "12ZzLK1LcKfgRwGVM83hujIXtpGFqhjhYIqOyZiVESDk",
             "1RAHszTNZAxrr5mHH7rsZ-8ZcmwZYLOOTpEi9eWbdz0g",
@@ -243,7 +243,7 @@ const transcripts = [
             //COUNTER/Weight 29: Three Conversations
             "16SlanKUNyiVILsuNb9AuFweXTiehrz4wIH-JPNrirOQ",
             "1G3esJnyHRLwCPO7ZLAR2DHR5LzTRN5YU-R_fL0dml3c",
-            //COUNTER/Weight 32: Through The Crosshairs
+            "1jAkxN2wUXP2O50bvXo3nhA_aBhiwVMXn49T9LwouFjQ",
             "1ZZ6l8epOeigeGnNw_ORFEOrZb-GFHFjqWLA54CXqazU",
             "1wkGPXdSbyXVL5syIKq9NjnQ6secDbiskzmh8lMHv4QY",
             "1azQF-B4O-hHvzpp-6_QE-8UuTRuOlGbIP8dz5p3Bwyg",
@@ -275,7 +275,7 @@ const transcripts = [
             "1vW25xDUrFWBVWw1_Mt2aX8Kdm0MbYf3ezcVTC80EeE4",
             "1xkQHDb8Dfaafr9rpmjA7aiiNTKDbaxrPgQOUhzROmGM",
             "1FjBp_WmFXLHLKdiiKcJ01U1ZASbxtTGhQdO6la-A7ME",
-            //Twilight Mirage 13: An Instinct Without A Word
+            "1r26GNDkvZOqO8-O4lFcX1WV3WPAG-c7Gij-y4p_fDgY",
             "1dWYhP7maRexQDS8kcA_JbFzMy-E6oRXGawiCwh4M63U",
             "1C6LJmoKS5FroMy2C9u7WTU6NpxTnJ-dKpmT1QrVLTLE",
             "1_uK0HyqKx0rQJsRoDtWOKm6favwdg9h8fn9-qRATZlw",
@@ -291,13 +291,13 @@ const transcripts = [
             //Twilight Mirage 26: The Miracle of the Mirage: The Heist
             "1EBnNWYGS0mBluIvhTguvxjGk8DIgp-9FxMIme1YRgV4",
             "1lTmS4TdtfEeoN1wPlDmz9JfnAXz9E6J6_Qp3L-VdQxk",
-            //Twilight Mirage 29: This Year of Ours: The Pilot
+            "1rmrBcI70ZO0yuLi_6Rf5-eph8eEa2iICxcl4G85NrAA",
             "1x6RuF1UG5l3wPs2lQDTIXs30ysIE7w2G2q0pviVlqII",
             "1Ruii5niyvSzlkWqvMLYPFp3_SKDnDuAiSEG2dG8H8GY",
             "1WVpr7fNLhJeAhvrpbTwMAkyUQMFSBO5EjxnSrbC2EfY",
             "11qZTwYvzPOwspWHutp4JUFMfzUjeCqKMHilwTrUd5ig",
             "1DievgnHN1OujJN97CcmuyG0Vm45sMDF9yum2C1nWKg8",
-            //Twilight Mirage 35: This Year of Ours: The Notion
+            "102V1dLuBS5xToyRnZNeMpU7j7Eth4PFYV-8a7iRP5ec",
             "1V3hm5PNQ7fMfx97jKdknmcA43clTRn0vi5fgGIJ4yVg",
             "1Ypfpyjn_q4SvgmDslE0qDgKqWxKccYtZ0Gn3ArS3ZmE",
             "15AR_aE5HvnQg7GOcyCnpc74lg_Qe_2eXvCINtRLlisQ",
@@ -382,7 +382,8 @@ const transcripts = [
             "1VjgLO8wpuK860mP6qpVBkKH12K2IfE-f7fKSnXi5HcI",
             "1M08vgkA9rMcBnuN77B_RaY5Q_VBNWCwwAjVuv-wCVXI",
             "1tqYTK2HJ4ClTeoRHBF9n3SLVwCe5neUO8oHnxBf-B7A",
-            //Bonus Episode: Sports Are Just Numerology
+            "15KtRVAFASW3vo7ip0vl2q3LZCo6T-bv7WPdExAGXMEA",
+
         ]
     }
 ];
