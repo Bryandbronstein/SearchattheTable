@@ -77,7 +77,7 @@ function findMatches($pathToDirectory, $keyword, $episodeLinks){
         $sentences = preg_split('/(?<=[.])\s+(?=[a-z])/i', $contents);
 
         foreach ($sentences as $sentence) {
-            if (preg_match('/\s'. $keyword .'\s/i', $sentence)) {
+            if (preg_match('/\b'. $keyword .'\b/i', $sentence)) {
                 //before adding the episode title to the $results array, check whether it already exists
                 //if it doesn't, add it and format it into a link to the episode transcript itself
                 if (!in_array($episodeTitle, $results)) {
@@ -98,7 +98,7 @@ function findMatches($pathToDirectory, $keyword, $episodeLinks){
 
     //highlights the keyword in the sentence
     foreach ($results as $result) {
-        $finalResult = preg_replace('/\s'. $keyword .'\s/i', '<span class="keyword_highlight">$0</span>', $result);
+        $finalResult = preg_replace('/\b'. $keyword .'\b/i', '<span class="keyword_highlight">$0</span>', $result);
         //skip formatting the episode title as a search result
         if (!strpos($finalResult, "<a class='episode_title'")){
             $htmlString .= '<p class="search_result">' . $finalResult . '</p>';
