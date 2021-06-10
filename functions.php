@@ -62,9 +62,6 @@ function findMatches($pathToDirectory, $keyword, $episodeLinks){
     $results = array();
     $htmlString = "";
     $countMatches = 0;
-    $keywordList = array();
-    $keywordList[0] = strtolower($keyword);
-    $keywordList[1] = ucfirst($keyword);
     $fileList = glob($pathToDirectory);
     //force $fileList to follow ascending numeric order
     natsort($fileList);
@@ -80,7 +77,7 @@ function findMatches($pathToDirectory, $keyword, $episodeLinks){
         $sentences = preg_split('/(?<=[.])\s+(?=[a-z])/i', $contents);
 
         foreach ($sentences as $sentence) {
-            if (stripos($sentence, $keyword)) {
+            if (preg_match('/\s'. $keyword .'\s/i', $sentence)) {
                 //before adding the episode title to the $results array, check whether it already exists
                 //if it doesn't, add it and format it into a link to the episode transcript itself
                 if (!in_array($episodeTitle, $results)) {
@@ -99,14 +96,9 @@ function findMatches($pathToDirectory, $keyword, $episodeLinks){
         }
     }
 
-    //hacky solution to make sure that both uppercase and lowercase versions of $keyword
-    //are correctly highlighted on output
+    //highlights the keyword in the sentence
     foreach ($results as $result) {
-        $highlightedKeywordLower = '<span class="keyword_highlight">' . $keywordList[0] . '</span>';
-        $newResult = str_replace($keywordList[0], $highlightedKeywordLower, $result);
-
-        $highlightedKeywordUpper = '<span class="keyword_highlight">' . $keywordList[1] . '</span>';
-        $finalResult = str_replace($keywordList[1], $highlightedKeywordUpper, $newResult);
+        $finalResult = preg_replace('/\s'. $keyword .'\s/i', '<span class="keyword_highlight">$0</span>', $result);
         //skip formatting the episode title as a search result
         if (!strpos($finalResult, "<a class='episode_title'")){
             $htmlString .= '<p class="search_result">' . $finalResult . '</p>';
