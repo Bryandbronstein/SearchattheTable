@@ -901,7 +901,7 @@ AUSTIN: I feel like this has been, like, in the OVA of this--
 KEITH: It’s been, like, a couple of days. 
 AUSTIN: A couple days, like a whole military fight--there’s been, like, a battle thing with some Apostolosans, and we’ve seen their power in terms of, like, what they’re capable of. They caught, uh, a full blast from the megaparticle cannon on the front part of the Seventh Sun onto a central Colossi and nothing happened to it, and it repaired itself almost instantaneously. Like, we’ve seen how big of a threat they are. But that’s about it. Like, Orth maybe did say, like, “Fire main cannon!” once. That’s about it.
 [laughter]
-ALI: [mumbling; unclear 1:13:00~]
+ALI: [mumbling; unclear 1:13:00~[d]]
 AUSTIN: Right. 
         JACK [as Orth]: Look. Sokrates. 
         KEITH [as Sokrates]: What?
@@ -1380,7 +1380,7 @@ AUSTIN: Right. There’s neither-- you know, I think that it’s like, everyday 
 DRE: Oh, man, 
 SYLVIA: It’s like Canada in the winter!
 AUSTIN: It’s Canada in the winter. Yeah, totally. 
-KEITH: “Oh, my name’s Sylvia[d], I don’t talk about Canada all the time!”
+KEITH: “Oh, my name’s Sylvia[e], I don’t talk about Canada all the time!”
 SYLVIA: Yeah, it’s where I’m from, it’s what I do. I had to go outside today and it was not fun. So…
 KEITH: [sighs] I haven’t had to wear a jacket yet, so...which is crazy, because I’m in Massachusetts. 
 AUSTIN: It’s so warm, it’s so warm. 
@@ -2067,4 +2067,5 @@ AUSTIN: I don’t know anymore lyrics. Bye!
 [a]no* not any
 [b]who wants to work towards taking care of him
 [c]He doesn't need a hot water bottle from me*
-[d]The name in the audio is no longer in use.
+[d]she says “But very sheepishly.”
+[e]The name in the audio is no longer in use.

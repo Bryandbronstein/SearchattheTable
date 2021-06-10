@@ -984,6 +984,11 @@ $episodeLinks = array(
         "title" => "﻿PARTIZAN 00: The Divine Principality",
         "link" => "https://docs.google.com/document/d/1yA0X_obPt17vLqbixQLeLdh3QbDhJXYgeTtnP3hOtk4/edit?usp=sharing"
     ),
+
+    array(
+        "title" => "﻿PARTIZAN 01: The Seaside Town of Obelle",
+        "link" => "https://docs.google.com/document/d/1xw9iP44H6v4xiYxS1Uu-vgELyGHutTolvcKeJ8JqAX4/edit?usp=sharing"
+    ),
     array(
         "title" => "﻿PARTIZAN 02: Obelle, On Fire",
         "link" => "https://docs.google.com/document/d/1k2SpO2cR4hQHQ5MpzNYLeFokS_x6ROYAMjaOvO1tjaQ/edit?usp=sharing"
@@ -1071,7 +1076,55 @@ $episodeLinks = array(
     array(
         "title" => "﻿Bonus Episode: Sports Are Just Numerology",
         "link" => "https://docs.google.com/document/d/15KtRVAFASW3vo7ip0vl2q3LZCo6T-bv7WPdExAGXMEA/edit?usp=sharing"
-    )
+    ),
+    array(
+        "title" => "﻿PARTIZAN 31: The Grand Premiere",
+        "link" => "https://docs.google.com/document/d/1MeJhbiGhXkp3S8y643xcEOth-0OaqPuDsKgf-Gtjhoo/edit?usp=sharing"
+    ),
+    array(
+        "title" => "﻿PARTIZAN 32: GLORY Arrives",
+        "link" => "https://docs.google.com/document/d/1SGWlkenjyFkKzm3V0pmxfNutTHUEyeeQB9dVzycwHkY/edit?usp=sharing"
+    ),
+    array(
+        "title" => "﻿PARTIZAN 33: A Single Shot",
+        "link" => "https://docs.google.com/document/d/1pYCVpEZNuoqcLSpMKHTDdxQoRfm2hbiChbJAlg7u8Tc/edit?usp=sharing"
+    ),
+    array(
+        "title" => "﻿PARTIZAN 35: The Witch in the Glass Pt. 1",
+        "link" => "https://docs.google.com/document/d/1h5kCZCIAs2HidKDfKl5alwrkVi4irPOf9d6n3Efq0sQ/edit?usp=sharing"
+    ),
+    array(
+        "title" => "﻿PARTIZAN 36: The Witch in the Glass Pt. 2",
+        "link" => "https://docs.google.com/document/d/1iHISLaYMoCkF52VRJQIgdFoAEIoMG2uJRSn00Her1Yg/edit?usp=sharing"
+    ),
+    array(
+        "title" => "﻿PARTIZAN 38: The Red Light",
+        "link" => "https://docs.google.com/document/d/1ppjhYxA-iqtj5XJldUAgtAXJey86w3X3Exw9ujNxGkU/edit?usp=sharing"
+    ),
+    array(
+        "title" => "﻿PARTIZAN 39: Escape Velocity",
+        "link" => "https://docs.google.com/document/d/1S8OuCWM-AaUa10Ki4WhNTep-3jvrnoo07wb3U-ch0bA/edit?usp=sharing"
+    ),
+    array(
+        "title" => "﻿PARTIZAN 40: Engine Burn",
+        "link" => "https://docs.google.com/document/d/1_hy7-TCLd2xdlNIYE2o3RM-dAttQeRRkRE-jdFgj6wo/edit?usp=sharing"
+    ),
+    array(
+        "title" => "﻿Season 7 Trailer & Announcement",
+        "link" => "https://docs.google.com/document/d/1TJpUD-ezhHZDmt6YPkqJ2GcA__TZf8UfJFVdQsSqOQc/edit?usp=sharing"
+    ),
+    array(
+        "title" => "﻿Sangfielle 01: The Curse of Eastern Folly Pt. 1",
+        "link" => "https://docs.google.com/document/d/162v2Do07dxo9TxfI-bFzmN-XwBqvoYKTW11j7gzuWqU/edit?usp=sharing"
+    ),
+    array(
+        "title" => "﻿Sangfielle 03: The Curse of Eastern Folly Pt. 3",
+        "link" => "https://docs.google.com/document/d/1zczvM89ydLIZxwTbihU9O041TBcaHWX-qsTnRF2CvcI/edit?usp=sharing"
+    ),
+    array(
+        "title" => "﻿Sangfielle 06: The Hymn of the Mother-Beast Pt. 2",
+        "link" => "https://docs.google.com/document/d/1wShi5uvYHOEpNIZgF0JuNXLFEQmK6FGnG_kMFhVsZRA/edit?usp=sharing"
+    ),
 );
 
 //$test1 = array_search("﻿Autumn in Hieron 27: The Shores of Ordenna", array_column($episodeLinks, 'title'));

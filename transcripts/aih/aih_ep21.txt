@@ -91,7 +91,7 @@ JACK (as Lem): [resigned] No, they don’t need to know.
 ALI (as Hella): No. No no no. Don’t touch that bell. 
 
 
-AUSTIN[a] (as Ventaro Doce): Her highness has spent a lot of time…seeing her people live full lives, and wondering if this could go on for much longer. You can only see some people decide to leave their lives behind so many times before feeling like it’s a failure of your own. That if you offered them more, a larger world, that they wouldn’t choose this plain of existence. 
+AUSTIN[a] (as Ventaro Doce): Her highness has spent a lot of time…seeing her people live full lives, and wondering if this could go on for much longer. You can only see some people decide to leave their lives behind so many times before feeling like it’s a failure of your own. That if you offered them more, a larger world, that they wouldn’t choose this plain[b] of existence. 
 
 
 JACK (as Lem): H-h-how do you feel about Ordenna? 
@@ -100,7 +100,7 @@ JACK (as Lem): H-h-how do you feel about Ordenna?
 KEITH (as Fero): How do you feel about their warships and about a bunch of them at once? 
 
 
-AUSTIN[b] (as Calhoun): It used to be said that Nacre was a place so beautiful that you carried it with you when you left. That’s now the empire of Nacre spread. Not through war, not through conquest, not through faith.
+AUSTIN[c] (as Calhoun): It used to be said that Nacre was a place so beautiful that you carried it with you when you left. That’s now the empire of Nacre spread. Not through war, not through conquest, not through faith.
 
 
 [“Eve’s Light Parade” ends, followed by a short pause]
@@ -5559,4 +5559,5 @@ KEITH: No, it’s fine.
 
 AUSTIN: Mmhmm.
 [a]is this all Ventaro or does it split?
-[b]Will have to listen to 19 to figure out if IC or not
+[b]plane
+[c]Will have to listen to 19 to figure out if IC or not

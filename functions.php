@@ -55,6 +55,11 @@ switch ($season){
         $response = findMatches($pathToDirectory, $keyword, $episodeLinks);
         echo $response;
         break;
+    case 'sf':
+        $pathToDirectory = "./transcripts/sf/*";
+        $response = findMatches($pathToDirectory, $keyword, $episodeLinks);
+        echo $response;
+        break;
 }
 
 function findMatches($pathToDirectory, $keyword, $episodeLinks){

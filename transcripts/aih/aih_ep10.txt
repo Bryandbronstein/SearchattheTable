@@ -735,7 +735,7 @@ KEITH: I'm, yeah, I'm willing to–I'm willing to take the small risk of... y'kn
 AUSTIN: Right, right, agreed
 
 
-ALI: Do we for sure want this to be like the next morning though, and not like take one day. To [unintelligible]—
+ALI: Do we for sure want this to be like the next morning though, and not like take one day. To [unintelligible[a]]—
 
 
 AUSTIN:That's my question
@@ -1795,7 +1795,7 @@ JACK: The gasp that I just did is because on our screen in Roll20 has appeared a
 AUSTIN: It does, I don't know what that actually looks like to you, I'm actually curious, I wish I—
 
 
-[Everyone else describes it and I can't understand what any of them say]
+[Everyone else describes it and I can't understand what any of them say[b]]
 
 
 KEITH: Yeah.
@@ -2902,4 +2902,6 @@ ALI: Should I do like the teen in Barnes and Noble thing where I look at the fro
 AUSTIN: Yes, totally. You totally can. You see underneath it says, “Lord Tristan the Ninth, the Ivory Crown, locked away in the black tower.”
 
 
-[MUSIC continues and plays out until the end]
+[MUSIC continues and plays out until the end] 
+[a]sort of lick our wounds a little bit
+[b]Keith says "it looks like a big black—" and Jack says something about "redacted bars/parts" (not sure which)

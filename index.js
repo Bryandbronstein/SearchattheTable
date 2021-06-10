@@ -68,14 +68,14 @@ const transcripts = [
             "1bQBl-pe7V3KXu_oY4FKJatFGEuKqjHzbzGBPkAewd2c",
             "1XdbXmjv2injl8Ua7_KtpaBRzIvCsv23w269KvvV4rJs",
             "112IWBUU1Yes1A7u75xKSxvGjFtcktUzW0weW0uLPvN4",
-            //Autumn in Hieron 07: Boat Party?
+            // Autumn in Hieron 07: Boat Party?
             "1Qe-Za5Yq_60X2-xIINdzP3EAVXxicwAR4zzK991YhgQ",
             "1znte6qTjshc1vFiF7UE9H3tk1FwEcTjBsLuWWWkL0yU",
             "1B59UxpObG0U_ky8o5YbyRC4RC2xS-a9hbzJBB-DT_Kk",
             "1BHXPnZty5CHuZAQwiB2019m_doof7ADB3wksa_NWzNo",
             "1OSPBC5R-8M0KoAmJfjEQS86wqdxCWQWCSGRlLklbjQI",
             "1IpnFHplPXGH2IOEpTs9g2w-yLGTEkpH2VQuawpUUK4o",
-            //Autumn in Hieron: Holiday Special 01: I Don’t Know What’s in That Box
+            // Autumn in Hieron: Holiday Special 01: I Don’t Know What’s in That Box
             "1B_GSuQ42l0Y2kcxiGl0gC1cgcKekDmV4DbmGsaQOV0w",
             "1xyHZAhhv1uaJONTXVs9r9sWvYNCCCxWv6y31zMax0wY",
             "1Zxf5R4YiPCyHkGneCSxnTA402GfJBfEM6I9_S3RFDD0",
@@ -216,7 +216,7 @@ const transcripts = [
             "12ZzLK1LcKfgRwGVM83hujIXtpGFqhjhYIqOyZiVESDk",
             "1RAHszTNZAxrr5mHH7rsZ-8ZcmwZYLOOTpEi9eWbdz0g",
             "1frsrs_DN4bQ8a6r3ew4EjyVELCKCYTPnxPlcKHc0acU",
-            //COUNTER/Weight 05: A Ship of Seeds
+            // COUNTER/Weight 05: A Ship of Seeds
             "19CSVitxMRtKKXr8m4swuczgAHtwcTT6sEEZaxSzQpgI",
             "1lhNyIPWe3YfGL_YYdcHB6ezKj9tL7uoW4-2njNAdPYc",
             "1nw1FxaxTJ40a8hqqU-nTy_auC3zehaVjvCWvAh4AwYg",
@@ -238,9 +238,9 @@ const transcripts = [
             "1Rhs25IuZM9WQkNmkQrzkpVBLQ9dR9Zq4TIwvjwBCNpw",
             "1TLQf8wVYi8brq5wvzaHfAzp3crTyFA5SjW6FHwMX18M",
             "1X3F4zcYL_loYDu5vLFdZbdg70uX-tgc3YAcjvzv7-r4",
-            //COUNTER/Weight 27: An Animal Out of Context
+            // COUNTER/Weight 27: An Animal Out of Context
             "14vys-zQqtpjrrmgXPufHtknmqGM-ejM59eoEsA_vN0k",
-            //COUNTER/Weight 29: Three Conversations
+            // COUNTER/Weight 29: Three Conversations
             "16SlanKUNyiVILsuNb9AuFweXTiehrz4wIH-JPNrirOQ",
             "1G3esJnyHRLwCPO7ZLAR2DHR5LzTRN5YU-R_fL0dml3c",
             "1jAkxN2wUXP2O50bvXo3nhA_aBhiwVMXn49T9LwouFjQ",
@@ -265,7 +265,7 @@ const transcripts = [
             "1sUis9SBhgH6ALDkruEFx_jNg5RvZ4Sk3fMSpBaf6DMw",
             "1wMbqJgBTkq1iCJsojt4mhi53vgnkd-h8utfz42F9RDE",
             "1xheU5Dfpx0Jep_E98yRN2AE3W2cT9Nb1Gcc3CmnA-IE",
-            //Twilight Mirage 03: The Planet of Quire
+            // Twilight Mirage 03: The Planet of Quire
             "1QgUDzt2DEnQ7RknfbZasjdtMFucFNLJc9LvD6NO7b_k",
             "1ZXY8ppz03W0zlo6sAZP7za-yO8Hys6UJ-cGm8TNUuGo",
             "1Ec9DpAOXCbfNM6pxCbYV-RxUH7e8RjxIJ--J0WJZ9hs",
@@ -288,7 +288,7 @@ const transcripts = [
             "1wU_sQ0DY8StcyGJykN9LsJ0pAcfeHIx_1c8c6r5vGp8",
             "1dTZNobzzspfajnJV32P00wcwtMjDiYl83x5l9t71x9Q",
             "1NUdc9oHDttp8XNIGvGUdWDk8kHPzfMDYBqWjnQdT-bE",
-            //Twilight Mirage 26: The Miracle of the Mirage: The Heist
+            // Twilight Mirage 26: The Miracle of the Mirage: The Heist
             "1EBnNWYGS0mBluIvhTguvxjGk8DIgp-9FxMIme1YRgV4",
             "1lTmS4TdtfEeoN1wPlDmz9JfnAXz9E6J6_Qp3L-VdQxk",
             "1rmrBcI70ZO0yuLi_6Rf5-eph8eEa2iICxcl4G85NrAA",
@@ -340,7 +340,7 @@ const transcripts = [
             "1s76j7aaS3-OaDLxXLJGKgaL-ctm-nRek9qfeFqpdQM4",
             "1pMB-gf6pAa-rakvBRr9O-ZC6p1C9fl2p--AMZE1hJRI",
             "18B3_cCnyt4kQIcCAO4R5aBGYzTjPpq1Poe5FB0CLZeo",
-            //The Road to PARTIZAN 04: Armour Astir Pt.2
+            // The Road to PARTIZAN 04: Armour Astir Pt.2
             "1xGVfQqSd7Quo-8lf_8GIjxouV2Vux2PNCwQTC3gnDcU",
             "1Cxg3k5nIAtnYZTm3kgK4nzDQR_X3ha9x9p_Rd5-QH70",
             "1SN7aMDHFL7jhlyMLZ6X8vubxx8SZ3rBqbCM0fbk9MAI",
@@ -354,7 +354,7 @@ const transcripts = [
         season_name: "pzn",
         IDs: [
             "1yA0X_obPt17vLqbixQLeLdh3QbDhJXYgeTtnP3hOtk4",
-            //PARTIZAN 01: The Seaside Town of Obelle
+            "1xw9iP44H6v4xiYxS1Uu-vgELyGHutTolvcKeJ8JqAX4",
             "1k2SpO2cR4hQHQ5MpzNYLeFokS_x6ROYAMjaOvO1tjaQ",
             "1HKC6juZ_PmbRU1otR5Ysho7S8equ9PwIkO0JnxEoX1c",
             "10CjMnZsZHwrZd5q_ZL-R5U6nok3XO3RyA8FTVbpRjh0",
@@ -366,24 +366,62 @@ const transcripts = [
             "1C2FJHip4CiD12IV8Lbs5270LFJ6EJv67qer64vKBgcY",
             "1KyXeGDrX2PuTIObUoFvzFNpuAsJyU3-TjcceAnKc5bE",
             "1UGFHApk1q187VcfcXwbvRhH7_qPoErWa9fSHvtB803E",
-            //PARTIZAN 13: A Captive Audience
+            // PARTIZAN 13: A Captive Audience
             "1N1l-0mYQWse9gKoNryExA0osGPIm907ggP1vYwiN3UY",
             "1z3_abjr0BIbNjVFaeqt4Xcql_hjiaORDwoViTlTHwBY",
             "1K90tbt73s4u_lRsXy317zfYyhxMmEBlv401McLNnicY",
             "1KzrvLzEUsi5wd0Bn78m4s0OdVObyfyRtvrNcug4tlbI",
             "1DAdJ6No3TedeM3vF-EO7aH8Ud_VrJvOq0YuxReElonw",
-            //PARTIZAN 19: On the Edge of Fracture
-            //PARTIZAN 20: On the Eve of Revolution
-            //PARTIZAN 21: Millennium Break: We Will Take Hold of the Loom of History!
+            // PARTIZAN 19: On the Edge of Fracture
+            // PARTIZAN 20: On the Eve of Revolution
+            // PARTIZAN 21: Millennium Break: We Will Take Hold of the Loom of History!
             "1uK8RArlWsdSw47VJVYxiDx-mJSMf6zDupiswG1kKweA",
             "1gWOvis33BYNBfSGG7pnkEDvgfCE5htZatvXq4xV86ws",
-            //PARTIZAN 24: Millennium Break: The First and Second Arrests of Clementine Kesh
-            //PARTIZAN 25: Millennium Break: Courage in the Shadow of Opportunity
+            // PARTIZAN 24: Millennium Break: The First and Second Arrests of Clementine Kesh
+            // PARTIZAN 25: Millennium Break: Courage in the Shadow of Opportunity
             "1VjgLO8wpuK860mP6qpVBkKH12K2IfE-f7fKSnXi5HcI",
             "1M08vgkA9rMcBnuN77B_RaY5Q_VBNWCwwAjVuv-wCVXI",
             "1tqYTK2HJ4ClTeoRHBF9n3SLVwCe5neUO8oHnxBf-B7A",
             "15KtRVAFASW3vo7ip0vl2q3LZCo6T-bv7WPdExAGXMEA",
+            // PARTIZAN 29: Millennium Break: Buried Beneath Golden Leaves
+            // PARTIZAN 30: A Cemetery for Heroes
+            "1MeJhbiGhXkp3S8y643xcEOth-0OaqPuDsKgf-Gtjhoo",
+            "1SGWlkenjyFkKzm3V0pmxfNutTHUEyeeQB9dVzycwHkY",
+            "1pYCVpEZNuoqcLSpMKHTDdxQoRfm2hbiChbJAlg7u8Tc",
+            // PARTIZAN 34: Guests, Invited and Otherwise
+            "1h5kCZCIAs2HidKDfKl5alwrkVi4irPOf9d6n3Efq0sQ",
+            "1iHISLaYMoCkF52VRJQIgdFoAEIoMG2uJRSn00Her1Yg",
+            // PARTIZAN 37: The Gravity of Absence
+            "1ppjhYxA-iqtj5XJldUAgtAXJey86w3X3Exw9ujNxGkU",
+            "1S8OuCWM-AaUa10Ki4WhNTep-3jvrnoo07wb3U-ch0bA",
+            "1_hy7-TCLd2xdlNIYE2o3RM-dAttQeRRkRE-jdFgj6wo",
+            // PARTIZAN 41: Orbital Decay
+            // PARTIZAN 42: The Unbreakable Quarry
+            // PARTIZAN 43: The Tunnels Beneath
+            // PARTIZAN 44: The Prison at the Top of the World
+            // PARTIZAN 45: Operation Shackled Sun: Act 1: The Fray
+            // PARTIZAN 46: Operation Shackled Sun: Act 2: The Gate
+            // PARTIZAN 47: Operation Shackled Sun: Act 3: The Stories Told About the Things We Do
+            // PARTIZAN 48: Post Mortem
 
+        ]
+    },
+    {
+        season_name: "sf",
+        IDs: [
+            "1TJpUD-ezhHZDmt6YPkqJ2GcA__TZf8UfJFVdQsSqOQc",
+            "162v2Do07dxo9TxfI-bFzmN-XwBqvoYKTW11j7gzuWqU",
+            // Sangfielle 02: The Curse of Eastern Folly Pt. 2
+            "1zczvM89ydLIZxwTbihU9O041TBcaHWX-qsTnRF2CvcI",
+            // Sangfielle 04: The Blackwick Group
+            // Sangfielle 05: The Hymn of the Mother-Beast Pt. 1
+            "1wShi5uvYHOEpNIZgF0JuNXLFEQmK6FGnG_kMFhVsZRA",
+            // Sangfielle 07: The Hymn of the Mother-Beast Pt. 3
+            // Sangfielle 08: The Hymn of the Mother-Beast Pt. 4
+            // Sangfielle 09: The Secret Ledger of Roseroot Hall Pt. 1
+            // Sangfielle 10: The Secret Ledger of Roseroot Hall Pt. 2
+            // Sangfielle 11: The Secret Ledger of Roseroot Hall Pt. 3
+            // Sangfielle 12: The Secret Ledger of Roseroot Hall Pt. 4
         ]
     }
 ];

@@ -62,6 +62,11 @@ a {
     font-weight: bold;
 }
 
+.link{
+    border-bottom: 2px solid #FFCC00;
+    color: #FFCC00;
+}
+
 #content{
     display: block;
     margin: 0 auto;

@@ -898,7 +898,7 @@ AUSTIN: Right. One hundred percent does not.
 JACK: I think AuDy’s phone is face down on the table in front of them, and every so often they—
 
 
-AUSTIN: Does AuDy have to head their finger to touch the touchscreen?
+AUSTIN: Does AuDy have to head[a] their finger to touch the touchscreen?
 
 JACK: Oh, man.
 
@@ -2355,4 +2355,11 @@ JACK: Ah, this is our worst so far.
 [All clap]
 
 
-AUSTIN: It’s good enough.
+AUSTIN: It’s good enough. 
+
+
+
+
+
+
+[a]heat
