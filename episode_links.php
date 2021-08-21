@@ -29,6 +29,10 @@ $episodeLinks = array(
         "link" => "https://drive.google.com/open?id=112IWBUU1Yes1A7u75xKSxvGjFtcktUzW0weW0uLPvN4"
     ),
     array(
+        "title" => "﻿Autumn in Hieron 07: Boat Party?",
+        "link" => "https://drive.google.com/open?id=1Sw-f33rrfarmd1AX8Gmd8bENbnmdItVBCTKIqimV_Uk"
+    ),
+    array(
         "title" => "﻿Autumn in Hieron 08: On The Tip Of Your Tongue",
         "link" => "https://drive.google.com/open?id=1Qe-Za5Yq_60X2-xIINdzP3EAVXxicwAR4zzK991YhgQ"
     ),
@@ -51,6 +55,10 @@ $episodeLinks = array(
     array(
         "title" => "﻿Autumn in Hieron 13: What A Surprise",
         "link" => "https://drive.google.com/open?id=1IpnFHplPXGH2IOEpTs9g2w-yLGTEkpH2VQuawpUUK4o"
+    ),
+    array(
+        "title" => "﻿Autumn in Hieron: Holiday Special 01: I Don’t Know What’s in That Box",
+        "link" => "https://drive.google.com/open?id=1Kz3rzwRRpSdMoIkXAIWI3hmdgOuiwUql5U_ZlBka2tE"
     ),
     array(
         "title" => "﻿Autumn in Hieron: Holiday Special 02: I’ve Killed Monsters",
@@ -1054,6 +1062,10 @@ $episodeLinks = array(
         "link" => "https://docs.google.com/document/d/1DAdJ6No3TedeM3vF-EO7aH8Ud_VrJvOq0YuxReElonw/edit?usp=sharing"
     ),
     array(
+        "title" => "﻿PARTIZAN 20: BITTER AIR - COMBUSTION",
+        "link" => "https://docs.google.com/document/d/1LfZw_4IzHzPbtC1xDE-e-8qXAr-2Ic5QhlwAOQ1U1T0/edit?usp=sharing"
+    ),
+    array(
         "title" => "﻿PARTIZAN 22: Millenium Break: Forward, to Piracy (Sharp Tensions Across Tremulous Seas)",
         "link" => "https://docs.google.com/document/d/1uK8RArlWsdSw47VJVYxiDx-mJSMf6zDupiswG1kKweA/edit?usp=sharing"
     ),
@@ -1110,6 +1122,10 @@ $episodeLinks = array(
         "link" => "https://docs.google.com/document/d/1_hy7-TCLd2xdlNIYE2o3RM-dAttQeRRkRE-jdFgj6wo/edit?usp=sharing"
     ),
     array(
+        "title" => "﻿PARTIZAN 48: Post Mortem",
+        "link" => "https://docs.google.com/document/d/1K1_wER_xG8JHfEnbmpBWGi_XFDkg7HDVMquUT1RWzc8/edit?usp=sharing"
+    ),
+    array(
         "title" => "﻿Season 7 Trailer & Announcement",
         "link" => "https://docs.google.com/document/d/1TJpUD-ezhHZDmt6YPkqJ2GcA__TZf8UfJFVdQsSqOQc/edit?usp=sharing"
     ),
@@ -1125,7 +1141,47 @@ $episodeLinks = array(
         "title" => "﻿Sangfielle 06: The Hymn of the Mother-Beast Pt. 2",
         "link" => "https://docs.google.com/document/d/1wShi5uvYHOEpNIZgF0JuNXLFEQmK6FGnG_kMFhVsZRA/edit?usp=sharing"
     ),
+    array(
+        "title" => "﻿Sangfielle 07: The Hymn of the Mother-Beast Pt. 3",
+        "link" => "https://docs.google.com/document/d/1Hy68u6GQNEMfAhPqATFcF4Dv5Jqk1Jd01b_XNO3SvDk/edit?usp=sharing"
+    ),
+    array(
+        "title" => "﻿Sangfielle 11: The Secret Ledger of Roseroot Hall Pt. 3",
+        "link" => "https://docs.google.com/document/d/1O7-ytnphNdpn5D1zLJXgviWrDUTYxs9PJoQd3xhPzCg/edit?usp=sharing"
+    ),
+    array(
+        "title" => "﻿Sangfielle 12: The Secret Ledger of Roseroot Hall Pt. 4",
+        "link" => "https://docs.google.com/document/d/1G3OUBiskuTTkJYudxbCjuIFtyE5FOnngzi37vbizkFQ/edit?usp=sharing"
+    ),
+    array(
+        "title" => "﻿Sangfielle 13: Market Day in Blackwick",
+        "link" => "https://docs.google.com/document/d/1yoCrscfk-5k8IaM_6T0RXuXDBgyAJeBTcgY0ToeKE0w/edit?usp=sharing"
+    ),
+    array(
+        "title" => "﻿Sangfielle 14: The Candle Factory Pt. 1",
+        "link" => "https://docs.google.com/document/d/1H2HNCdwZw05GlvkgL9WVY7TkX4GplgACFTqSZyGF7-A/edit?usp=sharing"
+    ),
+    array(
+        "title" => "﻿Sangfielle 15: The Candle Factory Pt. 2",
+        "link" => "https://docs.google.com/document/d/16p8PRryW2y1NuAFO4c_i86C_pmJgT6h7PM0z2oyctjc/edit?usp=sharing"
+    ),
+    array(
+        "title" => "﻿Sangfielle 16: The Candle Factory Pt. 3",
+        "link" => "https://docs.google.com/document/d/1mYD3ArDEElAOm05NEU4FefmC7L7zCW1-vk64iK11Xf0/edit?usp=sharing"
+    ),
+    array(
+        "title" => "﻿Sangfielle 17: What Happened at Bell Metal Station Pt. 1",
+        "link" => "https://docs.google.com/document/d/1YMfPjKnmsCyYjqXFJzw_ENyrLKTJkiKLiW89-4qA2UQ/edit?usp=sharing"
+    ),
+    array(
+        "title" => "﻿Sangfielle 18: What Happened at Bell Metal Station Pt. 2",
+        "link" => "https://docs.google.com/document/d/1aXI7ibRIZaI_eWsoxVxqUx1f3YjoGyVH2dcl2noAyv4/edit?usp=sharing"
+    ),
+    array(
+        "title" => "﻿Sangfielle 19: What Happened at Bell Metal Station Pt. 3",
+        "link" => "https://docs.google.com/document/d/11neQMzcBxYBoQVA8X83QXVfdUfJBZEd6y9pOSPJUm4U/edit?usp=sharing"
+    ),
 );
-
+//
 //$test1 = array_search("﻿Autumn in Hieron 27: The Shores of Ordenna", array_column($episodeLinks, 'title'));
 //var_dump($episodeLinks[$test1]['link']);

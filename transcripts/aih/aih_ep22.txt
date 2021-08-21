@@ -1,2883 +1,2432 @@
-﻿Autumn in Hieron 22: Closing the Window
-Transcribed by Max (pine#6681)
+﻿Autumn in Hieron 20: Do I Feel Followed?
 
 
+Transcribed by Linda @imperialhare!
 
 
-AUSTIN: Bottom on the twos, with Art Tebbel.
+KEITH: Hey everybody, it’s Keith, just checking in to let you guys know that this is the 2nd part to the episode that was put out two weeks ago where Art’s audio was messed up, he came on and apologized, it was very nice, he’s a sweet guy, uh, this is the second part so his audio’s still messed up - I recommend listening with headphones, it makes what he says a little bit clearer, and I wanted to reassure people that yes, it definitely sounded worse before I messed with it. I promise. And that’s all, so here we go, last time on Friends at the Table.
 
 
-NICK: Yeah. As long as you didn't get all the way —
+AUSTIN: The very end of the last session, the very end, you passed through the worst of the storm, and you’d run into two people, [MUSIC - “Autumn Not Winter” begins] a human lady – she was a prodigy in practical magic, she was really good at intuitively putting things together, not like you at all. And with her was, uh, a large orc, who had a pair of glasses on, was very clearly from The New Archives. And as the cold leaves you, you feel something missing, somehow. At first it feels like maybe the cold drilled down so deep into you that you lost something, that after a bit of time, each of you, on your own, can’t help but wonder if that feeling of emptiness was in you all along. Uh, what you’re looking at is kind of a hand-sketched map of the fallen tower.
 
 
-AUSTIN: Yeah.
+AUSTIN (as Sunder Havilton): There’s been strange movement, uh… small groups of, ah, we’re not sure, we’ll have to get closer.
 
 
-NICK: — then that's perfect.
+DRE (as Throndir): These are the lower levels. This is where the people lived. If we’re looking for information, for the important things, they’ll be further up. 
 
 
-AUSTIN: Then you're golden.
+DRE: And he traces his finger up to the northwest.
 
 
-ART: I mean, at peak scream, I did— I did bottom out.
+AUSTIN (as Sunder): Well, goddamn, prince, you were right!
 
 
-AUSTIN: Well then just don't— don't peak.
+AUSTIN: Uklan gasps. 
 
 
-NICK: Well yeah, just don't— Just don't peak scream.
+AUSTIN (as Uklan Tel): The Tower of Samot. I knew it. It’s said… it’s said that here is where the boy…
 
 
-DRE: You gotta— This is like the Kama Sutra of [AUSTIN: It is.] podcast streaming. 
+AUSTIN: And he trails off, into a story.
 
 
-AUSTIN: It is. 
+[music fades]
 
 
-[ART laughs] 
+AUSTIN: And here, we are going to start playing a different game. It’s another game by D. Vincent Baker who made Apocalypse World, who also made a lot of really interesting games, he made Dogs in the Vineyard years and years ago, and recently he released a series of kind of tiny games meant to be played primarily on social media networks, on things like Google Plus, which is where a lot of the kind of indie role-playing game community is. Someone is super breathe-y right now. I think that Art might be stress-breathing? I’m not sure. I think it stopped. It stopped.
 
 
-DRE: You gotta just let it ride.
-
-
-AUSTIN: Just let it ride. Never peak.
-
-
-DRE: Mood. Be Sting.
-
-
-AUSTIN: It's like a mantra. Be Sting. Be Sting. Be Sting. 
-
-
-ART: Do I have to be Sting. Can I be someone else?
-
-
-AUSTIN: (laughing) No. You have to be—
-
-
-DRE: But you can choose— You can choose which Sting you want to be.
-
-
-AUSTIN: Yeah, you can be WCW Sting.
-
-
-DRE: Yeah. Or you can choose like…
-
-
-ART: I want to be NWO Wolfpack Sting.
-
-
-AUSTIN: Mmm.
-
-
-NICK: I call Sting from Dune.
-
-
-AUSTIN: Mmm.
-
-
-ART: Oh that's a good one.
-
-
-AUSTIN: That's a good Sting.
-
-
-DRE: I want to be Sting, after the Police when he wrote Desert Rose and was doing weird car commercials.
-
-
-AUSTIN: So you do want to be tantric Sting?
-
-
-DRE: Yeah, totally. Why not?
-
-
-AUSTIN: I, you know, that's fine. I'm not judging.
-
-
-DRE: [laughs] Gosh darn.
-
-
-AUSTIN: I want to be Sting from Lock, Stock and Two Smoking Barrels where he's that dude's dad and just like disappointed in him all the time.
-
-
-[DRE, NICK laugh] 
-
-
-NICK: Is that…
-
-
-AUSTIN: That's my favorite Sting.
-
-
-NICK: So you're Lock Stock Sting and we're the son— [AUSTIN laughs] All of us, collectively…
-
-
-AUSTIN: It's just Lock Stock Sting shaking his goddamn head —
-
-
-[DRE laughs]
-
-
-NICK: Yup.
-
-
-AUSTIN: — at the other moments in Sting's life. Yeah. Yup.
-
-
-[DRE sighs]
-
-
-AUSTIN: Okay. Let's time.is.
-
-
-DRE: Okay.
-
-
-[MUSIC - "Autumn Not Winter" by Jack de Quidt fades in]
-
-
-[four separate claps]
-
-
-AUSTIN: Nope.
-
-
-ART: Nope.
-
-
-DRE: (laughing) Nope.
-
-
-AUSTIN: Let's do it at 10.
-
-
-[DRE laughs]
-
-
-AUSTIN: Hey everyone welcome to Friends at the Table, an actual play podcast focused on critical world building, smart characterization and fun interaction between good friends. We are as always presented by StreamFriends.tv and by RunButton.net. We are continuing our actual play of Dungeon World, focusing on the campaign that we have internally started to call Ice Party, even though now they're out of the ice. We've been calling it Ice Party for awhile. [DRE: Yeah.] This is just a little peek behind the curtain.
-
-
-ART: It's always going to be Ice Party in our hearts.
-
-
-AUSTIN: Right. Because of how cold our hearts are. Dungeon World is of course a game by Sage LaTorra and Adam Koebel, based on a— It's a hack of a game called Apocalypse by D.
-Vincent Bake. As always our agenda is to portray a fantastic world, to fill the characters' lives with adventure and to play to find out what happens. In a weird way, we already know the answer to bits of that last one, [NICK laughs] because this is our first recording after recording the Holiday Special, which you've heard by now. Presumably. If you haven't heard that, then I don't know, like… I don't know what you're doing.
-
-
-NICK: Actually. I— I haven't heard it yet.
-
-
-DRE: Maybe— 
-
-
-AUSTIN: I'm 
-
-
-NICK: I haven't listened… 
-
-
-DRE: Maybe they're purists and they're waiting for the chronological order.
-
-
-AUSTIN: Well, that's—
-
-
-ART: Yeah, I could— I could see a chronological purist.
-
-
-AUSTIN: Mhm.
-
-
-DRE: You know, like someone who's watching Fast and Furious for the first time. You want to see Tokyo Drift, last.
-
-
-AUSTIN: Right, right. That is canonically, the last one.
-
-
-DRE: Mhm.
-
-
-AUSTIN: I'm waiting for the machete cut of Friends at the Table which I think is— [DRE, NICK laugh] Is like the first episode, and then like episode six, seven, eight, and then, two, three, four, and then the holiday special, and then some shit we haven't even recorded yet, I'm pretty sure. [DRE laughs] The last time we played, I'm just gonna— We have to jump into it because I know time is as always a— of great uh, value to all of us and I have like a million things to do today after we're done recording because I very poorly scheduled my weekend out. Um, so I just want to like really quickly, let's just us into this. Let's just get, you know, get rolling. Just get going. We're just gonna kick it off. We're gonna get ready and then we're gonna— Okay.
-
-
-So the last time you arrive finally at the fallen tower in the center of the mark of the Erasure, where you were headed for the last like couple weeks of game. And when you got there, you met up with Sunder Havelton and Uklan Tel who were both working with the New Archives to come and kind of map this place out and explore it. Uh, you then, you know, kind of warmed up a little bit and took some early looks into this big fallen tower. It's massive, it overshadows you, completely. And it's split into—if you look at the map, again—a ton of little parts.
-
-
-Um, we deployed a new set of rules for the exploration of this place, that I'm just going to go over again, really quick, um because I want to make sure that we like, remember exactly how this works. So one, every time you go to one of the squares or any of the spots on this map, that will—that and returning to camp—takes up a day of travel. And everyday takes up a ration. When you… When you go to a place, you can go to it and get like a basic level of information about what's there with no big deal and there's no risk and it's just like, "Oh, that's just what this place is." And then you can decide to Search and Scavenge it, where you can roll 2d6 + Wisdom to explore the ruins. And you open yourself up to harm if you fail, but you potentially find something useful. On a 10, you get to choose three things, on a  7 - 9, you get to choose one. Something to eat, which is a +2 Rations. A useful tool or weapon. Useful information or long lost knowledge. Or medical supplies.
-
-
-So, in your first move, you went to the part of the throne room that's marked here, just to the north of the campsite where you heard a story about Samot passing through this valley, years and years and years and years ago, before he even— It seems, before he ascended to any sort of position of authority. And there he encountered a weird wolf and that wolf was coming after him for various reasons. You should go listen to that episode, it was a cool story. The second thing you did, uh… 
-
-
-NICK: It was a cool story.
-
-
-AUSTIN: While fleeing from that throne room, Teclan— Uh, sorry, Uklan Tel got caught with a strange arrow that poisoned him in some way, and Hadrian sucked the poison out of him using— using his holy Lay on Hands ability. And then finally, uh I hope he's okay, we'll see. But finally, you went into a big chunk towards the north of this tower. The tower kind of lays northwest, uh sorry. South— From south-east to northwest. And you went to the kind of third from the top of the— of the straight tower shape. 
-
-
-DRE: Mhm.
-
-
-AUSTIN: There if you recall, you found a weird amalgam of spaces. There were spaces that looked like they were in caves. That they were mines. There were spaces that were filled with clanking machinery. Automated machinery, machinery like you've never seen before. In some places there were glowing lights on the walls without any— without any, you know, candles to— to provide the fuel. And then in the final moment, you stepped into a room that was unlike the rest, alive with something that felt like sentience. It was filled with kind of ethereal people, not quite ghosts, more like a vision from a different world. 
-
-
-And you can find out, as Uklan Tel would tell you, that in fact, he suspects that that's what this is. That this place is a vision into an alternate world, a world that could be or could have been. Um, that at certain moments in time, other realities slip in. Realities that if but, you know, if one or two things had changed. If the revolution had gone forward. If the butterfly had flapped its wings over in south Hieron, you know, this world could exist. And this is the… This is the first of these that you've seen and it has terrified Uklan Tel. And it— it probably shakes you up a bit when you see among the workers here, among the clanking machinery and automation, Hella in the far distance. What do you do?
-
-
-[TIMESTAMP: 0:08:42]
-
-
-NICK: Um. I think I did this last time.
-
-
-AUSTIN: You did. Go ahead.
-
-
-NICK: But, uh, I'm gonna cast a Detect Magic.
-
-
-AUSTIN: Yes, everything here is magical. That is— That is what you did last time.
-
-
-NICK: Okay.
-
-
-AUSTIN: Um.
-
-
-NICK: Right.
-
-
-AUSTIN: Uh, so everything here is magical and on top of that Sunder— Sunder Havelton, who is—to remind you—that is Fantasmo's old kind of rival but also peer. She cast a kind of ward spell to keep you— to kind of keep you protected from this space.
-
-
-NICK: Oh, right.
-
-
-AUSTIN: Not that there's any specific immediate threat but you can see this kind of orb of energy around you that reveals what the floor should be underneath you. So in all the rest of the space, it's this kind of notched metal floor, but under you it's just like some bricks 'cause it's just like the side of the tower where it once stood. So, so that's…
-
-
-DRE: She's basically anchoring us.
-
-
-AUSTIN: Right, um… She says,
-
-
-AUSTIN (as Sunder): I can move with this but I can do very little else.
-
-
-ART: Um. Did— I probably did do this last time, but this is evil or not evil.
-
-
-AUSTIN: Not evil.
-
-
-ART: None of it? Not even weird ghost Hella.
-
-
-AUSTIN: [sighs] I don't know. I don't know if weird ghost Hella's evil. Um… Yeah. Weird Ghost Hella is evil.
-
-
-[DRE laughs]
-
-
-ART: Alright.
-
-
-AUSTIN: I do want you to know that I was looking up at a poster that says, "Sinister," while I made that choice. [NICK laughs] I have a— I have a Belle Sebastian, "If You're Feeling Sinister," poster and like, maybe looking at the word 'sinister' is not the best way to determine whether or not something else is evil. I think that might bias me.
-
-
-ART: Sure. Well, I mean, it effects like— It affects things.
-
-
-AUSTIN: It affects things, yeah. Um…
-
-
-ART: But I don't know how much it affects things.
-
-
-AUSTIN: Ugh. Uh, it's—
-
-
-ART: Because I don't know what's happening here?
-
-
-AUSTIN: Oh man. It— She's evil. She's evil but like the place isn't, do you know what I mean?
-
-
-ART: Sure.
-
-
-AUSTIN: Uh, no one else here is. Uh, there are dozens of workers.
-
-
-NICK: What?
-
-
-AUSTIN: None of them seem to have made note of you.
-
-
-NICK: What was she doing, again?
-
-
-AUSTIN: I think she was just, she was just like speaking with people and kind of organizing.
-
-
-NICK: Okay.
-
-
-AUSTIN: She was in kind of an overseeing kind of supervisory position [NICK: Oh, alright.] in this big work shop.
-
-
-ART: It's Corporate Hella.
-
-
-DRE: Uh, does she have her sword?
-
-
-AUSTIN: She does have her sword. She is still like, armed. Um, this is— I think you can tell this is sort of a like— [sigh] It is industrial but it is very much still a military operation. Uh, they're forging things. Some things are very clear, like oh yeah, they're foraging a sword. They're foraging armor. But like some things are just like big pieces of metal and you don't have a clue what something that size could be used for.
-
-
-ART: Um…
-
-
-NICK: (whispering) Robots.
-
-
-ART: It's probably robots. Um… Does anyone object terribly to me calling out to her? We know Hella.
-
-
-DRE: Well I guess… we just ask Sunder like,
-
-
-DRE (as Throndir): Can they— Can they see or hear us? Or are we kind of—
-
-
-AUSTIN (as Sunder): As long as you're in this— this orb, they won't. I don't think — 
-
-
-AUSTIN: She corrects herself.
-
-
-AUSTIN (as Sunder): — they'll notice us here.
-
-
-NICK: Uh, Fantasmo goes invisible, just in case.
-
-
-AUSTIN: Sure. Give me a roll.
-
-
-[DRE laughs]
-
-
-ART: Playing with fire.
-
-
-AUSTIN: Alright, so what are you— Are you forgetting? Are you…
-
-
-NICK: Um…
-
-
-AUSTIN: You rolled a 9, [NICK: Yeah.] which means he has to either take a condition um, forget the spell or… take an ongoing negative. Is that right? 
-
-
-ART: Is that draw attention attention to yourself (cross) or is that for…
-
-
-AUSTIN: (cross) Oh draw— Yes, yes, yes. Or draw attention to yourself, yes.
-
-
-NICK: Yeah, it…
-
-
-AUSTIN: Sorry, that's…
-
-
-ART: Which would seem to be the worst choice here.
-
-
-AUSTIN: Yes. 
-
-
-DRE: Or the best! Or the best.
-
-
-NICK: Well, it's uh, let's see.
-
-
-AUSTIN: It's forget a thing…
-
-
-NICK: Draw unwelcome attention.
-
-
-AUSTIN: Yeah.
-
-
-NICK: Take 1 ongoing to cast a spell until the next time you rest, or forget it.
-
-
-AUSTIN: Yeah, that's what it is. 
-
-
-NICK: Um… Or put yourself in a spot, so that spot doesn't necessarily have to be unwelcome attention.
-
-
-AUSTIN: Right.
-
-
-NICK: Um… [buzzes lips] I'm going to— Well, I mean we're resting every night, right? Go back to the camp—
-
-
-AUSTIN: You are, yeah.
-
-
-NICK: Okay. I'm going to forget it.
-
-
-AUSTIN: Um, alright so Fantasmo does his hand trick, now he's gone. But still inside of this bubble. Uklan Tel is… is kind of looking around, up and down the space and is veering a little to close to the edge of Sunder's bubble. Um.
-
-
-AUSTIN (as Uklan): Remarkable and terrifying. What could cause this?
-
-
-AUSTIN: He shakes his head. There's…
-
-
-DRE: Um…
-
-
-AUSTIN: It's up to you. What are you doing? You know, again—
-
-
-ART: Is there…
-
-
-AUSTIN: So you can— you can do anything you would normally do. You can do the Search and Scavenge move, which could theoretically get you more, but that's— that's— Yeah, it's up to you. What are you doing?
-
-
-ART: I'll take the Search and Scavenge move.
-
-
-AUSTIN: Okay.
-
-
-DRE: Before you do that, Art, can I— can I consult my god tingling senses?
-
-
-ART: Yeah, sure.
-
-
-AUSTIN: Nothing.
-
-
-DRE: Nothing.
-
-
-AUSTIN: This is nothing he's seen. [skype notification sound] Uh-oh.
-
-
-DRE: Yeah.
-
-
-AUSTIN: Somebody just left the Skype.
-
-
-ART: Well it's not— It's not me.
-
-
-AUSTIN: It's not me.
-
-
-DRE: It's not me.
-
-
-AUSTIN: I think it's Nick. I think we lost Nick.
-
-
-DRE: Oh, Nick.
-
-
-ART: So it's probably Nick.
-
-
-DRE: Yeah, Nick got dropped.
-
-
-ART: So then I won't roll Search and Scavenge then.
-
-
-AUSTIN: That's good. You're safe.
-
-
-ART: I mean, I will, but when he comes back.
-
-
-AUSTIN: Oh. So you're not just giving up on it.
-
-
-ART: I'm not giving up on it. There's— There might be — This is interesting.
-
-
-AUSTIN: This is interesting.
-
-
-DRE: Yeah.
-
-
-ART: I want to get out.
-
-
-AUSTIN: Did you get a weapon last time? I feel like you got a weapon.
-
-
-DRE: Yeah, he got a sword.
-
-
-ART: I did. I got a sword.
-
-
-AUSTIN: You got that golden sword, right. Okay.
-
-
-ART: (cross) The golden sword that— that I'm lis… 
-
-
-DRE: (cross) Have we determined that that sword is magical?
-
-
-AUSTIN: I think we did.
-
-
-ART: Well we determined it's not evil.
-
-
-AUSTIN: We determined it's not evil. I don't think we checked if it was magical.
-
-
-ART: Well Detect Magic was cast just now. 
-
-
-AUSTIN: That's true. 
-
-
-ART: But everything, you were saying was like more of a (cross) blinding flash of Detect Magic.
-
-
-AUSTIN: Yeah, everything is magical. Yeah.
-
-
-DRE: Ooh. We're in Disney World.
-
-
-AUSTIN: We are in Disney World.
-
-
-DRE: Everything is magical.
-
-
-ART: The Disney World of…
-
-
-AUSTIN: Whoop. "How would I— How would I rate the quality of this call?" What? I'm still in this call, Skype.
-
-
-ART: Uh-oh. Are we in an alternate Skype universe?
-
-
-AUSTIN: Yeah, I think so.
-
-
-ART: Along with being in an alternate universe right now?
-
-
-AUSTIN: We're— We're all in multiple different multiple dimensional universes. [ART sighs] So Art, you were — 
-
-
-DRE: Art, you're gonna Search and Scavenge?
-
-
-AUSTIN: — going to Search and Scavenge.
-
-
-ART: I was going to search, that is a Wis?
-
-
-AUSTIN: That is a Wis.
-
-
-DRE: What's your Wis Modifier, Art?
-
-
-ART: I'm pretty Wis-y aren't I? Oh wait, no I'm not. I'm specifically not.
-
-
-AUSTIN: Yeah, but you said you were doing. Let's do it.
-
-
-ART: I'm a Wis baby.
-
-
-DRE: Oh boy.
-
-
-AUSTIN: Uh, 8's okay.
-
-
-DRE: Yeah.
-
-
-ART: Yeah.
-
-
-AUSTIN: So you can choose one. Something to eat, a useful tool or weapon, useful information or long lost knowledge, or medical supplies.
-
-
-DRE: I—
-
-
-ART: Useful information or long lost knowledge, please.
-
-
-AUSTIN: Alright.
-
-
-DRE: [sighs] Somewhere we're gonna have to get medical supplies for your rock finger.
-
-
-AUSTIN: I don't think they make—
-
-
-ART: I don't think they have any rock finger medical supplies. We're not going to find a 'Soft' in here.
+ART: Because I stress passed out.
 
 
 [AUSTIN laughs]
 
 
-DRE: You don't know man. [AUSTIN sighs] Old tower.
+AUSTIN: This is a game that’s called The Sundered Land. And really it’s kind of a game with kind of five or six little modules in it, each sort of connecting in some way either directly or symbolically, and it’s kind of his take on kind of Sword and Sorcery stories, y’know, like Conan the Barbarian style, y’know, that era and genre of fantasy. And he has one called “A Doomed Pilgrim In The Ruins of the Future”, but for us, we’re going to rename it. We’re gonna call it “A Doomed God in the Past of the Ruins”. And we’re gonna play it right now, I don’t need to send you anything, we can just do this.
 
 
-AUSTIN: So, it— I think this just comes through careful observation over the course of the day. Um, this— You know, you're kind of like eaves dropping on different conversations. You follow Hella around. She's talking to other— other people who are in similar roles, supervising other people. They are preparing for an invasion. They are kind of building, amassing, a collection of arms so that they can march down and defeat a strange— a strange group of wizards who are threatening them from the south. Um… 
+AUSTIN: My name is Samot. I will be known one day as the boy king in leisure, the young god of books and wine. But right now, I’m on a journey through the lush wood, toward the eastlands. You my friends, play the world. Your goal is to see me to my doom, instead of safely on my way. You’re allowed to only directly answer my direct questions, though – oh, sorry, you’re allowed to only answer my direct questions, though, so you might not be able to do it, you might not be able to see me to my doom. The rules: one, only answer my questions. Two, if you don’t already know the answer, make something up. Three, keep your answers short – here I’ll give you a little bit more wiggle room, again this was intended for social media, so you didn’t want like someone writing a huge passage, but still –
 
 
-ART: Is it us? Are they talking about us?
+DRE: Copy-pasting a Word doc.
 
 
-AUSTIN: I don't think they're talking about you.
+AUSTIN: Right, exactly, but here we still want to try to keep it brief, and punchy. Four, if your answer is disruptive, I’m allowed to override it – again a rule clearly in place for social media, for trolls. And five, otherwise, I have to go with the first answer that somebody gives.
 
 
-ART: Okay.
+AUSTIN: I, Samot, have the summoning name of a ghost burned into my memory, and a vast and deadly patience. I have been walking through the lush wood for 2 weeks now. I am in the shadow of the Hewed Peak, the massive mountain split in two at the top, which is at the center of this continent, and is supposedly the home of the great dragon, Hieron. Someone warns me of approaching danger. What warns me? Anybody can answer.
 
 
-DRE: We only got one wizard in this group.
+[TIMESTAMP 5:08]
 
 
-AUSTIN: Right.
+ART: An owl.
 
 
-[NICK laughs]
+AUSTIN: How does it warn me?
 
+ART: It can speak the human tongue.
 
-ART: Well, they might just have identified us as wizards. Like wizards might just be a catchall term for them.
 
+AUSTIN: Andrew, what’s it say?
 
-AUSTIN: Right, um.
+DRE: You are about to enter a land of great danger.
 
 
-ART: Like Barbarian.
+AUSTIN: Okay. So I continue on forward through the woods… I’m at guard, here. Nick, do I feel 
+watched?
 
 
-NICK: I am pretty strange, though.
+NICK: Yes.
 
 
-AUSTIN: Yeah.
+AUSTIN: I sit still and I listen. Is anything weird, do I hear anything? Anyone can answer.
 
+NICK: No.
 
-DRE: That's true.
 
+AUSTIN: Okay… I continue on and I find myself sticking to the trees. I know I’m being watched, I’m nervous. What’s my best escape route, if any?
 
-AUSTIN: They— It becomes clear that they took—
 
+ART: To the west, it slopes downward.
 
-NICK: I haven't yet learned Mirror Image, so…
 
+AUSTIN: Okay, I begin heading in that direction. Is there anything I hear or see to warn me of the danger?
 
-AUSTIN: [laughs] Once you do, then you will be Wizards, yes. [sighs]
 
+DRE: You hear the soft murmuring of words but you’re not sure what’s being said.
 
-NICK: Yup, yeah.
 
+AUSTIN: Can I… Can I go down the slope without being noticed? Anyone can answer.
 
-AUSTIN: They took this place in the last couple of years. Um, and its— You know, I've said this before, this space is super disorientating. Um, and it's hard to know what that even means. For a long period of time, you're not sure if you're here like, where the tower is or if you're in Ordenna, somehow. You know, like, this sort of magic or whatever it is, is hard to understand. 
+ART: Only if you’re very careful.
 
 
-But you do, at some point, as you're following them, wind up on a level with windows pointed outward. Um, and you kind of leave the workshops behind and move into the beautiful black and gold of the kind of upper tier hallways of this— of this floor. Um, and— Or not this floor but this sector, I guess. 
+AUSTIN: Okay, I’m very careful. And I quietly climb down the stairs. There are means of conflict resolution, but only when real conflict is here. Um, I carefully climb down the side of the slope and make my way into a lower level of the forest, of the lush wood. Um… Is it, does it still – do I still feel watched?
 
 
-And there is, through a set of open windows, a balcony out and Hella alone walks onto the balcony and looks over the edge towards, what now you understand is the west. And you see the woods that separated Velas from this place and you see the kind of, remnants of the trees that once separated the two. You see a path, burnt and carved from Velas to here. And in the distance, you can see smoke, where Velas was once. And it's hard to tell  if it is the smoke of industry or of war. You can head back to camp now.
+DRE: No.
 
 
-[TIMESTAMP: 0:19:48]
+AUSTIN: Am I free to leave?
 
+NICK: No.
 
-NICK: Hmm.
 
+AUSTIN: Is something new on my tail?
 
-AUSTIN: Unless you have more to do here, which is— which is fine.
 
+DRE: Mmm...
 
-DRE: Do you want to try talking to Hella?
+ART: Yes.
 
 
-ART: [laughs] I have a lot of fun ways to get us all killed (laughing) kind of like that.
+AUSTIN: Have to take the first answer. Does it make itself known?
 
 
-NICK: Um…
+DRE: Yes.
 
 
-ART: I mean, the problem with talking to Hella is you're going to have to like step out of the bubble.
+AUSTIN: What do I, what do I see or hear, how do I sense it?
 
 
-AUSTIN: You will.
+ART: There’s a shadow on the moon.
 
 
-ART: And then like, there's things like— like Hella could— The Hella we've met could kill all of us and I don't know what alternate dimension steampunk Hella could do. [AUSTIN, DRE laugh] But she's probably not like, cuddlier.
+AUSTIN: Oh, hhhh, [DRE laughs] well that’s terrifying. Should I… Should I bother to cover my tracks, or is this thing on me? Like is it, is it, does it know where I am already?
 
+NICK: It knows.
 
-AUSTIN: She's still evil.
 
+ART: I don’t think it does.
 
-DRE: She's still evil.
 
+AUSTIN: Mmm… you guys both kind of answered at the same time, both roll 1d6 for me and I’ll take the higher roll.
 
-ART: She's still evil.
 
+DRE: That’s a good roll, Art.
 
-AUSTIN: But also still looking out at the distance and sighing, you know?
 
+NICK and AUSTIN simultaneously: Yeah, that’s not as good of a roll. [DRE and AUSTIN laughing]
 
-ART: Yeah. I mean, I don't think our Hella was entirely not. Like, she was— she was friendly.
 
+AUSTIN: Art, what did you… did you say that it does not know where I am?
 
-AUSTIN: Right.
 
+ART: Yeah.
 
-ART: You know, while she is, you know, the baddest MFer we've ever seen, I've never felt like in constant danger.
 
+AUSTIN: Okay.
 
-AUSTIN: Right.
+
+ART: Nick, you can go next [unintelligible]
+
+
+AUSTIN: Eh, you know, we’ll see. It’s not –
+
+
+NICK: Whatev – whatever.
+
+
+AUSTIN: Now, what, so – I do try to cover my tracks, then, I try to walk quietly without making too much noise in the wood and I try not to leave behind any large footprints. But I am curious – and I trace the shadow on the moon down to see if I can find what it is – what is it?
+
+NICK: A large wolf. 
+
+
+AUSTIN: [nervously] Cool. Does it seem nervous, or watchful, or suspicious of me?
+
+ART: It’s above that. (?)
+
+
+AUSTIN: Hmm… I move for quite some time, this time to the north, and I’m trying to keep distance from it, but I can’t help but look back at it now and then to see if I’ve escaped it. Do I make distance? Do I separate myself from it?
+
+NICK: No.
+
+
+AUSTIN: Is it closing in on me?
+
+
+NICK: No.
+
+
+DRE: Yes.
+
+
+AUSTIN: I have to take Nick’s answer there. But Andrew –  is it, do I... Is there a position I could take here that would give me an advantageous relation to it?
+
+DRE: You could try climbing into the trees.
+
+
+AUSTIN: Okay, I do, I start to climb up into the trees and see how it reacts. How does it react? Art.
+
+
+ART: Um… It almost feels omnipresent.
+
+
+AUSTIN: Mmm. How does it make that feeling known? Also Art.
+
+ART: You think you’re – you think you know where it is, but when you check, it’s in a radically different place. 
+
+
+AUSTIN: Mmm, okay.
+
+
+ART: And it couldn’t possibly have moved that fast.
+
+
+AUSTIN: Right, right. I stay in the trees and keep heading north, moving from branch to branch, I’m light on my feet here. And… I eventually come to a plateau that’s like another higher level up, and I sit on the edge of the plateau and make eye contact with the wolf using my vast and deadly patience to stare it down. What’s it do? Anyone can answer.
+
+
+ART: It looks into your essence.
+
+
+AUSTIN: Nick, what’s it see? In my essence?
+
+
+NICK: Nothing.
+
+
+AUSTIN: I stand up and I keep my eyes on it and I slowly start to back away. I don’t look behind me. I trust that I will be fine. Does it move? Anyone can answer.
+
+
+DRE: It matches you step for step.
+
+
+AUSTIN: Eventually I come to a small cave. I go inside, again backing up into it, feeling my way behind me with my hands. Does the wolf, does the creature enter the cave with me?
+
+NICK: Yes.
+
+
+AUSTIN: It has me cornered. Does it make any moves? Anyone can answer.
+
+
+ART: It bares its teeth.
+
+
+AUSTIN: Does it make any noises? Like, any noises, generally?
+
+
+NICK: It hasn’t until now.
+
+
+ART: No.
+
+
+AUSTIN: I can do both of those. No, and then now, it does. What sort of noise is it making? [silence] ...Okay, so wolf noises. I… I feel fear and I don’t know what to do, so I step forward towards it. How does it react?
+
+
+ART: It’s start – it’s surprised (unintelligible)
+
+
+AUSTIN: I get closer and closer to it. And I… I get closer and closer to it and I keep walking. Does it… does it seem scared of me?
+
+NICK: No.
+
+
+DRE: No.
+
+
+AUSTIN: I whisper the name of the ghost, its mother, the god of wolves, which I killed, a week ago, and I let her leave my presence. What does it do?
+
+
+NICK: It bites your hand.
+
+
+AUSTIN: Is this a – is this a hard bite? Is this a –
+
+
+NICK: Yes.
+
+
+AUSTIN: Okay, so this is like an attack, it’s attacking me.
 
 
 DRE: Yeah.
 
 
-ART: Whereas like, I don't know if constant danger isn't on the table here.
+AUSTIN: I try to… I try to lift it with my other hand – at this point we’re fighting. So we do go to dice rolls at this point. So I’m gonna – Samot is going to try to lift this wolf by the scruff of its neck and throw it against one of the walls of the cave. 
 
 
-AUSTIN: Right.
+ART: I don’t know what that roll looks like. [DRE laughs]
 
 
-ART: Especially if you like, stepped out of your magic bubble to talk to her.
+AUSTIN: You just roll 2d6. There we go, that’s an 11. On a 9 to 11, I might be able to overpower it, I throw it against the wall of the cave, I lift and throw it. I kick it once in the stomach once it hits the ground. Does it die or submit or flee?
 
 
-AUSTIN: Yeah.
+NICK: No.
 
 
-DRE: "Hey, s'up."
+AUSTIN: Okay. I climb onto its back and wrap my hands around its throat. Stop, I tell it.
 
 
-ART: But like, if we think the magic bubble is permeable for us, both ways, I— I mean, we could probably keep you alive long enough to get back in the bubble and away from her.
+NICK: No... Poor wolf…
 
 
-NICK: I'm invisible.
+AUSTIN: I might be able to stop it long enough to go free. Does it give me the opportunity to go?
 
 
-AUSTIN: You are invisible.
+NICK: No.
 
 
-ART: I mean, yeah.
+AUSTIN: I continue to choke it, and life begins to drain from its eyes. It fights free from me, somehow, maybe driven on by the spirit of its once-dead mother, which I’ve let go. It powers past me. It… might kill me, here. I rip the robe from my chest and throw it in its face, hoping to distract it long enough for me to get away. Do I have a chance to get away?
 
 
-NICK: I could step out and say something if there was something you wanted to impart. Or ask or something.
+NICK: Yes.
 
 
-ART: Well, does this Hella know us?
+AUSTIN: I flee. The wolf and its mother, the god of wolves, is behind me, and I escape. Uklan tells you, that that is Samot, that that is one of his favorite stories of Samot, and that that is a thing worth drinking to. We are back in Dungeon World now.
 
 
-NICK: We have— I don't think we have any idea.
+[TIMESTAMP 16:39]
 
 
-DRE: We don't. Yeah, we don't know.
+AUSTIN: It’s a cool game. It’s a cool game. So this, you realize, is part of the throne room of Samot. Along with the image of his symbol – Hadrian, you recognize broken statues of his visage, you recognize them from the dreams of him. You also recognize, and Uklan points these out, small statues of wolves, which he explains, Samot built for the whole of his life, some say in penance, some say as a sort of tithe to the fact that he was allowed to live that day. Are you – You can each ask me a question about this place, or ask me if you see a thing, or, y’know. What are your questions?
 
 
-ART: Well, like we would really be counting on it, right?
+NICK: Can I do a detect magic?
 
 
-DRE: She definitely doesn't know me.
-
-
-ART: Well you don't— We don't know that.
-
-
-NICK: Yeah.
-
-
-ART: It could be.
-
-
-NICK: Also, the us's of this universe could be completely different also. Like…
-
-
-ART: Although, ugh. Hadrian— Hadrian recently reached out to our universe's Hella. I'm wondering if— if yeah. If we should just do it. I mean, the worst that happens is she murders us all, but I mean, that's kinda always on the table, right? [DRE laughs] Like, we're living on the edge of a knife in general.
-
-
-AUSTIN: What do you do?
-
-
-ART: Oh, I guess we should ask, right?
-
-
-AUSTIN: Ask what?
-
-
-ART: If we can get back.
-
-
-DRE: Ask Sunder what happens if we step out.
-
-
-AUSTIN: You can step in.
-
-
-ART: Yeah.
-
-
-AUSTIN: She confirms that you can step back in.
-
-
-ART: Can— Can she— Can she follow us?
-
-
-AUSTIN: What do you mean?
-
-
-ART: Could— If she saw us step back in, could she get into the bubble?
-
-
-AUSTIN: She can't leave the bubble. She— She— The bubble emanates around her. She's holding it up.
-
-
-ART: Ups— No, sorry, we had a pronoun problem.
-
-
-AUSTIN: Oh, would Hella?
-
-
-ART: Yeah.
-
-
-DRE: Yeah, could Hella get into the bubble?
-
-
-ART: Could we— Could evil— Uh…
-
-
-AUSTIN: Uklan says— Yeah, "Could Evil Hella?" No, uh, that doesn't work. Uklan says,
-
-
-AUSTIN (as Uklan): Even if she could, she won't. We can not risk bringing back a living being from this other world. Not in these circumstances. In something more controlled, maybe, but our first time shouldn't be with someone you know. Too many complications.
-
-
-ART (as Hadrian): Oh, no I— I don't mean— I don't mean "Should we intend to bring her back?" I mean, "Could she maliciously come back?" Do you think if we…
-
-
-AUSTIN: Uklan looks at Sunder and Sunder says,
-
-
-AUSTIN (as Sunder): I'm not sure. Theres— Theres too many variables. It's hard to know.
-
-
-AUSTIN: She looks at— She looks over to— She doesn't look over, 'cause he's invisible. She kinda like looks around, like looks up in the air and like,
-
-
-AUSTIN (as Sunder): [sigh] Fantasmo, do you have any idea?
-
-
-[NICK chuckles]
-
-
-AUSTIN: Do you have a— Give me an Intelligence roll if you want to find out, I think.
-
-
-NICK: Okay.
-
-
-AUSTIN: It's your— You're a magic theory boy, you know?
-
-
-NICK: Yeah.
-
-
-DRE: Theory boy. Who's a big theory boy?
-
-
-NICK: Um… Actually…
-
-
-AUSTIN: Unless you just have a…
-
-
-NICK: I can get a…
-
-
-AUSTIN: Yeah.
-
-
-NICK: I can get a +1 on this from my new Know It All Perk.
-
-
-AUSTIN: Sure. Ooh. 
-
-
-NICK: When another player— Oh, another player character. Okay.
-
-
-AUSTIN: Eh, this is Art's. This is part of Art's general question.
-
-
-NICK: Alright, yeah. So when someone asks me a question that no one else knows, I get a +1.
-
-
-AUSTIN: Nice. 
-
-
-DRE: Huh.
-
-
-NICK: That's still only a 9.
-
-
-AUSTIN: That's fine. [ART: Huh.] Um… You are… You know the interesting thing here is that… I mean, I guess the thing is, you get to— This is technically Spout Lore, right? Um, let me think how this should work. This is on my— This is— It should be clear, we haven't played like strict, um, you know like Dungeon World in a long time at this point so I'm a little rusty. Um, uh, you're not sure—
-
-
-NICK: So yeah, if it's a Spout Lore, then you're telling me something—
-
-
-AUSTIN: Yeah, it's something interesting but not useful. Um…
-
-
-NICK: Right.
-
-
-[ART laughs]
-
-
-AUSTIN: You know that— You know that uh, when different sorts of um… In your research, you've never done this or anything.
-
-
-NICK: Right.
-
-
-AUSTIN: But you believe that theoretically, that if two different timelines came into contact, a new third one would be created.
-
-
-DRE: Oh boy.
-
-
-NICK: Oh.
-
-
-ART: You know what would be a fun way for this game to go? You guys remember that Jet Lee move, the One?
-
-
-AUSTIN: Oh my god.
-
-
-[DRE laughs]
-
-
-ART: What if we just did that, but with Hella?
-
-
-AUSTIN: Where Hella is—
-
-
-ART: Universe Jumping Hella is trying to accumulate power by murdering each other. And we're all just horrible bystanders to her interdimensional wave of carnage. (laughing) That's what you guys want to do right now, right?
-
-
-[NICK laughs, AUSTIN, DRE sigh]
-
-
-DRE: Sure.
-
-
-ART: I think we should do it, right? That's what everyone got from that?
-
-
-AUSTIN: Yeah, uh-huh.
-
-
-NICK: That was a really good bit of a recent Fantastic Four run that had a similar thing except with Reed Richards.
-
-
-AUSTIN: Did he kill other Reed Richardses?
-
-
-NICK: He didn't but the other Reeds did, yeah.
-
-
-AUSTIN: Oh. Okay. I see.
-
-
-ART: Right, that's also—
-
-
-DRE: Do you think this is the Ultimate Hella or Earth-313 Hella that we're looking at right now?
-
-
-[AUSTIN sighs, NICK laughs]
-
-
-ART: Everyone— Oh, we're definitely— We're definitely universe 616.
-
-
-DRE: 616. That's what it was. I don't know why I had it 313.
-
-
-ART: I want to just be clear.
-
-
-NICK: 313 is exactly the same except everyone's half as tall.
-
-
-AUSTIN: Weird.
-
-
-DRE: Oh, okay. That works.
-
-
-NICK: Yeah.
-
-
-ART: A tiny town of… Uh. Anyway, yeah, I think that's a great idea. I think we should— We should go talk to Alternate Universe Hella.
-
-
-[TIMESTAMP: 0:26:45]
-
-
-AUSTIN: Okay. Well, I mean, so you step out. Who's going out of this bubble? Other than, clearly Hadrian.
-
-
-NICK (as Fantasmo): [clears throat] I will go, I suppose.
-
-
-DRE (as Throndir): [laughs] Yeah, okay, sure. Let's do this. Yeah.
-
-
-AUSTIN (as Sunder): [sighs]
-
-
-DRE: Well— [laughs]
-
-
-AUSTIN: Well, okay, so again Fantasmo's invisible, so okay.
-
-
-ART: (laughing) Yeah.
-
-
-AUSTIN: So you step outside of the bubble.
-
-
-ART: Yeah.
-
-
-AUSTIN: Hella turns and draws her sword immediately.
-
-
-ART: Yeah, it's—
-
-
-AUSTIN: From a distance. There's ten feet between you, let's say.
-
-
-ART: Sure.
-
-
-AUSTIN: Um…
-
-
-ART: I— I put my hands up. I put my hands up.
-
-
-ART (as Hadrian): Hella.
-
-
-AUSTIN: She looks at you with wide eyes.
-
-
-AUSTIN (as Hella): An apparation.
-
-
-AUSTIN: She shakes her head.
-
-
-AUSTIN (as Hella): I knew this place would be haunted.
-
-
-AUSTIN: Um, and then she looks at— at Throndir and says,
-
-
-AUSTIN (as Hella): And a snow elf. Hm. You escaped our boots? You come now for vengeance?
-
-
-ART (as Hadrian): We're— We're not here for vengeance. Do— Do you know us?
-
-
-AUSTIN (as Hella): Know you?
-
-
-AUSTIN: She sighs. And begins to walk forward, with her sword down. Um, like not— It's still drawn but it's low. Um… And as it gets closer, it begins to chant,
-
-
-AUSTIN (as the sword): Our son, our son, our son Fantasmo returns.
-
-
-AUSTIN: And at that, her eyes go wide and begins charging at you.
-
-
-ART: Oh, fuck. Um… Um…
-
-
-DRE: Bubble time?
-
-
-ART: How close are we to the bubble?
-
-
-AUSTIN: You can get back in the bubble.
-
-
-ART: Okay. Wow, this sucks. Alright.
-
-
-NICK: Really wish I had different spells prepared right now.
-
-
-AUSTIN: Isn't that always the way.
-
-
-ART (as Hadrian): I'm sorry my friend, this was a mistake.
-
-
-ART: And I go back into the bubble.
-
-
-DRE: Yeah, I'm hopping back, right in behind ya.
-
-
-AUSTIN: And… Fantasmo?
-
-
-NICK: Uh… I don't know. Fantasmo wants that sword. [DRE laughs] Like, it's like everything [AUSTIN: Mhm.]  in his being is saying, "Knock her down. Take the sword. Take the sword and jump back through the bubble." But, mmm. [laughs]
-
-
-AUSTIN: I— Listen, I'm not— Listen, this is an open-ended. I— We are, you know, we are in the woods at this point. Let's do what you think is right. You ha— Time out, here's a thing I just remember Nick [laughs] Nick hasn't heard the holiday special yet. We are— We are well established that sometimes characters do things that they think is right even though the rest of the party would like things to go a different direction.
-
-
-NICK: Right.That's (cross) Fantasmo in a nutshell, basically. [laughs]
-
-
-AUSTIN: (cross) That is— I know, I know.
-
-
-ART: I mean, you're not— If— This is nicer than stealing our universe's Hella's sword. Who knows what's up with this universe's Hella's sword.
-
-
-DRE: Yeah, apparently she likes to kill a lot of snow elves, so…
-
-
-ART: She called…
-
-
-AUSTIN: To be fair, so do you.
-
-
-DRE: Yeah. Yeah, that's right. 
-
-
-AUSTIN: That's on the docket.
-
-
-[DRE laughs]
-
-
-ART: She called— She called— She called me an apparition. I think this universe's Hella might've killed this universe's Hadrian.
-
-
-NICK: Um. What is… What is her reaction when they disappear?
-
-
-AUSTIN: This is all— We're at like a split second here.
-
-
-NICK: Okay.
-
-
-AUSTIN: Because like…
-
-
-NICK: Well can I— Can I like back up a bit —
-
-
-AUSTIN: And then wait?
-
-
-NICK: — get behind her.
-
-
-AUSTIN: Sure.
-
-
-NICK: And then just like watch her for a second.
-
-
-AUSTIN: They vanish back into the— into where you can see the bubble. Presumably, because the way the spell works, like if you've been in it, you can see it I guess.
-
-
-NICK: Mhm.
-
-
-AUSTIN: Um, and [sighs] Oh. Right. She swipes at the air with her sword and you see the bubble like, as if it were a curtain, get cut, and start to tear.
-
-
-DRE: Uh-oh.
-
-
-ART: Uh-oh.
-
-
-AUSTIN: Sunder, inside the bubble, starts to like, you know, say more words and like, Uklan Tel is like going through pouches and looking for new things to like put on the ground because that's how Semiotics works. Uh… And he's trying to— They're both like scrambling to keep this ward up.
-
-
-NICK: Wait a minute. Is— Is Hella, Kuwabara?
-
-
-AUSTIN: I don't— I haven't seen that show in forever.
-
-
-NICK: Does— Does her sword—
-
-
-AUSTIN: Right he has—
-
-
-NICK: That's for you, Keith.
-
-
-AUSTIN: You also haven't— I keep forgetting there are lots of things that Nick doesn't know because of not having heard the holiday special. One of the things that was established in the Holiday Special, is that Ordennan Metal—Which we have finally named, by the way. Ali, Hella's Player, finally came up with a name. It's Aserem—has special properties. 
-
-
-In the holiday special, Nick, there were characters who were fishing and used— had a special fishhook made of Ordennan Metal, um, so that—of Aserem—so that they could hunt something magical. Uh, Ordennan Metal, Aserum, is often used when going against opponents of supernatural or magical capabilities, because it let's say reacts negatively to them.
-
-
-NICK: Okay.
-
-
-AUSTIN: It cuts through them with ease.
-
-
-NICK: So… Is this something that would've been known at the time that I was in the university?
-
-
-AUSTIN: You had— No, absolutely not.
-
-
-NICK: Oh, okay.
-
-
-ART: It's like a new thing, right?
-
-
-AUSTIN: It's like the last fifty years, yeah.
-
-
-NICK: Right.
-
-
-AUSTIN: And not in— Like, only in Ordenna, and then bit by bit as that got out. You know, they weren't— They're— You know, what this is is, that was a fact that was always true of this metal of Ordenna. But it wasn't— It wasn't exactly clear what was happening until very recently, even for them. They knew they had really good metal. 
+AUSTIN: Sure. I’ll just tell you it works – there is… there is a lingering magic everywhere here, for miles. This is a place of great magical power, but it’s also… it’s spent a little bit. It’s like asking if there’s fire a day or two after a big forest fire died out.
 
 
 NICK: Sure.
 
 
-AUSTIN: They knew they were making swords that were really sharp and that they were winning in combat when combat happened. Um, it was only recently that they understood that, "Oh, one of the reasons that we win a lot is because we can effectively counter magical things." Um…
+AUSTIN: Like yeah, there is, still, but like, it’s also done. Like it’s also spent, in a lot of ways. And it’s strange, that feeling. But here, in this specific safe, there’s not like a font of it in this one, y’know, you’re not overwhelmed by it here, it’s that same sort of background level, um, that’s here. You do see, okay, you do see a space, there’s, you’re kind of wandering through this place, the rubble of this sort of palatial throne room, when you see that – there is a point at which it was split, it looks like it was cut in two almost, and that, that kind of… the, what’s the word I’m looking for, the edges of that wall have like an extra heavy residue of magic. So… I’m gonna mark this as part of the throne room. Uh, Hadrian and Throndir both have a question still, or a thing that they can do.
 
 
-NICK: Right. Um, okay, well. [sighs] Since I don't like her getting at— like potentially getting at my buddies.
+ART: I’m struggling… 
 
 
 AUSTIN: Mhm.
 
 
-NICK: Who, you know I— Fantasmo would never admit that they were his buddies.
+ART: Metaphysically.
 
 
-AUSTIN: Sure.
+AUSTIN: Sure. [DRE laughs] That’s a thing to do for sure.
 
 
-NICK: If he were asked, his idea would be, (in Fantasmo's voice) "It did not seem strategically sound to let her attack my bodyguards."
+ART: Like, I... I can’t decide how true I think this is.
 
 
-[AUSTIN, ART laugh]
+AUSTIN: Don’t you have a thing for that? Or do you not have that anymore.
 
 
-ART: Yeah, well.
+ART: Um… I think I never had that. 
 
 
-NICK: So I'm gonna uh, try to cast Dispel Magic, which is a new spell I got.
+AUSTIN: You didn’t have a thing that was like… what’s the thing I’m thinking of, then?
+
+ART: There was that spell about… about guidance, right?
 
 
-[TIMESTAMP: 0:34:30]
+AUSTIN: Yeah… I thought that that… Yeah, I guess so. Maybe it was somebody else’s thing, that was like – what here isn’t real?
 
 
-DRE: Ooh.
+ART: That’s not me.
+
+AUSTIN: No, that wasn’t you.
 
 
-AUSTIN: Mmm.
+[loud noise]
 
 
-NICK: And I'm going to try to dispel the whole effect.
+ART: One of my rotes is that I can –
 
 
-AUSTIN: (muffled) Okay.
+AUSTIN: Whoa, is everybody okay?
 
 
-NICK: I don't know if that's too big?
-
-
-AUSTIN: I think you should roll it.
-
-
-NICK: Okay.
-
-
-AUSTIN: There— There are ways for this to be interesting.
-
-
-DRE: Wait, are you trying to dispel the bubble or you trying to dispel like this whole alternate reality that we're seeing?
-
-
-NICK: Yeah, I'm trying to dispel that because Austin said that that was magical.
-
-
-AUSTIN: It is.
-
-
-ART: Yeah.
-
-
-AUSTIN: He's not wrong.
-
-
-ART: Dispel that. That'd hat'd be great.
-
-
-AUSTIN: Let's give it a roll.
-
-
-DRE: Jesus Nick. [laughs]
-
-
-NICK: What? 
-
-
-ART: The most interesting—
-
-
-AUSTIN: Do the roll. Do the roll.
-
-
-ART: No, I'm super excited for this.
-
-
-AUSTIN: Me too.
+NICK: Yeah, sorry.
 
 
 DRE: Yeah.
 
 
-AUSTIN: This— I don't care what the roll is. Any way it goes is a good roll.
+AUSTIN: Okay. No, it’s fine.
 
 
-NICK: 9.
-
-
-AUSTIN: Okay. Which means you basically succeed but you draw— you pick one of those things, yeah. 
-
-
-NICK: I'm gonna— I'm gonna forget the spell.
-
-
-AUSTIN: Okay.
-
-
-NICK: Even though that's not the most fun thing to do. [laughs]
-
-
-AUSTIN: No that's fine. You cut— She— She, at this point looks in and makes eye contact with the people in the bubble as you're preparing this spell. She cuts like the— Again the hole in the bubble, reaches out with her gauntlet, grabs it and tears it, just as your spell goes off. Like she's ready to jump into this bubble when you launch— What's this spell look like?
-
-
-NICK: Um, it looks like a…
-
-
-AUSTIN: Like what's your— What do you do to do it?
-
-
-NICK: Um, I uh… Well, I mean, no one can see Fantasmo right now but I— [AUSTIN: Yeah.] I actually kneel down and I like put two fingers between my eyes and uh, I— I'm mumbling some magic words that you know [AUSTIN: Sure.] are mostly indecipherable. 
-
-
-AUSTIN: Mhm. 
-
-
-NICK: Um, and then I tap my staff and when I tap my staff on the ground, it sends out a ripple.
-
-
-AUSTIN: Okay.
-
-
-NICK: From— From where my staff hit. And as the ripple moves outwards, it just washes away everything.
-
-
-AUSTIN: Okay. It hits Hella's f— Well, it immediately hits the ground as it moves outward and it uh… 
-
-
-NICK: Right.
-
-
-AUSTIN: The ground beneath your feet changes form this kind of polished stone 'cause you're out on this balcony [NICK: Mhm.] to old ruined rock. The vision that you see to the west changes back to the woods as they were. Um, once, when you traveled through them. And from this height, because you are still, at this moment, high up in the air, uh, you can still see Velas, way off in the distance [NICK: Mhm.] where the ocean hits the end of the continent. 
-
-
-It moves over. It envelopes Hella or rather Hella is erased from existence just before she jumps into the bubble. And then that effect continues throughout this space and you realize that a tower that was once standing is now… in the middle of falling again. Um, the walls start to shake and crumble. The floor tilts and gives way. Sunder drops her shield and shouts,
-
-
-AUSTIN (as Sunder): We have to get out of here now.
-
-
-AUSTIN: I— I—
-
-
-ART: Great.
-
-
-NICK: Wait a minute.
-
-
-AUSTIN: I think we're gonna need…
-
-
-NICK: What's— What's falling?
-
-
-AUSTIN: The place you're in.
-
-
-NICK: Oh, so the other dimension version of this tower.
-
-
-AUSTIN: No the other— Right, the other dimension is being— is being replaced with— You erased what was here.
-
-
-NICK: Right.
-
-
-AUSTIN: But what was here was another dimension. The whole thing.
-
-
-NICK: Yeah.
-
-
-AUSTIN: And so now, you're kind of rebuilding a falling tower which was, what it was before it was this.
-
-
-NICK: Okay.
-
-
-AUSTIN: So now you're in this bit of the tower as it's crumbing to the ground, instead of being frozen in time [NICK: [laughs] Okay.] and locked into a different timeline. Do you see what I mean?
-
-
-NICK: Sure. Uh-huh.
-
-
-AUSTIN: Like, "Oh, right, gravity exists."
-
-
-NICK: Uh-huh.
-
-
-AUSTIN: Because that's at the point at which you freeze— they froze this. So I think we're gonna need some Defy Danger rolls to get out of this. 
-
-
-DRE: Yeah.
-
-
-ART: Yeah, that sounds appropriate. What— What kind of Defy Danger rolls do you think these are?
-
-
-AUSTIN: This is probably…
-
-
-DRE: Getting out of the way or acting fast? 'Cause yes.
-
-
-AUSTIN: Yeah, I think so. I think that's Dex.
-
-
-NICK: Yeah.
-
-
-AUSTIN: And I think— I think— Yeah, I think that's what we need here.
-
-
-ART: I can't just ignore it? Just like…
-
-
-AUSTIN: Oh shit, I forgot one thing! I forgot one thing. Important thing.
-
-
-ART: Yeah.
-
-
-AUSTIN: Uh…. You'll notice it later, don't worry.
-
-
-DRE: Okay.
-
-
-AUSTIN: We'll move, we'll move.
-
-
-DRE: Oh no!
-
-
-AUSTIN: Woof.
-
-
-NICK: Oh no.
-
-
-ART: So you're not taking— taking justifications for other rolls? Fair enough.
-
-
-AUSTIN: Uh, what's your justification for escape? What's your justification?
-
-
-ART: I could just endure it. I could just like, survive it.
-
-
-AUSTIN: I mean, you can, but that means you'll take damage.
-
-
-ART: Or I could Strength through it. I could just like, run through the wall.
-
-
-AUSTIN: Just roll Dex.
-
-
-ART: I do.
-
-
-AUSTIN: Oh my Jesus Christ.
-
-
-ART: Oh, gross. Okay. 
-
-
-DRE: Well, it was nice knowing you, Fantasmo. Carry on our legacy.
-
-
-[NICK laughs]
-
-
-ART: Well I also messed it up. Uh…
-
-
-DRE: I know.
-
-
-AUSTIN: Alright, um. Fantasmo. Um, jeez, okay. [sighs] Man, those are some rolls you all got, huh.
-
-
-DRE: Mhm.
-
-
-AUSTIN: I'm gonna need more tokens. Um, let's see… Let's…
-
-
-ART: Are you asking for a bribe?
-
-
-AUSTIN: Yeah. Listen. I need you to— What's it worth to you that you don't die? [ART, NICK laugh] You know, I'm just asking questions. Um…
-
-
-NICK: As uh— As things start crumbling down around everyone, um, Fantasmo, like I don't know if he's successful yet —
-
-
-AUSTIN: He's successful.
-
-
-NICK: — But he starts running past everyone and he just shouts,
-
-
-NICK (as Fantasmo): Maybe that wasn't tactically sound.
-
-
-[DRE laughs]
-
-
-AUSTIN: Um…
-
-
-ART: I mean, I think that's interesting philosophical question is did Fantasmo just kill everyone in that dimension?
-
-
-AUSTIN: Yes, he did.
-
-
-NICK: Wh-Woah.
-
-
-AUSTIN: Um…
-
-
-NICK: Really?
-
-
-AUSTIN: Yeah, dog. Um… So…
-
-
-[DRE, ART laugh] 
-
-
-NICK: I thought I was just going to close the window.
-
-
-AUSTIN: There wasn't no— The magical thing was the dimension.
-
-
-NICK: Oh dear. Okay. 
-
-
-AUSTIN: Um…
-
-
-ART: Dimensional genocide.
-
-
-AUSTIN: So Fantasmo… 
-
-
-DRE: So that happened, right.
-
-
-AUSTIN: Okay, you're all like running through this place and it's weird because— It, you know, the layout is completely different than what it was under the effect of this magical space. Or this other, this kind of like, dimensional rupture. And as you are running, you— First of all, each of you winds up separate from each other. Um, you know, Throndir's like, "Oh this is the way I have to go," and you're running. You know, Hadrian is like maybe chasing after him and then a wall falls and separates the two of you. The whole place is crumbling around you. Um, Fantasmo, you manage to find the way out. Um, but you're invisible at this point I, you know, remind you. You— Behind you are Uklan Tel and Sunder Havelton and because they can't see you—
-
-
-NICK: Wait actually I think— No, I'm pretty sure I have to dispel Invisibility to cast another spell.
-
-
-AUSTIN: Oh, do you? Okay. Is that how that works?
-
-
-NICK: Yeah. 
-
-
-AUSTIN: Okay. So you're not invisible at this point. Um, double check that for me. I'm pretty sure you're right.
-
-
-NICK: Yeah.
-
-
-AUSTIN: Okay.
-
-
-NICK: "While the spell's ongoing, you can't cast another one."
-
-
-AUSTIN:  That's fair. Okay, so you dispelled invisibility at this point. 
-
-
-NICK: Mhm. 
-
-
-AUSTIN: Okay, so… I have to give you a different hard choice. Um, okay, then this is the hardest…
-
-
-NICK: I mean, if it could be— Like it could be a lingering effect from it.
-
-
-AUSTIN: Sure. I think this is interesting for me.
-
-
-NICK: Okay.
-
-
-AUSTIN: I think this is interesting to happen here. But, I could also see you wanting to argue against it, you know um, which is, because you were invisible, you get out, but they don't see you. And you know that they get left behind because you were invisible.
-
-
-NICK: Okay.
-
-
-AUSTIN: If you— If you would've led them out, instead of protecting your own safety, you know that they would've made it, and are instead lost in here now. Um… God, you… Give me— Going to roll damage for— for Throndir and— and uh, Hadrian. Here's Hadrian. Ah, that's alright. And here is Throndir. Man.
-
-
-DRE: Oh, okay.
-
-
-AUSTIN: Man. Low rolls. 2, 3 damage each.
-
-
-ART: Well, for having a building fall on us —
-
-
-AUSTIN: Well, you know.
-
-
-ART: — that's about as well as you can hope for.
-
-
-AUSTIN: That's one of the effects of the building falling on you. The other is that one, you don't get to go back to— I guess this is now Throndir, um, or not Throndir, sorry, Fantasmo. Oh, god we're gonna need more tokens on this map. Um… Actually let's make this—
-
-
-NICK: Can add the Player Tokens.
-
-
-AUSTIN: Yeah, we could do that. [pause] God, I don't know where they went is the problem?
-
-
-NICK: Oh.
-
-
-AUSTIN: I don't know— I think those are on the previous, on a different map so they didn't stick, you know. Um…
-
-
-NICK: Oh. Wait, you can't—
-
-
-AUSTIN: I didn't assign—
-
-
-NICK: — attach one. Oh.
-
-
-AUSTIN: You can, you can totally assign them to the characters. I never— I don't think we ever did that, I think we just used— attached them on the field for that one [NICK: Sure.] thing. Um… One second. 
-
-
-NICK: Roll20 —
-
-
-AUSTIN: Yeah.
-
-
-NICK: — dot-net.
-
-
-AUSTIN: It's cool. It's a cool thing.
-
-
-NICK: It's cool. It's cool.
-
-
-AUSTIN: Um…
-
-
-NICK: I'm glad it exists.
-
-
-AUSTIN: Me too. Oh, oh, wait. I'm back. I'm back. Let's give this cool thing to— Where that go? Come on. Come on. There it is. See that little blue thing? Little blue mark?
-
-
-NICK: Yup.
-
-
-AUSTIN: That's Fantasmo.
-
-
-NICK: Okay.
-
-
-AUSTIN: The square with the sun is Hadrian. Um… And let's go with that. I want a quiver or something. Yeah.
-
-
-DRE: Is there just an arrow or something?
-
-
-AUSTIN: Yeah, there are arrows but they're really hard to see. That's weird, here's a quiver.
-
-
-DRE: Okay.
-
-
-AUSTIN: Um, let's put you… You are here. Um, so you all make your way out, separate from each other with no knowledge of where the others are. Also, um, by the time Throndir and Hadrian get out, it's been a day. So let's go back to Fantasmo. Um, what do you do, when you make it out of this crumbling mess?
-
-
-[TIMESTAMP: 0:46:10]
-
-
-NICK: Uh… So — 
-
-
-AUSTIN: Everybody's gone.
-
-
-NICK: — nobody got out with—
-
-
-AUSTIN: No, nobody got out.
-
-
-NICK: Including uh…
-
-
-AUSTIN: Including Sunder and including Uklan, and including Fantasmo— Or sorry— including Hadrian and including Throndir.
-
-
-NICK: Hm.
-
-
-AUSTIN: Your invisibility servant did, (laughing) who is carrying your books.
-
-
-NICK: [laughs] Well that's good. Uh… Jeez, um…
-
-
-ART: Just spend a day exploring without us.
-
-
-NICK: Is it— I mean…
-
-
-AUSTIN: You— So it's, at this point, it's like sunset. You spent a full day exploring this place. Uh, you can get back to the campfire if that's what you want to do, so you can rest and get your spells back, or you could not do that. It's up to you.
-
-
-NICK: Gosh, I don't know. I think— Alright, so I don't think Fantasmo would make a good decision here.
-
-
-AUSTIN: Sure.
-
-
-NICK: Because he's not used to caring about people, period.
+ART: (unintelligible) Guidance, a symbol of my deity appears before you and gestures towards a direction or course of action your deity would have you take and disappears.
 
 
 AUSTIN: Right, right.
 
 
-NICK: Uh, and he— he doesn't really know what to do about this thing that is entirely his fault.
+ART: That’s isn’t, that’s not.
+
+
+AUSTIN: Nah, that’s not this.
+
+ART: ‘Cause like… Ugh. If you have yours, Throndir, you can go, um, [DRE laughs]
+
+
+AUSTIN: Uh-huh?
+
+
+ART: I’m gonna have trouble.
+
+
+DRE: Yeah.
+
+
+AUSTIN: That’s fair.
+
+
+DRE: I guess, Throndir’s still trying to figure out what connection this tower and the fall of the tower has to do, like, with his people and the breaking of their relationship with the goblins, so is there anything in this throne room, like any symbols or items or materials that look even remotely familiar or connected to him?
+
+
+AUSTIN: No. Nothing here.
+
+
+DRE: Yeah, I didn’t think so.
+
+
+AUSTIN: No. Also, Hadrian, I was thinking of “senses that pierce lies”, which is one of the things you could have taken as your quest power.
+
+
+ART: Oh, yeah.
+
+
+AUSTIN: That’s what you used to have. Now you have… the cold thing, right?
+
+
+ART: The cold thing and the –
+
+
+AUSTIN: No eating.
+
+
+ART: Yeah.
+
+
+AUSTIN: Don’t need to eat. Yeah. And reminder to people listening, to keep those powers Hadrian has taken vows of valor and hospitality, the vow of valor says that he is forbidden to suffer an evil creature to live, and hospitality says comfort those in need no matter who they are.
+
+
+ART: I guess, I guess, I wanna – what here is evil?
+
+
+DRE: Yeah.
+
+
+ART: In this room.
+
+
+AUSTIN: Nothing.
+
+
+ART: I mean then… My gut instinct was… so there’s this throne here, yeah? There’s chairs here?
+
+
+AUSTIN: The throne... is not here.
+
+
+ART: Oh. That’s a shame.
+
+
+AUSTIN: It is.
+
+
+ART: I had a thing.
+
+
+AUSTIN: Yeah. We’ll get there. We’ll get there. [DRE laughs]
+
+
+ART: Yeah, I’m sure. Um… Are there meaningful relics in this space? 
+
+
+AUSTIN: Yeah. Yeah. Definitely. Um, you’d have to…
+
+
+ART: Something… (unintelligible)
+
+
+AUSTIN: You would have to scavenge, you would have to use the move I mentioned before, search and scavenge, to actually get something. But this is definitely the sort of place where you could do that. Um… And that is, I have that as 2d6 + Wisdom, I think… I think wisdom is right, because you’re searching for stuff. Yeah. I think that’s right.
+
+
+ART: (unintelligible)
+
+DRE: Can I, uh, aid on this roll at all?
+
+
+AUSTIN: Yeah, totally, how are you helping him?
+
+DRE: Uh, well, myself and Kodiak, who is trained with keen senses, would ask Art, y’know, what are you looking for, what can I help you find, are you looking for a certain symbol, a certain type of object?
+
+
+ART: I’m looking for something that would reveal the truth of this place. There’s too much here that I don’t…
 
 
 AUSTIN: Sure.
 
 
-NICK: And has trapped the only people that he can maybe sort of call friends in the whole world.
+ART: That I don’t understand.
 
 
-AUSTIN: Yeah, it's a tough situation. It's a tough situation.
-
-
-NICK: So, I mean… I think he's gonna turn around and go back in there.
-
-
-AUSTIN: Um, okay. Uh…
-
-
-NICK: He's gonna— I'm gonna cast Light.
-
-
-AUSTIN: Okay.
-
-
-NICK: Cast my light Cantrip so I can, you know, see where I'm going.
-
-
-AUSTIN: So the way Cantrips work in this is that you still roll for it but you don't have to memorize it, right?
-
-
-NICK: Yeah. So I rolled an 8.
-
-
-AUSTIN: Okay. What are you taking? What's your… your… effect?
-
-
-NICK: [popping noises] I'll forget it.
-
-
-AUSTIN: Okay. Bit by bit…
-
-
-NICK: 'Cause it's just, you know.
-
-
-AUSTIN: Yeah, it's just light.
-
-
-NICK: Trudging forward.
-
-
-AUSTIN: Yeah. What's your light ball look like again?
-
-
-NICK: Uh.
-
-
-AUSTIN: Is it just that floaty ball of light? Is it just that traditional…
-
-
-NICK: No, it's coming out of the top of my staff, like Gandalf style.
-
-
-AUSTIN: Right, right. Um…
-
-
-ART: Something interesting, and not for now, is that I now also now have access to a Cantrip Light spell [AUSTIN: That's useful.] and how those are different might be…
-
-
-AUSTIN: Yeah, that could be interesting, sure.
-
-
-DRE: I have a torch, uh, you know. 
-
-
-[ART laughs]
-
-
-NICK: Is it a magic torch?
-
-
-DRE: No it's just my regular torch. It's part of my adventuring gear.
-
-
-AUSTIN: Alright, you are… You find your way back in and uh… are you there?
-
-
-NICK: Yup, woah.
-
-
-AUSTIN: I heard a weird Skype sound, sorry.
-
-
-NICK: No problem.
-
-
-AUSTIN: I'll just make I'm still recording still. It's fine. Um, so you make your way back in, um and… You spend hours looking through this— this rubble, trying to hear something or someone.
-
-
-NICK: Mhm.
-
-
-AUSTIN: And we're gonna leave you there for a second. That's where you're— That's what you've committed to do for the next turn.
-
-
-NICK: Okay.
-
-
-AUSTIN: Hadrian—
-
-
-NICK: So did we decide, am I still invisible? At this point?
-
-
-AUSTIN: At this point you're not, no.
-
-
-NICK: Oh, okay.
- 
-AUSTIN: At this point you've un-invisibled, let's say. I mean, especially after what happened there, right? Uh… Okay. 
-
-
-NICK: Right, yeah. That would've destroyed all of his concentration so…
-
-
-AUSTIN: Right, exactly. Um, okay so… That should be map layer, I guess. Ope, nope, no it shouldn't I guess. What the fuck? Whoops. Sorry, Roll20 is rough sometimes. Hadrian.
-
-
-[TIMESTAMP: 0:50:27] 
-
-
-ART: Yo.
-
-
-AUSTIN: You have found your way— You kind of stumble out of the wreckage of this one— this one sector into the very like, very like entrance of this next one. Um, kind of ignore the map here, but there's this empty gap, the two kind of combined. The one that says Ordennan on it has now kind of slammed into the one that doesn't have a name. The one that's name I almost read out loud. Um… Uh…
-
-
-ART: The secret murder box? Oh.
-
-
-AUSTIN: The secret— Right. Welcome to secret murder box. It's an actual play podcast.
-
-
-DRE: Actual murder podcast.
-
-
-AUSTIN: Actual murder podcast, exactly. Okay. So… you are in… You know, you're in kind of a nice— It's almost like— I guess you've never seen a hotel lobby before. Um, it was the other game that had a hotel lobby. Uh, it is a— there's a room with a um, couple of couches around a table. They don't look very comfortable. There's a long wooden— I guess desk, but like so long it's hard to even identify it as a desk. Um, with a bunch of strange cubbyholes behind it. Um, there are uh… there's a candelabra hanging from the ceiling, with lit candles. Uh, and the floor has a kind of deep red carpet with some stains on it and some gold trim. Um, the room is kind of red and brown and gold and there are some mirrors in weird places that really don't— like, not very useful reasons, I guess for aesthetic reasons but it's just confusing. Um…
-
-
-ART: Okay.
-
-
-AUSTIN: There is a door that is closed to your left. Um, with— You know those door handles that have, you know, not levers but they're like long— They're like long door handles, do you know what I mean? With the little curve at the end.
-
-
-ART: Oh, sure.
-
-
-AUSTIN: Like a line, but you know. Like kind of a fancy door handle, that are— that are—
-
-
-ART: Oh the kind that turn or the kind that you just push?
-
-
-AUSTIN: The kind that turn. You turn them.
-
-
-ART: Okay.
-
-
-AUSTIN: You reach, you grab it, you grip the whole thing in your hand. You close your hand around them and then you turn. Um…
-
-
-ART: Okay.
-
-
-AUSTIN: Uh, with a— I know— [ART: Oh, you're like—] Welcome to Friends at the Table. We talk about door handles.
-
-
-ART: We just describe door handles in excruciating— "Close your hand?"
-
-
-AUSTIN: I don't know why anyone listens to us. Um… Jeez. 
-
-
-[NICK, ART laugh]
-
-
-DRE: Oh boy.
-
-
-AUSTIN: So, um, and then in front of you— So that's over to your left. Those— Two of those doors closed and then in front of you is um, a— kind of big open set of doors that lead to a staircase going up. It's faint at first, but you can hear it to your left. A familiar rhythm. Uh, dede-de dede-da dede-de dede-da dede-de dede-da. Um, you've heard this song somewhere.
-
-
-ART: Oh?
-
-
-AUSTIN: Maybe in a different tower.
-
-
-ART: Yeah. Yeah, probably.
-
-
-NICK: What's the door handle made of? Like what— Can I turn the little arrow on the Nested here?
-
-
-AUSTIN: Yeah, yeah. That's great.
-
-
-NICK: What's the— Can we look at the atoms?
-
-
-AUSTIN: [laughs] What is the door handle thinking? Everyone should go play Nested. Nested is a great game. Do a google for "Nested game."
-
-
-NICK: Yeah.
-
-
-AUSTIN: Throndir, just gonna set the stage here. Um…
-
-
-NICK: Is there another Fantasmo inside that door handle.
-
-
-AUSTIN: It's really funny you would say that. For reasons that we'll get to shortly.
-
-
-NICK: [laughs] Oh. Okay. Um…
-
-
-AUSTIN: Um, Throndir, you similarly wind up in this other space here.
-
-
-DRE: Okay.
-
-
-AUSTIN: This kind of um… So again to kind of paint the picture for people who are watching. They were in a big— On the map, they were in kind of a big grey block that was part of this fallen tower. Hadrian has fallen northwest into another block. Uh, Throndir has fallen southeast into the— into another block and that block is kind of split into two and he's in the northeastern half of this other block. Um, there are also some other little blocks that are kind of in between some of these places, and none of them are in those. [sighs] 
-
-
-This place is the most decadent shit you've ever seen. [DRE laughs] And unlike before, you are not in any sort of protective bubble that keeps the things that are happening here from affecting you or from noticing you. Um, this is a collection— again, part of the way we're doing this is that I'm kind of giving a snapshot of this space because each one of these spaces is massive. 
-
-
-Right, like this tower was a massive metropolis, standing from bottom to top. So each of these is like a huge chunk of that city. So I'm only giving you snapshots, I'm not giving you like, "Oh, and then you—" So you're walking through this space which is a collection of kind of townhouses built floor to ceiling.
-
-
-DRE: Mhm.
-
-
-AUSTIN: Like, without any roof or like the roof is the ceiling. Um, stores, nice cobblestone streets. Um, there are people here. People who… a number of different races but more elves than anything else. There are lots of little— You think, you know, having spent some time in Velas, you think that they're stores at first, but you realize there aren't any— there aren't any like, registers. No one's working a desk to charge anyone for anything. Everything is just like— They're kinda like stockpiles of things ranging from like cloth to books to, you know, little ball bearings. Just a million different stores for a million different things. 
-
-
-There's a nice indoor park. And a couple of places you notice, a strange symbol um. It's three consecutive vertical lines, each a little bit taller than the last. Um… You haven't seen this yet. You don't remember this because you didn't— Or you don't know this because you didn't meet Gregalos. This is, for listeners of Friends at the Table, the symbol that was on the ring that Gregalos had.
-
-
-DRE: Hmm.
-
-
-AUSTIN: This is the symbol of the Disciples of Fantasmo. Boy, who wants to go first? Um… I think…
-
-
-[TIMESTAMP: 0:57:49]
-
-
-ART: Well, Nick is like—
-
-
-AUSTIN: Fantasmo, yeah…
-
-
-ART: Or Fantasmo is behind— ahead of us?
-
-
-AUSTIN: Oh right, he's ahead of you. Yeah, yeah— No, he's behind you. Yeah, yeah, you're right. He's behind you because you have already gone though the night. Fantasmo, I think give me a Search and Scavenge roll and one of the things you'll be able to find is like, people, and I think that makes the most sense, which is a Wisdom Roll.
-
-
-NICK: Okay. 7.
-
-
-AUSTIN: Okay, so you can choose one. Something to eat, a useful tool or weapon, useful information for long lost knowledge, medical supplies or a person.
-
-
-NICK: Um… I— Well I'm looking for my friends so I'm —
-
-
-AUSTIN: Yeah, you're looking for your friends.
-
-
-NICK: — so I'm gonna— I'm gonna choose…
-
-
-AUSTIN: You're gonna choose—
-
-
-NICK: Oh, right, okay.
-
-
-AUSTIN: Choose a person and then— and then I'll roll 1d2 and we'll figure out which of the two people it is that's still in this block.
-
-
-NICK: Oh, gotcha, okay. I didn't think it was gonna be… I was going to pick info 'cause I thought I was going to have to hunt for… tracks or…
-
-
-AUSTIN: Oh, no, no, I'm just saying you're just going to get one of them. You know.
-
-
-NICK: Uh, yeah, yeah. People.
-
-
-AUSTIN: That seems like the quickest way to do this so we can keep rolling. Um…
-
-
-NICK: Right.
-
-
-AUSTIN: If it's a 1 it's Sunder, if it's a 2, it's Uklan. It's Sunder, okay so I think you find her in a space um, that is all but collapsed. Um, and she has managed to reverse the polarity on the spell that she had up before.
-
-
-NICK: Mhm.
-
-
-AUSTIN: So that instead of being separate from the— that other world, she has now— she is now holding the last of that other dimension and it's— She's in that dimension, do you know what I mean?
-
-
-NICK: Jeez. Yeah.
-
-
-AUSTIN: Um, and she sees you and you're able to guide her out of the— this kind of Ordennan block to where the exit is. 
-
-
-NICK: Mhm.
-
-
-AUSTIN: Um… And she steps outside and closes that dimension behind her and that whole dimension is now gone.
-
-
-AUSTIN (as Sunder): [sighs] Thank you. I— You're getting soft, old man. In the old days, you never would've come for me like that. You'd been off in some tower, reading books. You read a book to make you a little more courageous?
-
-
-NICK (as Fantasmo): I uh…
-
-
-DRE: (laughing) Woah.
-
-
-NICK (as Fantasmo): Um… [clears throat] It seemed like the best course of action to stay together.
-
-
-AUSTIN: She rolls her eyes and punches you in the shoulder.
-
-
-[NICK laughs]
-
-
-AUSTIN (as Sunder): So did everybody else get out?
-
-
-NICK (as Fantasmo): I… don't believe so.
-
-
-AUSTIN (as Sunder): Okay. Alright, let's go back to the camp for the night and we'll come back tomorrow and we'll see what can be done. I don't know about your— your guys but Uklan's a pro. I have no doubt that he's doing fine.
-
-
-AUSTIN: She says it in a way that, you know, she's very much not sure she's doing— or he's doing fine.
-
-
-NICK: Yeah.
-
-
-AUSTIN: Hadrian.
-
-
-NICK: She's convincing herself as much as me.
-
-
-AUSTIN: Yes. Yes exactly. So let's slide you back down. Hadrian.
-
-
-ART: Yeah.
-
-
-AUSTIN: What do you do in this space? I guess again I should ex— I should explain what this space is. Um… I guess pick a direction. One of these two directions and then we'll roll it from there. Do you want to open that door with the waltz going on behind it or do you want to go up the stairs?
-
-
-ART: Um… I mean, I will just butcher a room full of books right now. I'm not even messing around. [laughs]
-
-
-AUSTIN: [laughs] I don't know. Do you remember what happened in that room full of books? That almost went real bad for y'all.
-
-
-ART: I choose not to remember it that way. I choose to remember that I was on the verge of butchering that room full of books, [DRE laughs] and I'm not even sure there's a room full of books behind that door. It could be anything.
-
-
-[AUSTIN sighs]
-
-
-NICK: You just want to— just want to kill some books 'cause that's the symbol of Fantasmo, is it?
-
-
-[AUSTIN, NICK laugh]
-
-
-ART: They only got mad 'cause we were making noise in the library. That might not even be a library back there. That could be anything.
-
-
-AUSTIN: This is true. Also yeah, you're right. Fantasmo would be a book. I'm going to delete this magical circle and replace it with a book. [NICK laughs] Obviously.
-
-
-ART: I mean, either way, I realistically think I could probably peek in that room. And if it's a library full of crazy silence obsessed books, I could probably go do something else. [AUSTIN: Mhm.] I could just turn around and walk the other way.
-
-
-AUSTIN: Okay, so you go— Is that what you do?
-
-
-ART: Yeah.
-
-
-AUSTIN: Okay.
-
-
-ART: My feet go both ways.
-
-
-AUSTIN: So you go and you peek in it is definitely a room filled with books. I should paint a different— It's definitely a room filled with dancing books. And you're like, "I'm gonna turn around and go the other way." And when you turn around to go the other way, you're not in a hotel lobby anymore. Now you are in a um, another long corridor on a higher level of a tower. Uh, but this time, it is filled with snow elves, running to and fro.  The whole thing shakes every few seconds as if it is assaulted by something massive. You see— You see men and women taking up bows and firing them down below from a number of outcroppings on edges of the buildings.
-
-
-ART: Do I recognize any of these snow elves? Are these the snow elves from before or are these just—
-
-
-AUSTIN: I mean, how closely did you look— Yeah, sure. Yes. Sure. The dude who arrested you, is definitely among these snow elves.
-
-
-ART: That motherfucker.
-
-
-AUSTIN: He shoots you a glare and you like match eyes with him for half a second. And then you look around and suddenly you are back in the— in the library, arm in arm with books which are dancing around. One of the books has a different— has like a pamphlet on its book face as if it's a masquerade mask. Um…
-
-
-ART: [laughs] Oh…
-
-
-AUSTIN: They dance with you for a number of— for minutes and minutes and you can't like pull yourself away. And one of them dips you and when you come back up, you're back in the hotel lobby, standing in front of the mirror, and you are a young, beautiful, blond mare. Uh, man. Not mare. Not a mare!
-
-
-ART: (laughing) Not a mare.
-
-
-AUSTIN: You're not—
-
-
-DRE: Pretty pony…
-
-
-ART: Am I a horse?
-
-
-AUSTIN: You're a horse. You're a horse.
-
-
-DRE: A pretty pony.
-
-
-AUSTIN: And then you neigh for half a second. Oh, okay. You're a young and beautiful blond man. You find yourself smoking— smoking? God— smirking. Words are hard, y'all. You feel yourself smirking, looking into the distance, past something. You recognize this face, this face that is now yours for this moment. You recognize it as the young boy king, Samot.
-
-
-ART: Yeah.
-
-
-AUSTIN: And then a moment later, suddenly, you're in a massive state funeral. No, now it's not a state funeral. Now it's just a funeral. It is raining and people are wailing. There are names being read, one after another, the names of the dead. You don't recognize any of them but the place you are in, of all the places you've been so far, feels the most alive. It is the one that feels the most… Uh, what's the word I'm looking for. It feels the most, not visceral. Like physical.
-
-
-DRE: Tangible?
-
-
-AUSTIN: Tangible, thank you. And then you are in a desert. You are in the middle of nowhere and every step you take, seems at first to take you nowhere at all, just goes and goes. And then your steps gain distance, somehow. Each step you take travels— makes you travel a little bit further than would be realistically possible. And you can just barely make out the oasis in the distance. And when you reach it, it's the campfire. You're back.
-
-
-ART: That's weird.
-
-
-AUSTIN: Pretty weird.
-
-
-ART: That's some weird stuff that just happened.
-
-
-AUSTIN: Uh-huh.
-
-
-NICK: It's cool though.
-
-
-AUSTIN: It's pretty cool.
-
-
-ART: Pretty cool.
-
-
-AUSTIN: This brown book instead if that's okay. Throndir.
-
-
-ART: Glad we got to the bottom of what color book Fantasmo is.
-
-
-AUSTIN: [AUSTIN, NICK laugh] Listen we all have our— our interests. Mine are, what color of book would Fantasmo be [DRE laughs] if he were a book? Let's mark that. Sorry. Bring this back into the regular thing.
-
-
-NICK: Also, now I totally have Every Breath You Take in my head because of all of the steps that— every step that Hadrian took.
-
-
-AUSTIN: Right. And because Sting. Again.
-
-
-NICK: Every— And because Sting. Yup.
-
-
-AUSTIN: The one— The one where Sting is the name of this episode.
-
-
-[NICK laughs]
-
-
-DRE: This episode is brought to you by Sting.
-
-
-AUSTIN: [sighs] Alright, Thr—
-
-
-ART: Does he have a new album coming out? He's a great musician.
-
-
-AUSTIN: You guys heard the new Sting? Hey everybody, if you go to sting.com, use the promo code, "FriendsAtThe" we couldn't get "FriendsAtTheTable," it was too long, but just use, "FriendsAtThe" [NICK laughs] you'll get a ten percent discount on the new— There's not— That's not. Wait, one second, I have to go to sting.com and make sure it's not gross.
-
-
-NICK: No, it's— it's Sting's website.
-
-
-AUSTIN: Oh, he's starring in a play. They have a musical.
-
-
-ART: Oh, I bet that's great. I bet he's talented at everything.
-
-
-AUSTIN: The Last Ship, it's called.
-
-
-ART: That's a terrible name. I mean I love Sting, please send us money.
-
-
-NICK: I like his scruffy old bold Sting beard, though.
-
-
-AUSTIN: Yeah.
-
-
-NICK: It's good.
-
-
-AUSTIN: That's a good look.
-
-
-NICK: Good look.
-
-
-AUSTIN: Oh, he wrote the music and lyrics to the Last Ship.
-
-
-DRE: Ooh.
-
-
-NICK: Oh.
-
-
-ART: Oh, that—
-
-
-AUSTIN: And the— What? Wait. The new musical… duh-duh-duh…
-
-
-ART: They use Message in a Bottle?
-
-
-AUSTIN: Oh, they better, right? No, they don't. Bye. I'm closing this window. [ART, NICK laugh] Throndir.
-
-
-[TIMESTAMP: 1:07:47] 
-
-
-DRE: Yup.
-
-
-AUSTIN: Based on what you saw before, you can now kind of understand this space is… again, looking into a different dimension.
-
-
-DRE: Okay.
-
-
-AUSTIN: But again, unlike before, people are taking notice of you, a little bit uh… a little bit cautiously. They aren't— You don't ever see another snow elf here, so you are kind of one of a kind, uh but, no one is like aggressively coming after you.
+AUSTIN: Um, you… So go ahead and roll that aid, which is 2d6+1, I think, Andrew?
 
 
 DRE: Yeah.
 
 
-AUSTIN: Um, there are— There are, every few blocks, so to speak, of this big open… Again, I'm trying to paint the picture of a kind of upper— upper class neighborhood of like you've never seen before, but it's still all indoors. So it's kind of a weird amalgamation of— it feels a little cramped no matter what, because there's a ceiling. And it doesn't matter how many clouds you paint on the ceiling, it's still a ceiling. Um, though I guess, in this— in this quarter more than any other, they have the ability to make that a little more interesting. So yeah, let's say actually, it's clear that there are still clouds painted on the ceiling here. [DRE laughs] This is a fake sky, but they like move in real, realistic ways. 
+AUSTIN: Throndir.
 
 
-DRE: Hmm.
+DRE: Here we go. I”m just going to make a wisdom roll because my wisdom modifier is 1. [pause] 9. 
 
 
-AUSTIN: It's like— It's like— You know, it's like almost as if there's a video screen up there, or something, where it's animated. The ceiling is— You can still— You can see it's flat. You can see that there's no depth to it. But it's still animated. It's still been magically [DRE: Yeah.] you know, infused with something to help make it feel like you're actually outside. Um…
+AUSTIN: How does that, how does aid work again. Uh-huh… On a 7 to 9 you also expose yourself to danger at retribution or cost but that’s fine because you have succeeded handily here. Alright, so you get three of the following: something to eat or drink, a useful tool or weapon, useful information or long-lost knowledge, or medical supplies. So what three of those would you like. Hadrian.
 
 
-DRE: What time of day is it inside this place 'cause it's sunset outside, right?
+DRE: What were the options again?
 
 
-AUSTIN: Well, by the time you got in here— It was sunset when Fantasmo found his way outside the kind of manufacturing quarter. Um, here, by the time you'd got into here, you'd lost track of time, but I guess you would guess it's like the next morning. By the way, remember um, that— I guess, nothing yeah. I guess you haven't stopped to eat yet.
+ART: Information, or relics… 
 
 
-DRE: Hmm.
+AUSTIN: Yeah, yeah, yeah.
 
 
-AUSTIN: Which means you're probably starting to get a little hungry. Trying— Starting to get a little hungry.
+ART: That’s one thing?
 
 
-DRE: I mean I have rations with me.
+AUSTIN: Yeah, that’s one thing, yeah.
 
 
-AUSTIN: You could eat a ration. Um, so you could eat a ration to stop that from getting worse. Go ahead and eat a ration.
+ART: Uh, medicine, I’m still very close to dying.
 
 
-DRE: Go ahead and eat a ration, okay.
+AUSTIN: Yep.
 
 
-AUSTIN: Fantasmo, you should probably do the same if you've rested.
+ART: Um... What were the first two?
 
 
-NICK: Yup. Already did.
+AUSTIN: Something to eat or drink, rations, and a useful tool or weapon.
 
 
-AUSTIN: Nice. Um… and Throndir, are you doing Search and Scavenge? 'Cause I don't think should do that here.
+ART: I’m thinking useful tool or weapon, I’m not doing great on that front either.
 
 
-DRE: Yeah, let's try that.
+AUSTIN: Sure… No, you’re not. Okay. So the medical supplies are fairly easy to find, actually, um…
 
 
-AUSTIN: Okay.
+NICK: Wait a minute.
 
 
-DRE: 7.
+AUSTIN: You – yes?
 
 
-AUSTIN: Okay, you can choose one. You can choose piece of information, a useful tool or weapon, something medicinal or a forth thing that I forgot. Something to eat, +2 rations.
+NICK: If, uh… If Hadrian is still close to dying, like I didn’t realize that – I have healing potions.
 
 
-DRE: Um… I'm gonna go with a useful tool or weapon.
+AUSTIN: Well –
 
 
-AUSTIN: Okay. [sighs] You— I think you blunder into one of these things that's like a store but that doesn't have anybody to like collect money.
+ART: I’m not that close to dying, I’m at 9 hit points, so I’m doing great. [DRE laughs]
 
 
-DRE: Mhm.
+AUSTIN: [snorts] It’s close for him, it’s not… so, you’re able to find a small stash of medical supplies in a kind of a side room of a, like a servant’s quarters? That is, it’s not untouched, let’s say, but the things that have been taken or ruined from here are largely things that are of lots of value – like you can see that there are missing, there are things missing from the mosaic in the floor, the kind of um, the more interesting furniture is just in a bad way, it just something happened to it over the last… long period of time that left it in a bad way. But in a drawer, you happen to come across an ancient, but still functional medical kit, that has y’know, sutures and some bandages, and things like that. Uh… And I forget if that’s a specific thing in the book or not, so uh, what’s a health potion give you back, does anybody remember? 
 
 
-AUSTIN: Um… And… Let's think what would be a cool thing here? Um, or like a fun, ridiculous— Oh, okay, hmm. I'm gonna turn this on you. What sort of store would you walk into?
+NICK: Uh… no.
 
 
-DRE: Oh jeez. Um… Well I mean, I've got food, so I wouldn't need to go into a food store.
+AUSTIN: You can check really quick. Or, can you check really quick, is the other way to say that?
 
+DRE: [laughing] Please check. 
 
-AUSTIN: You've got food, yeah, you're not going into like a food store.
 
+AUSTIN: Would you please check.
 
-DRE: Got plain rations. Um… I think he would probably pick the one that looks like just like the most like, "What the hell is that thing?" and go in there.
 
+NICK: So we haven’t…
 
-AUSTIN: Okay, um… There's like a— Okay, there's a weird place and it has like a— First of all, it's all like dark in there. Like everywhere else is really well lit, but in there it's a little dark, but there's like weird glowing lights, too.
 
+DRE: Would you kindly.
 
-NICK: You found the Spencer's Gifts!
 
+NICK: We haven’t had any rest either, then, huh?
 
-AUSTIN: And there's like— There's a couple orbs.
-
-
-DRE: [laughs] Or a vape shop.
-
-
-AUSTIN: Those things are the same thing, let's be honest. [DRE, NICK laugh] And there are orbs. I'm glad Nick got it immediately, by the way.
-
-
-NICK: Oh, no, I was just joking, I'm sorry.
-
-
-AUSTIN: No, that's exactly what I was doing, you nailed it. [NICK laughs] Um… And there are weird, weird glowing orbs that have like what look like magical energy reaching out from the inside towards glass. Um… And there are like these, like pieces of metal that balance in interesting ways and they're like, reproductions of— you don't know, there are like orbs floating around other orbs and shit. Um… 
-
-
-AUSTIN: So I think you just— And you, it's weird 'cause like other people are just coming in and out of there through the time that you spent in there, and they're like, "Oh yeah, I need one of these," and they're taking it and putting it in a satchel and leaving. And it feels like stealing but it feels good. Um… [DRE laughs] And I think, probably— And it's tough, 'cause I'm being honest, the most interesting if for Throndir is probably the thing with glowing fake electricity.
-
-
-DRE: Yeah.
-
-
-AUSTIN: So maybe you just take one of those.
-
-
-DRE: Okay.
-
-
-AUSTIN: That's worth something. That's a weird thing, right?
-
-
-DRE: Yeah.
-
-
-NICK: What about the mouse pad with the squishy bit that's the guy's crotch?
-
-
-[AUSTIN laughs]
-
-
-DRE: Yeah. What if— Are there any cards with naked people that I can bring back to…
-
-
-AUSTIN: Novelty, yeah, yeah.
-
-
-DRE: Back to Hadrian. Yeah.
-
-
-AUSTIN: Yeah.
-
-
-DRE: Great.
-
-
-AUSTIN: Um, so you get that thing and— and… Okay, actually, here we go. Let's be a little— Let's be a little more— Let's bring it down a little bit. When you see it, um, your Kindrali vision kicks off.
-
-
-DRE: Okay.
-
-
-AUSTIN: And you— You can see that it is a— You can see a much bigger version of it. In fact, so let me actually paint what it is. It's like one of those glowy orb things from Spencer's, you know what I'm talking about? 
-
-
-[ART laughs]
-
-
-DRE: You touch it with your finger and it like arcs out towards your fingers.
-
-
-AUSTIN: Yeah, yeah. Except instead of purple plasma energy, it's like a bright orange, energy.
-
-
-DRE: Okay.
-
-
-AUSTIN: Like uh, that's— that's— And you do touch it and— He sees a much larger version of that, towards the bottom of the tower and behind it, with a wall being built around it. Like a much larger version of it. When you touch it, it— Um… One second let me take a look at your current situation. Um… When you touch it, you feel yourself um, get a kind of a surge of energy that definitely came from this thing. You take a +1 Forward on your next physical activity.
-
-
-DRE: Hm, okay.
-
-
-AUSTIN: Um, it dims but it doesn't go out. Like it— If you touch it again, it doesn't respond in the same way, but it's clear something in it is still burning, ready to return to that state. So yeah, basically, once per day, you can touch it to get a +1 Forward on any physical activity.
-
-
-DRE: Nice.
-
-
-AUSTIN: Glowy power orb. Um, and then you manage to find your way out. I mean, you could stick around here and you could investigate more. Like all of these things do have more going on, but there's a limit, especially to what you can do by yourself without any extra expertise.
-
-
-DRE: Yeah.
-
-
-AUSTIN: Um, you know?
-
-
-DRE: I'm gonna head back to camp.
-
-
-AUSTIN: Sounds good.
- 
-DRE: Take that— That's the survivalist move.
-
-
-AUSTIN: Yeah, I agree. Um…
-
-
-DRE: Uh, how much does that orb weigh? Do I just do 1?
-
-
-AUSTIN: 1, yeah, definitely.
-
-
-DRE: Okay.
-
-
-[TIMESTAMP: 1:15:25]
-
-
-AUSTIN: Yeah. Um… Move you all there again. Okay. By… So I guess that's the— Again, let's work through this time shit here. Okay yeah, that's the— the next day, I guess. Because— So Fantasmo ends up staying overnight to save Sunder. And then they come back for that day to rest and recoup. And then later that night, Hadrian and Throndir make their way back. Uklan is still nowhere to be found.
+AUSTIN: No, you’ve had no rest yet.
 
 
 NICK: Oh, okay.
 
 
-ART: We need that guy. He's the one I need the most.
+AUSTIN: No. You’ll be able to, at the end of this day you’ll rest. Or you had that like brief moment, right, like you had that, you warmed up, everything’s okay, you’ll be able to rest again before –
 
 
-NICK: When uh— So Sunder and I were there when Hadrian showed up, right?
+NICK: But that’s not enough for me to re-prepare spells.
+
+
+AUSTIN: No. No, that was not enough time. Okay, um.
+
+
+ART: (unintelligible)
+
+
+AUSTIN: It’d be in items, which is like way in the back, I think, which – it’s not that big a deal, y’know, let’s just say that this gives you back 1d6 – let’s say 1d8 health. So go ahead and roll that and take it.
+
+
+DRE: Is that just for Art?
+
+
+AUSTIN: Yeah, just for right this second. I’m just like, let’s just use it so that it’s not another thing to keep track of.
+
+
+DRE: Sure, sure.
+
+
+NICK: Uh, healing potion heals 10 damage or removes one debility.
+
+
+AUSTIN: Okay, well, this is not as good as a healing potion, right, healing potions are just like alchemical magical things. So–
+
+
+ART: I rolled pretty well.
+
+
+AUSTIN: You did! Good job.
+
+
+ART: Wait, I rolled pretty badly.
+
+
+AUSTIN: Yup. He rolled a 2. Uh… [laughs]
+
+
+ART: That’s okay, I’m above a – I’m double digits now!
+
+
+AUSTIN: Double didge, [DRE laughs] so you also find… you do, you find a, towards what would be the, one of the sides of this receiving room, this throne room, you – down a ways, this is a big place, again, this is not a, we’re not talking about a small little, receiving, like this is, y’know, this was maybe the throne room of the Boy-King, God of Knowledge and Wine. Right? So… It’s big. And you find a little icon of him, about like a foot or maybe a foot and a half high, like a kind of an Orthodox Russian icon – do you know what I mean, do you know what I have in mind here? Kind of a little stone relief, almost like a statue but a little flatter than that…
+
+
+ART: Yeah, I see what you mean.
+
+
+AUSTIN: You know exactly what I mean? 
+
+
+ART: Now that I can Google Image Search again, yeah, I see what you mean.
+
+
+DRE: Yup, ditto.
+
+
+AUSTIN: Okay. And it is – you – it’s weird, whoever made this captured Samot’s eyes perfectly, and his kind of like, his “I’m not looking at you dudes, I’m looking past you” gaze, the deep long distance view of a god is really captured in this thing. And he is holding close over his chest a book, and then a bottle, in his left hand. And you can totally take that.
+
+
+NICK: He’s looking at that ghost wolf that’s haunting him.
+
+
+AUSTIN: [laughs] Uh… And then, huh…. and then you do find a weapon, since you don’t have one. Weapons are useful.
+
+
+ART: They are.
+
+
+AUSTIN: Um… You find… a… it’s strange, it’s just sitting there, on the carpet, in the middle of one of the sections of this big room. A golden sword. With its hilt wrapped in a dark brown leather, but the whole thing shines… it’s not just reflecting the light of the sun, y’know, obviously this place is ruined, there are holes coming down, holes above you in the ceiling – but like, it has a… It’s still the afternoon, let’s say, but it has a sort of a glow to it.
+
+
+ART: Sure, this must be just heinously sacrilegious. 
+
+
+AUSTIN: Mhm!        
+
+
+ART: Uh… Is it sharp gold or soft metal, like is it literally gold or is it –
+
+
+AUSTIN (overlapping ART): Uhh, y’know you’re not a, you’re not a –
+
+
+ART: Metallurgist?
+
+
+AUSTIN: Metallurgist, yeah?
+
+
+ART (overlapping AUSTIN): But is it sharp, is this a weapon?
+
+
+AUSTIN: This is sharp, yeah, this is a weapon, and for convenience’s sake let’s say you’re able to find a sheath that fits it fairly nearby, that way it’s not just like dangling… next to your junk.
+
+
+ART: Or make one out of rusty furniture.
+
+
+AUSTIN: [laughs] Right, exactly, just stab into a couch. Alright, we got it! [DRE laughing]
+
+
+DRE: You gotta (unintelligible), it’s good.
+
+
+ART: I’ve got this much upholstery, and it works.
+
+
+AUSTIN: Awesome. Um, okay, you make your way back to camp.
+
+
+ART: And like mechanically, what is, what is this?
+
+AUSTIN: Oh, um, for now it’s just a sword. For now it’s whatever the book says a sword is. Um… There might be some other stuff happening there, do you know what I mean?
+
+
+ART: Sure, but, yeah, I’m just looking for like damage, I’ll find what it –
+
+
+AUSTIN: It is, it is close, +1 damage, 1 weight.
+
+
+ART: Okay. Got it.
+
+
+DRE: Is it a one handed sword, two handed sword?
+
+
+AUSTIN: It is like a one-handed longsword.
+
+
+DRE: Okay.
+
+
+AUSTIN: Um. Okay, alright so you’re back, you guys can… Oh, you know what, actually – hm. As you’re leaving, so as you’re coming out, you… I forgot that there was that strange movement there still. You can see a dozen or so figures to the north about 500 yards… um, they are knights clad in silver – or like, clad in iron armor, you can recognize it, those of you who’ve fought – this isn’t like, shining silver, do you know what I mean, this is, they’re in metal armor.
+
+
+DRE: Sure.
+
+
+AUSTIN: They… their movement is precise, um, and they’re walking towards you. What do you do?
+
+
+ART: Are… Are our companions disturbed?
+
+
+AUSTIN: They shoot each other looks, and Sunder asks, “What do you guys think we should do?”
+
+DRE: I wanna see if Kindrali remembers anything about these knights. 
+
+
+AUSTIN: Make the roll?
+
+DRE: Yep. Uh, 9.
+
+
+AUSTIN: Which is something interesting?
+
+
+DRE: You get something interesting, but without explanation or its use.
+
+
+AUSTIN: Um… You can see him stab one - it’s a brief flash - he stabs a spear through the chest of one, and it breaks through, without any blood, without any - it’s as if he punched through a wall, but the knight doesn’t stop, and keeps walking towards him, pulls himself through the spear to attack him. And y’know, Kindrali’s not in any threat, but that was still a shocking moment that he never forgot.
+
+
+DRE: Yeah. 
+
+
+DRE: (as THRONDIR) We need to run.
+
+
+AUSTIN: You begin to run, and you’re able to lose them in the hills. But arrows do start to come in from the distance. One of them catches Uklan in the shoulder. He’ll be alright, but he is definitely wounded. He hands –
+
+
+ART: I still want to see how powerful this guy is. Not enough to be like, (unintelligible)
+
+
+AUSTIN: Right, not enough to fight a dozen of them, necessarily.
+
+
+DRE: At 11 HP.
+
+
+AUSTIN: Right, at 11 HP, exactly. You get back to camp, you’ve lost them. But there was something haunting about that experience. And Uklan is, he’s not out of commission, but he is in pain. That night shows you the wound where the arrow hit him – and it’s, it’s hard to find the right word for it – it’s crystallizing? A little bit? It’s hardening, his skin is becoming firm and a strange growth is covering it. And he’s in a lot of pain. But you’re able to take a rest. You’re able to take a day’s rest and re-memorize your spells and heal and all of that, and consume a ration. So.
+
+
+DRE: Um. Austin, I have…
 
 
 AUSTIN: Yes.
-
-
-NICK: What— What did that look like? Did we see him walking all the way up to it or did he just like…
-
-
-AUSTIN: You saw him…
-
-
-NICK: Did he just like pop in?
-
-
-AUSTIN: I think he just— No he came— He came over the— 'Cause you remember it's kind of in a little valley point.
-
-
-NICK: Oh right, yeah, yeah.
-
-
-AUSTIN: I think he just appeared at the top of the valley and that's when you saw him.
-
-
-NICK: Okay.
-
-
-ART: How much sand is in my shoes?
-
-
-AUSTIN: Some.
-
-
-[NICK laughs]
-
-
-ART: Alright. That's interesting.
-
-
-AUSTIN: Yeah.
-
-
-NICK: So there's a— So there's a soggy sandy Hadrian.
-
-
-AUSTIN: Yes. [laughs]
-
-
-NICK: Who's also still in his like, under clothes.
-
-
-AUSTIN: Right 'cause he never got any extra armor.
-
-
-NICK: His like under-armor clothes.
-
-
-AUSTIN: Wait, what happened to his armor? Did he just lose that? He lost that to the—
-
-
-ART: They took it from me in the snow—
-
-
-AUSTIN: Right, so you do notice this.
-
-
-ART: The cause of the great Hadrian-Snow Elf war of whatever year this is, plus three months.
-
-
-AUSTIN: You— Your right hand is marbled, at this point.
-
-
-DRE: Uh-oh.
-
-
-ART: So it'd be like a real nice steak.
-
-
-AUSTIN: Yes, it would be a great steak if you ate that hand. [NICK laughs] It's turned into a marbled stone.
-
-
-ART: Yeah.
-
-
-NICK: Maybe cake?
-
-
-AUSTIN: And, huh. And you realize that when this happened, in fact it's up past— It's toward your wrist. It's like not just your hand, it's like going past your arm at this point. This is a thing that I'd forgotten earlier. This happened when you stepped outside to talk to Hella, very quickly. So like, that's not the rate at which it happens normally, but when you made that jump from your timeline into this other timeline, it advanced quite a bit, and did not retract when you went back into the bubble.
-
-
-NICK: I hope your hand was in the shape of a fist.
-
-
-AUSTIN: Uh, weird, it still moves.
-
-
-NICK: Oh, okay.
 
 
 DRE: Hm.
 
 
-NICK: So Hadrian can still move it —
+AUSTIN: Throndir?
+
+DRE: I still have that “sick” that’s taking -1 from my constitution modifier, do I cure that from resting overnight, or?
 
 
-AUSTIN: Yes.
+AUSTIN: It’s not – no, you need more than a rest overnight, but if you do have a healing potion you can totally take one of those to remove a debility.
 
 
-NICK: — like normal.
+NICK: Oh, yeah, I…
 
 
-AUSTIN: Like normal.
+DRE: I do not have one.
+
+
+NICK: I’m sick too. What was that from?
+
+AUSTIN: You should – uh, walking through the blizzard. 
+
+
+NICK: Oh, right right right.
+
+
+AUSTIN: The blizzard, like, you failed those rolls, because last session everyone failed every roll because the dice were just, the worst!
+
+
+DRE: Yup. Uh-huh!
+
+
+AUSTIN: So yeah, if you have healing potions you should take those to heal that.
+
+
+NICK: I, uh.
+
+
+AUSTIN: Why are you… wait, that’s it. All you are is sick, right?
+
+
+NICK: Yeah.
+
+
+DRE: Yeah, yeah yeah.
+
+
+AUSTIN: Yeah.
+
+
+NICK: I, chug one down, and seeing that Throndir is like sniffling off on the other side of the fire, uh, I get up and like make a big show of like – [DRE laughs]
+
+
+AUSTIN: Great.
+
+
+NICK: Like, sighing and y’know, like, [SIGHS], and I just shove it in his face and I say 
+
+
+NICK (as FANTASMO): (gruffly) Here.
+
+
+DRE: Maybe I shouldn’t have been muting me being all sniffly and coughing, that would’ve been good roleplaying.
+
+
+NICK (as FANTASMO): I’m tired of hearing you sniffle!
+
+
+DRE: You’re the guy on the plane who’s like, “are you gonna blow your nose or are you just gonna sniffle the whole flight?”
+
+
+NICK: Yup.
+
+
+AUSTIN: Great. Great! Um, so what–
+
+
+ART: If I die in this game, everyone remember what happened with the healing potions.
+[AUSTIN and DRE laugh]
+
+
+NICK: I got one left.
+
+
+DRE: Cure your sniffles.
+
+
+AUSTIN: Yeah, he has one left just in case. Let’s take a 5 minute break, let’s take a 5 minute break and then come back and do another section.
 
 
 NICK: Okay.
 
 
+DRE: Yeah, sounds good.
+
+
+AUSTIN: Be right back.
+
+
+[TIMESTAMP 37:24]
+
+
+AUSTIN: Okay, I’m back.
+
+
+ART: Alright. For the record, a longsword is two weight, but I’m gonna break –
+
+
+AUSTIN (overlapping ART): Is it? That’s not what it says in the book –
+
+
+ART: That’s what it says in the weapon list, page 324…
+
+
+AUSTIN: Check your gear section. [pause] Like in your paladin – on the paladin page.
+
+
+ART: (unintelligible)
+
+
+DRE: Ahhhh! You don’t get XP for successful rolls, right, it’s only failed?
+
+
+AUSTIN: Nah, failed rolls, and uh… bonds and stuff.
+
+
+DRE (overlapping AUSTIN): In-game stuff.
+
+
+AUSTIN: Yeah, yeah.
+
+
+ART: Can you like, heal overnight, like, cuts mending and junk?
+
+
+AUSTIN (overlapping ART): Yeah, yeah, it’s in there. That’s um, take a rest I think is the name of the move. Or not take a rest –
+
+
+DRE (overlapping AUSTIN): Uh, recover.
+
+
+AUSTIN: Recover, yeah, yeah.
+
+
+ART: (unintelligible)
+
+
+DRE: When you do nothing but rest in comfort after a day –
+
+
+AUSTIN (overlapping DRE): Oh no no, is that – no that’s not, you’re not recovering, you are like making camp, when you settle in to rest consume a ration, if you are somewhere dangerous decide the watch order as well, if you have enough XP you may level up, when you wake up from at least a few uninterrupted hours of sleep, heal damage equal to half your maximum HP.
+
+
+DRE: Ohhh. Okay.
+
+
 AUSTIN: Yeah.
 
 
-NICK: Cool.
+ART: How does that work with… me…
 
 
-AUSTIN: Ope.
+AUSTIN: I think you still have to rest. Right? To heal? Maybe not…
 
 
-NICK: Wait a minute…
+ART (overlapping AUSTIN): But… But like…
 
 
-ART: Hold on, I'm just looking to make sure— Remember when I— I guess this is a spoiler for a thing that happens in the future. I'm trying to make sure I don't have another like, "Oh wait, I can— I have a move that says, 'All rock turns to flesh.'"
+AUSTIN: The question there is – so your thing is that you don’t need to sleep, right? But that’s –
 
 
-AUSTIN: Oh, that would be a… a thing.
+ART: The exact wording is “freedom from hunger, thirst, and sleep”. I don’t think that means I can’t rest.
 
 
-ART: Yeah, it's definitely not true.
+AUSTIN: Right. Yeah.
 
 
-NICK: If uh, Fantasmo starts getting stretchy and… [AUSTIN laughs] and uh… I can't remember the name of our elf friend.
+DRE: Yeah.
 
 
-AUSTIN: Throndir? Yeah.
+ART: Just I guess we have to like, quibble over what rest means, or (unintelligible)
 
 
-NICK: And Throndir starts uh— Is just on fire all the time? 
+AUSTIN: No, you can, you can, I think you can be at like a state of rest that’s still like, awake, y’know?
 
 
-AUSTIN: Uh-huh. 
+ART: And then do I round up, or down?
 
 
-NICK: And— And Sunder's making these invisible bubbles everywhere, uh…
+AUSTIN: Round up, always round up.
 
 
-AUSTIN: Yup, you got it.
+ART: Okay, so I think I’m back – I’m back baby.
 
 
-[DRE sighs]
+AUSTIN: Nice.
 
 
-NICK: Mr. Fantasmo.
+DRE: Yeah. I’m at full HP!
 
 
-[AUSTIN sighs and groans, NICK, DRE laugh]
+AUSTIN (overlapping DRE): I’m not gonna – I’m not gonna make you do watch order here, you’re not in danger tonight. You might be in the future, but not right now.
 
 
-AUSTIN: Uh, so were there questions? Were you talking? I forget if people were talking.
+DRE: Yeah.
+
+
+ART: That’s super weird that the longsword in the gear section and the longsword at the end of the book have different weights but it’s true.
+
+
+AUSTIN: Do me a – do me a favor, I’m curious, check the fighter version of longsword? [pause] If it’s even there? Let’s see.
+
+
+ART: Uh… pretty much the longsword – where are we, what are we doing here?
+
+
+AUSTIN: Nuh…
+
+
+ART: Oh, it’s just signature weapon. Is there a list of signature weapons somewhere?
+
+AUSTIN: Nah, they like build them.
+
+
+ART: Oh yeah, they build them.
+
+
+AUSTIN: Yeah. Theirs are two weight. I think it’s – you’re right, it’s probably a mistake in the paladin section, but also I kind of like the idea that no, your sword is just lighter, like paladins just get lighter swords. 
+
+
+ART: Sure.
+
+
+AUSTIN: Like, iunno, like, churches have money. They can get you good light swords.
+
+
+DRE: Or your faith carries the burden of your weapon.
+
+
+AUSTIN: Right. Right. Yeah.
+
+
+ART: Yeah, no one else gets the (unintelligible) the longsword. Which is weird, I think I could make a case that a ranger should get a longsword.
+
+
+AUSTIN: Mhm. Mhm.
+
+
+DRE: Yeah.
+
+
+ART: I’ve seen that dude. [DRE laughs]
+
+
+DRE: There’s a ranger skill, you can dual wield.
+
+
+ART (overlapping DRE): I really wish I was more aggressively diving into alternate classes.
+
+
+AUSTIN: Wait, say that again?
+
+
+ART: I wish I was more aggressively diving into alternate classes.
+
+
+AUSTIN (overlapping ART): Well you have cleric now, right?
+
+
+ART: No I just mean like, people have house made a ton of like crazy shit, but not to like use for this, I just wanna be like reading it, because I’m a crazy… person.
+
+
+AUSTIN: Yeah, that’s the person you are. Right.
+
+
+DRE: [laughs]
+
+
+AUSTIN: How are feeling on time right now?
+
+
+DRE: I’m good. I got this Surge in front of me, I’m good.
+
+
+AUSTIN: Everyone’s drinking that Surge!
+
+
+ART: Yeah, you’re all – you’re all gross.
+
+
+AUSTIN: Um!
+
+
+DRE: I don’t feel happy about it, but it’s here.
+
+
+AUSTIN: [laughs]
+
+
+DRE: I’m drinking it.
+
+
+NICK: I used to – I used to love Surge.
+
+
+AUSTIN (overlapping NICK): Nick, how you doing?
+
+
+NICK: Uh…
+
+
+AUSTIN: I haven’t had it since it was out.
+
+
+DRE: It’s not bad!
+
+
+NICK: I’m really sleepy, to be honest. I’m… I’m rough.
+
+
+AUSTIN: Do you wanna do… do you wanna do one more section and then we’ll call it?
+
+
+NICK: Uh…
+
+
+AUSTIN: I can read like the next section – these sections are literally – that last section was long because we did that big other thing, but these are like – each of these is like, ten minutes. Basically. Um. And I wanna be able to leave on something that’s more interesting, maybe, than this. Although, I dunno, this is an episode certainly. Like, but I didn’t get to end on like an end voice.
+
+
+NICK: Well…
+
+
+AUSTIN: Just over an hour. Like.
+
+
+NICK: Yeah, but there’s gonna be stuff cut out.
+
+
+AUSTIN: That’s what I’m saying, yeah. So let’s, can we go a little bit longer?
+
+
+NICK: Yeah, no. That’s fine. I’m fine.
+
+
+AUSTIN: Alright. Alright.
+
+
+DRE: Nick, do you want a Surge?
+
+
+ART: I have a, I have a vague concern that like… 
+
+
+NICK (overlapping ART): I would love a Surge.
+
+
+ART: Right now, everything’s fine, but there’s gonna be a point where it starts being dinnertime, here on the west coast…
+
+
+AUSTIN (overlapping ART): Right. Yes.
+
+
+ART: And then I’m gonna get hungry.
+
+
+AUSTIN: Yeah, we’re not gonna go long. I don’t wanna – like, I want another 20 minutes of your life, and then we can go.
+
+
+ART: Oh, yeah, I was saying like, you wanted way more than that…
+
+
+DRE (overlapping ART): Yeah.
+
+
+AUSTIN: No no no. No. I just wanna do like one more little section, that way we can end on something interesting. I don’t know what that thing is yet!
+
+
+ART (overlapping AUSTIN): We go for another 90 minutes.
+
+
+AUSTIN: No, no. I’m not gonna…
+
+
+ART: That would be too much.
+
+
+AUSTIN: That’s fine. 
+
+
+NICK: I, uh.
+
+
+AUSTIN: So it’s the next morning – oh, go ahead.
+
+
+NICK: I leveled up, by the way. Just FYI.
+
+
+AUSTIN (overlapping NICK): Oh, nice. What’d you take?
+
+
+DRE: Congratulations!
+
+
+NICK: Um… Well my, my actual spell, which I’m preparing immediately, is Dispel Magic.
+
+
+AUSTIN: Good call!
+
+
+DRE: Yeah!
+
+
+AUSTIN: That’s a good one. That’s a good one to have.
+
+
+NICK: Um, and uh… Kitty! How you doing? Um… And I think I’m probably gonna take… Uh, buh, I lost my place in the thing now. I forgot what moves I actually… 
+
+
+AUSTIN: Like, get or whatever?
+
+
+NICK: Also, I, from editing one of the other podcasts, I realized that you’re supposed to be taking a, um, attribute point every level, which –
+
+
+AUSTIN: Yeah!
+
+
+NICK: – I didn’t take, well I’m only level 3, so.
+
+
+AUSTIN: Oh… right right right, so.
+
+
+NICK: I got another +1 to INT now.
+
+
+AUSTIN (overlapping NICK): But you should take one for this. Nice!
+
+
+DRE: Nice!
+
+
+ART: Yeahhh.
+
+
+AUSTIN: That’s useful, that is a useful thing to have.
+
+
+NICK: Yep.
+
+
+AUSTIN: Uh…
+
+
+DRE: Before the, before the dawn breaks, Throndir’s been wanting to ask Fantasmo since the moment we met those people, can I trust… is Sunder her name?
+
+
+AUSTIN: Sunder. Sunder… Lady Sunder Havilton.
+
+
+DRE: Havilton.
+
+
+ART: Great name, by the way.
+
+
+NICK: Yeah, that’s a good name.
+
+
+AUSTIN: Yeah, she’s good. I like her a lot. Yeah. Um.
+
+
+NICK: That’s like a… That’s like a Dishonored level name.
+
+
+AUSTIN: [laughs]
+
+
+NICK: That’s a game full of fantastic names.
+
+
+DRE (overlapping NICK): Yeah. It super is!
+
+
+AUSTIN: That game is – yeah, that game – that game does it right.
+
+
+DRE: I need to finish that game.
+
+
+AUSTIN (overlapping NICK): Me too.
+
+
+NICK: Oh, it’s so good. I mean… that one level is – 
+
+
+DRE (overlapping NICK): I was playing it on stream.
+
+
+NICK: – the worst fucking thing, but…
+
+
+AUSTIN: [laughs] Yeah?
+
+
+NICK: Uh, after that level there’s some really amazing bits in that game.
+
+
+AUSTIN: Mhm.
+
+
+NICK: Um… anyways. Uh. 
+
+
+AUSTIN: What move are you taking?
+
+
+NICK: Oh –
+
+
+DRE: I don’t know if I’m taking a move, I think Throndir’s just –
+
+
+AUSTIN: Nonononono, sorry, I was talking to Fantasmo, who had leveled.
+
+
+NICK: Um… Well, I was gonna answer his question first. Um… Fantasmo says... 
+
+
+NICK (as FANTASMO): She was much younger when last I knew her. But she was still one of the most promising wizards I ever met. That is… If you can put much stock in those… that toy… with the arcane energies of this world… on a merely intuitional basis. 
+
+
+NICK: That’s it.
+
+
+DRE (as THRONDIR): That’s not really a yes or no. 
+
+
+DRE and AUSTIN: [laughs]
+
+
+NICK: He just… [laughs] Fantasmo kind of side-eyes him a little bit and grips his staff a little tighter and he just says,
+
+
+NICK (as FANTASMO): Yes...
+
+
+DRE: Throndir kinda like, cocks his head and goes, 
+
+
+DRE (as THRONDIR):“Did you guys… did you guys have a thing? Were you a thing? 
+
+
+[everyone laughs]
+
+
+AUSTIN: Huuuh!
+
+
+NICK (as Fantasmo): [emphatically] No.
+
+
+DRE (as Throndir): Okay…
+
+
+AUSTIN: ...So after a little bit of time, Prince Uklan and Sunder are awake, everybody’s awake, uh… Uklan says that he is going to sit this one out. Um, he thinks he can keep whatever it is that they did to him at bay. But, it will take… concentration and a great deal of semiotic work.
+
+
+ART: So they probably don’t want me to Lay on Hands him, right?
+
+
+AUSTIN: Uh, you can try, certainly?
+
+DRE: Oh, boy.
+
+
+AUSTIN: You can ask him, anyway.
+
+
+ART: Yeah, uh, I will of course. 
+
+
+ART (as HADRIAN): Y’know, my connection to the divine allows me to heal…
+
+
+AUSTIN (as UKLAN): Mhm?
+
+
+ART (as HADRIAN): ...wounds, injuries. Uh, would you like me to try it?
+
+
+DRE: Or diseases? Can’t you do diseases?
+
+
+ART (as HADRIAN): And diseases, I can remove a disease. 
+
+
+ART: Mechanically.
+
+
+AUSTIN (overlapping ART): He says…
+
+
+AUSTIN (as UKLAN): Hmmm… I’ve heard of such things working. Uh… hmm… wh… why not.
+
+
+AUSTIN: – he says. Go ahead and roll!
+
+
+ART: Okay, it’s important to know that on a 7 to 9, they are healed but the damage or disease is transferred to me.
+
+
+AUSTIN (overlapping ART): Yeah! Uh-huh! That is, that –
+
+
+ART: That was for, that was for, that wasn’t for you, that was for the audience.
+
+
+AUSTIN: Yeah, I’ve been thinking about that! [enthusiastically] So… Aw man, oh boy, 7 to 9, huh!
+
+
+ART: Yeah.
+
+
+AUSTIN: Cool! Yeah, he heals.
+
+
+ART: It was an 8.
+
+
+AUSTIN: No what, it was an 8! Hadrian rolled an 8.
+
+
+ART: It’s worth noting, I have a good charisma.
+
+
+AUSTIN: Yeah, you do. [DRE laughs]
+
+
+ART: I’m just bad at this.
+
+
+AUSTIN: The warmth… okay. You pass the warmth of Samothes on to him, and you see the wound close – you feel the wound close under your hand. But then… do you remember, earlier, I said, that when you came through the other side of the blizzard, you felt a hole in you?
+
+
+ART: Yeah, that was a really, that was a really jarring mental image.
+
+
+AUSTIN: That hole is being closed in now. With something else. And you don’t –
+
+
+ART: Oh.
+
+
+AUSTIN: You don’t even feel it at first, it takes another hour before it really comes into play, but… The tip of your ring finger… It’s just like, a little calloused. It’s a little – weird, like it’s a little – you start to lose sensation in it. It’s getting a little harder. And over the course of the day, that will continue to happen.
+
+
+ART: It’s fine, it’s fine! Everything’s going to be fine.
+
+
+AUSTIN (overlapping ART): Everything’s fine, everything’s great.
+
+
+ART: No one would let their champion die in a holy, y’know, holy site, that’s not how deities work.
+
+
+AUSTIN: Yep!
+
+
+DRE: Sure.
+
+
+AUSTIN: So where you going today?
+
+
+ART: Oh, we get to pick?
+
+
+AUSTIN: Yeah.
+
+
+DRE: Yeah!
+
+
+AUSTIN: This is on y’all.
+
+
+ART: Um… if it were up to me, I’d go up to that, to that chunk – 
+
+
+AUSTIN: Wait one second, I didn’t –
+
+
+ART: This, this set of chunks – is this working?
+
+NICK: I, uh…
+
+
+AUSTIN: No.
+
+
+DRE: No.
+
+
+AUSTIN and DRE: You have to click and hold.
+
+
+NICK: Speaking of that emptiness…
+
+
+DRE (overlapping NICK): There we go.
+
+
+AUSTIN: Mhm?
+
+
+NICK: That’s what I was thinking when you asked what the wolf sees inside Samot.
+
+
+AUSTIN: Mmm, okay. Nice. Yeah, yeah.
+
+
+DRE (overlapping AUSTIN): Mmm.
+
+
+AUSTIN: Um… so, yeah you can go there, remember that there – that is where some of those knights were in that general area.
+
+
+DRE: Yeah…
+
+
+AUSTIN: Which could be problematic.
+
+
+ART: I just believe that that’s where the throne room is gonna be, I believe that that’s where I need to be.
+
+
+AUSTIN: Okay, so that’s one vote for there. Where do Fantasmo and… Where do Fantasmo and Throndir think that you should go?
+
+
+NICK: Um… Do we know if any of these things were a library?
+
+
+AUSTIN: You don’t know.
+
+
+DRE: I mean I think if we want to know more about the people who lived there, that would be the southeastern halls, cause that’s where the living quarters were. I think Throndir’s kind of interested in those, because if there was any chance that like, y’know he’s gonna find something about his people or about people who used to be in this area in general, it’ll be in those little southeastern areas.
+
+
+AUSTIN: Mhm.
+
+
+NICK: Um… Fan–
+
+
+AUSTIN: I’m letting y’all decide this among yourselves, by the way.
+
+
+NICK: Well…
+
+
+DRE: Yeah.
+
+
+ART: They’re not gonna vote?
+
+
+AUSTIN: I mean, you guys can vote. They are… They are going to… Mm. I think she even says it, like, listen, we’re gonna be here for a while. We’re in this for the long haul. I don’t care where we go to next so long as I go everywhere. I’m not here to find a book and leave. My calling is greater than that.
+
+
+DRE: Damn, that was a burn. That’s a burn.
+
+
+ART (overlapping DRE): That’s a little harsh considering I just like, healed their dude. I just healed their dude.
+
+
+DRE: She wasn’t dissing you, I think…
+
+
+AUSTIN (overlapping DRE): No... She was, she was…
+
+
+DRE: The book was a specific callout to someone, I think. [everyone laughing]
+
+
+NICK: Fantasmo like, out of earshot, and under his breath, is just going,
+
+
+NICK (as FANTASMO): Find a book and leave, mmmm [mocking noise].
+
+
+[AUSTIN and DRE laugh]
+
+
+ART: [quietly, imitating Fantasmo] Fucking hippies.
+
+
+NICK: Um... 
+
+
+AUSTIN: So, between the three of you, I think, feel free to…
+
+
+NICK: Here’s where, everyone continues to love Fantasmo… Uh, he says he wants to go to the third option, because there’s little chance of anything, uh, anything magical that he could learn from in the throne room because that would be, y’know, the kind of religion magic that he’s not interested in, and there’s even less chance that there’d be something interesting where the commoners live.
+
+
+AUSTIN: So what are you suggesting? Where on the map here are you suggesting? Further up, even? Or further to the northwest, basically?
+
+
+NICK: Yeah. Yeah. The one that’s left, after the one that we saw and those other two.
+
+
+AUSTIN: Well, I mean… you saw, so you – Throndir wants to go down here into this big chunk, right, um, right, Art – Hadrian is saying this big chunk here, so there are still like a bunch of little rooms, well not rooms but little sections to the north there. So you’re saying basically any of those.
+
+
+NICK: Oh.
+
+
+AUSTIN: Like those are each distinct spots.
+
+
+NICK: Oh, okay, I thought there was only four total.
+
+
+AUSTIN: Yeah, each – 
+
+
+NICK: Oh, oh right.
+
+
+AUSTIN: No, no there are fourteen, or something. One two three… yeah –
+
+
+NICK: Oh, geez, alright.
+
+
+AUSTIN: Each, each subdivision is a space that you can investigate, with stuff in it.
+
+
+NICK: Pfft.
+
+
+AUSTIN: You don’t have to go through them all. Y’know. They’re, it’s… this game has a long and strong history of not going everywhere inside of a given zone.
+
+
+DRE: Aw man, but you’re talking to someone who didn’t leave the Hinterlands for like 30 hours! 
+
+
+[AUSTIN laughs]
+
+
+NICK: Um… yeah –
+
+
+DRE: Okay, Throndir’s gonna break this tie. Let’s finish out the throne room.
+
+
+AUSTIN: Alright, so you’re going to like, this big middle chunk.
+
+
+NICK: Alright.
+
+
+DRE: Yeah.
+
+
+AUSTIN: Okay.
+
+
+ART: Right. And I guess we’re guessing perhaps incorrectly with that is that’s where the throne 
+room is.
+
+
+AUSTIN: You’re certainly guessing.
+
+
+DRE: Yeah. 
+
+
+ART: I dunno, what’s the worst thing that happens.
+
+
+DRE: Uh, we all turn into those giant, crazy automaton things, that’s what.
+
+
+ART: I mean, I guess the worst the thing that could happen is that’s the barracks.
+
+
+AUSTIN: That would be the worst thing that could happen, yes. Um.
+
+
+DRE: So you find the barracks!
+
+
+AUSTIN: [laughing] No, you don’t. [DRE laughs] Someone has to make a Defy Danger roll here, I think, Defy Danger… You can tell me how you’re doing it, but like, you know that there are guards up there. And so, to get around – you have to get around them safely. So to go straight to that zone, from this position, requires passing through where they are, so someone here has to make that lead roll.
+
+
+NICK: Fantasmo’s casting Invisibility.
+
+
+DRE (overlapping NICK): Um, what if…
+
+
+AUSTIN: Of course, go ahead and make that roll. 
+
+
+NICK: Yup.
+
+
+AUSTIN: You did it successfully, okay.
+
+
+DRE: What if, uh, Throndir is kind of, like, y’know, using his dexterity to see if he can find a – blaze a path through.
+
+
+AUSTIN: I don’t think – ah, see like, that’s so tough for me, cause dexterity is like dodging stuff, do you know what I mean –
+
+
+DRE: Yeah.
+
+
+AUSTIN: – finding paths is wisdom. Um… Like dexterity might just be like, we’re gonna run it, we’re just gonna sprint, we’ll just outrun them, would be dexterity. Y’know?
+
+
+DRE: Yeah. Yeah. I could do a wisdom check too.
+
+
+AUSTIN: Sunder shakes her head at you, Fantasmo, when you turn invisible. [DRE laughs] 
+
+
+AUSTIN (as SUNDER): One of these days it’s gonna get you in trouble, old man.
+
+
+NICK: [laughs] When she says that, Fantasmo lets out a surprisingly uncharacteristic like just, blast of a laugh. Just… 
+
+
+NICK (as FANTASMO): HA! 
+
+
+NICK: [AUSTIN and DRE laugh] [AUSTIN sighs] Whoa, that clipped the hell out of everything. Yeah.
+
+
+AUSTIN (overlapping NICK): Uh, so… I bet!
+
+
+DRE: Yeah.
+
+
+[long pause] 
+
+
+~ Here’s that part where ART’s audio disappears entirely ~
+
+
+[AUSTIN and DRE laughing]
+
+
+AUSTIN: Sure, yeah, why not. Uh-huh! You do now, Art, if you didn’t before, you do now!
+
+
+NICK: [gasps or is imitating a ghost OoooOooOoo noise]
+
+
+DRE: Yeah, yeah, I was kind of, I was picking up on that. You’re basically turning into a zombie guard.
+
+
+NICK (overlapping DRE): Wait a minute!
+
+
+AUSTIN: Uh-huh?
+
+
+NICK: [bang] Aw man, I keep whacking my…
+
+
+[silence]
+
+
+[DRE laughing]
+
+
+AUSTIN: Mhm. Let’s just, let’s just, let’s just make a decision here. [pause] [laughs] Okay, well let’s just… Yep! Ah, so, so here’s what I’ll say, what I will say is, you can kind of think of this space as a – you can kind of think of this map as almost a board game. And – or like a strategy game, or a tactics game, where what you will be doing is sort of recovering – or, or, as you move through each zone, you will be able to leapfrog through the zones.
+
+
+DRE: Yeah.
+
+
+AUSTIN: So you right now would have to go right to that spot – I almost said what it was, but I didn’t – um, but you have to go straight north, you couldn’t go east through these other, this kind of southeastern stuff and then cut north through it, um, but if you did go to one of those, you could then do that. But you’d have to make that decision, do you know what I mean? Or you could go up and around it, and then southeast through. However, as long as you have a direct line through spaces that you’ve already been through, it just takes you a day, like the whole thing is always only going to take you a day. Y’know?
+
+
+ART: So, so perhaps it’s a better idea to go here?
+
+
+AUSTIN: Yeah, you could totally do that, you could go around and then through. 
+
+
+ART: Alright.
+
+
+AUSTIN: Or that little chunk, or that little chunk between there and –
+
+
+ART: This one? Or, this one.
+
+
+ART’S MISPLACED AUDIO, WHICH OVERLAPS THIS NEXT SECTION: I have, uh, I have this other worse idea on how to get through this if we’re not sold on (sprinting?). Um, y’know, what if I just Defy Danger charisma the zombie guards? I think me and these guys have something in common. I’ll just talk them out of it (unintelligible). Yeah! I mean, zombie guard isn’t a terrible way to end up, I think we all knew that’s where Hadrian was going to end up, guarding something as a zombie. I don’t have a better – I don’t have a better idea than sprinting, really, like looking at my like, I don’t know how to strength my way through, put my head down and charge, but that’s not defying anything. Well… yeah.
+
+
+AUSTIN: That one. That one is the one I was thinking. Right, that one would also have to pass through the strange movement. Which now you know is, sorry, which now you know is –
+
+
+DRE: Bad things.
+
+
+AUSTIN: Bad things. They’re something, I don’t, y’know.
+
+
+DRE: I think they’re like, automatons.
+
+
+AUSTIN: They’re something.
+
+
+DRE: Like, golems or something.
+
+
+AUSTIN: So you’re going to go up to here, which is the vote for everybody basically.
+
+
+ART: Yeah!
+
+
+DRE: Yeah. Yeah.
+
+
+AUSTIN: Also, Fantasmo wanted to go up further, right?
+
+
+NICK: Mhm.
+
+
+AUSTIN: Okay.
+
+
+DRE: Let’s do it.
+
+
+AUSTIN: It’s a long way, up and around. You make it up to here, and, um… Okay. As you get closer and closer, you smell... sulfur. And fire. You smell the kind of… I guess, hm, I don’t know that any of you have been there, so no, that won’t work. You hear machinery, you hear things being – like chains being pulled across pulleys, you hear the sound of big pieces of metal slamming into other big pieces of metal, um, and… it’s kind of, there’s no – there’s no organic noise on top of that. There’s no people yelling or talking to each other. It’s just this kind of mechanical clank, clank, clank, whoosh, boom, clank, clank, clank, whoosh, boom. This like slow repetition of something.
+
+
+DRE: Well this is probably the most bizarre, foreign, and terrifying thing that Throndir’s every heard before in his life.
+
+
+AUSTIN: Yup! Absolutely.
+
+
+NICK: Fantasmo shoots a glance at Hadrian though and says,
+
+
+NICK (as FANTASMO): This sounds familiar.
+
+
+ART: Super familiar…
+
+
+AUSTIN: What do you think it sounds like?
+
+ART: The stuff in the other tower, the, the automata – I don’t know if automata is the right word – stuff that worked by its own, stuff.
+
+
+AUSTIN: Sure, Sure. Um. The –
+
+
+ART: They were mad at me for killing skeletons because they’re jerks.
+
+
+AUSTIN: [laughs] Uh, you find a hole into the zone and you… or not the zone, god I have to use real human language and not just like game-y stuff, uh… You find a hole into the wall of this–
+
+
+NICK (overlapping AUSTIN): [dramatically] What you’re saying is, we enter the machine zone!
+
+
+AUSTIN: Um… [laughs] Right, you’ve entered the killer machine zone, my favorite level from Sonic Adventure 2.
+
+
+DRE (overlapping AUSTIN): Oh, sick!
+
+
+NICK (overlapping AUSTIN): Yeah, sounds (unintelligible).
+
+
+DRE: Now I’m really gonna live up to my Tails moniker over here.
+
+
+NICK: Got some sweet music in that stage.
+
+
+AUSTIN: It does. Uh… And, it’s a strange feeling. You step inside and it’s only a few steps in when you feel like you’ve turned, physically. Like, you’re stand – it feels for a brief second like you’re standing on the wall. And you look behind you, outside, where you can see the blue sky – and it does feel like you’re on the wrong surface in here.
+
+
+ART: Oh, that’s weird.
+
+
+AUSTIN: The clanking is getting louder and louder, and the inside here is lit by a combination of light that’s coming in through windows and from the roof – the “roof”, quote unquote, which is some places is a formal wall, like a wall that does have windows in it that is now above you.
+
+
+DRE: Sure, sure.
+
+
+AUSTIN: But there’s also, strangely, you’re kind of walking through a corridor that has lights on the wall, like candles, but, there’s no candle there. It’s just a glowing, it’s just a glowing that’s there.
+
+
+ART: Wait, to clarify – did we, are we now standing on the –
+
+
+AUSTIN: You’re in this, you’re – like, here, you’re just at the entrance to the side of the hole of this –
+
+
+ART: No, I’m asking how gravity works.
+
+
+AUSTIN: It’s working.
+
+
+ART: Okay, we’re still right-side up.
+
+
+AUSTIN: Yes yes yes. It’s just that sometimes, the way this place is is broken in a weird way.
+
+
+DRE: Yeah.
+
+
+AUSTIN: And that’s the weirdest thing. The weirdest thing is that sometimes you’re in a place that you can identify is, oh, this room of the tower fell funny. And we’re standing on one of the walls and above us is another wall, and the floor and the ceiling are to the left and the right. Other times, so you open a door and it opens up into a large, um, a large cave and below you is dirt and ground and it’s clearly – you guys aren’t miners, but this is a mine. Ahead of you there is a kind of like a lever and pulley operated – like a dumbwaiter, or an elevator, but it’s running itself, over and over again, and it’s bringing up, and then lowering again, pile after pile of ore. No one is there to receive it. Um… this place is filled with strange machinery, as you – you know, you spend the day doing this. It is a place where natural resources are being dug up from the ground, strange… strange metal. Fantasmo, you recognize the metal as the same sort of metal that’s used in Hella’s sword.
+
+
+NICK: Hm.
+
+
+AUSTIN: And… there are places where these machines are changing that raw material into processed material. And there are places where it’s just like, it is just being piled up, big rods of metal, over and over again, into nothing. But there are also other places, and this is – this is where we’ll leave off, for the night – you open one door and the second you do, the space feels alive. The space feels like a place that’s lived in, unlike the ruins of the rest of this section of the building. There are… there is… there are voices in the distance, and as you get closer, you see them. There are people here who are just working, but they’re not… they’re not people, like they’re not – what’s the word I’m looking for. They’re not substantial. But they’re not like ghosts either, you’re not terrified. It’s like you’re seeing a vision into a different world.
+
+
+DRE: Hm.
+
+
+AUSTIN: What do you do?
 
 
 NICK: Um…
 
 
-AUSTIN: I feel like no.
+AUSTIN: Remember, you can each do one thing here. Like for free, without it being a – without being put at risk. Y’know?
 
 
-NICK: Once everyone—
+DRE: Yeah.
 
 
-AUSTIN: Yeah.
+NICK: Do I have to detect magic?
 
 
-NICK: Once everyone is back, uh… Fantasmo stands up and sorta like clears his throat and addresses everyone and says,
+AUSTIN: Um… You should. You should roll that. [DRE laughs]
 
 
-[MUSIC - "Autumn Not Winter" by Jack de Quidt fades in]
+[pause]
 
 
-NICK (as Fantasmo): I want you all to know, that I am so-ah… I uh… I apola… That shouldn't have happened.
+NICK: Yeah.
 
 
-[DRE laughs]
+AUSTIN (overlapping NICK): Nice!
 
 
-NICK (as Fantasmo): And (quietly mumbling) I'm sorry. 
+DRE: Dang. You smart!
 
 
-NICK: And then he sits back down.
+AUSTIN (overlapping DRE): Um, so you… Yeah. You… this is magical, this whole room is magical.
 
 
-[MUSIC - "Autumn Not Winter" by Jack de Quidt plays out in full]
+NICK: (somewhat sarcastically) Really?
+
+
+AUSTIN: But it’s a strange sort of magic. It’s at once something that you could only have conceived of as being the end result of something, um, a perfect magical formula. Like the most – you’re interested in how would you make this happen. How would you conjure a different reality like this. But at the same time, it doesn’t feel like it’s been like – human hands, or like sentient hands, like summoned this place here. Uh… Uklan, the orc archivist, the semiotician emeritus, gasps. 
+
+
+AUSTIN (as UKLAN TEL): I thought this was only – I thought this was only a theory. This is… we’re seeing another possible world. The world, it unfolds according to systems, rules. History, politics… war, society, they have velocity, they have force, they have momentum. But now and then there is a chance for great change, whether initiated through a great individual or through a social organization or through a hero or luck – these moments rise and things change a great deal, except most of the time, they don’t. Most of the time, nothing changes. Most of the time, the new boss is the same as the old boss. But… but… these moments, the ones we’re seeing, they haven’t been quashed. These are echoes. Echoes of a different world. I… I’m terrified. 
+
+
+AUSTIN: he says, and pushes his glasses back up on his nose. Sunder kind of instinctually whispers a little spell, and a ward appears underneath your feet. The ground beneath you changes, it reveals the ground that should be here, the side of this tower that’s fallen, y’know? And outside of that little ward you see that – kind of outside of that – you see a clear differentiation between inside of this kind of bubble and outside. And as you get closer to the people here, this is like now an open manufactury, and a kind of – people are working on machines and kind of – y’know, smelting ore down and turning it into other stuff… You see there, walking through the door, talking to someone, is a figure that’s maybe a little older than when you saw her last – certainly better armored – but there’s Hella.
+
+
+DRE: Hm.
+
+
+NICK: What.
+
+
+ART: Huh.
+
+
+AUSTIN: Let’s do XP!
+
+
+NICK: Auuuguhhg.
+
+
+ART: Alright, but remember next time that two of us have free moves here.
+
+
+AUSTIN: Oh, y’know what, yeah, let’s, let’s wait. Hold on those and respond to that afterwards. Let’s uh…
+
+
+DRE: Aw, man! I have so many theories!
+
+
+AUSTIN: You guys are in a weird place.
+
+
+DRE: Yeah. Fucking mega-weird place.
+
+
+ART: (unintelligible)
+
+
+AUSTIN: Like al–always.
+
+
+DRE: All of the above!
+
+AUSTIN: Also Hadrian, at this point, it is clear to you that your ring finger, the ring finger that you wear the religious symbol of your god on, is just made of marble.
+
+
+ART: Literally or figuratively?
+
+AUSTIN: Literally.
+
+
+ART: That’s okay, I’m gonna be saved, he’s gonna save me. We’re in his house.
+
+
+AUSTIN: You’re in a house.
+
+
+DRE (overlapping AUSTIN): Are we? Yeah… I don’t think we are, man. I don’t think we’re in his house.
+
+
+ART: I’m gonna be fine. You guys are being weird. Right now.
+
+
+AUSTIN: Uh, where is the end of this… End of session. Excuse me. End of session. When you reach the end of session, choose one of your bonds that you feel is resolved, completely explored, no longer relevant, or otherwise. Ask the player of the character you have the bond with if they agree. If they do, mark XP. Uh… And write a new bond.
+
+
+ART: I don’t… I don’t believe I’ve done that.
+
+
+NICK: Uh… I mean… I think I have. But the player is not here.
+
+
+AUSTIN: Who – that’s okay, what’s the, what’s the bond –
+
+
+NICK (overlapping AUSTIN): The bond is, uh, I don’t know what the heck, this is worded really weird, but I think what I meant was, I need to find out more about Hella’s sword.
+
+
+AUSTIN: Sure… Um.
+
+
+NICK: And learning that this is where apparently where its metal…
+
+
+AUSTIN: You don’t know that this is where the metal, you recognize–
+
+
+NICK (overlapping AUSTIN): But I know, I know like this is where metal like that sword comes from. So…
+
+
+AUSTIN: You recognize that this is the same sort of metal, it would be like saying, um, in the Marvel Universe, you walked into a place and found a vibramium, a vibranium – a vibranium, is that right?
+
+
+NICK (overlapping AUSTIN): Yeah, yeah, that’s one of the like 10 Marvel made-up…
+
+
+ART (overlapping AUSTIN): Yeah.
+
+
+DRE (overlapping AUSTIN): Yeah, that’s right.
+
+
+AUSTIN: – like cursed, cursed sword – right, exactly – so you recognize it as vibranium, but you don’t – this might not be the only place in the world where it comes from, right, like, this isn’t discovering Wakanda and being like, oh this is where vibranium is from, this is like wandering into a weird place in Kansas and finding a vibranium mine. Like oh, weird. Um… But I do think you’re not wrong to say that you could work on something there. Like I don’t know – you could replace that at this point, probably. With something either that builds off of it or something that is… It could just be irrelevant at this point. It’s up to you. But I don’t think this is the solution. Like I don’t think that – I think that Fantasmo knows that this doesn’t mean this is where the sword came from necessarily, y’know –
+
+
+NICK (overlapping AUSTIN): No, yeah, no that’s not what I was suggesting, I was just suggesting that he learned something…
+
+
+AUSTIN: Yeah, yeah… Yeah, he did, I think that that’s… that that’s fair.
+
+
+DRE: I don’t think that my bond with Hadrian applies anymore, because it’s – the main part is that I admire Hadrian for his convictions… And I don’t think that’s true anymore. I think between Throndir having his own like weird brushes with a demigod and also Hadrian’s convictions keep landing us in less than desirable situations [everyone laughs] like I think… yeah. Yeah. I mean–
+
+
+ART: Also we’re not gonna die here, you guys are being weird.
+
+
+DRE: That’s admirable, but I think for Throndir it’s… Like, your, Hadrian’s beliefs are going to put us in danger.
+
+
+AUSTIN: Sure.
+
+
+ART: Yeah no, morality is hard, guys.
+
+
+AUSTIN: Go ahead and take one and replace it. Once bonds have been updated, everyone look at your alignment… And if you have, uh, if you have–
+
+
+NICK: I… I did not gain respect through power, today.
+
+
+AUSTIN: No… No, not so much. Not so much.
+
+
+ART: I think you were almost disrespected through lack of power.
+
+
+AUSTIN: Eh… Hm.
+
+
+NICK: Lack of power?
+
+
+DRE: Ehhh…
+
+
+ART: I dunno, that lady didn’t seem to… didn’t seem to show you a lot of respect.
+
+
+AUSTIN (overlapping ART): She’s just a, she’s just a… Ehhh, there’s sorts of disrespect that have a, um… type of–
+
+
+NICK (overlapping AUSTIN): It’s a respectful disrespect.
+
+
+AUSTIN: Yeah, exactly.
+
+
+ART: I’m saying I could do a Rodney Dangerfield kind of vibe, but that doesn’t (count?), that’s what I’m saying.
+
+
+AUSTIN: Oh boy. Uh-huh. Did you… learn something new and important about the world?
+
+
+NICK: Yeah– yeah.
+
+
+ART: Yeah!
+
+
+DRE: Hm… Yeah.
+
+
+AUSTIN: Okay. Go ahead. Take it–
+
+
+ART: Although I’m not entirely sure what it is yet.
+
+
+AUSTIN: Yeah, that’s where I’m questioning. You learned – you’ve definitely learned some stuff, you definitely have some ideas.
+
+
+NICK: We learned that story of Samot, like that’s…
+
+
+AUSTIN: That’s an important story, that’s a story about Samot. Um… Yeah, I think that that’s 
+fair. It’s… You learned a legend about Samot, I want to make sure it’s clear that that’s a legend about Samot, but that is an important thing to learn, you’re right, do you know what I mean?
+
+
+NICK (overlapping AUSTIN): Sure, yeah, right, yeah.
+
+
+AUSTIN: Um… right right right. It’s like learning – it’s like yeah. Yeah.
+
+
+ART: It’s like – I mean, it’s super important for me cause like, this isn’t even a name recognized by the church, right?
+
+
+AUSTIN: Right, correct. Correct.
+
+
+ART: We’re getting a weird heresy tour of the…
+
+
+AUSTIN: You’re getting…
+
+
+ART: the middle part of the continent.
+
+
+AUSTIN: Yeah. Yeah. Y’all ain’t seen nothing yet. Um… Did you overcome a notable monster or enemy?
+
+
+ART (overlapping AUSTIN): That’s how you know they’re convictions!
+
+
+AUSTIN: Did you as a group…
+
+
+DRE: We ran away from one…
+
+
+NICK: Yeah.
+
+
+ART: Yeah I might die here but I died saving an innocent man!
+
+
+AUSTIN: Did you as a group – did you as a group loot a memorable treasure?
+
+
+NICK: No.
+
+
+DRE: Art got that sword.
+
+
+AUSTIN: Yeah I don’t think that that counts yet.
+
+
+NICK: Yet…?
+
+
+DRE: Fair enough.
+
+
+ART: Remember to remember it if it’s the last sword I ever touch. [AUSTIN laughs]
+
+
+DRE: We found a cool old-timey medical kit?
+
+
+AUSTIN: Yeah… No, that’s not… that’s not a memorable treasure. There is memorable treasure here, I promise.
+
+
+DRE: Yeah, I believe you.
+
+
+AUSTIN: Um… so. Alright!
+
+
+ART: I still have to write that letter to Hella, now I have to write it while pretending I don’t know these things.
+
+
+AUSTIN: Well like… yeah. You don’t even – what do you even know?
+
+ART: Nothing, but I can’t use it – the letter is already written, I just haven’t written it as a person.
+
+
+AUSTIN: As a human person, right.
+
+
+ART: Right.
+
+
+AUSTIN: Alright, let’s time.is and then call it.
+
+
+DRE: Man, if I’d failed twice I would’ve leveled up.
+
+
+AUSTIN: The story of my life.
+
+
+DRE: If Kindrali had just shown me some bullshit visions.
+
+
+ART: I literally got no experience in that game. It’s awful.
+
+
+AUSTIN: No you got one! You got one. Didn’t you get – you guys learned something new and important. That’s one. 
+
+
+ART: Oh, you gave us that. 
+
+
+AUSTIN: Yeah! Yeah.
+
+
+ART: I thought you were saying no to that.
+
+
+AUSTIN: Nonono, I said yeah but I wanna make sure that it’s not, you didn’t learn a historical fact about Samot, you learned an important legend about Samot. That’s all, that’s all I wanted to make sure that was clear.
+
+
+ART: Yeah, I learned some important orc lies about my god.
+
+
+[AUSTIN and DRE laughing]
+
+
+NICK: That still tells you a thing.
+
+
+AUSTIN: To our listeners. To our listeners, something very interesting is happening with Art and his understanding of what’s happening here. That’s all I wanna say. I’m guessing that there are some listeners who picked up on this already. But there is something happening here that is, is… this is what faith looks like. Um… okay. Let’s clap. At, uh… 50… Or at, let’s say 10 seconds.
+
+
+DRE: Okay.
+
+
+AUSTIN: Actually we should do outros, is what we should do, before we do that.
+
+
+DRE: Oh, yeah.
+
+
+AUSTIN: Boy.
+
+
+ART: Oh sure.
+
+
+AUSTIN: I’m Austin –
+
+
+ART: So we didn’t do intros.
+
+
+AUSTIN: We did – oh did we not do intros? Oh man.
+
+
+NICK (overlapping AUSTIN): Nope. Yeah, we went right in.
+
+
+DRE (overlapping NICK): Yeah we skipped ‘em.
+
+
+AUSTIN: Ugh… Well, it’s good because we didn’t want to go too long today anyway. So, I’m Austin Walker, you can find me at @austin_walker on Twitter, theCalcutec on Twitch, you can find the stuff that I write at clockworkworlds.com, and I also often write for pastemagazine.com/games. By the time you read this – by the time you read this, my Crew review should definitely be up. [laughs]
+
+
+DRE: Hopefully, question mark? [laughs]
+
+
+AUSTIN: Right? But no, it should be, and I’m sure I’ll have written something else for them by then. What about you, Art, where can people find you on the Internet?
+
+
+ART: Uh, you can find me on Twitter at @atebbel, you can find me at StreamFriends like everyone else here, you can also listen to the other podcast I do at kickinshow.com, and I just wanna say happy Valentine’s Day everyone, I know – I know it’s Valentine’s time, I hope you’re all having a really good happy time.
+
+
+NICK (overlapping ART): Oh man. It’s my birthday too!
+
+
+AUSTIN (overlapping ART): Lovely time, listening to – oh, happy birthday!
+
+
+NICK: Thanks!
+
+
+AUSTIN: Oh buddy.
+
+
+DRE: It’ll be – it’ll be a week from my birthday.
+
+
+AUSTIN: Happy birthday to both of you! [MUSIC - “Autumn Not Winter” starts] I hope you’re snuggled up for a nice Valentine’s Day, y’know, Friends at the Table. We should’ve made a special Friends at the Table Valentine’s Day!
+
+
+DRE: For Valentine’s Day, I got you… Friends at the Table.
+
+
+AUSTIN and NICK: Aww.
+
+
+DRE: [laughs]
+
+
+AUSTIN: Where can people find you, Nick?
+
+
+NICK: You can find me at Twitch, Twitter, and Youtube slash drevilbones.
+
+
+AUSTIN: And Andrew, where can people find you?
+
+DRE: Hey, you can find me on Twitter, I’m at @andrewleeswan, and of course I’m on StreamFriends as well. 
+
+
+AUSTIN: And also, thanks to Keith who will theoretically be editing this episode, who even knows if his computer will be fixed by February [laughing], we’ll see!
+
+
+NICK: Hey, the next one, the next one will be broken this time.
+
+
+ART (overlapping NICK): You mean this week? You mean right now?
+
+
+AUSTIN: No –
+
+
+NICK: The one he’s building now.
+
+
+AUSTIN: Right, exactly. Right. Uh… so...
+
+
+DRE: These are live.
+
+
+AUSTIN: These are live. We’re live, coming to your eardrums right now. [DRE laughs] Thanks for listening everyone, stay tuned, the next session of this one is one I’m very excited about. So.
+
+
+[TIMESTAMP 1:19:50]
+[music stops]
+
+
+ART: (Remember?) this one, and then there’s wrestling theme music, and that’s how it started.
+
+
+AUSTIN (overlapping ART): There’s a car, and (unintelligible)
+
+
+ART: Skree!!
+
+
+DRE: Yeah. [laughs]
+
+
+AUSTIN and NICK?: Da doot, da doot, da doot, da doot – yeah [laughing]
+
+
+AUSTIN: Is that what it says? Okay, let’s –
+
+
+DRE: Austin’s here! Wrestle time!
+
+
+AUSTIN: That’s it, Austin’s here, and then a couple shots of me walking and it says “WRESTLE TIME”. [DRE laughing]. Da-dun, da-dun, da-dun, yeah, that’s it.
+
+
+DRE: Waaaaow!
+
+
+AUSTIN: Thanks everybody, bye. Bye. Bye.

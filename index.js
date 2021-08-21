@@ -68,14 +68,14 @@ const transcripts = [
             "1bQBl-pe7V3KXu_oY4FKJatFGEuKqjHzbzGBPkAewd2c",
             "1XdbXmjv2injl8Ua7_KtpaBRzIvCsv23w269KvvV4rJs",
             "112IWBUU1Yes1A7u75xKSxvGjFtcktUzW0weW0uLPvN4",
-            // Autumn in Hieron 07: Boat Party?
+            "1Sw-f33rrfarmd1AX8Gmd8bENbnmdItVBCTKIqimV_Uk", // Autumn in Hieron 07: Boat Party?
             "1Qe-Za5Yq_60X2-xIINdzP3EAVXxicwAR4zzK991YhgQ",
             "1znte6qTjshc1vFiF7UE9H3tk1FwEcTjBsLuWWWkL0yU",
             "1B59UxpObG0U_ky8o5YbyRC4RC2xS-a9hbzJBB-DT_Kk",
             "1BHXPnZty5CHuZAQwiB2019m_doof7ADB3wksa_NWzNo",
             "1OSPBC5R-8M0KoAmJfjEQS86wqdxCWQWCSGRlLklbjQI",
             "1IpnFHplPXGH2IOEpTs9g2w-yLGTEkpH2VQuawpUUK4o",
-            // Autumn in Hieron: Holiday Special 01: I Don’t Know What’s in That Box
+            "1Kz3rzwRRpSdMoIkXAIWI3hmdgOuiwUql5U_ZlBka2tE", // Autumn in Hieron: Holiday Special 01: I Don’t Know What’s in That Box
             "1B_GSuQ42l0Y2kcxiGl0gC1cgcKekDmV4DbmGsaQOV0w",
             "1xyHZAhhv1uaJONTXVs9r9sWvYNCCCxWv6y31zMax0wY",
             "1Zxf5R4YiPCyHkGneCSxnTA402GfJBfEM6I9_S3RFDD0",
@@ -373,7 +373,7 @@ const transcripts = [
             "1KzrvLzEUsi5wd0Bn78m4s0OdVObyfyRtvrNcug4tlbI",
             "1DAdJ6No3TedeM3vF-EO7aH8Ud_VrJvOq0YuxReElonw",
             // PARTIZAN 19: On the Edge of Fracture
-            // PARTIZAN 20: On the Eve of Revolution
+            "1LfZw_4IzHzPbtC1xDE-e-8qXAr-2Ic5QhlwAOQ1U1T0",  // PARTIZAN 20: On the Eve of Revolution
             // PARTIZAN 21: Millennium Break: We Will Take Hold of the Loom of History!
             "1uK8RArlWsdSw47VJVYxiDx-mJSMf6zDupiswG1kKweA",
             "1gWOvis33BYNBfSGG7pnkEDvgfCE5htZatvXq4xV86ws",
@@ -402,7 +402,7 @@ const transcripts = [
             // PARTIZAN 45: Operation Shackled Sun: Act 1: The Fray
             // PARTIZAN 46: Operation Shackled Sun: Act 2: The Gate
             // PARTIZAN 47: Operation Shackled Sun: Act 3: The Stories Told About the Things We Do
-            // PARTIZAN 48: Post Mortem
+            "1K1_wER_xG8JHfEnbmpBWGi_XFDkg7HDVMquUT1RWzc8", // PARTIZAN 48: Post Mortem
 
         ]
     },
@@ -416,12 +416,19 @@ const transcripts = [
             // Sangfielle 04: The Blackwick Group
             // Sangfielle 05: The Hymn of the Mother-Beast Pt. 1
             "1wShi5uvYHOEpNIZgF0JuNXLFEQmK6FGnG_kMFhVsZRA",
-            // Sangfielle 07: The Hymn of the Mother-Beast Pt. 3
+            "1Hy68u6GQNEMfAhPqATFcF4Dv5Jqk1Jd01b_XNO3SvDk", // Sangfielle 07: The Hymn of the Mother-Beast Pt. 3
             // Sangfielle 08: The Hymn of the Mother-Beast Pt. 4
             // Sangfielle 09: The Secret Ledger of Roseroot Hall Pt. 1
             // Sangfielle 10: The Secret Ledger of Roseroot Hall Pt. 2
-            // Sangfielle 11: The Secret Ledger of Roseroot Hall Pt. 3
-            // Sangfielle 12: The Secret Ledger of Roseroot Hall Pt. 4
+            "1O7-ytnphNdpn5D1zLJXgviWrDUTYxs9PJoQd3xhPzCg", // Sangfielle 11: The Secret Ledger of Roseroot Hall Pt. 3
+            "1G3OUBiskuTTkJYudxbCjuIFtyE5FOnngzi37vbizkFQ", // Sangfielle 12: The Secret Ledger of Roseroot Hall Pt. 4
+            "1yoCrscfk-5k8IaM_6T0RXuXDBgyAJeBTcgY0ToeKE0w", // Sangfielle 13: Market Day in Blackwick
+            "1H2HNCdwZw05GlvkgL9WVY7TkX4GplgACFTqSZyGF7-A", // Sangfielle 14: The Candle Factory Pt. 1
+            "16p8PRryW2y1NuAFO4c_i86C_pmJgT6h7PM0z2oyctjc", // Sangfielle 15: The Candle Factory Pt. 2
+            "1mYD3ArDEElAOm05NEU4FefmC7L7zCW1-vk64iK11Xf0", // Sangfielle 16: The Candle Factory Pt. 3
+            "1YMfPjKnmsCyYjqXFJzw_ENyrLKTJkiKLiW89-4qA2UQ", // Sangfielle 17: What Happened at the Bell Metal Station Pt. 1
+            "1aXI7ibRIZaI_eWsoxVxqUx1f3YjoGyVH2dcl2noAyv4", // Sangfielle 18: What Happened at Bell Metal Station Pt. 2
+            "11neQMzcBxYBoQVA8X83QXVfdUfJBZEd6y9pOSPJUm4U", // Sangfielle 19: What Happened at Bell Metal Station Pt. 3
         ]
     }
 ];

@@ -7,7 +7,7 @@ Dre: Oh buddy.
 Art: A lot’s goin’ on with you. [Ali, Austin, and Dre laugh]
 Austin: You feel um- you feel blessed. 
 Art: It’s not me, it’s you. [Dre and Austin laugh]
-Austin: Uh, Hadrian, you feel blessed for the first time by this light because it’s shine reveals to you those who are precious. Rosana, your wife. A lock or two of pale blonde hair sticking out from under a covering. Her full body clearly tired from the travel, yet still driven to do what comes next. And there he is. Your boy. The voice in your head drops and takes on a playful base when you see him. Your muscles ache to lift him above your head like you used to back when your faith was stronger than your arms. Now he is bigger though. A lanky 10 year old, and his hair is messier than even its usual scattered mop. Rosana covers her mouth when she sees you. And then removes her hand and says, 
+Austin: Uh, Hadrian, you feel blessed for the first time by this light because it’s shine reveals to you those who are precious. Rosana, your wife. A lock or two of pale blonde hair sticking out from under a covering. Her full body clearly tired from the travel, yet still driven to do what comes next. And there he is. Your boy. The voice in your head drops and takes on a playful base[a] when you see him. Your muscles ache to lift him above your head like you used to back when your faith was stronger than your arms. Now he is bigger though. A lanky 10 year old, and his hair is messier than even its usual scattered mop. Rosana covers her mouth when she sees you. And then removes her hand and says, 
 Austin (as Rosana): I’ve told him best I can. But he… [pauses]
 Austin: And before she can finish, there is the sound of metal on rock. And the noise announces the arrival of the wizard, Arrell, who clears his throat and turns his back east of you. Benjamin shifts his little, round glasses. They remind you suddenly of Fantasmo’s. And his eyes meet yours, looking for an answer. What do you do?
 Art: I crouch. I crouch to get his- to get to Benjamin’s eye-level. 
@@ -155,7 +155,7 @@ Art: I think the real question is, did Ephrim and did we- did he give me half of
 Austin: Yeah. That’s a question. [Janine and Dre laugh]
 Art: Um… I mean, I don’t want to speak for Ephrim. 
 Austin: Uh huh. But-
-Art: So, I’m gonna see if I can get in touch with Sylvia[a] real quick. [Dre and Ali laugh]
+Art: So, I’m gonna see if I can get in touch with Sylvia[b] real quick. [Dre and Ali laugh]
 Austin: [laughing] Ho-oh!
 Janine: Did you just really tersely say like, ‘Samothes provides’ when he- when you just took all that money?
 Austin: Alright, so we just did a bunch of shopping that Ali cut. Everyone has a bunch of rations. Throndir bought- er Hadrian bought some more- some more arrows for Throndir. We determined that Hadrian and Ephrim did not rob the dead half-body of Fantansmo or whatever was left of Fantasmo. Even though Fantasmo had-
@@ -792,4 +792,5 @@ Austin: [sighs] It falls for twenty feet, thirty feet. Um, you can see it- it li
 [Jack de Quidt’s “Inside” begins playing in the background] 
 And they are built out of a- I guess, Hadrian did see the City of First Light. Um, and they have that style of construction. The Marielda style. The kind of like, mid-town Marielda style with like, the touches of obsidian and the canopies that go between them. And then that’s there now. Um, and then, at that point, there’s just like this weird divide between one set of world where there is like- when you look to your left, you see the forests that go up intot Rosemerrow. And when you look to your right, there’s a version of the world that is- that looks like Marielda. Or at least that style of construction. Uh, as a city to the south. 
 [ Music plays out to end] 
-[a]The name in the audio recording is no longer in use.
+[a]think this should be 'bass' as in tone, not base as in bottom
+[b]The name in the audio recording is no longer in use.
