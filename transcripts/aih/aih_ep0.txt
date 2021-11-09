@@ -30,7 +30,7 @@ JACK: I'm ready.
 NICK: Ready.
 
 
-KEITH: Are we ready? Okay. Three, two, one, , clap!
+KEITH: Are we ready? Okay. Three, two, one, clap!
 
 
 [out-of-sync claps]
@@ -129,7 +129,7 @@ JACK: It's a genre!
 AUSTIN: And to— Dungeon World is a game that came out a couple of years ago now. It's a hack of a game called Apocalypse World. Apocalypse World was made by Vincent Baker, who has been in the kind of independent tabletop scene for… let's say a decade now? Put out things like— I just made that number up, but I know he's been making games since at least when I was in college about a decade ago. Uh, things like Dogs in the Vineyard. Sage LaTorra— 
 
 
-JACK: That sound like a cute game.
+JACK: That sounds like a cute game.
 
 
 AUSTIN: Heh. It is not. Uh, the people who made Dungeon World are Sage LaTorra and… another person whose name I always forget but I'm checking currently. Something Koebel… something Koebel… the name of their company is Sage Kobold, which is adorable.
@@ -150,7 +150,7 @@ AUSTIN (cont.): This first time, we're gonna make characters and talk a lot abou
 ALI: I got you, I got you.
 
 
-AUSTIN: Awesome, thank you Ali. And that means, well literally, oh, it's cool to have maps! But also, let's not fill them with too much information, because we'll find out what that information is when we get there. But also, kind of thematically and in terms of fiction, we can talk about the big empire that exists, but we probably shouldn't like, know the name of each of it cities right now. That's not— We'll figure that stuff out as we go, that's really fun. I'll be "addressing the characters and not the players," so once we're in the actual game, I'm not gonna say, "Art, do this." I'm gonna say, "Art's character's name, this thing happens." And in general, it's also just about keeping your mind in the head of the characters in the game. Characters in Dungeon World aren't just a bag of experience points and gear, they are characters with motivations and bonds to each other. 
+AUSTIN: Awesome, thank you Ali. And that means, well literally, oh, it's cool to have maps! But also, let's not fill them with too much information, because we'll find out what that information is when we get there. But also, kind of thematically and in terms of fiction, we can talk about the big empire that exists, but we probably shouldn't like, know the name of each of its cities right now. That's not— We'll figure that stuff out as we go, that's really fun. I'll be "addressing the characters and not the players," so once we're in the actual game, I'm not gonna say, "Art, do this." I'm gonna say, "Art's character's name, this thing happens." And in general, it's also just about keeping your mind in the head of the characters in the game. Characters in Dungeon World aren't just a bag of experience points and gear, they are characters with motivations and bonds to each other. 
 
 
 AUSTIN (cont.): Third, "Embrace the fantastic," and do this on different scales. I'm not going to be running a kind of dull fantasy game that's just like— I'm not dissing Game of Thrones here, right? But one of the things that makes Game of Thrones really good is that it kind of goes the opposite way with this and says, "No, the fantastic is going to happen every once in a while, but for the most part it's just going to be grimy and dirty, and just like, fuckin' people backstabbing each other," and like, that's not what we're gonna do here. We're really embracing the fantastic. We're going to have things that are really magical, and maybe— and maybe magical in mundane ways, but still really fantastic. 
@@ -159,7 +159,7 @@ AUSTIN (cont.): Third, "Embrace the fantastic," and do this on different scales.
 AUSTIN (cont.): Third is— Or fourth is, "Make a move that follows," and that means that the fiction— the mechanics should follow the fiction. If you get, you know, slammed— If you get knocked off of a flying airship and land in some water, your next move should probably not be like, to snipe the dude who knocked you off the airship. Let's handle that water thing first. The moves need to follow what happens from the fiction. And the same thing goes for the opposite. Where like, my— If you guys run through— If you have a character on the ground and you have him at your mercy, I'm not gonna make you roll to kill him. Like, he's at your mercy, the move doesn't need to be rolled.
 
 
-AUSTIN (cont.): Third—or, I guess, fifth—sorry. I'm bad at counting. I'm never going to speak the name of my moves. And I almost left this off the list, since this is kind of a secret GM thing. In Dungeon World the GM doesn't roll dice like ever. Uh, I don't roll to see if I hit you. Uh, I don't roll to see if the trap goes off. You guys do all of that rolling. In fact, even you guys get to roll the damage dice used against you, if you want. Like, I'll do that if you— if you can't bare to pick up the dice yourself to do it. [ALI laughs] But, but it's important for you guys to know that when I say like, "Oh, this is the thing that happens," I'm drawing from rules that say this is what Austin's allowed to say happens, even though he's not rolling for it.
+AUSTIN (cont.): Third—or, I guess, fifth—sorry. I'm bad at counting. I'm never going to speak the name of my moves. And I almost left this off the list, since this is kind of a secret GM thing. In Dungeon World the GM doesn't roll dice like ever. Uh, I don't roll to see if I hit you. Uh, I don't roll to see if the trap goes off. You guys do all of that rolling. In fact, even you guys get to roll the damage dice used against you, if you want. Like, I'll do that if you— if you can't bear to pick up the dice yourself to do it. [ALI laughs] But, but it's important for you guys to know that when I say like, "Oh, this is the thing that happens," I'm drawing from rules that say this is what Austin's allowed to say happens, even though he's not rolling for it.
 
 
 AUSTIN (cont.): Six, "Give every monster life." Seven, "Name every person." The characters in these worlds will have names and intentions and goals of their own. You'll never fight a goblin just 'cause like, goblins are there to give you XP and be stabbed. Like, those goblins might have really basic, you know, desires. They might want to… They might like, want the territory that you're on or something, right? They might just want to protect what's theirs, but they'll have a reason for doing what they're doing. The same thing with characters.
@@ -288,7 +288,7 @@ AUSTIN (cont.) What that means is, if you say like, "Oh, I'm going to use Hack a
 AUSTIN (cont.): But I could also say like, "Well, if that's what you're doing fictionally, maybe you have to get past his spear, first. And to do that, you have to make the move, Defy Danger. You have to actually close that distance." And so, again, the fiction and the mechanics here have to work hand-in-hand, otherwise the game just doesn't work. So there will be times where both of us need to call each other out and say like, "Hey, wait. Does that really fit the fiction? Does this mechanical roll fit the fiction that you set up right now."
 
 
-AUSTIN (cont.): And finally, I need to think off-screen. Somethings stuff will happen that isn't clear to you right away. Um, or that I have to like gesture towards the fact that the world exists outside the conversation that we're having right now. Other forces are always at play. There's lots of cool stuff in Dungeon World that lets me move the pieces on the kind of board uh, regarding the way that you guys are going and to inter— to interact with the way you guys are going, even if you're not always seeing it right away. At my best, I'll be able to like gesture towards that and you'll see the gesture and be like, "Ooh, what's happening over there." At my worst, it'll just be like a really annoying cut scene, where like, "Oh, meanwhile over here."
+AUSTIN (cont.): And finally, I need to think off-screen. Sometimes stuff will happen that isn't clear to you right away. Um, or that I have to like gesture towards the fact that the world exists outside the conversation that we're having right now. Other forces are always at play. There's lots of cool stuff in Dungeon World that lets me move the pieces on the kind of board uh, regarding the way that you guys are going and to inter— to interact with the way you guys are going, even if you're not always seeing it right away. At my best, I'll be able to like gesture towards that and you'll see the gesture and be like, "Ooh, what's happening over there." At my worst, it'll just be like a really annoying cut scene, where like, "Oh, meanwhile over here."
 
 
 [ALI laughs]
@@ -306,7 +306,7 @@ AUSTIN (cont.): The one thing, that I am pretty certain on, is that there's a ce
 AUSTIN (cont.): And we're post the terrible period that followed that and at the point of uh… At the point where it could go one of two ways. It can either be a further decline into nothingness or it can be a moment of rebuilding. It could be a moment where we bounce out of this and move on. It could be fall or it could be spring. Um, I like fall colors a lot so I talked a lot about autumnal colors in my original pitch to you and like, that's kinda how I feel— That's the way the world's gonna go if you don't get involved, if that makes sense. If you guys can save the day, we can make it spring, but if you can't, then it's fall and we're heading into winter.
 
 
-AUSTIN (cont.): Um, so yeah, I think that that's basically the game I want to run. I want to run a game where what we can say is, we're tied down to the his— the kind of historical fantasy tropes. Or not, we're not tied down to it. Those historical fantasy tropes existed, but we're not tied down to them anymore. What can we make this world? Now we can make it what we want. How are we held down by history's baggage and how can we break free from it. Um, so it's been, I don't know, a couple hundred years since this bad thing happened. What do— What do people think about how long ago, whatever the event was, should be? How— What do you think is like a fair among of time?
+AUSTIN (cont.): Um, so yeah, I think that that's basically the game I want to run. I want to run a game where what we can say is, we're tied down to the his— the kind of historical fantasy tropes. Or not, we're not tied down to it. Those historical fantasy tropes existed, but we're not tied down to them anymore. What can we make this world? Now we can make it what we want. How are we held down by history's baggage and how can we break free from it. Um, so it's been, I don't know, a couple hundred years since this bad thing happened. What do— What do people think about how long ago, whatever the event was, should be? How— What do you think is like a fair amount of time?
 
 
 KEITH: [cross] Well, if we're talking—
@@ -480,7 +480,7 @@ AUSTIN: Um, I… I like the idea that there are people who think, "Oh it was bet
 NICK: Yes.
 
 
-AUSTIN: And also people who say, "No, it didn't go far enough. Things are still too much like the way they used to be." Um, and maybe people— Maybe— I mean, I think this is a thing that I'm definitely going to have to dive into at some point for adventures and stuff. Like, there are probably groups that lived. That made it. Um, it's a big world and maybe you'll come across those people. The people who might still think the war is going on, so to speak. Who are still on their little islands who think, "Oh, this is it. This is— There are still the orcish hordes and the wise elves in the east," and like, "Nah, dawg, that— It changed," but like— So I'm tore between making it like eons ago. Ope, did I lose you guys?
+AUSTIN: And also people who say, "No, it didn't go far enough. Things are still too much like the way they used to be." Um, and maybe people— Maybe— I mean, I think this is a thing that I'm definitely going to have to dive into at some point for adventures and stuff. Like, there are probably groups that lived. That made it. Um, it's a big world and maybe you'll come across those people. The people who might still think the war is going on, so to speak. Who are still on their little islands who think, "Oh, this is it. This is— There are still the orcish hordes and the wise elves in the east," and like, "Nah, dawg, that— It changed," but like— So I'm torn between making it like eons ago. Ope, did I lose you guys?
 
 
 JACK: I don't— No.
@@ -693,7 +693,7 @@ AUSTIN: No, I—
 KEITH: Right, yeah.
 
 
-AUSTIN: I'm really— I see this is as a place that has some burgeoning, you know, power players who are, you know, (JACK: Right, right) consolidating and building strength. And then lots of little, you know, little factions. Again—
+AUSTIN: I'm really— I see this as a place that has some burgeoning, you know, power players who are, you know, (JACK: Right, right) consolidating and building strength. And then lots of little, you know, little factions. Again—
 
 
 JACK: Almost how like New Vegas has the Strip and also like, Primm or Goodsprings.
@@ -840,7 +840,7 @@ AUSTIN: I hate it. I hate starting on multiple— Two continents, too many.
 [ALI laughs]
 
 
-JACK: I'm more of archipelago person.
+JACK: I'm more of an archipelago person.
 
 
 AUSTIN: Well, okay. Well here's the thing, actually is, I was thinking about how—this could be like, the fact that I'm kind of hyped for like, No Man's Sky, but like—if this is the continent, right? You guys see that?
@@ -2447,7 +2447,7 @@ JACK: Um, and they're sort of... People hold them to be almost magnetic, in the 
 AUSTIN: Mh-hmm.
 
 
-JACK: Uh, and they're sort of aligned, aligned in the looser sense of the word. Are the ley lines that you us, similar to that? Or, if I dug a— a big hole, would I actually find something crisscrossing through the earth?
+JACK: Uh, and they're sort of aligned, aligned in the looser sense of the word. Are the ley lines that you use, similar to that? Or, if I dug a— a big hole, would I actually find something crisscrossing through the earth?
 
 
 NICK: No, there's no physical component to it. You have to— 
@@ -2786,7 +2786,7 @@ ART: [cross] Considering, but not— not anything certain.
 AUSTIN: Mh-hmm.
 
 
-KEITH: Let's so— real quick, if we can get into um, uh… You said that we can be work can being with the— the stuff if we decide that that's a thing that we want to do.
+KEITH: Let's so— real quick, if we can get into um, uh… You said that we're being—we can be—we're being pretty lenient with the— the stuff if we decide that that's a thing that we want to do.
 
 
 AUSTIN: Mh-hmm.
@@ -2825,7 +2825,7 @@ AUSTIN (cont.): Monopoly. Yeah, well.
 JACK: Mmm.
 
 
-AUSTIN: We're trying out best, Jack.
+AUSTIN: We're trying our best, Jack.
 
 
 KEITH: And uh, so I would be— I would be a halfling, but I would— I would prefer to have the— the uh— I prefer what it says about me, to have a human power of, "You learn to bind animals to field and farm."
@@ -2864,7 +2864,7 @@ JACK: What is that actual— What does that actually say?
 AUSTIN: Yeah, thank you, sorry. Read that off.
 
 
-KEITH: Uh, "As your people learn to bind animals to field and farm, so to are you bound to them. You may take the shape of any domesticated animal, in addition to your normal options." Is the… (JACK: Woah.) for Druid.
+KEITH: Uh, "As your people learn to bind animals to field and farm, so too are you bound to them. You may take the shape of any domesticated animal, in addition to your normal options." Is the… (JACK: Woah.) for Druid.
 
 
 JACK: That's really good.
@@ -3344,7 +3344,7 @@ JACK: Yeah.
 AUSTIN: Um, so they— It's both. It had always been this kind of like, this savage brown folk and also the— the magma fire, you know, engineered.
 
 
-JACK: There's something particularly, internally and externally prejudice towards orcs, I think. Largely because in Tolkien, they're villainous. They're consistently villainous. But if you look at like the Elder Scrolls… 
+JACK: There's something particularly, internally and externally prejudiced towards orcs, I think. Largely because in Tolkien, they're villainous. They're consistently villainous. But if you look at like the Elder Scrolls… 
 
 
 AUSTIN: Mh-hmm.
@@ -3374,7 +3374,7 @@ JACK: I don't know.
 KEITH: I think, I— Yeah, that's how I—
 
 
-JACK: I like the idea… I'm playing— I'm hoping to play as a Bard, (AUSTIN: Yeah, yeah.) because I've always been very, very prejudice against Bards and… 
+JACK: I like the idea… I'm playing— I'm hoping to play as a Bard, (AUSTIN: Yeah, yeah.) because I've always been very, very prejudiced against Bards and… 
 
 
 AUSTIN: I don't know how that's possible. It's un—
@@ -3446,7 +3446,7 @@ JACK: Like, yeah.
 AUSTIN: "They're trying to like make sure we still have stuff."
 
 
-JACK: My mental image of— of kind of like orc settlements or at least like a major orc settlement is almost like warehouses. Or like, museum— museum very carefully organized museum storage. (AUSTIN: Mh-hmm.) Like, they thumb through a book and find a reference number. And then go and like get it out of a little box. Or your could order it from there or something.
+JACK: My mental image of— of kind of like orc settlements or at least like a major orc settlement is almost like warehouses. Or like, museum— museum very carefully organized museum storage. (AUSTIN: Mh-hmm.) Like, they thumb through a book and find a reference number. And then go and like get it out of a little box. Or you could order it from there or something.
 
 
 KEITH: Sort of like last scene in Indiana Jones?
@@ -3908,7 +3908,7 @@ ART: Or you know, some case of that.
 AUSTIN: Okay, let's have some first— Let's have the big metaphysical question. There are gods? Are there gods? Were there gods, before— Forget about where we're at now. Was there a— There was a time when there were gods.
 
 
-ART: I would say, yes— As someone who— As someone who looking to play a divinely magical character, yes.
+ART: I would say, yes— As someone who— As someone who, someone  looking to play a divinely magical character, yes.
 
 
 [laughter]
@@ -3929,13 +3929,13 @@ ART: I say yes.
 AUSTIN: And there were a pantheon of gods. Okay. 
 
 
-JACK: Yeah, I would vote [cross] like, probably.
+JACK: Yeah, I would vote [cross] like, provably.
 
 
 ART: [cross] But we can talk like a… 
 
 
-AUSTIN: Probably in so far as, you could prove ley lines exist.
+AUSTIN: Provably in so far as, you could prove ley lines exist.
 
 
 NICK: Okay.
@@ -4094,7 +4094,7 @@ AUSTIN: So that's—
 ART: And I think I'm speaking to a very like, clear religious idea just by saying those two things, right, like? And I guess I'm a little worried I'm describing Christianity and I don't want to be—
 
 
-AUSTIN: Well, I mean, there's a lot more to Christianity than just those things. There are lots of religious that have historically been tied up with civilization and the downtrodden.
+AUSTIN: Well, I mean, there's a lot more to Christianity than just those things. There are lots of religions that have historically been tied up with civilization and the downtrodden.
 
 
 ART: Right.
@@ -4160,7 +4160,7 @@ AUSTIN: Bless you?
 NICK: Oh. Sorry about that.
 
 
-AUSTIN: Oh, okay. Okay, okay. I again, thought it might have been a cold. [laughter] No offense to Matt. I love you Matt. Uh...
+AUSTIN: Oh, okay. Okay, okay. I again, thought it might have been a dog. [laughter] No offense to Matt. I love you Matt. Uh...
 
 
 NICK: Matt's not a dog. You guys can talk to him through me.
@@ -4385,7 +4385,7 @@ AUSTIN: Okay, that's fine. We can just work through that stuff when it comes wit
 ALI: Yeah.
 
 
-AUSTIN: But I do like this idea of this group that has said, "Listen, we're gonna go over here. We're gonna make stuff. We're gonna do our own shit. And we're gonna ship it to the continent but this is it. This is us. We're over here. We're not part of this other thing."
+AUSTIN: But I do like this idea of this group that has said, "Listen, we're gonna go over here. We're gonna make stuff. We're gonna do our own shit. And we'll ship it to the continent but this is it. This is us. We're over here. We're not part of this other thing."
 
 
 ART: Do you realize you're describing the Amish?
@@ -4505,7 +4505,7 @@ AUSTIN: [cross] You know how people do that like—
 JACK: [cross] "Oh this is talking sword magic, you know."
 
 
-AUSTIN: Or are they like— Or is this a thing that you have to hid because it's important and blah, blah, blah. Like, which way sounds more interesting?
+AUSTIN: Or are they like— Or is this a thing that you have to hide because it's important and blah, blah, blah. Like, which way sounds more interesting?
 
 
 ALI: So my initial reaction is that it's something that she hides?
@@ -4583,7 +4583,7 @@ ALI: Yeah.
 AUSTIN: A feel— It's always felt alive in your hands, you know. 
 
 
-ALI: Right. Well, I feel like it was the sort of thing that she came about, just like— She was a hired hand for something and they were like, "Hey you can take this cool sword off the rich guy." Or, "I'm not a rich guy, this is what I can give you instead of money."
+ALI: Right. Well, I feel like it was the sort of thing that she came about, just like— She was a hired hand for something and they were like, "Here you can take this cool sword off the rich guy." Or, "I'm not a rich guy, this is what I can give you instead of money."
 
 
 AUSTIN: I see.
@@ -4631,7 +4631,7 @@ ALI: [cross] But like or— Or maybe there's like some sort of like, nothing lik
 AUSTIN: Mh-hmm. Okay. I'm into that.
 
 
-ALI: And it's like, "Am I imagining this? What's going on with about this sword."
+ALI: And it's like, "Am I imagining this? What's going on with this weird sword."
 
 
 AUSTIN: Mh-hmm. Okay, I'm into that. Uh… 
@@ -4649,7 +4649,7 @@ AUSTIN: [laughs] Alright. What's— What's— Do you guys want to like dive into
 [TIMESTAMP: 1:38:00]
 
 
-KEITH: Yeah. I have— I have one and a have very specific Bonds that— One I had in my head, and when Jack went, and one of them I had in my head when Art went. Specifically, Art talking about wanting to restore things to the way that they used to be.
+KEITH: Yeah. I have— I have one-and-a-half very specific Bonds that— One I had in my head, and when Jack went, and one of them I had in my head when Art went. Specifically, Art talking about wanting to restore things to the way that they used to be.
 
 
 AUSTIN: Mh-hmm.
@@ -4724,7 +4724,7 @@ KEITH: Yeah, yeah.
 AUSTIN: Um, so— So don't feel—
 
 
-KEITH: Uh, and maybe it'll come back up. Maybe I'll learn to trust you and I'll still go and like, "No but you are— but your mission is to— is fundamentally antithetical to my way of life."
+KEITH: Uh, and maybe it'll come back up. Maybe I'll learn to trust you and I'll still go like, "No but you are— but your mission is to— is fundamentally antithetical to my way of life."
 
 
 AUSTIN: Right.
@@ -4810,7 +4810,7 @@ AUSTIN: And then legit—
 ART: We've all met, right? We're not gonna do the, here we're introducing each other game session, right?
 
 
-AUSTIN: I don't want do bit. In fact, um, (KEITH: I don't want to, either.) if we had more time, I would just roll this right into an adventure. And so expect that whenever we regroup next week.
+AUSTIN: I don't want to do that bit. In fact, um, (KEITH: I don't want to, either.) if we had more time, I would just roll this right into an adventure. And so expect that whenever we regroup next week.
 
 
 JACK: Yeah.
@@ -5122,7 +5122,7 @@ AUSTIN: Mh-hmm.
 NICK: And struggling with how they would be resolved.
 
 
-AUSTIN: Well they— Resolution here doesn't mean, and now it's gone forever. It means that you spoke to it in an adventure and it helped you or it hindered your or it was just a good talking point. So… 
+AUSTIN: Well they— Resolution here doesn't mean, and now it's gone forever. It means that you spoke to it in an adventure and it helped you or it hindered you or it was just a good talking point. So… 
 
 
 NICK: Okay.
@@ -5299,7 +5299,7 @@ JACK: Yeah, I think so.
 KEITH: Okay.
 
 
-JACK: I think— Uh, where's my pen. Oh here it is. I think, that if anybody, unless anybody has any objections, I think I'll to to be called Lem King. Like, Lem—
+JACK: I think— Uh, where's my pen. Oh here it is. I think, that if anybody, unless anybody has any objections, I think I'd like to be called Lem King. Like, Lem—
 
 
 KEITH: Lem King.
@@ -5554,7 +5554,7 @@ AUSTIN: I really like that, in a sense, because it feels like— It feels like y
 NICK: Yeah, no.
 
 
-AUSTIN: That like, that's what wizards are suppose to— That's a proper wizard name.
+AUSTIN: That like, that's what wizards are supposed to— That's a proper wizard name.
 
 
 NICK: Right.
@@ -5968,7 +5968,7 @@ AUSTIN: Goddammit Matt, no wonder the cats are all riled up.
 [dog barks]
 
 
-JACK: No, what do you making that noise for. Please stop making that noise for.
+JACK: No, what are you making that noise for. Please stop making that noise.
 
 
 [dog howls]
@@ -6184,7 +6184,7 @@ KEITH: [cross] It still seems a little condescending.
 AUSTIN: Yeah, yeah, yeah.
 
 
-NICK: "Lem King is wrong, and he— he should get—" Like, well okay, "The world needs to poked and prodded, not catalogued, what are you doing?"
+NICK: "Lem King is wrong, and he— he should get—" Like, well okay, "The world needs to be poked and prodded, not catalogued, what are you doing?"
 
 
 AUSTIN: Right, right.
@@ -6556,7 +6556,7 @@ KEITH: [laughing] Like, I'm thinking, [harshly] "Aw you idiots. You don't know, 
 NICK: But also.
 
 
-KEITH: [admiring] "Huh, let a load of that guy."
+KEITH: [admiring] "Huh, get a load of that guy."
 
 
 NICK: Phantasmo is just like, "Yeah, of course— Of course you admire me. Of course you—"
@@ -6637,7 +6637,7 @@ KEITH: Yeah.
 AUSTIN: That's great, yeah.
 
 
-ALI: You know, years upon years of my lifetimes and I should respect him and it's something that I don't really know.
+ALI: You know, years upon years of my lifetimes and I should respect him and it's something but I totally don’t.
 
 
 AUSTIN: Yeah, okay. "I'm not impressed by the Great Phantasmo." [ALI laughs] Uh, alright, I think that's Bonds. Jack, I know you have to go. I'm gonna stay open for a bit to like make sure that we don't have any  other questions about— Like we'll go into Alignment and all the other stuff and you guys can start just like filling out that stuff. Um, but Jack, thank you for joining us. Where can people find you again?
@@ -6976,7 +6976,7 @@ NICK: Yeah.
 KEITH: Evil's real harsh. There's kind of, yeah. Nick was right in saying there's something between Neutral and Evil (AUSTIN: And Evil, yeah.) and I think that just means that, maybe we should just write a thing.
 
 
-AUSTIN: That's what I'm saying, I think— But I guess my question is, like is Phantasmo interested in gold coin? Is he interested in, like. What is he interested in when he's— When that— Okay, when that town is on fire, what will cause him to go into to stop it?
+AUSTIN: That's what I'm saying, I think— But I guess my question is, like is Phantasmo interested in gold coin? Is he interested in, like. What is he interested in when he's— When that— Okay, when that town is on fire, what will cause him to go in to stop it?
 
 
 NICK: Uh… Probably only— Okay, so his— His motivation for everything is that he wants to get back to the status he used to be at. As—
@@ -7246,7 +7246,7 @@ AUSTIN: That's interesting, you know.
 NICK: Yeah. Yeah.
 
 
-AUSTIN: Uh… But it not at any means.
+AUSTIN: Uh… But it's not at any means.
 
 
 NICK: Gain power at most means. [ART laughs] Uh, yeah, I don't know. It's complicated.
@@ -7447,7 +7447,7 @@ AUSTIN: And I mean, that's in here. Like, Art's Paladin Lawful is pretty close t
 NICK: Sure, yeah.
 
 
-AUSTIN: But yeah, I think that that's— Does that sounds alright?
+AUSTIN: But yeah, I think that that's— Does that sound alright?
 
 
 NICK: Yeah. Sure yeah.
@@ -7486,7 +7486,7 @@ AUSTIN: But I do think that they're useful for storytelling tools, and here it r
 ALI: Hi.
 
 
-AUSTIN: How you're doing? How you're doing over there?
+AUSTIN: How you doing? How you doing over there?
 
 
 KEITH: Hi.
@@ -7612,7 +7612,7 @@ ALI: Yeah, uh, well like rivals.
 AUSTIN: I think there will be rivals.
 
 
-ALI: Okay. I think that if there are though, I don't know what that might still to be determined. Um… 
+ALI: Okay. I think that if there are though, I don't know what that, like, that's still to be determined. Um… 
 
 
 AUSTIN: Sure, um, but I want to look at these. It doesn't— These all seem pretty. Like, defeat a worthy opponent just means, defeat a worthy opponent, not a specific one. (KEITH: Yeah.) Do you know what I mean?
@@ -7750,7 +7750,7 @@ ART: It looks like the continent's pooping on that other continent.
 AUSTIN: Great. Great. Cool. Uh… 
 
 
-ALI: I'm torn now. Because the um, like fight with honor against someone who is an unhonorable sounds really cool. Um, but I think when I was sort of thinking about this character like being, of the the three choices that I had, I was leaning toward the Evil one.
+ALI: I'm torn now. Because the um, like fight with honor against someone who's unhonorable sounds really cool. Um, but I think when I was sort of thinking about this character like being, of the three choices that I had, I was leaning toward the Evil one.
 
 
 AUSTIN: Okay.

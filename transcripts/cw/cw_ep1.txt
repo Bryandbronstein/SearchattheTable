@@ -10,7 +10,7 @@ AUSTIN: [narrating] Counterweight hangs in the center of the Golden Branch star 
 [INTRO MUSIC ENDS]
 
 
-AUSTIN: All of this technology exists under a sky dashed with bronze, as flickering energy domes filter the cold, thick air into something more breathable. The sky was scarred at the climax of the Golden War, which brought the Autonomous Diaspora and the People’s Conglomerate of Orion—long rivals—together against the Empire of Apostolos. Now, society on Counterweight largely exists in these domed cities. Life is a struggle, but it is dense and vibrant, too. Personal, family, and industrial sized maglev trainpods connect city to city, flying across the war ruined landscapes at incredibly fast speeds. But the maglevs aren't the only thing out there in the wilderness. There are others. Those who bare[a] the cold so they may live in free exile, outside of the domes they hate.
+AUSTIN: All of this technology exists under a sky dashed with bronze, as flickering energy domes filter the cold, thick air into something more breathable. The sky was scarred at the climax of the Golden War, which brought the Autonomous Diaspora and the People’s Conglomerate of Orion—long rivals—together against the Empire of Apostolos. Now, society on Counterweight largely exists in these domed cities. Life is a struggle, but it is dense and vibrant, too. Personal, family, and industrial sized maglev trainpods connect city to city, flying across the war ruined landscapes at incredibly fast speeds. But the maglevs aren't the only thing out there in the wilderness. There are others. Those who bare the cold so they may live in free exile, outside of the domes they hate.
 
 Things inside the domes are not free of tension either. In the nine years since the war ended, OriCon and The Diaspora have held steady in their ceasefire, but this is a world of subterfuge, politics, and espionage. OriCon was once a worker’s paradise, where walking robots called riggers helped to build a diverse and prosperous civilization. But in the last few centuries, it has become an oligarchy: Massive corporations hold all the power and resources, but they still use the old language of radicalism and revolution and freedom. The Diaspora is, itself, filled with talk of freedom.
 
@@ -233,7 +233,6 @@ JACK: In our hymn books?
 
 
 AUSTIN: Fourteen, uh, [laughs].
-[b]
 
 
 KEITH: [laughs] I don’t know why that caught me, but it caught me. 
@@ -470,7 +469,7 @@ AUSTIN: Right, right.
 
 
 ART: I forget what it was, but I saw a bus ad on my way home from the--[like he’s hiding something] on my way home. [Austin laughs]
-[c]
+[a]
 
 
 KEITH: Hold on.
@@ -2860,7 +2859,7 @@ KEITH: Betta fish.
 
 AUSTIN: Yeah, your name is Betta Fish. [Keith laughs] I’m looking at fish of Crete and Greece. Anyway, let's not— we can’t— 
  
-JACK: Ember [???[d][e]] Cretian Guppy. It’s not a real fish. 
+JACK: Ember [???[b][c]] Cretian Guppy. It’s not a real fish. 
 
 
 AUSTIN: Welcome to Fishteen minutes. [Jack laughs] It's not my joke, to be clear. Oh, you could be Chromis Chromis. 
@@ -3904,7 +3903,7 @@ ART: [quietly] Yikes.
 AUSTIN: So, yeah. So start thinking about what that stuff is. The good news is I've been very generous with what these contacts can do for you. 
 
 
-JACK: But only [???][f][g]
+JACK: But only [???][d][e]
 
 
 KEITH: Sorry, I totally missed the thing where you said consider what that thing is.
@@ -7188,10 +7187,8 @@ ________________
 [4] Kylie uses she/her pronouns now.
 [5] JM uses they/them pronouns.
 [6] Ali uses he/him here but Jamil definitively uses she/her pronouns later on.
-[a]should be "bear"
-[b]AUSTIN starts singing something here—i think it might be the word "Procedure"
-[c]I can hear AUSTIN jokingly say, as if speaking for ART, "You don't need to know!"
-[d]1:22:14
-[e]crusted?
-[f]1:42:55
-[g]But only just (?)
+[a]I can hear AUSTIN jokingly say, as if speaking for ART, "You don't need to know!"
+[b]1:22:14
+[c]crusted?
+[d]1:42:55
+[e]But only just (?)

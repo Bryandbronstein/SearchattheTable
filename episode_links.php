@@ -733,6 +733,10 @@ $episodeLinks = array(
         "link" => "https://drive.google.com/open?id=1xheU5Dfpx0Jep_E98yRN2AE3W2cT9Nb1Gcc3CmnA-IE"
     ),
     array(
+        "title" => "﻿Twilight Mirage 03: The Planet of Quire",
+        "link" => "https://drive.google.com/open?id=18p9IoShDykNOabu7mEV_g86d0BvRJkxsTXZg7hq2H_Y"
+    ),
+    array(
         "title" => "﻿Twilight Mirage 04: Birds of Prey",
         "link" => "https://drive.google.com/open?id=1QgUDzt2DEnQ7RknfbZasjdtMFucFNLJc9LvD6NO7b_k"
     ),
@@ -1062,7 +1066,7 @@ $episodeLinks = array(
         "link" => "https://docs.google.com/document/d/1DAdJ6No3TedeM3vF-EO7aH8Ud_VrJvOq0YuxReElonw/edit?usp=sharing"
     ),
     array(
-        "title" => "﻿PARTIZAN 20: BITTER AIR - COMBUSTION",
+        "title" => "﻿PARTIZAN 20: On the Eve of Revolution",
         "link" => "https://docs.google.com/document/d/1LfZw_4IzHzPbtC1xDE-e-8qXAr-2Ic5QhlwAOQ1U1T0/edit?usp=sharing"
     ),
     array(
@@ -1122,6 +1126,14 @@ $episodeLinks = array(
         "link" => "https://docs.google.com/document/d/1_hy7-TCLd2xdlNIYE2o3RM-dAttQeRRkRE-jdFgj6wo/edit?usp=sharing"
     ),
     array(
+        "title" => "﻿PARTIZAN 41: Orbital Decay",
+        "link" => "https://docs.google.com/document/d/1_TP0NoV1Kgt-91kgM0IZoCoPUzq5_RKHZbMiO3dwBIg/edit?usp=sharing"
+    ),
+    array(
+        "title" => "﻿PARTIZAN 46: Operation Shackled Sun: Act 2: The Gate",
+        "link" => "https://docs.google.com/document/d/1akSSvpddGq9Jhp84mm1eaGOfKrAkBynEc-1NLymRWPM/edit?usp=sharing"
+    ),
+    array(
         "title" => "﻿PARTIZAN 48: Post Mortem",
         "link" => "https://docs.google.com/document/d/1K1_wER_xG8JHfEnbmpBWGi_XFDkg7HDVMquUT1RWzc8/edit?usp=sharing"
     ),
@@ -1138,12 +1150,24 @@ $episodeLinks = array(
         "link" => "https://docs.google.com/document/d/1zczvM89ydLIZxwTbihU9O041TBcaHWX-qsTnRF2CvcI/edit?usp=sharing"
     ),
     array(
+        "title" => "﻿Sangfielle 04: The Blackwick Group",
+        "link" => "https://docs.google.com/document/d/1AUXhp-q9f1s1xG0JDC-qhWQkFokFZjHTk81hKs41xnM/edit?usp=sharing"
+    ),
+    array(
         "title" => "﻿Sangfielle 06: The Hymn of the Mother-Beast Pt. 2",
         "link" => "https://docs.google.com/document/d/1wShi5uvYHOEpNIZgF0JuNXLFEQmK6FGnG_kMFhVsZRA/edit?usp=sharing"
     ),
     array(
         "title" => "﻿Sangfielle 07: The Hymn of the Mother-Beast Pt. 3",
         "link" => "https://docs.google.com/document/d/1Hy68u6GQNEMfAhPqATFcF4Dv5Jqk1Jd01b_XNO3SvDk/edit?usp=sharing"
+    ),
+    array(
+        "title" => "﻿Sangfielle 08: The Hymn of the Mother-Beast Pt. 4",
+        "link" => "https://docs.google.com/document/d/1U-4KpK9j_7I4i0iPoEvTobASAxCTJKOlyv6cf86E9ZM/edit?usp=sharing"
+    ),
+    array(
+        "title" => "﻿Sangfielle 10: The Secret Ledger of Roseroot Hall Pt. 2",
+        "link" => "https://docs.google.com/document/d/1FwP8KkRHaH-0WOK-eKMNyNSZQsEc86MqZaVelbazS-c/edit?usp=sharing"
     ),
     array(
         "title" => "﻿Sangfielle 11: The Secret Ledger of Roseroot Hall Pt. 3",
@@ -1180,6 +1204,38 @@ $episodeLinks = array(
     array(
         "title" => "﻿Sangfielle 19: What Happened at Bell Metal Station Pt. 3",
         "link" => "https://docs.google.com/document/d/11neQMzcBxYBoQVA8X83QXVfdUfJBZEd6y9pOSPJUm4U/edit?usp=sharing"
+    ),
+    array(
+        "title" => "﻿Sangfielle 21: At the Gates of Sapodilla",
+        "link" => "https://docs.google.com/document/d/199e9j4q2nNn8TQVy-28-hKREFCIYWPWaf56UQorcsLY/edit?usp=sharing"
+    ),
+    array(
+        "title" => "﻿Sangfielle 22: Whispers in the City by the Sea",
+        "link" => "https://docs.google.com/document/d/1eGea-QPKYJdr7OEvJg5AjtNiq3twEBHE6Lq3nEB5yrI/edit?usp=sharing"
+    ),
+    array(
+        "title" => "﻿Sangfielle 23: The Perpetual Oratorio of Davia Pledge Pt. 1",
+        "link" => "https://docs.google.com/document/d/1kJGTDu2kpmutiQEGhguBSwfsRJKv3ZWu2p_sAI7pBbM/edit?usp=sharing"
+    ),
+    array(
+        "title" => "﻿Sangfielle 24: The Perpetual Oratorio of Davia Pledge Pt. 2",
+        "link" => "https://docs.google.com/document/d/1eqERmTIy7toxiYA3PjHEmSi2A7tsrODoEqjMPS2srJk/edit?usp=sharing"
+    ),
+    array(
+        "title" => "﻿Sangfielle 25: The Perpetual Oratorio of Davia Pledge Pt. 3",
+        "link" => "https://docs.google.com/document/d/1wFTZhZmiho7H7EbgsgWCzdrV2cYvOhMB4ZnpqPq9-Ro/edit?usp=sharing"
+    ),
+    array(
+        "title" => "﻿Sangfielle 27: The Perpetual Oratorio of Davia Pledge Pt. 5",
+        "link" => "https://docs.google.com/document/d/140fGYZguKzdHZLlXPlMwVUgoJXHU2AC3dK4Y-l_4ReQ/edit?usp=sharing"
+    ),
+    array(
+        "title" => "﻿Sangfielle 28: Hark! The Citadel Beneath Pt. 1",
+        "link" => "https://docs.google.com/document/d/1_UpVBpmftWycCH4jbkJ3f4KMH8m8IrCxyfBA_XntQ0M/edit?usp=sharing"
+    ),
+    array(
+        "title" => "﻿Sangfielle 29: Hark! The Citadel Beneath Pt. 2",
+        "link" => "https://docs.google.com/document/d/1PbZjJFhbvHT_k6vAz9XBNIdAXzPNJjh0a1HayZHLM_4/edit?usp=sharing"
     ),
 );
 //

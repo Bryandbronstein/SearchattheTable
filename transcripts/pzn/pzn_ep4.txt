@@ -2362,7 +2362,7 @@ AUSTIN: Prowess, because it’s about moving more quickly and staying focused, a
 ART: My Prowess is, the total, or it’s the highest?
 
 
-AUSTIN: It’s the total, it’s two D, you can see now what’ I’ve hgilihgted here, that will tell you what your thing is. 
+AUSTIN: It’s the total, it’s two D, you can see now what’ I’ve hgilihgted [a]here, that will tell you what your thing is. 
 
 
 ART: Yeah.
@@ -5044,3 +5044,4 @@ AUSTIN: Hell yeah! God.
 [music ends]
 ________________
 [1] The name in the audio recording is no longer in use.
+[a]highlighted (typo)

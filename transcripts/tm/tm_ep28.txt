@@ -1,1636 +1,951 @@
-﻿Twilight Mirage 30: This Year of Ours: The Muscle
-Transcribed by: Emily (@tempestemily) [0:00-16:38]
-thedreadbiter [16:39-1:10:15]
+﻿Twilight Mirage 29: This Year of Ours: The Pilot
+Transcribed by Nop [0:00:00~0:42:00], Transcribed by Sav [0:42:00-0:52]
 
+AUSTIN (as Cascabel): Hey, it’s Cascabel. I know you’re probably zipping between planets in some sort of experimental ship right now, bud, but, once you get back, just let me know you got this, okay? 
 
-AUSTIN: An excerpt from an address to the high council of the Qui Err Assembly by Annex Iota Pretense, reconstituted leader of her people.
+I wanted to let you know that I uh...I got back from Skein, and some of your old colleagues wanted me to pass on a hello, and…
 
+[Music-”The Pilot”, a crunchy, synth-heavy song, begins]
 
-AUSTIN (as Iota Pretense): I have heard the murmurs, and I have seen the images. They’re calling their bandits heroes. The bored rich like Joan-bee. Invaders like Templeton’s Faire. Soldiers like Echo Reverie.
+[takes a deep breath] I know it’s weird. I-i-it’s weird to have them working for the NEH now, and I know it can be hard to hear, but...they’re doing good work, man. You should check in on them. Quire is bleeding, and they’re the closest thing to medics. 
 
+I’ve seen it across every world I’ve been on, but, on Skein, it’s-it’s bad, man. There’s a gash that cuts down to the core, deep in the jungle, about a day from Terncage, that big city by the beach. It’s a wound that...pulses. It groans. With each new beat it finds and breaks a new reality. So I guess I’m just not surprised that it attracted every scientist in the sector. The Skein, The Garden? They were already deep into this stuff on Old Quire, man. And your people from the Ever Forward. From what I understand, y’all have always been pathfinders. Some of the best field researchers ever. So I get why you’re not thrilled with it, but I’ve spoken with these folks. The New Earth Hegemony offered them a lot: resourcing, protection, time. They could do more good unified as Ternion than they could ever do alone.
 
-Do not misunderstand. We are the heroes of this story.
+In any case, I’m glad you’re doin’ alright. Test pilot seems like a good fit, you always liked to be on the cutting edge, after all. I, uh...I never told you about the first time I saw the Amp Runner, did I? The way it broke through the atmosphere? I saw through the trick, the screeching, the fake rust. But...then I saw you inside, and I was terrified. I’m glad we’re on the same side, Even. I…
 
 
-[“The Muscle” by Jack de Quidt starts playing]
+Well, if you ever need anything, you just let me know. After what we faced down together-Independence, the Iconoclasts, Volition...A year ago, I was just a mercenary for hire. Now, I’ve seen the world shatter and put itself back together. And I wouldn’t’ve made it out without you. If you’re ever around my neck of the woods, promise you’ll let me know. 
 
 
-Their talking heads will tell you that history is more complicated than that. That everyone is complicit in some misdeed. That by our own logic, what we call ours was the planet’s first. That we are colonizers, too.
+AUSTIN: Alright, so….Even.
+DRE: Hey, hey.
+[2:28] AUSTIN: How’s it goin’? How’s your year been?
+Dre: [laughs]
+Austin: That’s kind of like the thing we’re gonna get at here, today. Like I said this already in the intro, but, what we’re going to be focusing on is...this time, this period of time, between where we’re going next and where we came from, which I guess we’re now calling the Miracle of the Mirage. Everything that happened with the rescue of the Cadent, the confrontation of Independence on Volition, and the evacuation of the Fleet to what has since become eight different planets, all sharing fundamental geography with Quire. But also having unique kind of climates, and now unique cultures. It has been a year of people being, y’know, living on these planets. And there’s some stuff that I made clear during the outro to the holiday special, that I don’t know we’ve talked at at length. So let me just give you the very broad picture of where things are in the Mirage.
 
+There are, again, eight planets. They all have unique names, I’ve only named a few of them at the time of this recording, but, you know. And they are all inhabited by a number of different factions, and by a growing number of people. The result of the evacuation episode of the holiday special was that Volition [correcting himself] a specific threat from Volition, the Axiom Bountiful, was pushed back, allowing the fleet to evacuate, and was done by an allied attack coming from both members of the Divine Fleet and from the New Earth Hegemony’s Vanguard forces.  After that, there were a number of, probably border skirmishes, and kind of smaller fights, but fundamentally, the conflict between the New Earth Hegemony and the Divine Fleet, happened in this one week of time, between the conversation that, kind of Cascara and the other commanders of that kind of intro to the holiday special had with you, and then the end of the evacuation, when all of the ships go to land. And that’s called the Week-Long War. So we are nearing the one year anniversary of the Week-Long War, we’re nearing the one year anniversary of the Miracle of the Mirage, and in that time, things have fragmented a little bit, but everything is kind of at this weird, uneasy truce. This uneasy peace. 
 
-But do not misunderstand. We are Qui Err Vi Qi-Em, The Soil With Memory.
 
+That’s the gist of where things are in terms of what the planets are...but what I’m curious of, Dre, is where is Even at this point? What’s Even been doing for the last year?
 
-Their petty historians hold matchsticks and think they wield the sun. Their propagandists will take our pain and twist it into lessons for their children, our struggle into entertainment for paying customers. They will turn sites of violence into souvenir shops, and in their little voices demand from us personalized baubles.
+Dre: I think there’s kinda been two big things that Even has been doing. I think the first one, and like, we were, when we were like mechanically figuring out how to port Even over 
 
+Austin [crosstalk]: Yeah
 
-Do not misunderstand.
+Dre: into the new system, I think I even said at one point, I guess mechanically this works, but this isn’t as weird as I want Even to be. [laughs]
 
+Austin: Mmhm, mmhm.
 
-They will ask you to give them a name like ours. They will ask to touch your bone and branch. They will, with no understanding of their sacrilege, call all of this curiosity. They will call themselves “friends of the people.”
+Dre: And I think we both kinda decided it’s like, yeah, Even spent this past year, year and a half, like, getting even more...like hybrid-y and weird.
 
+[5:55] Austin: Yeah, like, well the thing that we were trying to do when we started making the character, we’ll go over stats and stuff in a second too,
 
-Do not misunderstand.
+Dre [crosstalk]: Yeah
 
+Austin: but we were like, y’know, let’s just remake the Catabolist, which was the Veil character, the Veil playbook that you were, inside of Scum and Villainy, which is the book we’re using now. And then like, it just wasn’t working, partially because it’s just a different game, right? Like,
 
-That touch is a colony ship. Their interest in our ways is not curiosity, it is a hanging rope not yet taut: a whip, a lasso, a noose.
+Dre [crosstalk]: Yeah
 
+Austin: The-y’know, obviously pros and cons with the Veil, lots of stuff that we love, lots of stuff that we were like “eh” with. And, y’know, I like that we spent the first part of this game in that system, I don’t regret that at all. But the-one of the things it just did well was, just had so much flavor for its unique playbooks. And that’s not dissing Scum and Villainy’s playbooks, but, like, they’re definitely more familiar archetypes than the ones in the Veil. And so, the closest thing we had was the Mechanic, and that wasn’t really right, like, some of that stuff was in there? But we were doing a lot of like, “well, you could be an alien person on, in the rules, so that you could do your weird hybrid stuff, and then one of the things that we both hit at was just like “well, what if the thing you’d been before had almost been a larval stage.” Like, you just were not...Even Gardner of the first-, of Pre-Mir-, Pre Miracle Even Gardner, was like, a baby.
 
-Do not misunderstand.
+Dre: [Laughs]
 
+Austin [higher-pitched, slurred]: Jus’ a lil-Jus’ a lil baby.
 
-We do not have friends among them. We have only those who deign to speak to us. The so-called Free States walk on our bodies, toes mingling in soil, without sending so much as a delegation to meet with us. Even the Hegemony, which recognizes our sovereignty, does so as an addendum at best.
+Dre [higher-pitched, slurred]: Jus’ a lil baby.
 
+Austin: Jus’ a lil baby. You were jus’ a lil baby! You were just like, the first form of-you were Form One Frieza.
 
-But do not misunderstand,
+Dre: [Cracks up]
 
+Austin: You were Imperfect Cell. And now, you’ve grown up a little bit. Do you want to talk about like, what you look like now?
 
-We are not an appendix. We are the body itself.
+Dre: I ate three people and now-
 
+Austin [overlapped Dre]: You ate...Uh-huh, and they were all Androids.
 
-[Music ends]
+Dre [overlapping]: Yeah-
 
+Austin [Overlapping]: Which is actually on brand, frankly. 
 
-AUSTIN: Echo, talk to me, talk to me, tell me, tell me or talk to me, one or the other, let's do both. Tell me and talk to me about what Echo Reverie looks like in Scum and Villainy. In both scum, and also, separately, villainy.
+Dre: [laughs] Yeah, no it’s not wrong. I think like, the touchstones that first we started with was like, was literally, like, looking at like, Kerrigan, and like,
 
+Austin [crosstalk]: Yeah
 
-[SYLVIA laughs]
+Dre: even Zerg, 
 
+Austin: Yeah
 
-SYLVIA: So, okay, so we got like half an hour for scum, half an hour for villainy, that's what we’re doing?
+Dre: But then as I kinda looked more, like, I started looking more at, honestly like, Warframe stuff. I really like...
 
+Austin [overlapping, excited]: Yeah, Warframe stuff is a good touchstone.
 
-AUSTIN: Yeah, we’ll- yeah, exactly, and then we’ll do a vignette, and then Ali will have to turn all of that into a nice 90 minute episode.
+Dre: Yeah, I really love the way that like, Warframe does like, that organic plating kind of stuff. 
 
+[8:00] Austin: Yes, Yes, where it’s like “Oh, that’s like a nice, that’s like a nice piece of armor-Oh, nope, that’s your chest, that’s actually just your chest.”
 
-SYLVIA: Eh, perfect.
+Dre: “Yeah, you’re not wearing anything, that’s just what, that’s just what you are. Okay.”
 
+Austin: Yes, totally.
 
-AUSTIN: Not just with you, but with everybody else’s.
+Dre: Uuuum...
 
+Austin: That’s a good touchstone
 
-SYLVIA: So you want me to run through my stats and moves?
+Dre [overlapping]: Cuz I wo-I won’t get into Warframe spoilers, but there’s-there’s more to it than that.
 
+Austin: I know, I know, I’ve watched the cutscenes. I’ve, like wanted to get into-we should talk about Warframe, cuz I really wanna play Plains of Eidolon, and like just like...they gave me a bunch of stuff as a journalist. They’re like “oh, here’s a bunch of points!”
 
-AUSTIN: Yeah. So, so I think of the player characters, the easiest one to transfer was Echo.
+Dre [overlapping]: Heeey!
 
+Austin: And I need to just like spend the time to get my head around that game…
 
-SYLVIA: It was easy to the point where I thought I told you about it, but I didn’t, but we both knew what class I was going to be. [laughs]
+Dre: Warframe’s cool
 
+Austin: It seems cool. Anyway, uh, do you have a face, still? Cuz Warframes don’t have faces.
 
-AUSTIN: Uh-huh. One hundred percent. Um, which is Muscle, right?
+Dre: Yeah, so actually-
 
+Austin [overlapping]: Or some of them sort of do, but you know what I mean.
 
-SYLVIA: That being the Muscle.
+Dre: Here’s-here’s the thing….soooo, I-Even definitely still has a face. And I still think it’s like, it’s a pretty, like, you know, what we would think of as like a recognizably human face. Like, I think he still has like nose, eyes, mouth, and stuff like that. 
 
+Austin [overlapping]: Yeah
 
-AUSTIN: Yeah. There’s a bit of the Honed that’s missing here, is what I’ll say, but also it just goes to show the difference between these two books and settings, right? That The Veil is a world in which everybody is cyber — is all cyber everything.
+Dre: I think the biggest thing besides like the physical changes of his flesh becoming this more kind of like...this organic, like, plating thing.
 
+Austin [overlapping]: Yeah.
 
-SYLVIA: Yeah.
+Dre: It’s not like heavy armor or anything, but it’s definitely like-
 
+Austin [overlapping]: No, it’s like a carapace, though, right?
 
-AUSTIN: And the — Scum and Villainy is not that. And I think that's kind of appropriate to some degree, because there has been this weird influx in the setting of New Earth Hegemony people, [SYLVIA: Mm-hm.] who definitely have their fair share of cybernetics, but probably way less than the Divine Fleet, who have this very intimate relationship with technology. Whereas the New Earth Hegemony, while they use technology, have a skeptical — or very almost — not antagonistic, but certainly… They define themselves through their human-ness, and so probably have a lower… a lower resistance, or higher resistance, rather, to integrating people — to integrating technology into their bodies, socially and culturally, so I kind of like the notion of the Muscle just being, oh yeah, you’re like this new kind of person who’s just the muscle, who’s here to beat people up, because there's a lot of people like you now. And you’re not defined by your lack of technological integration at this point, because there are a lot of people who aren’t as technologically integrated.
+Dre [overlapping: It’s different- Yeah, for sure, I think that’s a great way to say it. The biggest thing that’s changed is his hair. 
 
+Austin: Right.
 
-SYLVIA: Yeah, I also think that not being defined by that has been working with the arc we’ve had for Echo too, [AUSTIN: Totally.] of Echo being like, not directly connected to the Mirage, but having ways to interface with it, [AUSTIN: Totally.] the main one being like, the eyepatch and stuff.
+Dre: And I think that was even the first thing I kinda pitched you on was like, I had-I had this image in my head of like Even having like this, tendril hair.
 
+Austin [overlapping]: Right.
 
-AUSTIN: Yeah, definitely. And we [SYLVIA: Which I like.] might get into that in a little bit in this sequence that we’re going to do the vignette after.
+Dre: And that is what he like uses to, like...fly ships and shit now.
 
+Austin [overlapping]: Mmhm.
 
-SYLVIA: Yeah.
+Dre: Because he basically at some point figured out like...so far I’ve been interacting and like speaking to technology using my hands, but like...
 
+Austin [overlapping]: Right.
 
-AUSTIN: So the Muscle starts with Scrap and Command, and they earn XP when they address challenges with force or threats. So 2 Scrap, which is the fighting skill, 1 Command, and then you get two more points, one from your background and one from your heritage. Let's start with your heritage, which is the Tides of Harmony.
+Dre: My hair is a lot closer to my brain than my hands are.
 
+Austin: [laughs] So, for you it’s just-it’s literally just a...like, “oh this is the quickest path”. Like, the hybrid alien that you have-or, the alien that you’ve become a hybrid with, like, just decided “oh, no, this is what we should’ve been doing this whole time.”
 
-SYLVIA: Yeah.
+[9:57] Dre: Well, I think it, I think it’s like, it’s-it’s….it follows. So, Even has that realization, 
+and then,
 
+Austin [overlapping]: Mmmh…
 
-AUSTIN: So what did you get from that?
+Dre: finds his body just adapting to that. 
 
+Austin [overlapping]: gotcha.
 
-SYLVIA: So, what I — the specific thing from my heritage that I put is Runner. For people who don’t remember, Echo’s whole thing back when they were on the Tides of Harmony [AUSTIN: Right.] was that they were sort of a materials runner, and thief to some extent.
+Dre: And so like, he found his hair becoming, like...thicker, until it turns into these kind of like, a collection of basically like, rope-like tendrils.
 
+Austin: Like braided tendrils, yeah.
 
-AUSTIN: Mm-hm.
+Dre: Yeah, yeah, and I think
 
+Austin [overlapping]: Yeah, yeah, I’m into it.
 
-SYLVIA: And that's — and so, from that, I gave plus 1 to Scramble, which is the more like agility, movement-based thing.
+Dre: he often wears it in like, a kind of like, mix of like a pony-like a messy, updo, ponytail kind of thing.
 
+Austin: Nice, nice, I’m into it. That’s-that sounds good to me. The-so, the class that you are in this is “Pilot”. 
 
-AUSTIN: Right, right.
+Dre [overlapping]: Yeah.
 
+Austin: I mean, that’s kind of the thing, one of the parts of this is like...you pitched me as like, you literally-Even flies stuff now, or pilots stuff now, with those tendrils.
 
-SYLVIA: And then — do you want me to go into the background right after that?
+Dre: Right, yeah, like, he’s-
 
+Austin [overlapping]: You painted me this picture of like, literally floating in the air. Like, un-with a-like an uncanny floating in the air, you’re not like-you’re just floating in the air, or you’re using your wings to float in the air?
 
-AUSTIN: Yeah, totally.
+Dre: No, he’s not floating, he’s suspended. Like it’s-
 
+Austin [overlapping]: Okay,
 
-SYLVIA: Okay. And then, so from the backgrounds that are available — I’m assuming you’ve gone over some of these already.
+Dre: Like-
 
+Austin [overlapping]: the tendrils lift him up, like they’re that…
 
-AUSTIN: Oh, definitely. Yeah yeah yeah.
+Dre: Yeah, like, I don’t-
 
+Austin [overlapping]: yeah, okay.
 
-SYLVIA: So I picked Labor out of them, and related that to-
+Dre: this isn’t a thing that everyone should Google search for, cuz it’s...it’s rough to look at, but like, 
 
+Austin [overlapping]: Ah, I see
 
-AUSTIN: Oh, actually, those I didn’t go over specifically, because a lot of people are just using as their background — some people have, I think like Tender’s is just ‘Architect,’ because that was [SYLVIA: Okay.] the Veil class that she had? But I think what you’ve done here is totally fine.
+Dre: I had a friend in high school that did like, body suspension stuff?
 
+Austin: Yes, yes, yes, yes, yes….
 
-SYLVIA: Yeah, okay. So I chose Labor out of the ones that they have in the character sheets, and then wrote “former prisoner” as the more specific one. [AUSTIN: Mm-hm.] And for that, Echo gets plus one to Skulk, which is the sort of stealth-based thing. [AUSTIN: Right.] I wanted to sorta… make sure [slight laugh] Echo basically like — I wanted to — I looked [AUSTIN: Uh-huh! Uh-huh.] at the Prowess section, and was like “that’s me. Right there.”
+Dre: And so I definitely am thinking, that….like,
 
+Austin [overlapping]: Yep
 
-AUSTIN: Yep. Yep. I thought that you were going to say the other thing, which is, you wanted to play Blades in the Dark where y’all at least had one person who had a point in Prowl. [laughs]
+Dre: that kind of thing, where I think he is like, like probably sitting and like, or like, splayed out in like a, like a meditative-type pose,
 
+Austin: Uh-huh.
 
-SYLVIA: Oh, that too.
+Dre: that is just like, hanging from 
 
+Austin [overlapping]: Yeah
 
-AUSTIN: Because last time, you extremely did not.
+Dre: like the ceiling, or...or whatever,
 
+Austin: Yeah
 
-SYLVIA: Yeah, I’m really hoping to succeed on some rolls this time. [laughs]
+Dre: by these tendrils.
 
+Austin: Cool. That is fucked up, but also cool as hell! Like, that’s the thing that is-
 
-AUSTIN: [laughs] Well, the thing that's cool about this game is that I think it's a little bit easier, there’s gambits now, which is a currency you can use to add to your rolls, and that will help a lot, I think.
+Dre [overlapping]: That’s, I guess, the Even Gardner Brand, right there-fucked up, but cool as hell.
 
+Austin [overlapping]: Yeah, the Even Garner-[laughs] The Even Gardner brand is like...I think body suspension is totally within the realm of like-Hey, your first-blush look at this is going to be like, “woah, I was not ready for this”. But that the, the kind of...theory behind it, the sort of like, ideology behind it, is about pushing the boundaries of the human body, and about like, recognizing like, experiencing...y’know, physical sensation in a different way...
 
-SYLVIA: Okay. Awesome.
+Dre: Yeah.
 
+Austin: I really love it. Like, I like it a lot, especially in an episode-especially in a season that’s about exploring what bodies mean, and what, like, kind of putting the human at the center of ideology and philosophy looks like.
 
-AUSTIN: And also, just I think coming off of The Veil, where we had some real rough rolls, I bet we’re gonna get some better ones this time through. Cool, so — I’m trying to think, what is there with Echo’s — 
+Dre [overlapping]: Yeah
 
+Austin: So I’m way into that. So-
 
-SYLVIA: [cross] Vice? I think I’ve actually figured that out a little.
+Dre [overlapping]: I think another big touchstone for this for me is like, is some of Giger’s stuff.
 
+Austin [overlapping]: Yeah, yeah, yeah
 
-AUSTIN: [cross] Yeah, vice. That’s my biggest question always.
+Dre: Like, not as much like, the huge robot boobs part of Giger, but like…
 
+Austin: Sure.
 
-SYLVIA: Yeah. So I was thinking… [deep breath] So the list we have is Faith, Gambling, Luxury, Obligation, Pleasure, Stupor, and Weird. The ones that — there's a few that I immediately didn’t feel. I think I was kind of torn between Weird and Obligation, with a leaning towards Weird. My only problem there is that Aubrey was also into Weird, and I don’t want to just go back to my wheelhouse.
+Dre: That other, like, that uncanny, unnatural…
 
+Austin: Yeah.
 
-AUSTIN: Yeah. Well, what sort of weird stuff would Echo be into?
+Dre: unnerving, but also interesting stuff that Giger does.
 
+Austin: Totally, totally. And I mean, we’ve been hitting on this stuff, especially with like, your character, I think, Sylvia’s[1] character with the sort of the...hannibal touchstones...and in general, just like, the Cronenberg-y, like,  “Oh this is, this is-body horror is fucked up but also I can’t look away.” And also maybe it’s not as fucked up, like maybe that's the whole point of it, so I’m glad we’re continuing to go down that route.
 
-SYLVIA: So, what I was thinking was, because Echo was there when… the axiom fight was a big change, [AUSTIN: Yeah.] and then seeing the new Quires was — they were there and saw this shift in reality, almost.
+[12:40] So, as a pilot, what are your, what are your...I mean, I’ve probably said this already to-in an intro, but, I’ll say it again briefly, we’re playing Scum and Villainy, which is a system that’s based on Blades in the Dark, which means that it has attributes, and it also has…skills? Actions, actions are what they’re called. So, attributes are the kind of things you resist damage with, and those are insight, prowess, and resolve. And then underneath each of those are the skills, and that is doctor, hack, rig, study, helm, scramble, scrap, skulk, attune, command, consort, sway. So what are your action ratings?
 
+Dre: My action ratings are...one rig, two study, two helm, one scrap, and one command.
 
-AUSTIN: Yeah.
+Austin: Cool...which would give you a certain mix of insight, prowess, and resolve, I think I wrote those down, did I not, maybe I didn’t…
 
+Dre [overlapping]: You did, yep.
 
-SYLVIA: And I think it's sort of almost a mix between the two, in a weird way, where it’s like Echo wants to learn more about this new world and the new way things work [pause] so they can track down the people that they care about that have gone missing because of stuff. [AUSTIN: Mm-hm.] And I might be overthinking that a little? But I definitely think there is genuine interest in- [Echo voice] “Oh, so like the way everything worked has changed, and so now, I don’t have to be confined by this system that kind of failed me.”
+Austin: Okay, what are, what are those?
 
+Dre [overlapping]: Two, two, and one.
 
-AUSTIN: Right.
+Austin: Okay, so two insight, two prowess, one resolve. Cool. [pauses] If you don’t know what any of this means, don’t even worry about it yet, if you’re listening.
 
+[Dre cracks up]
 
-SYLVIA: “And I can learn this new one.”
+Austin: It’ll come up in play, and it’ll become clearer. If you’re, like, desperate to know what this system is like and you haven’t listened to past Friends at the Table stuff, go back and listen to some Marielda, starting on episode three, we started playing Blades in the Dark, it’s one of our favorite systems so we’re super excited to get back to those core mechanics. What abilities do you have?
 
+Dre: So I have the starting ability for Pilot, which is “Ace Pilot”. I have potency on all speed-related rolls, and when I roll to resist the consequences of piloting, I gain +1. 
 
-AUSTIN: The key for me with that is, I’m cool with that, I think it’s actually totally good.
+Austin [overlapping]: Mmh.
 
+Dre: And I think...so we were talking about this like, before the start, where we’re like, “What is-what is speed-related mean?”
 
-SYLVIA: Yeah.
+Austin [overlapping]: Yeah.
 
+Dre: Like, is that just when you’re piloting something, or is it also like, I mean is it just that you move quicker?
 
-AUSTIN: But the thing that I wanna make sure about in framing it is that this is what Echo does in their downtime.
+Austin: Uh-huh
 
+Dre: I ha-I kinda like the idea, too, of like...do you remember like, how Quarians in Mass Effect like, their legs are like, slightly like, pushed back and like, offset?
 
-SYLVIA: Oh, for sure.
+Austin [overlapping]: Oh, yeah! Yeah, yeah, totally.
 
+Dre: I kinda like that, too, is like, maybe like, Even’s legs have also like, kinda morphed around a little bit, and because his stride is now longer and different.
 
-AUSTIN: Not just — sorry, not just in their downtime, in order to relax. In order to-
+Austin [overlapping}: Mmh…gotcha, gotcha, gotcha.
 
+Dre: Like, he’s a little bit faster than he was before. 
 
-SYLVIA: Okay.
+Austin: Yeah. I’m into that. 
 
+Dre [overlapping]: And then we also said that Ace Pilot part was like, he was always a pilot, and he was like...he was fine,
 
-AUSTIN: — break off stress. Like, it — 
+Austin [overlapping]: Right.
 
+Dre: he was good, but like, this ability to like, commune with ships is what makes him the Ace pilot.
 
-SYLVIA: Yeah.
+Austin: Yeah, you now directly connect to them, so...like, there’s that one little layer mix. You’re not just, It’s not, “I’m gonna move my hand to make the ships do this,” it’s just “the ship moves like this, now.”
 
+Dre [overlapping]: Yeah.
 
-AUSTIN: There’s an important distinction to me between “this is my long term project,” [SYLVIA: True.] which this system totally has a way of working with, and “this is how my character, like, comes back to the norm, like finds that even keel.” Um, so I want to make sure that that lines up? [SYLVIA: Yeah…] It's totally up to you, obviously.
+Austin: “I want the ship to turn right now, your-you turn right.” In a way, you’re almost like Myriad, now. Right?
 
+Dre: Yeah.
 
-SYLVIA: So I was kinda — so yeah, I definitely agree, I was kinda looking at it in a way similar to when we did Marielda, Sige had the boat thing, which was both a project [AUSTIN: Right.] and how he relaxed.
+Austin [overlapping]: Like, you become whatever you’re piloting. So what else? What are your other two abilities? So I, I’ve gi-you g-always get a second ability, and then I’m also kind of like “take one more level, you didn’t come into this fresh.” Like, I think one of the joys of playing a roleplaying game is leveling up and picking new moves, so I didn’t want you to come in at level six or something? 
 
+Dre [overlapping]: Hm.
 
-AUSTIN: Yeah, yeah.
+Austin: But, I wanted to make sure you had enough, enough...agency to kind of make sure that you could reflect that you used to do this other thing. 
 
+Dre [overlapping]: Yeah. 
 
-SYLVIA: Because I definitely do think, like after — like we had that one scene where I found the statue and the ground snake.
+Austin: So, what’s your, your other ability?
 
+[15:39] Dre: One of my other abilities from the pilot tree is Commander, that’s where when I lead a group action, I gain +1 scale, so, like, a small group counts as a medium group.
 
-AUSTIN: Mm-hm.
+Austin: Right.
 
+Dre: And if I’m leading a group action in combat, if we get multiple sixes from different rolls, they count as a critical.
 
-SYLVIA: And like that definitely felt like… both fun for Echo as well as like kinda tense at times, but like, the wonder of finding that was definitely enjoyable, and like— yeah.
+Austin: That’s sick. That second part is just like, so cool. 
 
+Dre: It’s pretty good.
 
-AUSTIN: Right, so I like that notion of —  it’s almost, um, have you played the S.T.A.L.K.E.R. games or seen the movie Stalker?
+Austin: Yeah, cuz I don’t know if you remember how group actions worked, but the way it basically works is, you do like “all right, I’m going to lead a group action, we all roll, we take the highest roll, but I’ll be the one who suffers consequences because I’m the leader.” And so being able to be like “alright, instead of it being like, I’m, I’m going to do a group action where we’re-” instead of being like “I’ll a group action where we fight and I get a six, you get a six, we all get sixes, but I still am the only one who’s gonna get hit back in any way”, now it’s actually “no, actually, we get a critical”, and that’s really cool. Alight, so….and that does reflect, I think, kind of Even’s ...one of the things you said when we were wrapping up at the holiday special was that you wanted Even to kind of, see the world and say like “hey, I need to take a more-a-a bigger role as a leader, and as like, a person who can make decisions. And also you just kind of did always function as the leader of the ground team in the first half of the game. So I think that reflects both of those things really well.
 
+Dre: Yeah.
 
-SYLVIA: I have played a little [cross] bit of— yeah. One of ‘em.
+Austin: And...your last move.
 
+Dre: The last one...so, you can take three veteran ticks, which is basically you can choose an ability from another group.
 
-AUSTIN: [cross] Okay, do you know — I don’t, I haven’t played them a ton either. [SYLVIA: Yeah.] But like, I know enough about them to be able to have this conversation, which [SYLVIA: Okay.] is, in S.T.A.L.K.E.R., you’re in The Zone, where there are [SYLVIA: Mm-hm.] lots of other factions of like, paramilitary troops and explorers and scavengers and citizens. And on top of that, there are these places that are like, places where weird things happen? I forget what they call them in… [mockingly] Me: “I can totally talk about this thing.” Also me: “Uh, what's the name of the very important, obvious thing that’s all over The Zone?” I comple — oh, fuck, there’s a — it's not like, The Phenomena, but it's something very similar to that.
+Austin: Yeah. 
 
+Dre: And I took one from the mechanic tree called “Construct Speaker”. Machines speak to you when you study them, study being one of the moves.
 
-SYLVIA: I know what you mean.
+Austin [overlapping]: Yeah.
 
+Dre: And the first time when you roll a critical while fixing or building a particular machine, you may add a simple modification to it, which is part of the crafting rules.
 
-AUSTIN: Um, Anomalies, right? There are these anomalies [SYLVIA: Yeah.] that are in The Zone, where it’s like “oh hey, here's a weird like, trees growing up out of the ground and they look like claws, or here’s just like, loose fire, hanging in the sky or, here's a thing of just like a tiny little whirlwind on the ground and if you step on it it’ll launch you into the air,” or something, right? Or just like [SYLVIA: Yeah.] space and time are bending. Umm… And I like the notion of Echo going on sort of walks into the woods, or into the wilderness, to just find those things, and just like, that being what centers them.
+Austin [overlapping]: Cool.
 
+Dre: But yeah, we were just like “okay, yeah this is what Even did in the first part.”
 
-SYLVIA: Yeah, I like the idea of almost like being a hobbyist archeologist in a way?
+Austin [overlapping]: Yeah, yep.
 
+Dre: Like, he talked to machines.
 
-AUSTIN: Yes. Yes yes yes.
+Austin [overlapping]: And you still have that. So, and who knows, maybe you’ll still, maybe-I’m very curious to see how much of the old versions of these characters peek through, because there’s definitely a spectrum of like, “here’s where you were” vs. “here’s where you are now.”
 
+Dre [overlapping]: Yeah.
 
-SYLVIA: Yeah.
+[17:46] Austin: Like, some, some characters come over very cleanly. Like, I think Echo and the Muscle class, are just like-
 
+Dre: Oh, yeah. [Laughs]
 
-AUSTIN: Do you keep track of them? Like, do you write them down and record them?
+Austin: Yeah no, this is-this...yep, uh-huh, this is you. This is still you.
 
+Dre [overlapping]: You’re still good at fucking people up, huh?
 
-SYLVIA: I think so, yeah. I like the idea of Echo having some sorta journal, umm, keeping track of this stuff. Because it's just like, what's the point in just discovering these things if you’re not able to keep track of em all?
+Austin: You’re good at fucking people up. And like, maybe they will end up taking a move that represents the fact that they also kind of move into a leadership position in the..in-in their holiday special, from another playbook or something? But like, the Muscle is Echo, for sure. And like,
 
+Dre [overlapping]: Yeah.
 
-AUSTIN: Totally. Yeah, I’m into this, I’m way into it. And I think it also fits in because I think one of the things we had spoken about Echo doing during the last year is like, helping people reconnect using these weird bends in space and time? Umm, and I can imagine the like… It's stressful to do the mission, where you try to move someone through one of these weird anomalies? It's not as stressful, in fact it's relaxing, for them to go do the exploration ahead of time, [SYLVIA: Mm-hm.] and like get, get their head around the wild spaces. It's also just in line with what Echo has always been. Like, Echo’s the one who scouted the plateau, Echo’s the one who found, like you said, the snake and the statue of Pretense.
+Austin: whereas for you, and for a few other people, it’s not as clean as that. And I’m excited to see how that all shakes out. So, so cool! Briefly, other things...Obviously, your name is the same, we know what you look like, we’ve gone over that...This system has a notion of heritage and background. Some of your, your stats come from that. Your heritage is that you’re from the By-and-or from, sorry, the Ever Forward. And your background is that you’re military? Right, you’re f- a soldier?
 
+Dre: Yeah.
 
-SYLVIA: Yeah.
+Austin: And then you also have one more, which is...this system has a notion of vices, which is like, in between missions, what do you go do to chill the fuck out, because instead of having HP or, I guess the, the system does have a sort of notion of health and damage, the way you resist damage is that you take stress. You know like, “I basically-” you know like, “you get punched in the face, and you get the ‘broken jaw’ you know, damage” or whatever, and then you say “no, actually, I did not get punched in the jaw, I’m gonna, gonna roll to defend, you roll dice and that determines how much stress you take, by dodging, or by doing whatever you did to not get as hurt. 
 
+And so you get stress, and if stress builds up too far, you get really badly...you get what the system calls “trauma”, right? Which is whatever you did actually hurts you in a, in a more...in a longer-term way. In a sense that not just a broken arm, but like, you will not remember-you will not forget the fact that this person broke your arm, and now maybe you are like, obsessed with getting revenge with them. Or like, not only did you, did you get like...pushed during this mission, y’know, off of the bridge as the guys got away, but you let-you leave it and you come back “I don’t know that I have it anymore”, you come back a little, a little softer than you were, a little less committed, a little more doubtful in yourself. And so, so, to reduce that stress during missions you, you have a vice to go after. So...what’s your vice?
 
-AUSTIN: Echo’s the one who then found the Holiday Gambit, like — their whole history is “I’m gonna go wander off somewhere?” Umm, and it's almost always this very positive vibe around it, so. So I’m into it.
+[20:06] Dre: Well the category, ‘cause you can choose categories, it’s weird but, I mean we went specifically back to the idea of the kind of mindless consumption of tech.
 
+Austin: Right.
 
-SYLVIA: Alright. Cool.
+Dre: Like, which is what got us in trouble when Even just started eating special bullets like potato chips.
 
+Austin [overlapping]: Uh-huh, yep. So it’s still that-
 
-AUSTIN: Umm… So what are the remaining stats you have? So right now, what I have written down for you is… uhhh, again, from, just from the moves… that I’ve — I closed the book. I closed this — I closed the fuckin book. [cross] Why did I do this…
+Dre [overlapping]: I love-I love the vice mechanic in this game.
 
+Austin [overlapping]: Me too, it’s so good, cuz it gets you into trouble, but also it’s this really great balancing act.
 
-SYLVIA: [cross] So the starting was 2 Scrap, 1 Command, [cross] and then I have-
+Dre [overlapping]: Yeah.
 
+Austin: And also, it doesn’t treat vices as a bad thing? Like, it specifically is like “hey. Do what you gotta do, just don’t do it in excess.” It goes bad when, for instance, you have low stress and you still go get your vice taken care of. It’s like “oh, you did not need to go eat all those bullets
 
-AUSTIN: [cross] Right, right. Scrap is fighting, Command is like intimidation and ordering people to do things. [SYLVIA: Yeah.] Then you took 1 Skulk from your [SYLVIA: 1 s— yeah.] heritage— no, your background?
+Dre [overlapping]: Right.
 
+Austin: and you ate all those magic bullets! That was bad! That was a bad idea, my guy!”
 
-SYLVIA: Background… 
+Dre: Yeah, I mean, it really reflects that idea of self-care, and the idea that self-care can go bad.
 
+Austin [overlapping]: Yes.
 
-AUSTIN: Then 1 Scramble from your heritage. [SYLVIA: Yeah.] So then you have 2 left. So wait, [cross] where did those 2 go?
+Dre: Cuz there’s like-there’s like self care where it’s like “uh, I’m gonna let myself have like, you know, 
 
+Austin [overlapping]: Yes.
 
-SYLVIA: [cross] I have 2 points left. So what I put my other points into was I put 1 point in Helm, [AUSTIN: Mm-hm.] which is your piloting stat, I believe is how they describe it?
+Dre: I’m gonna have like, a piece of pizza tonight or something.”
 
+Austin: Yeah, I deserve it, I need this...
 
-AUSTIN: Yeah. Yep. Totally.
+Dre [overlapping]: And there’s self-care where, like “I’m gonna eat this whole large pizza, and then like, feel awful for like, two days”.
 
+Austin [overlapping]: Yes. Exactly, exactly, totally. Yeah, I like that system so much. So yours is “Weird”, is the category. But basically it’s, you go off to mindlessly consume technology, which doesn’t get automatically integrated into you anymore. That’s kind of what we saw at the end of the Veil game, with Even. It was a failed roll, but I kind of like it as like “oh no, you were growing up.” You’d already done the thing that the hybrid-the alien needed inside of you to become this second thing. So, I like that a whole bunch.
 
-SYLVIA: And I put another point into Scramble, so I have 2 Scramble.
+Alright, so I think that that’s the basis of who your character is on the page, there’s other stuff that is like, items and friends and stuff like that that we’ll kind of finalize off-mic before we do our first full game, but what I wanna know is like, what have you been doing for the last year?
 
+Dre: Yeah, so I think, I think it did start-especially since you know, it seems there’s chunks of the fleet that are kind of on a separate faction than like, where the Ever Forward is now.
 
-AUSTIN: Right. [SYLVIA: Yeah. Yeah.] So, the thing I want to say is, you have Prowess out the fuckin nines?
+Austin: The Ever Forward is straight-up loyal to the New Earth Hegemony.
 
+Dre [Overlapping]: Yeah, yeah.
 
-SYLVIA: Yeah.
+Austin: Like, 100% is. So that is….fuckin’ wild. 
 
+Dre: And so I think, you know, Even kind of saw, after like, one kind of sticking how-seeing how his thing of like, “I’m a soldier, I follow orders, I keep my head to the ground, I execute the mission.” Like, how that kind of blinders mentality got things, like, super fucked up. Kinda again, had that choice where it’s like-had that decision where, “ah man, people think like, I’m a big damn hero, and I can use this to kind of try and make things better for more people.” 
 
-AUSTIN: You have 4 Prowess, and Prowess is an attribute that lets you resist kind of physical things, is the way I would describe Prowess. [SYLVIA: For sure.] Obviously, you and I have played Blades before, so I don’t have to go down the whole thing of like stress rolls, and blah blah blah, but for listeners, [SYLVIA: Mm-hm.] umm, the way that this game works is that if you miss, if you go for something and you miss, and depending on the kind of positioning in terms of how risky it was for a player to do it, umm, I can inflict harm, and then the player can be like “uh-uh-uh, I’m gonna take stress to avoid that harm, or to avoid that outcome, that consequence.” And the way you avoid that is by rolling… rolling the number of dice that you have in your related attribute, I’m pretty sure that's true? [SYLVIA: Yeah. Umm…] And then taking the highest number and subtracting it from 6. Uh… and so, you will crush any sort of Prowess resistance, but I do wanna say, your Insight is 0 and your Resolve is 1.
+Austin: Right.
 
+Dre: Especially seeing the Fleet and his home ship being on like, two separate philosophical sides.
 
-SYLVIA: That’s… I was gonna bring that up.
+Austin: Yeah.
 
+Dre: So, still staying in the military, still doing this stuff, but trying to influence policy, influence people to bring things closer together.
 
-AUSTIN: I think that’s fine. I think that’s fine, but-
+Austin: Mmhm.
 
+Dre: And when that doesn’t….work…
 
-SYLVIA: So. I do too, but we did talk a little about what we’re gonna be doing today, maybe, and it makes me — I’ve been rethinking the Helm point a little bit. 
+Austin [overlapping]: Right.
 
+Dre: or go as well as he wanted, like, getting just really frustrated.
 
-AUSTIN: Yeah, me too.
+Austin: [chuckles] Yeah. So the thing that I’ll say is like, there is this loose truce between…[amused, pointing out the rhyme]—loose truce—between the Divine Free States, and the New Earth Hegemony’s forces here. 
 
+Dre: Yeah.
 
-SYLVIA: Um, and I was thinking of putting that into Study, because it relates to the vice I…
+Austin: But things are not progressing as nicely as anyone hoped. The Fleet is still very determined to...own the Mirage. And the New Earth Hegemony can’t decide if it’s a resource that needs to be mined because it is...magical? It is doing something that nothing else in the galaxy does. To be clear, this stuff that is happening here where the planets are taking shape based on the willpower of people or machine gods, that isn’t happening anywhere else in the galaxy. That’s a local phenomenon to this system. And so part of Earth is like “yo, we need that.” And the other part is like “that’s scary! Blow it up!” [laughs] 
 
+And so everything is kind of hanging on by a weird thread right now. And no one has a solution for bringing people together. And sometimes that means literally. Right? Like, sometimes that means, like, there are people who are on the planet that the Ever Forward is on, who used to be part of the Crown of Glass. They’re on a different planet. And this is not a world of-like, there is space travel, you can’t see this list of factions right now that I’m looking at, but I’ll summarize it this way, which is that there are five tiers of factions, and the way I’ve kind of broken the tiers out-and you might remember this from Blades, too, right? Like-
 
-AUSTIN: I like that a lot. I actually like that a whole bunch. [SYLVIA: Yeah.] And also it makes Echo feel a little bit more full in who they are.
+Dre: Yeah.
 
+Austin: The Heat and the Dark was a five, tier five faction, Samothes was a tier five faction, right? Most things are not tier five. The way I’ve broken it out is that tier five factions can move beyond the mirage, or to bring other things in from outside the mirage; tier four can move personnel, equipment and goods throughout the entire sector; tier three has enough resources to move small groups-y’know, twenty people, thirty people-around with limited exports between its world and other worlds; tier two is like, you might find one person on a planet that represents this place-not one person, but y’know, you might run into an individual. You might be able to find an individual, but you’re not going to be able to find...a church, or a...an office space devoted to this faction. Then tier one is like, “no, they’re just on this home world.” The Divine Fleet doesn’t have anything at tier five, they cannot reach outside of the mirage at all, they only have three things at tier four, so there are only three sub-groups that can move around the galaxy in any meaningful way-er, not the galaxy, around the system in any meaningful way, where it comes to like, moving huge shipments of stuff. Everything else is tier three, two, or one. So like, and that includes some places, some things that you might think would have an easier time. Like, there’s the group of the intelligence operatives are only a tier three, and so it’s like, even they can only move around in tiny groups. And so it’s-it is tough here in the way that it wasn’t before. It takes a long time to travel through space. I kind of imagine it being very naval, very like, you’re getting into a ship and you’re gonna live on this ship for thirty days as you go from one of these planets to the next. 
 
-SYLVIA: Yeah.
+And that’s just like, one of many changes in terms of how society has shifted. Melee weapons have become way more useful in the military, because guns barely work. Gun—projectile weapons, both in space and on the ground, have become like, single-use for the most part, unless you have special bullets. Your boy Cascabel has done very well for himself, I’ll say.
 
+Dre: [laughs] Right, yeah
 
-AUSTIN: And a little less like… Echo’s never felt like “the brawn,” even though Echo’s been the bodyguard. Do you know what I mean?
+[27:09] Austin: So, so, like, everything is kind of weird. So do you think after you got frustrated with all of this-with trying to make peace you...do you think that frustration got you shuffled off? Or do you think that you, that you reassigned yourself, or what?
 
+Dre [overlapping]: I think it was...I think it was a combination...I think, I think...so I actually like how you said like, people can’t come together both philosophically and now physically, and so I think maybe Even gets the idea that like, maybe if we can just get people together face to face again, like, 
 
-SYLVIA: Yeah.
+Austin: Right.
 
+Dre: maybe this shit would work easier? And so decides to like, basically take missions like, test piloting new ships and things to try and improve travel throughout the sector.
 
-AUSTIN: They’ve always felt… Because of, I think, because of their position as the scout, and not just the person who’s gonna kick down the door and beat people up, there’s always felt like there’s a degree of wisdom, or not wisdom, even, but like, intelligence?
+Austin: Cool.
 
+Dre: And then there were probably people higher up that’s like, “yeah, no, we’ll let you do this because then you won’t be bugging us about like, this stuff anymore. [laughs]
 
-SYLVIA: Instinct, maybe?
+Austin: Right, totally. Totally. So then, let’s do this. Let’s open on-so you’ve been doing this for a while, you’re doing it-you’re doing-basically you’re just like, testing new ships in the Mirage. And like, one of the wildest things is just like, flying in the Mirage is nothing like flying in atmosphere at all. But then I guess that’s already true for flying in space versus flying in atmosphere.
 
+[Dre chuckles]
 
-AUSTIN: Yeah, intelligence and instinct, [SYLVIA: Yeah.] and like, knowing where to look for things, and knowing how to break down a situation, and knowing how to be calm enough not to jump into action too soon, and I think Study really reflects that, even though it’s not like… 
+Austin: But it is like, slow. It is-it is, it is slow in the sense that like, you are pushing through something. It’s almost like more of like a submarine than like planes up here. And so that means you have to be very good at making maneuvers at the right point in time, otherwise you end up being, y’know, left wide open, or heading-headed towards some debris that will screw you up. 
 
+[29:00] Austin: And again, one of the things that's weird is like, in space, ranged weapons have also not functioned, for different reasons that we'll get into as we play. But, they're very rare that weapons...again, one of the things with tier lists for me is like,  who has access to the sorts of things that allow them to do violence at this point? And unsurprisingly, the state has, [chuckles] has-has largely taken monopoly on violence. Very literally here, when it comes to ranged violence, anyway. So you see, like, an increase in ramming ships, in like-in...mechs that have big like, spears and lances and things like that, and so those are the sorts of threats that you have, more than big laser beams or-or like, torpedoes or anything like that, anything that would be explosive. It's like physical, blunt weapons. In this way, I think about a lot of like, Iron-Blooded Orphans here. Right?
 
-[15:00]
 
+Dre [overlapping]: Oh yeah.
 
-it’s just as valuable for reading books [slight laugh] as it is for reading situations, you know?
 
+Austin: Like, that's definitely a big inspiration in terms of what the...vehicle combat looks like going forward. Lots of, lots of, yknow, grappling hooks and stuff like that. Which is dope.
 
-SYLVIA: Yeah.
 
+So let's say maybe, let's get an image of this. Maybe you're out doing a test run in a ship of some sort. What’s the ship like that you’re doing a test run for? Is it filled with something? Is it-is it like, is it the final test of a thing you’ve done a bunch of times now, or is it a completely experimental ship?
 
-AUSTIN: I guess the only other one that I wanna ask about, and maybe this is a thing you could think about going forward, is if you continue down the path of, like, esoteric explorer, maybe putting a point into Attune down the line makes sense?
+Dre: I think it’s completely experimental, and so it’s probably like, pretty spartan on the inside.
 
+Austin: Okay, cool. So it’s just like, is it a bigger ship, but like, it’s just you and maybe an AI or something on it?
 
-SYLVIA: Okay.
+Dre: [pauses momentarily] Yeah.
 
+Austin: Okay, cool. What makes it experimental?
 
-AUSTIN: Um… Attune is when you galactic brain.
+Dre: [long pause] Ohhh, um…
 
+Austin: Is it like a propulsion thing, is it like a...is it a...something to do with communications, is it something to do with the way, how much stuff it can store, like, what’s the thing? Is it a new type of engine… [long pause] is it stealth, is it...?
 
-SYLVIA: Yeah. [laughs]
+Dre: How do you feel about space ships with like, fuckin’ like, big sails on them, Austin?
 
+Austin: There are—we already have a bunch. The Beloved ship has a big sail, and then-
 
-AUSTIN: [reading] “When you Attune to The Way, you open your mind to the galactic energies underlying all of existence. You might communicate with a non sentient species or robot, you could sense unseen danger or killing intent (though Study may be more appropriate),” yep, see there you go, that’s why it’s Study. [SYLVIA: Okay.] “You could safely handle precursor artifacts or remnants that tap directly into this energy.” I don’t think you’re doing that, at this point, but [SYLVIA”Yeah.] I do think that that is — there will be times when I’m like ooh, you could totally get limited effect with Study, but you could get great effect if you [cross] rolled Attune, or something.
+Dre [overlapping]: Oh, okay. Oh, that’s right, it did, yeah.
 
+Austin [overlapping]: And then the...but like, that can totally be the sort of thing, that like, this is a mass version of the Beloved ship. Right, like, maybe that ship was already b-I mean, that ship was already built to move quickly through-quickly and quietly through the Mirage. And maybe that thing that had previously been this, like only for use with this special one intelligence agency is like-”no, we need space sails really badly now.” 
 
-SYLVIA: [cross] Yeah, for sure.
+Dre [overlapping]: Yeah, okay.
 
+Austin: I kind of like that notion.
 
-AUSTIN: But I like that, I think that’s good. And we don’t have to go over your abilities word for word here, because they’ll come up in play.
+Dre: Cool. Yeah, I’m into that.
 
+Austin [overlapping]: Is it-Is it like a larger ship? Is it a ship that would be normally run by dozens of people, or is it like, smaller than that?
 
-SYLVIA: Yeah.
+Dre: Yeah, I like the idea of it being big. In that,
 
+Austin [overlapping]: Okay.
 
-AUSTIN: I will say, that I’m happy you have a move that lets you engage [amused] a small gang on equal footing in close combat. [laughs]
+Dre: y’know, because Even has this ability to like, multitask with shit, and it’s just like “okay, take this thing out.”
 
+Austin: Yep, gotcha. Right, right, right. That’s totally it, right, like, you don’t need to be at twelve different chairs, you just have your hair jacked into the system, right? Which makes you a great test pilot, because they can train people to do it later, like, or-or-or on a later stage of the test piloting thing, right now they just need to know if the basic design functions, and then they can do everything else later, so that’s really cool.
 
-SYLVIA: This is Friends at the Table, alright?
+Alright, so you’re in-in the Mirage, again it still is the Mirage, it still looks like a sunset constantly, right? And you still have the y’know, clouds and space dust, and-and like-it’s really cool to see the shore, this collection of stones and asteroids off in the distance just like...encircling the-not totally-not enveloping, but like, this line, this waving line of stones off in the distance...And I think maybe what happens is, seeing your ship-what color is the sail?
 
+Dre: I think it’s prob-it’s like a translucent, with like, a tint, or maybe it’s just totally translucent.
 
-AUSTIN: Yeah, someone has to be a fuckin’ small gang, alright?
+Austin [overlapping]: Okay. Okay, cool. It has like a shimmer?
 
+Dre [overlapping]: It just kind of takes on the color of whatever's around it, yeah.
 
-SYLVIA: It's finally my turn. 
+Austin [overlapping]: Yeah, gotcha. You notice that you’re being targeted by a group of autonomous drones, that are flying towards you. They are, they are...you know that this is like a tactic that’s used by space pirates. The Rogue Wave has-has stopped just being water-based pirates and they have moved into space. And have begun doing this sort of like, very cheap version of space piracy, in which they just send like, these drones to drill into ships. They like, land on the ship, they start drilling in, they make it empty with...with….they depressurize it, it kills everybody inside, and then the pirates show up later, very slowly and easily, to pick apart the scrap. Obviously, that is like, that doesn’t work with alot of major ships, but when they see yours, like they don’t have any record of what it is, and they assume that you are one of these foolish treasure hunters from outside of the system who is not prepared for this tactic, but maybe you’re a little more prepared than all of that.
 
+So, what do you do as these things happen? How do you, how do you, how do you respond to them?
 
-[both laugh]
+[34:25] Dre: Okay, what I do is I wait for them to like, start to like latch onto the ship, 
 
+Austin [overlapping]: Mmhm.
 
-AUSTIN: There isn’t… that doesn’t exist in Dungeon World, does it? Because there isn’t — [SYLVIA: I don’t think so, no.] oh, because in Dungeon World, you don’t actually… you stat out everything, and there’s HP, vs the rest of the games that we play, where it’s not ever so clean as just HP. Um, yeah. But it’s Counter/WEIGHT, Marielda, and now… Twilight Mirage, we got our small gang. We got it. [laughs]
+Dre: but then I put the ship into like, a violent barrel roll.
 
+Austin [overlapping]: Oh, nice. Um...cool! Give me a pilot check.
 
-But yeah, the rest of these moves are all really good, it's just like you’re tough, you’re a toughie. You’re not gonna get jumped, and you’re not gonna — and if you do get jumped, you’re gonna be okay. I am actually — wait, maybe there is a move here that I’m surprised I didn’t see you take. Wait wait wait wait wait wait wait wait. Wait. Maybe I’m just a liar. Oh oh oh! Yeah. I’m — it’s the first one. It’s Unstoppable, which lets you perform a feat of physical force that verges on the superhuman [SYLVIA: Yeah, that’s—] which is basically already like a move from the Veil.
+Dre: Okay.
 
+Austin: Or, sorry, you tell me what skill you use. That the-let me actually walk through briefly how this works,
 
-SYLVIA: Yeah, for — that’s… why I was like, oh, Echo’s gonna be easy to transfer over to this. [AUSTIN: Totally.] I think that’s also the default for the Muscle?
+Dre [overlapping]: Yeah.
 
+Austin: since there are new listeners. This is not the game in which I say “give me a blank”, you, in fact, say “give me a blank-” or, uh, you say “I’m gonna do this, I’m gonna roll-” y’know, “I’m gonna do X, I’m gonna roll Y to do it”, and then what I say is “hmmm...that sounds risky, and I think you’ll get a standard [laughs] effect from it. I determine position, either...risky, or...what’s the really bad one? Why am I not-why do I not have the right page up? 
 
-AUSTIN: It is. It is the starting move, [SYLVIA: Yeah.] yeah. Yeah yeah yeah. All right, so. I think that’s it for stats. You have an easy one, like, I’ve had some long conversations with other people about their stuff. And there’s obviously some other stuff that we’ll get in play too around like [SYLVIA: Yeah.] who your bud is — everybody starts with a deadly friend and like someone who — a rival of some sort. [SYLVIA: Okay.] And we’ll work that out in play. Oh, and then I guess here’s the one thing, is I want to addres the fact that — so the Muscle items are all like weapons?
+Dre: Uh...god...
 
+Austin: It is risky, desperate, and…
 
-SYLVIA: Yeah…
+Dre: There we go.
 
+Austin: [exhales] There’s one that’s like, not that big of a deal. Controlled. Controlled, risky, and desperate. And then I also determine, determine the degree to which it has an effect, which is limited, standard, or...great, I believe. And those things end up contributing to like, what happens in the fiction.
 
-AUSTIN: So… two of these are just your thing already. Fine Martial Arts Style is already your thing. [slight laugh] [SYLVIA: Yeah.] And then there’s a blade, which you already have a name for and everything, so [SYLVIA: Yeah.] both of those are totally good. I think I’m cool with you having a FIne Flamethrower. I think.
+So, I’m gonna say risky standard if you’re using pilot to do this, which is what it sounds like you’re doing.
 
+Dre: Yeah. Well, helm is the name of it, but yeah, definitely.
 
-SYLVIA: Okay.
+Austin [overlapping]: Sorry, not pilot, helm, yes yes yes yes yes.
 
+Dre [overlapping]: No, you’re good.
 
-AUSTIN: Um. But… and I’m definitely fine with you having Mystic Ammunition and a Fine blaster pistol, because like [SYLVIA: The way guns work now?] we’ve set those up as being that’s how guns work, that’s the [SYLVIA: Yeah.] Cascabel system? But I’d like to come up with something different for this detonator launcher and the fine sniper rifle.
+Austin: And we’re not going to get into like, ship stats and stuff. We’ll do that once we are in a real ship. This game has a really cool system for ships and vehicles but...we’ll do that when it’s not just a little vignette. 
 
+So yeah, if you’re gonna roll helm, what is your helm score?
 
-SYLVIA: Yeah.
+Dre: Uh...two.
 
+Austin: Okay, so, the way that you do this is that you...so you stated the roll, you stated what you want to do, you choose action, I’m gonna say the position: it’s risky stan-it’s risky, I’ll say the effect: it’s standard, and then you add up to three bonus dice. So you’ll be able to add one if someone’s helping you, no one’s helping you. You can add a bonus die if you are pushing yourself, if you take two stress you can add a bonus die, or you can use a gambit, and a gambit is a b-another sort of bonus die that you’ll have access to when you’re part of a crew. But you’re not part of a crew yet, so no gambit dice for you.
 
-AUSTIN: Partially ‘cause I just dont see Echo using those?
+So, [Dre chuckles] at this point, go ahead and roll those two helm dice.
 
+Dre: Okay.
 
-SYLVIA: I’m not super into the whole grenade launcher thing, no.
+Austin: I need to pull up Roll20, so-[laughs]. I heard it…where did it, where…[mumbles]
 
+Dre: Uh...four and a five.
 
-AUSTIN: No! And like I… the setting just doesn’t work with it anymore. right? like.
+Austin: Alright, so what you do is you take the highest thing here. When, when-in, in Blades in the Dark, or in-in Scum and Villany, you roll your dice pool, which is anywhere between, kind of...anywhere between kind of one and four die, I guess it could go higher than that. It’s a group of-of D6s. You look at the highest roll that you’ve got. On a risky standard roll, on a risky roll, on a four or five, [quoting rulebook] you do it, but there’s a consequence: You suffer harm, a complication occurs, you have reduced effect or you end up in a desperate position. 
 
+I think it is...you do it but you end up in a-you do it, but there’s a consequence, and you end up in a desperate position.
 
-SYLVIA: No, for sure.
+Dre [overlapping]: Okay.
 
 
-AUSTIN: We’ve changed those rules — and I don’t want it to like, oh, cut those off, you don’t get them. So let’s figure out some other cool stuff that might work [SYLVIA: Mm.] there, maybe something nonplethal, maybe something that just fits [cross] Echo’s vibe a little more?
+Austin: And I think it-it’s like, yes, you totally get them off, you do this like, barrel roll, your-the sails whip in, and then they-and, and like, you pull the sails out in the other direction and it spins you around, it’s a really cool moment, and you kind of like...like curve through the mirage, and they go flying off and-and like, bounce off of some debris, and like, lose track of you, and you-you manage to like, dip behind one of these asteroids.
 
 
-SYLVIA: [cross] I definitely want some more non-lethal options here.
+[37:38] And then, you realize that the whole ship is depressurizing. And you're a hybrid, but you still breathe oxygen.
 
 
-AUSTIN: Yeah, so let’s — you know. I don’t know, let’s go play some Heat Signature and figure out cool non-lethal options.
+Dre: Yeah, air's important.
 
 
-SYLVIA: [quiet laugh] Oh! So I got a wrench.
+Austin: Air's still important. So, what do you do at this point? You're in a desperate situation.
 
 
-AUSTIN: You got a wrench. [laughs] Yeah yeah, exac — you got a wrench and — 
+Dre: Okay, um, I mean I definitely think that I'm probably wearing some kind of a space suit.
 
 
-SYLVIA: And I’ve got a wrench to throw as well, so.
+Austin: Yeah, totally.
 
 
-AUSTIN: You have two wrenches! [SYLVIA: God, I’m—] That’s the whole sta… [cross] that game is really good.
+Dre: That's one of the Pilot things, so, I think the first thing Even does is probably like, pressurize his space suit.
 
 
-SYLVIA: [cross] Yeah. That’s how you play Heat Signature!
+Austin: Yeah.
 
 
-AUSTIN: Dude, that game is so good, I love it so much!
+Dre: Snap that shut. But then I think-
 
 
-SYLVIA: That game fuckin rules!
+Austin: And like, withdraw your hair tendrils?
 
 
-AUSTIN: Ah, god. Ah, god. Okay.
+Dre: Uh...Austin, c'mon,
 
 
-SYLVIA: That game rules.
+Austin [overlapping]: Cuz like, that's an interesting-
 
 
-AUSTIN: So yeah, I guess the thing briefly is just like you have a gun that can fire Cascabel rounds, and you have — you can always [SYLVIA: Okay.] bring mystic ammunition — it might be one or two bullet — it might be a handful of bullets that you can take on any mission, that actually gives you a gun that you could use in an ongoing fight, whereas basically every other gun in the universe, at this point, is single-shot. And you’ll run into actual military people who have weapons systems where they can quickly reload those guns, but it’s rare. Do you know what I mean, this is not going to be— this isn’t Star Wars where everybody in the cantina has  a blaster pistrol. You know what I mean?
+Dre: I definitely have like a space suit with like specific ports for my hair tendrils, c'mon. Come on.
 
 
-SYLVIA: Yeah.
+Austin [overlapping]: For your hair tendrils? Okay, okay, okay. That's fair.
 
 
-AUSTIN: Or if they do, they’re all one-shot blaster pistols [laughs], so that’s not gonna be a big gunfight, you know? So I think that’s a place where we kinda are diverging from Wild West. and maybe veering a little bit more towards like… what’s the period of Japanese history that I’m thinking of? Like post-war —- not post-war. But [SYLVIA: Post Feudal?] post Sengoku era — say that again?
+[Dre laughs]
 
 
-SYLVIA: Yeah yeah yeah. When rifles started getting introduced.
+Austin: We are being-this is the season of being extra.
 
 
-AUSTIN: Like but actually bef— when rifles were introduced, like after rifles were introduced, like the period of kind of wandering samurai versus — like the [SYLVIA: Yeah.] period of the Tokagawa shogunate, basically.
+Dre: Yeah, yeah. Um, and then I think, kind of like, feels through the ship to find if there's like a certain place that's had a hull breach, or if it's a bunch of small ones-
 
 
-SYLVIA: Okay, yeah, so like straight up — 
+Austin [overlapping]: Uh, yeah, so this is why it's desperate. The hull breach is as big as you are. You like-
 
 
-AUSTIN: [cross] But the Edo period is really my…
+Dre [overlapping]: Oh, that's bad.
 
 
-ADI: [cross] i immediately went to like, oh, Mitsurugi’s backstory in Soul Caliber.
+Austin: You get to that thing and also, and also, this is a test ship. It is (?) not have all of the automated shit that would've closed this down. So like,
 
 
-AUSTIN: Yeah, Mitsurugi’s — yeah, Mitsurugi’s story — yeah, exactly. [laughs] [SYLVIA: You know!] Have you played Soul Blade? Soul Blade is super good.
+Dre [overlapping]: Right.
 
 
-SYLVIA: I haven’t! Ugh… 
+Austin: You open an airlock, or you-you go to move into another room, and like, you begin to open the door, and you see, like, through the port as it begins to open, like through the-there's like a window, all the stuff in that room is being sucked out into space. Um, and like-
 
 
-AUSTIN: But yeah, it’s sort of that time period. Or like it isn’t that time period, but in terms of like — there are not big Wild West gunfights. That’s not [SYLVIA: Yeah.] the fantasy we’re going for. There are…
+Dre [overlapping]: That's bad.
 
 
-SYLVIA: No one has like a sixshooter, really.
+Austin: This door's starting to shake.
 
 
-AUSTIN: [cross] Right. Exactly. or like the two people— 
+Dre [overlapping]: Great. Um....So I guess it seems like there's...that door's probably gonna like...make it through, huh?
 
 
-SYLVIA: [cross] Or they’re not common. At least.
+Austin: No, probably not.
 
 
-AUSTIN: on the — [laughs] the entire crew that do are you and Grand Magnificent. So [laughs]
+Dre: Okay, um... [makes "ch" noises thoughtfully] Well, this sucks.
 
 
-SYLVIA: Oh jesus!
+[Austin laughs]
 
 
-AUSTIN: Yeah, uh-huh! And they’re not even sixshootrs, they’re just guns you could reload in combat, you know?
+Dre: You're already breaking my cool ship, Austin. [laughs]
 
 
-SYLVIA: Yeah.
+Austin: This is not your cool ship, it's the-the cool ship of the Divine Free States.
 
 
-AUSTIN: Which is a big deal, so. Um. All right. I think that that’s it for our stat talk. I think now we can pivot into doing a quick scene. Um… let’s give it a second so that we can breathe. All right. Echo Reverie, tell me how your year has been.
+Dre: Yeah, that's fair.
 
 
-SYLVIA: [deep breath] It’s been complicated. [sighs]
+[Austin laughs]
 
 
-AUSTIN: [laughs] Yeah?
+Dre: Um...I-okay, let me see, let me look through the shit I have. Okay, so one of the other Pilot items I have is a fine mechanic's kit?
 
 
-SYLVIA: Um. So after the events of… what was it, Follow, was the name of the game we played?
+Austin: Yeah.
 
 
-AUSTIN:  Yeah, Follow. [stammers] [cross] I guess we’re calling— 
+Dre: I wonder if I have like, a-just like a-like a little blowtorch. And so I basically start trying to like, weld that door into the frame
 
 
-SYLVIA: [cross] After the event—
+Austin [overlapping]: Gotcha.
 
 
-AUSTIN: We’re calling that whole series of events the Miracle of the Mirage.
+Dre: to try to give it some extra hold.
 
 
-SYLVIA: Okay, so… okay. So after the events of the Miracle of the Mirage, we kinda saw Echo left in a position of power that they didn’t really want.
+Austin: Totally. Um...what are you using for that?
 
 
-AUSTIN: Yeah.
+Dre: Uh...I guess it's probably rig, right?
 
 
-SYLVIA: And I think a lot of this year has been balancing those responsibilities with what they actually wanna be doing.
+Austin: That sounds like rig to me, I think.
 
 
-AUSTIN: Right.
+Dre [overlapping]: Yeah.
 
 
-SYLVIA: It’s a lot of making sure that like… people are being taken care of, people are adjusting, people are not being forgotten about by others, and like everyone is keep - like… they’re building a community. like [AUSTIN: Right.] they’re actually builidng like a life for these people, but at the same time, fuck, they really just wanna go like find their brother, [AUSTIN: Right.] who’s been missing, ‘cause the Tides of Harmony [AUSTIN: Right.] went to a different Quire than — 
+Austin: I'll just double check it, but like, that-that does sound like rig.
 
 
-AUSTIN: They split, in fact. [SYLVIA: Yeah.] Right, like the Tides of Harmoney [SYLVIA: Yeah.] split and landed two sides of — on two different planets, and space travel’s really hard. Like even with a spaceship, it’s a pain. And especially like an ancient spaceship. [laughs] So where di d you land?
+Dre: You want me to read it? I've got it. Yeah! [reading from rules] "Rig together mechanical solutions, disable, modify, repair, or create mechanisms, disable a trap, pick a lock, crack a safe, rig explosives."
 
 
-SYLVIA: I don’t remember where we said, I feel like…
+Austin: Yeah, that's in there, that's rig. So yeah, go ahead and give me rig. This is desperate...this is desperate standard.
 
 
-AUSTIN: I mean, we can — where did you wind up, let’s say. ‘Cause like I can imagine you boucning from place to place for a little while before kind of coming to rest.
+Dre: Good, great.
 
 
-SYLVIA: Well, like, I guess the question is like — ‘cause I — where did the… what Quire did we originally land on?
+Austin: Mm-hm.
 
 
-AUSTIN: Oh, in terms of — at the end of the… Miracle?
+Dre: Um...so I've got one in that, are we even doing like...taking stress or anything like that at this point, or-?
 
 
-SYLVIA: In terms of like the end of the Miracle… 
+Austin [overlapping]: Naw, no.
 
 
-AUSTIN: I don’t even remember. It has been [SYLVIA: Yeah.] a while since we played it. And that’s why I’m [SYLVIA: Yeah.] kind of like happy to be vague, ‘cause everybody wound up in different places. Do you know what I mean? [SYLVIA: Yeah, sure.] Like Gig wound up on Brighton, which is the kind of Rogue Wave ocean-y planet. And… Declan’s Corrective wound up on Seneschal, which is the By-and-By planet. Along with the Cadent. And so like the whole crew that you were with kind of all split up. Cascara disappeared. Myriad disappeared— or didn’t disappear, but was made very like committed to [slight laugh] to the logistical work, right, and— who else was with your crew? There was another person, right?
+Dre: Okay, I didn't think so.
 
 
-SYLVIA: Um…
+Austin: I mean it would-you would-yeah, go ahead.
 
 
-AUSTIN: There was one more character who I cannot remember — that’s all right. 
+Dre: Woo, that's a three.
 
 
-SYLVIA: Who did you name — you named Cascara…
+Austin: It's a one-oh, you only had the one there. Okay.
 
 
-AUSTIN: I named Cascara — oh wait, no, is that it? Myriad, Cascara, and Declan’s Corrective. Yeah, that’s it. I think?
+Dre: Yep, uh-huh.
 
 
-SYLVIA: Yeah, those were the three non-player-characters that were with us, yeah.
+Austin: Um...okay, here's what I'll say. So a-a three on a desperate...let me tell you, buddy...
 
 
-AUSTIN: No, there has to be a fourth one. There’s one more. This is gonna kill me.
+Dre: This goes bad.
 
 
-SYLVIA: Was… fuck…
+Austin: It starts to go bad, because you-you gotta get a four or five to succeed.
 
 
-AUSTIN: [sighs] Man!
+Dre: I've worked so hard on making this character, and he’s already dying [laughs].
 
 
-SYLVIA: ‘Cause it was you, me and Keith who did that, right?
+Austin [overlapping]: And that's it, you're done, that's it, you're dead. The end, good for-good to-and that's how Even ends up. Thank you, welcome to the-the epilogue to Twilight Mirage, um...no.
 
 
-AUSTIN: Yeah, so there should be six characters total.
+So one thing, here's one thing I'll do immediately. Which is, I'm gonna offer you a Devil's Bargain. Which'll, which'll help maybe, maybe, depends on the dice roll, right?
 
 
-SYLVIA: Yeah.
+I'm gonna read from the Devil's Bargain thing, except I'm still not...what is...going on with this stupid search? There we go! Alright. So, a Devil's Bargain says: [reading from rules] "PCs in Scum and Villainy are heedless adventurers who often shoot first and ask questions later. They don't always act in their best interests. To reflect this, the GM or any other player can-can offer you a bonus die to accept a Devil's Bargain. Common bargains include collateral damage or unintended harm, sacrifice Cred or an item, betray a friend or a loved one, offer an-offer-sorry, offend or anger a faction, start and/or tick a troublesome clock, add Heat to the crew from-from evidence or witness, or suffer harm."
 
 
-AUSTIN: And I’m only gettin five.
+Um...what I wanna do is, I wanna offend these pirates. I want-I will give you...I don't know how this works...okay, here's how it works. To do-to get this extra die, you are going to need to, like...use something on this ship, or like, maybe it's like you turn up the-the welding thing so it's-so it's brighter. And the-one of the drones spots you, one of the drill drones spots you in their camera, and now that there's a hole to the drawer-or, not to the drawer, a hole through the hull of the ship, they can like, they like do "enhance, enhance, enhance, enhance", and like can see your face. Cuz now they know where to look, and so the Rogue Wave will have-like, you'll be one less rep with the Rogue Wave at the start of the game.
 
 
-SYLVIA: Was it Waltz Tango Cache?
+[42:34] Dre: Okay, yeah.
 
+Transcribed by Sav [0:42:00-0:52]
 
-AUSTIN: Yes! Yes yes yes yes yes yes. It was Waltz. [SYLVIA: Yeah.] It was Waltz. [close whisper] I don’t even know where Waltz is. Waltz is up to some shit, I’m so sure of it!
 
+Austin: Um. So yeah, go ahead and give me a, one more d6, ‘cause that’s what you get a bonus to. 
 
-SYLVIA: I mean, yeah.
 
+Dre: Cool, another 3.
 
-AUSTIN: [slight laugh] But, but yeah.
 
+Austin: [overlapping] That’s-that’s another 3. That’s another 3. That’s baaaad. [anxiously] That’s super bad! Alright. Um. [quoting the rulebook] “You suffer harm, a complication occurs, or you lose this opportunity.” Ah, as you’re doing it like, the door just like, begins to fall away. And um. [sympathetically] I’m gonna get you out of this. But ya didn’t get out yourself, which is interesting. Um. I think this door starts to be pulled in, and [amused] we just get a shot of you like, scrambling back one more door and shutting that one. Um, they did not give you a good ship to test out here buddy. 
 
-SYLVIA: So I think the one I’m drawn to is Altar.
 
+Dre: [laughs]
 
-AUSTIN: Yeah. Totally.
 
+Austin: And then, like, before those pirate drones can show back up--in fact maybe we even get a shot of that pirate drone, um, and then we get like a, a hook being shot into it and like, yanked--yanking it apart basically? Or like being hurled at it basically and then yanking it apart. And then a, uh, that same mech that did that like, swings over towards you, like hooks onto your ship with this grappling hook, and pulls it towards you. [interjecting own train of thought] I just imagine it has big thighs. That’s the thing I - that’s the one big thing I know about this ship is it’s got big thighs, big, uh, big like, rounded shoulders, um, uh and it shows up and puts a hand over the hole in the ship. And then you hear like, um--it has almost like, not claws, but it has like in its hands, sharp, like, poles, almost like nails? That shoot outward and then attach themselves on the inside and like, bolt shut the hole in the side of your, of your ship.
 
-SYLVIA: Primarily because, one, it’s where a lot of these people would land. Like, a lot of the people Echo was overseeing would land, they’ve got the connection there. They have kinda obligations there? But also I’m super into the idea of Echo becoming like a divine tomb raider there?
 
+And then you get a comms call from the person inside. And it is Commander Pure Cascara, who you haven’t seen since she recruited you to help go on, go to Volition and take care of Independence. Um. And she says.
 
-AUSTIN: Mm-hm. Me too.
 
+AUSTIN (As Pure Cascara): Commander Gardner. I’d love to. Chat with you, if you have a few minutes.
 
-SYLVIA: So, I think Altar is where Echo probably has ended up.
 
+DRE (As Even Gardner): Thanks- I’m assuming thanks to you, I actually have more minutes than I expected to have a couple minutes ago.
 
-AUSTIN: Yeah, I also like that because Altar, I believe — let me look at my notes real quick. Uh… dododooh...I have a bunch of notes now. I have so many notes… you wouldn’t believe the amount of notes I have. [SYLVIA laughs] Um. Ultra — or no — okay. [SYLVIA: Eh.] No no no. You’re good. You’re good, everything’s… I thought for a second that half of the Tides of Harmony went there. Had the other half — where the hell did I put the other half of the Tides of Harmony? Does anyone know? Does anyone know where I put the other half [slight laugh] of the Tides?
 
+Austin: She smiles. And then we get a shot-- we don’t get her, like, getting out of the ship, or out of the mech, or like docking her ship where the mech was from, or any of that stuff, we just get: Cut to coffee, she’s in her wheelchair, you’re, you’re in your ship, in the, the room behind the uh, captain’s--behind the cockpit. Um. And there’s just like, hot coffee steaming. And she says uh,
 
-SYLVIA: [laughs] It’s probably in the couch cushion somewhere.
 
+AUSTIN (As Cascara): So how’s it going?
 
-AUSTIN: Yeah [laughs]... That’s where — oh wait, of course, of course. I know where they are. I know where they are, you don’t know where they are. I know where they are.
 
+DRE (As Even): Umm...not my best day, but it’s, you know, it is what it is.
 
-SYLVIA: Yeah. I mean —
 
+AUSTIN (As Cascara): [laughs] [sighs] You’re lucky I was, uh. In the neighborhood, I guess.
 
-AUSTIN: It’s Perigean? Is that the name of the other one?
 
+DRE (As Even): Uh, I’m not gonna disagree with you.
 
-SYLVIA: Uh, Perigean and Seiche are the two names, yeah.
 
+AUSTIN (As Cascara): [overlapping] [inhales and sighs heavily]
 
-AUSTIN: And Seiche, yeah yeah yeah. [SYLVIA: Yeah.] I know where Seiche is, because let me tell you about the Volunteers of Seiche, they do not like Earth. [SYLVIA: Great.] The V-O-S, the VOS, they are not out here for fuckin Earth. [typing] Other half of Tides of Harmony. There we go. I’ve written it down. I’ve written it down!
 
+DRE (As Even): Why are you in the neighborhood?
 
-SYLVIA: All right.
 
+AUSTIN (As Cascara): [archly] I was looking for somebody.
 
-AUSTIN: All right! Cool. So… being a tomb raider, slowly handing off power to other people who you think are worth taking it on. What else has Echo been up to? Where are you at, eleven months after the Miracle of the Mirage?
 
+DRE (As Even): [sheepishly] Is- is it me?
 
-SYLVIA: I think at that point, Echo’s probably like almost done their like tenure as this sort of figurehead [AUSTIN: Yeah.] in a way? Like things have calmed down enough that they don’t really need their like… I don’t wanna say wartime, but I guess it’s the only word I have for it, like wartime leader? You know?
 
+AUSTIN (As Cascara): It’s you.
 
-AUSTIN: No, I think that’s fair. We call — I’ve been calling it the Week-long War, in my notes. [SYLVIA: Okay.] And like I think that that’s — there is an honesty in saying like, I was given this power — I took this power because no one else was taking action. [SYLVIA: Mm.] It’s time for me to step back from it.
 
+DRE (As Even): Okay.
 
-SYLVIA: Yeah. And like honestly Echo would step back sooner if they were able to, but it’s one of those things where it’s like, I wanna make sure these people are ready, you know?
 
+AUSTIN (As Cascara): [seriously] How do you think things are going, just more generally, Gardner?
 
-AUSTIN: Totally. Totally. So what have you do — like what are you doing — it’s your — are you… What’s the last thing that is your job to do — or maybe not even job, but your last like responsibility? And it could be anything you want here [SYLVIA: Hm.] for Echo as they kind of — their one last ride as the representative of the peoples of Altar. A-L-T-A-R, by the way. i know I sometimes sound like I’m saying A-L-T-E-R, Alter, [SYLVIA: Okay.] but. You know us and our fuckin homophones! We love em!
 
+DRE (As Even): [long pause] Could be worse, but I’m not...that happy with all of it.
 
-SYLVIA: Yeah. Some people sp — listen, like, I’m the person who has a character named Ephrim that can be spelled like fifteen different ways.
 
+AUSTIN (As Cascara): [sniffs] You have like a vision, for the Mirage at this point or is it kinda...day by day.
 
-AUSTIN: True.
 
+DRE (As Even): [laughs] Uhh...yeah I mean there’s. There’s a way that I’d like things to be.
 
-SYLVIA: I got you. Um. I’m thinking maybe it’s something along the lines of like slowly Echo is like — how big is the city, are you thinking?
 
+AUSTIN (As Cascara): Tell me what that looks like.
 
-AUDTIN: Um. The main one, Seance? [SYLVIA: Yeah.] I’d say that’s… Seance… here’s one of the questions that I still haven’t figured qui — I can tell you how many temples it has? [SYLVIA: Okay! Lo—] It has 302 temples. I don’t know how bi — uh. [cross] It is one of the — 
 
+DRE (As Even): I mean we- we stopped Independence but the people who wanted that are still...they’re still out there. They’re still working on something, and we’re too busy fighting over...bullshit.
 
-SYLVIA: [cross] I just wanna make sure I’m not like — it’s like sizeable though, right?
 
+AUSTIN (As Cascara): [sniffs] Yeah. [sighs] How much do you like all of this uh, test piloting stuff.
 
-AUSTIN: Oh, it’s absolute — it’s one of the three biggest cities at this point.
 
+DRE (As Even): I mean I have to believe it’s gonna be, it’s gonna be helpful eventually but I don’t know? I have the feeling you’re offering something better here, on the other hand.
 
-SYLVIA: That’s all I really needed to know.
 
+AUSTIN (As Cascara): Better is...debatable. I...I’m not here to lead you down the garden path.
 
-AUSTIN: [stammers] In the system, for sure.
 
+DRE (As Even): Is that a, is that a pun?
 
-SYLVIA: Yeah. I was thinkin maybe it’s one of those things that just like settling like a newer district. [AUSTIN: Okay.] Like the last little like area there? Making sure — 
 
+AUSTIN (As Cascara): Not-[consternated noises] Yes.
 
-AUSTIN: Yeah. What do you mean by settling, like…
 
+DRE (As Even): [laughing]
 
-SYLVIA: So it’s a little — maybe it’s on the outskirts of the city, and it’s a little like riskier being out there. It’s almost like a outpost type thing?
 
+AUSTIN (As Cascara): [overlapping] It is a pun, not an intentional one, but it is a pun. I uh. The people I’m representing have a vision for this place, and it’s one without all the bullshit. And we need a pilot. And someone who...has been in command before, and someone who knows what it’s like to be on Volition. And someone who knows what it’s like to be on Quire. We need someone like you.
 
-AUSTIN: Sure.
 
+DRE (As Even): I’m assuming that you are...this group and the people you are representing are not a part of any, either one of these governments?
 
-SYLVIA: So like they have to make sure that they’re prepared for like wildlife, environmental stuff, shit like that.
 
+AUSTIN (As Cascara): [inhales, sighs] It’s debatable. It’s either that they’re not part of either, or they’re part of both. No one’s really sure. You interested? We can tell you more.
 
-AUSTIN: Right.
 
+DRE (As Even): [overlapping] Yeah. Yeah, so it’s, that answer sounds somewhat bullshit-adjacent
 
-SYLVIA: Because maybe it’s not like directly connected, it’s like a couple miles away.
 
+AUSTIN (As Cascara): [scoffs, sighs] All right, there’s gonna be a little bit of bullshit.
 
-AUSTIN: Right. Okay. Cool, so I know exactly what happens then. [SYLVIA: Cool.] It is late night, and you have taken —  you’re doing a late-night watch guard a favor. By kind of taking over their duty and keeping watch on the perimeter — on the eastern perimeter that leads into the kind of jungle. And Seance sort of — the area around Seance is sort of like the area that used to be around the… the Sculpture, Sculpture City, the kind of rolling hills of sand, except it just keeps going. And there are some jungles here and there, but like by and large I’m picturing this as very orange hued, very sandy, very — this is the desert world of our Star Wars-y setting now. I’d say it’s much more orange in hue than Tattooine or something. You know, it’s a little bit more saturated with color. And you can see these other planets, right? Like that’s one of the things I just wanna keep noting is, you can see these other planets, huge, on the horizon. Even though — the system is small, physically, even though it still takes a long time to get from place to place, like. The reason that it takes a ship a long time to go from Moonlock to Altar is not that it’s super far away. I mean, it’s super far away, ‘cause you’re talkin about space still, right? But like, the thing that makes it hard is that the Twilight Mirage is actually super dense, and the engines just dont go as fast [slight laugh] through a dense at — like weird, pseudo-atmosphere as they would through vacuum. And they’re also just not built for it, like maybe as new ships get built for this specific —
 
+DRE (As Even): I mean, that’s fine. I’d rather you just tell me that than pretend there’s not.
 
-[30:00]
 
+Austin: [laughs loudly]
 
-for the Mirage, this new form of the Mirage, they’ll go faster, but for right now, everything still kind of takes a long time. And so you just get these views of the giant planets hanging in the distance, just dominating your view as you travel. So, while you’re holding watch, you hear a cry for help, or there’s some sort of like— is the— I’ll ask. Is there a sort of alarm system, is there a — do people have any sort of like… is there any sort of like personal ID card or phone or something that like sends a signal if someone’s vitals get dropped, or anything like that?
 
+AUSTIN (As Cascara): There’s gonna be a little bit of bullshit. But that bullshit is...mostly external. It’s mostly that...for all the rhetoric, no one, or at least not enough people, are working on what a unified Mirage might look like. What the Quire System under one flag could be. We’re not talking about revolution, though. We- for now, just want to help people. Directly. On land. [inhales, sighs] Flags come later. And will probably come with more bullshit. 
 
-SYLVIA: Um. I think they probably have like radios or something. [AUSTIN: Okay.] I think right now, like I think one of the last things they’ve been setting up is a sytem like that, and that’s why Echo’s still there, because it’s risker. [AUSTIN: Okay.] I think right now when they hear — like I hae this idea for like watchtowers set up around it, and like a flag system, in a way, that they like are like, I need to step away from this, so this string of flags goes to like the next [AUSTIN: Totally.] thing, so the person there knows, oh, this person needs to step away, so I need to… be careful.
 
+DRE (As Even): [overlapping]Hopefully- yeah. I was gonna say hopefully not at all, but. That’s not how this stuff works.
 
-AUSTIN: All right, so here’s what happens is, I think what you get is, do you remember that sequence in… it’s a very brief moment in Fury Road where the smoke — the flares go up? They’re not even flares, [SYLVIA: Yeah.] like the big puffs of like colored smoke? [SYLVIA: Mm-hm.] I think you get one of those in bright — or not even bright but in — ah! It is bright. It’s like a bright green, way off in the distance to the east, over the dunes, you know, from this kind of jungled area, and then you see like the series of flags going up as other people see that, and you know that… a flare like that is like serious injury. [SYLVIA: Okay.] So something is happening. What do you do?
 
+Austin: She shakes her head.
 
-SYLVIA: Okay, yeah. So I think what Echo does is they pull like — I’m picturing like these like… almost — they kind of look like, y’know… Ah, what’s the like hanging bars that kids play on?
 
+AUSTIN (As Cascara): So. Commander Gardner?
 
-AUSTIN: Yeah, yeah. Uh… 
 
+DRE (As Even): [sighs] They were gonna make me a Major. 
 
-SYLVIA: But like the ones that are just handles? [cross] They — this kinda looks like that? 
 
+AUSTIN (As Cascara): We could make you a Major. We could make you a....I dunno, we’re still figuring out ranks
 
-AUSTIN: [cross] [stammering] Handlebars. Right?
 
+DRE (As Even): [laughing] I didn’t want to be a Major.
 
-SYLVIA: Handlebars. Perfect. [AUSTIN: You got it!] That’s exactly it!
 
+AUSTIN (As Cascara): [small exhale/laugh] What’d you wanna be?
 
-AUSTIN: [laughing] I’ve been there [cross] all week, I’ve been there —
 
+DRE (As Even): Somebody who did something besides bullshit. So. I think I’m in.
 
-SYLVIA: [cross] It’s been a long day.
 
+AUSTIN (As Cascara): [overlapping] [laughs] Sounds good.
 
-AUSTIN: Yo, I have been there all week, Sylvia[1], don’t even [SYLVIA: Yeah.] worry.
 
+Austin: And then she like, slides over a um, a uh, a card and taps it once. And a picture of one of the planets of the system, one that’s wrapped by the By And By, like holograms up in front of the both of you. And there’s like a dot, blinking on it. And she says:
 
-SYLVIA: So I think they pull one of tho — like it looks like kinda like that, like it’s a big like yellow Fisher Price-lookin handle, almost, [AUSTIN: Mm-hm.] connected to like this like Gumption’s Gambit-looking stuff.
 
+AUSTIN (As Cascara) Meet us here, two weeks. And uh. Do me a favor. Don’t tell any of your friends that I’m comin’. It’s time to get the band back together and I wanna see the look on everyone’s faces when I surprise them.
 
-AUSTIN: Okay.
 
+DRE (As Even): Aright fair, but will you at least...let me know how Grand Magnificent’s doing? 
 
-SYLVIA: Like it’s connected to like metal and shit, and like they pull it, and then this string of like yellow flags [AUSTIN: Mm-hm.] just like unfurls along to the other like watchtower, to let the person know like, we’re not under attack, but there’s something going on?
 
+[00:50:25] Music begins: The Pilot by Jack de Quidt
 
-AUSTIN: Okay.
 
+AUSTIN (As Cascara): He’s good. I...he’s good. I spoke with him already. 
 
-SYLVIA: Red is we’re under attack… it’s urgent. [AUSTIN: Right, and—] Yellow is I need to go check something.
 
+Austin: And then she kind of like, looks down. 
 
-AUSTIN: Gotcha. Okay, cool. So the yellow flag goes up.
 
+AUSTIN (As Cascara): [sighs] I...wouldn’t have contacted him if I didn’t think he was ready. He’s ready. He’s ready.
 
-SYLVIA: Yeah.
 
+DRE (As Even): Finally.
 
-AUSTIN: You get back whatever the like signal flag is that says mesage received, and then other signals go up across the rest of the kind of patrol to make sure that nobody else also goes after it, like [SYLVIA: Mm-hm.] you’ve got this under control, basically.
 
+AUSTIN (As Cascara): [overlapping] You’ll see him soon. [laughs] Yeah. 
 
-SYLVIA: Yeah.
 
+DRE (As Even): Yeah.
 
-AUSTIN: And then you just take off to the east over the dunes, right? As the — you know — as the sun sort of sets, but again, we’re in the Twilight Mirage, so things are either just like always near night time, or near dawn. yknow, so it can get pretty dark, but it never gets pitch black. for the most part. there are some times and places where that shifts.
 
+Austin: And then she um, begins to like wheel herself back over to where her mech is. And then she’s gone. I think that’s...that’s our time with Even Gardner until the group’s back together.
 
-SYLVIA: Every now and then.
 
+[Music continues until 00:52:32]
 
-AUSTIN: Every now and then. The shadow of Volition will land on, — is the thing that happens, where there is a place — there is one planet where that is always the case, but I think everywhere else just every now and then, for whatever reason, Volition will put its dark shadow on you. So. You head over the hills and stuff, and it’s not long until you — all right, what do you do? How do you try to find this signa — do you just head in the general direction?
 
 
-SYLVIA: Yeah, I think so. I think it’s sort like… yeah, I think it is literally just like, okay, I saw this there, I — maybe Echo like marked it on a map or something [AUSTIN: Sure.] the direction they saw it in [AUSTIN: Mm-hm.] — and then head that way? ‘Cause I feel at this point they’ve probably gotten pretty good at orienteering. The— 
 
 
-AUSTIN: Yeah, definitely. I’m not even going to make you roll for the [SYLVIA: Yeah.] basic orienteering here.
 
 
-SYLVIA: Yeah.
 
-
-AUSTIN: Um, uh. But you’re just going out on foot, right?
-
-
-SYLVIA: Yeah.
-
-
-AUSTIN: Okay, cool.
-
-
-SYLVIA: It’s not like — super duper far, right? [cross] ‘Cause if it was— 
-
-
-AUSTIN: [cross] No, it’s not like six hours — it’s not like — [SYLVIA: Yeah.] but it is like, you know, further than shouting distance. Do you know what I mean, like… 
-
-
-SYLVIA: Yeah.
-
-
-AUSTIN: From HQ, basically. All right, so. You eventully get to this like jungled area, and you kind of pass through, and maybe you cut away some brush as you go into where — you can smell the powder in the air, from the kind of flare shot, so you know you’re getting closer, and then you break through at just this — into this clearing, and inside is… It looks like a large like a giant marble? Like a cat’s eye. And then you see that [slight laugh] there is just like a pair of wooden doors on the — out front. And then you see the — what sort of vehicles or animals — beasts of burden — do people who are part of Altar drive or ride?
-
-
-SYLVIA: Oh man.
-
-
-AUSTIN: [cross] I will note —
-
-
-SYLVIA: [cross] I feel like it — 
-
-
-AUSTIN: — the Aranea Motors is on the planet, so you could make up something that Surge and Janey would have made.
-
-
-SYLVIA: Okay, then yeah, I think it probably is something along the lines of like — what was Surge’s like doom buggy? Was it doom buggy?
-
-
-AUSTIN: Yeah, the doom buggy. Yeah.
-
-
-SYLVIA: Yeah. I think it’s like… they have like bulkier, less combat versions of that?
-
-
-AUSTIN: Sure, okay. So yeah, so it’s one of those that’s here. And there is a… you can see that it is… I guess you— there’s nothing to notice right away. Is — that’s what I’ll say! There’s nothing here to notice without a roll, certainly! It’s just it’s parked here.
-
-
-SYLVIA: Hm! [pauses] Well, I do have that 1 point in Study.
-
-
-You do have that point in Study, and I won’t — this isn’t a risky roll either, this is what I would call a — so there’s two types of rolls in this game. There’s an action roll and there’s a fortune roll. There’s no risk here, so a fortune roll would just let you know how much information you gathered, basically. So “when you want to know something specific about the world, your character can gather information. The GM will ask you how your character gathers the information or how they learned it in the past,” because, remember, this game has flashbacks. If it’s common knowledge, I can just answer it, but otherwise, either an action roll or a fortune roll, because there’s no obstacle. “A fortune roll determines the quality of information you gather.” Uh, so, you can go ahead and give me a fortune roll… of… whatever you wanna use here.
-
-
-SYLVIA: Like anything I wanna use here?
-
-
-AUSTIN: Yeah, as long as you can explain how it works, but — but —
-
-
-SYLVIA: Yeah, okay. I think I’ll just go with Study, then.
-
-
-AUSTIN: Okay. But there is definitely a way for me to still be like, well, you’re gonna need to get more — a higher result to get better information, you know what I mean?
-
-
-SYLVIA: Yeah. For sure, it’s just like the only things better than a 1 I have are both like — are running and fighting.
-
-
-AUSTIN: Yeah, which neither of those [cross] would have been able to… play out here.
-
-
-SYLVIA: [cross] And like… if I needed to get like to a higher point to look at something, I could see using Scramble [AUSTIN: Totally.] but that’s not gonna work here.
-
-
-AUSTIN: Totally.
-
-
-SYLVIA: So i’m just gonna go with study — that’s 1d6, right? I roll 1 for each point I have?
-
-
-AUSTIN: 1d6. Yep.
-
-
-SYLVIA: Okay. Hey, I remembered how to play this system!
-
-
-AUSTIN: It’s pretty simple. It’s pretty simple.
-
-
-SYLVIA: Oh, god.
-
-
-AUSTIN: Well, that’s a 1.
-
-
-SYLVIA: That’s a 1.
-
-
-AUSTIN: So I guess here’s the actual thing that I —  on a 1, when you’re gathering information is “you get incomplete or partial information. [SYLVIA: Kay.] More information gathering will be needed to get all of the answers.” The thing that happens is you get turned around in this space — and this is information! This isn’t — I’m not saying you won’t be able to find your way out — but you realize that you’re not sure which way west is anymore. It feels [SYLVIA: Mm-hm.] as if the marble has turned, and the doom buggy has moved with it. And that’s probably not true, but like you just sense that the planets aren’t in the same place anymore.
-
-
-SYLVIA: Okay. So I’m in like a wooded area, right?
-
-
-AUSTIN: You’re in a — it’s like a — it’s a jungle. It’s like — [SYLVIA: Yeah.] I wanna like differentiate that from forest, you know what I mean, it’s a little [SYLVIA: Yeah.]— it’s definitely a little more humid, and it is — you know, there’s different insects and animals and stuff. And so again, there’s this giant cat’s eye marble that has doors in the front, and then this doom buggy with no one in it.
-
-
-SYLVIA: Okay. The main reason I just wanna ask that is ‘cause there’s trees and stuff around, right?
-
-
-AUSTIN: Totally. A hundred percent.
-
-
-SYLVIA: So I think immediately upon feeling that, Echo would like mark the tree nearest to them [cool. awesome] where they think they came from? I don’t know if — they don’t know how useful that’s gonna be, but it’s [Yeah.] the most like grounding thing they have.
-
-
-AUSTIN: That totally works.
-
-
-SYLVIA: Yeah.
-
-
-AUSTIN: Uh, awesome!
-
-
-SYLVIA: Um. And then — so it’s like it’s a cat’s eye? Like… you said?
-
-
-AUSTIN: Like a giant cat’s eye, yeah.
-
-
-SYLVIA: Okay. [cross] And there’s no —
-
-
-AUSTIN: [cross] A cat’s eye marble, to be… clear.
-
-
-SYLVIA: Marble, yeah yeah yeah.
-
-
-AUSTIN: Yeah yeah yeah. And like where the, you know, where the…line of the eye would be, basically, is where at the very bottom of it there is a door.
-
-
-SYLVIA: Okay.
-
-
-AUSTIN: Where it’s like a big double door, is what it is.
-
-
-SYLVIA: [sighs] I think… [pauses] I think what Echo does is they like go up to the door, but they like do that where you’re like standing to the side of it [AUSTIN: Uh-huh.] and they like — like, with their back to the building, and like push it open from the side, basically [cross] so they can peek in.
-
-
-AUSTIN: [cross] Uh-huh. As soon as— yeah, as it starts to — as soon as you start to peek — as soon as it opens a little bit, you hear like [singing cheerily] ba dap ba da, ba dap ba! Ba dap bap! Ba dap ba da, ba dap ba! Ba da bap! And it is like the… [slight laugh] It is like a…not a ringtone, a — not a motto, not a slogan. A—
-
-
-SYLVIA: Jingle?
-
-
-AUSTIN: A jingle for like a convenience store? And you peek inside, and there is a convenience store with a robot behind… a counter, and it’s one of those convenience stores that has a like a little tiny seating area, so it’s like — it’s basically like a 7-11 [laughs], [SYLVIA: Okay!] except also there is like a little cafe — like cafe pastry thing where you could go buy the coffee roll at the front desk and then — or at the front counter, and then take it and sit down and eat it while you look at your newspaper. And also from in here, like, looking out, like it is just — it is a giant cat’s eye still, like you could look out through the inside of this marble, so it’s like — it’s almost like a two-way mirror, or something?
-
-
-SYLVIA: Yeah.
-
-
-AUSTIN: Um, and as you look around, you see there is a guard, who is tied to one of the chairs, who has a… who’s blindfolded, and has like a — their mouth taped shut. And then there is a woman in military dress with her — one leg over the other, sipping a hot drink at the table like next to it. Next to him.
-
-
-SYLVIA: Well! That’s great. Um, is she armed, I’m assuming?
-
-AUSTIN: Oh, yeah. Um.
-
-
-SYLVIA: Yeah.
-
-
-AUSTIN: Yeah, she has like a long pistol? She has like a long dr — she’s in — so let me like describe her a little bit.
-
-
-SYLVIA: Mm-hm.
-
-
-AUSTIN: Because it’s not like you — it’s not like you don’t get to see her. So she is like 5’7, 5’8, so taller than Echo.
-
-
-SYLVIA: Much taller.
-
-
-AUSTIN: Yeah. She has like [SYLVIA wheezes] — it takes you a second to put it together. Good, yeah. Good callbacks in terms — 
-
-
-SYLVIA: Good callback to me not knowing how height works.
-
-
-AUSTIN: Yeah. Uh-huh! She has — I mean, the first thing that you notice is that her skin is like a tealish grey? And she has a — you know how all of the Qui Err had those arm nubbins. She — instead of having them like right underneath where her other arms are, she has them [SYLVIA: Hm.] on her back, and they’re like just bone. They’re — insted of being like little vestigial limbs, she just has like two bone spines pointing on the back of her shoulderblades? [SYLVIA: Ooh.] Up a little bit, like they’re not — they’re rounding off, right? But they are — they’re like a different type of… you know, vestigial body part. She has… on her kind of greenish or her tealish grey skin, she has fish scales coming up from like her neck, like from the top of her shirt — from the top of her — she has like a military dress uniform on — coming up to like under her chin. And she has like similar fish scaling on the insides of her arms, kind of like the wrist side of her arms, going down the length of her arms. And her skin in general looks like it’s pretty tough. And then her hair is like — you imagine it’s very long, because it is now up in like a double-braided crown that is weaving in and out of these curved spines that encircle her skull. This is...the — I mean, you recognize her face, because [laughs slightly] you’ve seen a statue of her. This is Pretense, this is Commander Pretense, at least that’s what you know her as. And you also saw an image of her as a little girl, and then you saw her as a commander, years later.
-
-
-SYLVIA: All right.
-
-
-AUSTIN: I guess you recognize her. Yeah, I think you do.
-
-
-SYLVIA: Yeah, I think like — I think Echo’s smart enough to put two and two together there.
-
-
-AUSTIN: Yeah. I think she’s wearing glasses, also, which you did not see her wearing previously.
-
-
-SYLVIA: Yeah. [sighs]
-
-
-AUSTIN: Also in terms of her uniform, I imagine it’s like — I’m imagining a version of — did you play Valkyria Chronicles ever?
-
-
-SYLVIA: Oh, dude, yeah. [laughs]
-
-
-AUSTIN: All right, do you know Eleanor… [stammers] Varrot? Eleanor… the commanding lady, the lady with the glasses and like the little short cape?
-
-
-SYLVIA: Yes! Yes, I do. Yeah.
-
-
-AUSTIN: And has like… her… I’m imagining something like that, except — so her thing is just like it’s like a dress [amused] that’s also a military uniform? [SYLVIA: Hm.] I imagine hers is almost like a super-long dress jacket that buckles across like one half of the — like down like her left side, basically — [SYLVIA: All right!] or maybe down her — yeah, down her right side — and then does still then become a larger dress, but underneath, she probably also has on like a…like a pantsuit, basically, or like pants, [SYLVIA: Okay.] and then like a white blouse, basically. And then she does have on like a little cape. 
-
-
-I haven’t figured out their colors yet, and it’s so hard not to just be like, oh she’s a badass commander in a Friends at the Table game, so it’s black and gold, but I don’t think it is. [SYLVIA: Yeah.] I don’t think it is. I imagine it is… I’m trying to think like what would their thing be, right? It’s the Glassed Age, is what she was — 
-
-
-[45:00]
-
-
-where she was, at the end of the Glassed Age, so I actually imagine there’s actually a lot of that Glass in her outfit, so like, instead of having like a buckle — or not a buckle— instead of having like a brooch or something that connects her cape or whatever, it’s like there’s just like a big Glass — maybe it is like a brooch, like it’s a glass brooch, like a Glass — a carved Q-Glass… brooch that like attaches her shawl or whatever to her — the front of her jacket. There’s lots of like little — so I think maybe it’s like silver? It’s like a grey with white?
-
-
-SYLVIA: Okay.
-
-
-AUSTIN: Like… accents, grey with white — and probably some other really — probably like grey, white, and like red, like a deep like burgundy?
-
-
-SYLVIA: Ooh, okay.
-
-
-AUSTIN: I think that’s basically what it is. Like the bulk of it this grey, not like a bad grey [slight laugh] like it’s a pretty sharp grey, with white and burgundy lines, and little flourishes of the Q-Glass. Which kind of shines in here. [amused] Despite it just being like flourescent lighting.
-
-
-SYLVIA: Okay. I think what I wanna do is push the door open wide enough so that she knows I’m there.
-
-
-AUSTIN: Sure.
-
-
-SYLVIA: But stay outside still?
-
-
-AUSTIN: Uh-huh. She sips whatever she’s sipping.
-
-
-SYLVIA: Okay.
-
-
-AUSTIN (as PRETENSE): Time is a factor, Reverie.
-
-
-SYLVIA: [pauses and laughs]
-
-
-(as ECHO): Oh good, I thought I was the only one here who knew the other’s name. Pretense, right?
-
-
-PRETENSE: Pretense. It’s a family name. You can call me Iota, or Annex, my title.
-
-
-ECHO: All right, well… I’m gonna need a little something for ya before I come in there.
-
-
-AUSTIN: She like begins to — she like takes off the holster, and puts it down on the table in front of the guard who is tied up.
-
-
-SYLVIA: Uh, I think what Echo does is they — I think Echo’s only armed with their sword right now.
-
-
-AUSTIN: Sure.
-
-
-SYLVIA: So I think Echo like takes off their sword and like holds it out so they can see that they’re — so Iota can see that they’re disarming as well.
-
-
-AUSTIN: Right.
-
-
-SYLVIA: And like hangs it on like the handle of the door, [AUSTIN: Mm-hm.] from its strap, and then enters.
-
-
-AUSTIN: As you walk in, the [slight laugh] the robot behind the counter — and again, that song is like — the jingle is still playing, and now it’s like — it’s just like a verse about how, you know… “Cat’s Eye Convenience always has what you need, Cat’s Eyes Convenience… it’ll be your friend in need,” it rhymes need with need, it’s really bad, and the Cat’s Eye… uh… retail drone is like… like does a scan of you, and then says… 
-
-
-(as RETAIL DRONE): Echo! You’ve lost something! Echo, come here for your s — for your: sword!
-
-
-And then like an arm descends from one of the lighting racks, like there are these — there are the florescent lights above, and there’s this like — a mechanical arm goes [mechanical unfolding foley] “Brrm, chrnt! Brrr,” and then like picks your sword up and then like offers to hand it back to you.
-
-
-ECHO: Uh, you can hold onto that for a minute, yeah?
-
-
-RETAIL DRONE: There will be a 3.99 per hour holding fee!
-
-
-[ECHO sighs]
-
-
-AUSTIN (as PRETENSE): I’ll cover it.
-
-
-ECHO: Thank you.
-
-
-AUSTIN: Says Pretense.
-
-
-        (as PRETENSE): Take a seat.
-
-
-SYLVIA: All right, yeah, I sit across from her.
-
-
-ECHO: Y’know, if you wanted to get my attention, uh, we are actually open to visitors where I’m staying right now. You didn’t need to… y’know… hold a hostage.
-
-
-PRETENSE: Mm. [sound of cup being put down] Things are a little more complicated than that. Unfortunately.
-
-
-ECHO: All right.
-
-
-PRETENSE: I live very far away, this is the closest I could get.
-
-
-ECHO: All right! You know what, that — that totally makes perfect sense! Sure. Um.
-
-
-PRETENSE: You’ve seen them. I know you’ve seen them.
-
-
-ECHO: Yeah.
-
-
-PRETENSE: The…passageways. Between worlds?
-
-
-ECHO: Oh! You’re from off-world.
-
-
-PRETENSE: Right now, so are you.
-
-
-ECHO: I mean… You know what I mean.
-
-
-AUSTIN: She takes another sip.
-
-
-ECHO: You’ve come here from another planet.
-
-
-PRETENSE: And like I said, so do you. We’re not on Altar anymore.
-
-
-ECHO: Well… Well, that makes things a little more complicated!
-
-
-PRETENSE: Yeah. It was hard to lure this one this close, but we figured it out.
-
-
-ECHO: Where exactly are we, then?
-
-
-PRETENSE: Somewhere in-between. [ECHO: Okay.] For as long as… as long as one of us has a hot drink.
-
-
-And we get like a shot of a — the arm comes back like [laughs] holding — like comes back down from the lighting rig, and it’s holding three drinks, it’s holding like a coffee, a tea, and a chai latte?
-
-
-SYLVIA: [makes an amused sound]
-
-
-(as ECHO): I’ll take the tea.
-
-
-AUSTIN (as RETAIL DRONE): Tea!
-
-
-And then like puts the tea down and then two sugar packets and then a lemon just drop from the ceiling.
-
-
-SYLVIA: [laughs] 
-
-
-(as ECHO): Um… all right, so, it’s just — well, the three of us here. 
-
-
-And Echo kind of looks over at the guard and kinda does a quick scan to make sure he’s not [cross] hurt in any serious manner.
-
-
-AUSTIN: [cross] Guard’s fine, guard got — guard has a bump of the back of his head, but [SYLVIA: Yeah.] he’s fine. There’s also a quick — a rapidly cooling drink in front of that guard. [laughs]
-
-
-SYLVIA: [laughs] Um.
-
-
-AUSTIN (as PRETENSE): I’m here about the Gambit.
-
-
-ECHO: Oh! The ship. Okay.
-
-
-PRETENSE: That’s my ship. W… that’s my great-great-great… great-great-great… great-grandfather’s ship.
-
-
-ECHO: Okay.
-
-
-PRETENSE: It’s my ship. It’s our ship, it’s my people’s ship now.
-
-
-ECHO: Yeah! No, I un… And I’m assuming you want it back.
-
-
-PRETENSE: Yes.
-
-
-ECHO: Okay.
-
-
-PRETENSE: I’d like you to… relinquish it. It’s fair.
-
-
-ECHO: I mean.. I… Listen, I understand. I have… family heirlooms that are very important to me too, and I — totally fine with you getting this back. The only problem is, we are still using it for our efforts to, y’know, settle here. And I’m — I don’t know how quickly I can just give it away.
-
-
-PRETENSE: Echo. When I was alive, the thing that happened was that a machine from a planet none of us had ever heard of landed here, and it was all teeth and guns. And for [slight laugh] some reason, it convinced some of the people of this world that it would make a better ruler — or that they would make better rulers — than me and mine.
-
-
-ECHO: Mm-hm.
-
-
-PRETENSE: And… towards the end of my life, we took a chance, and we recorded ourselves, so that we might have a second chance. It’s strange to think about me, because I remember doing it, but I also know that the me that lived went on and… had some other sort of life afterwards. Won some fights, lost some others, probably died on the battlefield. So I know that I’m not her. But I am still from Quire. And when I lived, there was one. Now, different people, from different worlds, have come to my planet. And now they’re telling me that they will be inconvenienced if I take my ship back. I’m afraid I won’t be inconvenienced anymore.
-
-
-ECHO: All right. [sighs] I’m assuming this comes with the whole, if I don’t do this, there will be retaliatory action of some kind — 
-
-
-PRETENSE: No.
-
-
-ECHO: — that type of thing? Okay!
-
-
-PRETENSE: This is a… let me be clear. I’m not asking for permission. Why do you think I led you out here?
-
-
-ECHO: Oh! No, I understand.
-
-
-PRETENSE: It’s already on the way home. This is a courtesy.
-
-
-ECHO: Well! Is that all, then?
-
-
-AUSTIN: She like sighs.
-
-
-ECHO: Listen, you can have your ship back, I’m not gonna dispute that anymore. You’ve already taken it, from what I can tell — I just — I have people to take care of, and I have business to deal with. And I respect that you don’t like that we’re here, and I respect that you don’t like… that I have to do — I have to try and negotiate these sort of things, but I had to. And if I can, yknow, get my guard patched up. Doesn’t seem too bad, but y’know.
-
-
-PRETENSE: He’ll be fine.
-
-
-ECHO: Myeah. But if I could do that and be on my way, I think that would be for the best for both of us, don’t you?
-
-
-PRETENSE: I read your records.
-
-
-ECHO: Oh!
-
-
-PRETENSE: You were a crook. A commoner, a thief.
-
-
-[ECHO laughs]
-
-
-And now you’re…not a mayor, not an Annex, not a governor, but… These people spit on you. They called their world a utopia, and they made you do forced labor. And not in response to open warfare, not in…a hospital, not… In the ways in which you helped people, you did so in the most indirect and replaceable way — they could have sent other pathfinders. They sent you, and…they did so…as a sentence. And now you lead them.
-
-
-ECHO: Something you need to know about a lot of the people that, as you put, spat on me, is that a lot of them aren’t here anymore. And a lot of the people who…didn’t even know me, or the people that were treated similarly to me, are still here. And those are the people that I’m doing this for. I’ve been given a chance to live in a way that a lot of those people that you’ve mentioned didn’t want me to live. And I’m taking it. So, no, I’m not an Annex, I’m not a mayor. I’m not a crook anymore either. I’ve never really been one for titles, y’know? So I get why you’re confused, but really, when it comes down to it, I’m doing this for myself. And I’m not doing it for power, I’m just doing it because — well, you say they coulda sent another pathfinder, and, let’s be honest: they really couldn’t. 
-
-
-AUSTIN: By the end of this speech, she is grinning ear to ear.
-
-
-SYLVIA: Echo is too!
-
-
-AUSTIN: And she says like, 
-
-
-(as PRETENSE): There’s the Echo Reverie I heard about.
-
-
-And she finishes her drink and stands up.
-
-
-(as PRETENSE): The eyepatch looks good on you. Keep it.
-
-
-ECHO: Thanks! I… be honest, I was planning to anyway.
-
-
-PRETENSE: [slight laugh] Courtesies.
-
-
-ECHO: Enjoy the ship.
-
-
-PRETENSE: If you’re ever on Moonlock, look me up.
-
-
-ECHO: Was nice meeting you! Finally.
-
-
-[PRETENSE laughs slightly]
-
-
-AUSTIN: And then she doesn’t say goodbye. She just — she picks her — her hand like hovers over her gun for a second. Her holster, like the holster that she’s like gonna pick up. [SYLVIA sighs in amazement] As like just a, just a… Your sword’s so far away. You put your sword behind the counter! There’s like a little bit of like — you fucked up.
-
-
-SYLVIA: There’s a little bit of that, but this is also Echo, who’s like, [AUSTIN: [amused] I know.] oh, I’m close enough now that I don’t need the sword.
-
-
-AUSTIN: Yeah, true, true true true!
-
-
-SYLVIA: Yeah. I guess also —  that’s Echo’s whole thing is like, oh nah.
-
-
-AUSTIN: I just like — a very intense eye contact, with a little bit of a grin. And then picks up the holster and puts it on, slowly. And it’s like — again, it’s like a pistol — it’s like what if a pistol was also like a curved sword, like almost like a scimitar or something?
-
-
-SYLVIA: Aw, that rules.
-
-
-AUSTIN: It’s super dope. And it has like all sorts of engraving on it — and you know if she pulls the trigger, it will explode. It will shoot once, and then explode, probably?
-
-
-SYLVIA: Yeah.
-
-
-AUSTIN: But. Or — the thing that happens with them is like they break in weird ways. They don’t ju — sometimes they’ll just explode. or sometimes like the entire inside of it will turn into Glass, or sometimes you’ll a trigger the barrel will become like paper, and like break apart and like filter down. You’ve pulled a — you’ve seen someone pull a trigger once and the front of their gun just became a rose. Like. Well, I can’t use this anymore! Fuck! [laughs] So like, that is the — and you know that that would be — that’s probably what would happen, but she’d still get one shot off, so, who knows. Um. And so yeah, she puts it on, and then… goes up front, pays for the drinks, and then leaves. And you hear the sound of a ship overhead. And you know those engines are your engines. [slight laugh]
-
-
-SYLVIA: Yeah. Well. They were hers to begin with.
-
-
-AUSTIN: Then you hear the sound of the door opening again. Uh, you hear the sound of an engine outside, and then you hear the sound of the door opening again. And —
-
-
-SYLVIA: I think while I’m hearing that I’m untying the guard.
-
-
-AUSTIN: Yeah, sure, fair. You turn to look in, and — look over, and you see another woman who you recognize, because this one arrested you once. And it is Commander Cascara, formerly of the Beloved, and she rolls in.
-
-
-[SYLVIA stammers in surprise]
-
-
-        (as CASCARA): Hard to track, Reverie!
-
-
-SYLVIA: Sorry, just — really quick. Cascara went missing after the Miracle, right?
-
-
-AUSTIN: Yeah. And you havent seen — no one has seen her in a year. I mean, except the people who have sent you now to do this.
-
-
-SYLVIA: Yeah. So I haven’t seen her in a year.
-
-
-AUSTIN: Yeah.
-
-
-SYLVIA (as ECHO): [quiet laugh] Y’know, I think it’s a little ironic coming from you.
-
-
-And I’ve got my sword back at this point [AUSTIN: Yeah.] but I’m — it’s not like threatened by her, [AUSTIN: No.] I just like have it back ‘cause it’s a safety blanket thing.
-
-
-AUSTIN: Yeah, uh-huh. And you’ve untied this guard.
-
-
-(as CASCARA): Friend of yours?
-
-
-ECHO: Eh. Co-worker, I guess?
-
-
-AUSTIN: She like peeks at the untouched coffee. 
-
-
-(as CASCARA): Eh, mm. I’ll get the tea, I guess. 
-
-
-And… not your untouched coffee, the guard’s untouched coffee [SYLVIA: Yeah, yeah.] that has now gone cold. And again, the arm like spits out some tea at her, basically. It drops a styrofoam looking cup with tea in it. And she like rolls over to the side of your table.
-
-
-ECHO: I’ll be honest, I thought you were dead.
-
-
-CASCARA: Yeah.
-
-
-ECHO: Where have you been?
-
-
-CASCARA: Something like that. [amused] It was a miracle. It was a miracle. We need you, Reverie, and…
-
-
-[1:00:00]
-
-
-I’m not in a position to compel you, this time. Any crime you did — you’ve outdone yourself, and… you… You’re a model citizen, Reverie.
-
-
-SYLVIA: [laughs] Echo like laughs at that, [AUSTIN: Yeah.] for sure. Um.
-
-
-(as ECHO): Well, let’s not get ahead of ourselves here.
-
-
-CASCARA: No, I mean it, I mean it! Uh — I’ve heard parents say, if you work hard, you could grow up to be like Echo Reverie. I’ve heard them say it.
-
-
-ECHO: Ugh… ugh… I don’t like that.
-
-
-SYLVIA: That’s Echo saying that.
-
-
-AUSTIN: Yeah.
-
-
-SYLVIA: Like,
-
-
-(as ECHO): Ugh. That’s weird.
-
-
-CASCARA: Yeah. You don’t like being in public? You don’t like being… a model, an icon?
-
-
-ECHO: I don’t like the pressure of it. Especiallly considering the fact that like… I’m not someone who should be looked up to.
-
-
-CASCARA: [cross] Hm. Has it—
-
-
-ECHO: [cross] Who’s this ‘we’ you were talking about?
-
-
-CASCARA: Well, it’s growing every day. Right now, it’s me, it’s the Cadent, and it’s an old friend of yours, Declan’s Corrective. And some other old friends, too. As long as they agree.
-
-
-ECHO: Hm. And you need me for what, exactly?
-
-
-CASCARA: [cross] I would have never —
-
-
-ECHO: [cross] ‘Cause I have to tell you, I’m not really feelin the whole like colonial tour guide thing anymore.
-
-
-CASCARA: [laughs] Ah. Understandably. We…hm. There are lots of divisions, Echo. And there’ve always been divisions. I don’t want to seem naive. I don’t want to paint the picture that the Divine Fleet was…unified.
-
-
-ECHO: Yeah, you’d be talking to the wrong person there, if you tried to do that.
-
-
-CASCARA: I mean, listen. I may have been in the Beloved, but you are and I are both different than our former fleetmates. We live in a world now where there is an opportunity to ensure that everyone’s interests are taken into account, instead of only the powerful and the entrenched. People like us, we were provided for. We had opportunities in the fleet, even when we were being…separated. We…had the resources necessary to allow for a fundamentally good quality of life. Right now, it’s hard to know if that’ll be true, in whatever the Quire system [slight laugh] develops into. Or if the influence of the Hegemony or, frankly, the dramatic shifts in the Divine Free States, will push some of us to the side.
-
-
-ECHO: And your goal is to keep that from happening.
-
-
-CASCARA: Our goal is to build something new. Or to find something new, or to… Our goal is to give people a reason to think of themselves not as members of Altar, or Moonlock, of…Thyrsus or Seneschal, but as members of this system, citizens of Quire. We don’t have a voting block. [slight laugh] There is no — I don’t wanna get you hyped up here. We’re not prepared to declare sovereignty. One day, maybe. But not yet. Because right now, everyone is divided and looking for more division. 
-
-
-On Seneschal, where the Cadent and Collective — where they work, there is a bit more unity. The people of the Hegemony and the people of the Free States…both of them, they are living together and dancing and sharing food and [amused] sharing fashion tips. And they’re doing that because they realize that they are fundamentally both groups of people infinitely divided all the way down, beyond the individual, and yet there is something similar, something that holds them together, because Independence was wrong, because Independence was wrong, and there is something that ties us together: synthetic, organic, Earth, Fleet, Quire. But everywhere else… We are fraying. I need someone to build us a path forward.
-
-
-ECHO: [deep in-breath and sigh] Shit, I thought had enough trouble just building a city here.
-
-
-CASCARA: We’ll build much more than cities.
-
-
-ECHO: All right, so, what, do I come with you now and we go fly away to some secret base you got, or what?
-
-
-CASCARA: I mean, you have that ship, right?
-
-
-ECHO: Do I have — not anymore! You have caught me a little [CASCARA sighs]— I’m kinda…
-
-
-CASCARA: [bewildered] What do you mean, you don’t have the ship anymore? It’s a — that’s a cool ship!
-
-
-ECHO: The original owner kinda showed up and they still had [cross] the papers, and I didn’t.
-
-
-CASCARA: [cross] Are you kidding me! We don’t have the ship? Oh… I guess we’ll have to use the fishing one, then.
-
-
-ECHO: Uh — sorry — were you lookin for me or the ship, ‘cause I’m not sure here.
-
-
-CASCARA: You. It was you, it was you, it was you, but it was gonna be nice to have this cool — that ship, it was like a smuggling ship and it had all these compartments! I’ve read the spec sheet. [ECHO: Yeah, I’ve—] I’ve been on it. There was a pool, Echo.
-
-
-ECHO: Yeah, I lived there for like ten months. It — trust me, I know. [slight laugh]
-
-
-CASCARA: All right, back-up plan. I still need you. To be clear. I swear I wasn’t just here for the ship.
-
-
-ECHO: Okay! I got a question, really quick.
-
-
-CASCARA: Yeah.
-
-
-ECHO: If this starts to smell to me, if this starts to — if I catch any whiff of this stinkin of ulterior motives, I’m out. [cross] All right?
-
-
-CASCARA: [cross] You’re not a prisoner.
-
-
-ECHO: Okay. [CASCARA: In fact—] I just want that to be clear.
-
-
-CASCARA: None of this works like that anymore, because [ECHO: Okay.] I’m gonna be asking you to go to places where not only do I have no authority over you, but where you will have no authority over the people there, except whatever authority you can win from them. You are free. You will remain free. That is why we need you.
-
-
-ECHO: Okay. Do I have to go now, or… [CASCARA: The new year.] is there some way I can come with you?
-
-
-CASCARA: The new year is when we need to be active by.
-
-
-ECHO: Okay. That should give me enough time to wrap up what I’ve got going on.
-
-
-CASCARA: We’ll send transport.
-
-
-ECHO: Thank you.
-
-
-CASCARA: And Echo. I… I’m proud of you.
-
-
-ECHO: [laughs] Thanks?
-
-
-CASCARA: Have you been in touch with the Tides?
-
-
-ECHO: Uh.
-
-
-SYLVIA: [clears throat] This is when Echo actually breaks eye contact.
-
-
-AUSTIN: Yeah.
-
-
-ECHO: I’ve been trying. I haven’t been able to figure out where a lot of the people are. Um. So no, I can’t say I have.
-
-
-CASCARA: Do you have it too? The feeling of… We were both ostracized there, but…late at all night, it’s all I can think about. Going home.
-
-
-ECHO: I can’t say it doesn’t sneak up on me sometimes, but it’s less the desire to go back and more the desire to make it better that really keeps me up. ‘Cause I don’t know what they’re doing there anymore, I don’t know if they’re still the same. And if they are, then things need to change there.
-
-
-CASCARA: It’s you, it’s not the ship. [sighs] Get that one back safe. I’ll see you in a few weeks.
-
-
-SYLVIA: Echo just kinda like nods and [amused] finishes their tea.
-
-
-AUSTIN: And she rolls out, and then gets back into the kind of like vehicle that she came in, and then you can hear her engine revving up and it revs up, and then it like turns off. And you can just ima—I think we just get a shot of her like looking at her map like, how the fuck do I get outta here? [SYLVIA laughs] And then like it revs back up. 
-
-
-[“The Muscle” by Jack de Quidt begins playing] 
-
-
-And then what happens is like, we see another shot of you, and the tea has gone cold. And then she’s like, oh. And then like takes off.
-
-
-SYLVIA: Mm.
-
-
-AUSTIN: And is like very clearly just back on Altar, and is able to get away, and you’re able to head back just as easily. And I think that that’s the scene.
-
-
-[“The Muscle” continues to end]
-
-
-[1:10:15]
 ________________
 [1] The name in the audio recording is no longer in use, hence the audio/transcript discrepancy.

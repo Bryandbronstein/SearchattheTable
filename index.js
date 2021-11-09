@@ -265,7 +265,7 @@ const transcripts = [
             "1sUis9SBhgH6ALDkruEFx_jNg5RvZ4Sk3fMSpBaf6DMw",
             "1wMbqJgBTkq1iCJsojt4mhi53vgnkd-h8utfz42F9RDE",
             "1xheU5Dfpx0Jep_E98yRN2AE3W2cT9Nb1Gcc3CmnA-IE",
-            // Twilight Mirage 03: The Planet of Quire
+            "18p9IoShDykNOabu7mEV_g86d0BvRJkxsTXZg7hq2H_Y", // TO DO 11.8 // Twilight Mirage 03: The Planet of Quire
             "1QgUDzt2DEnQ7RknfbZasjdtMFucFNLJc9LvD6NO7b_k",
             "1ZXY8ppz03W0zlo6sAZP7za-yO8Hys6UJ-cGm8TNUuGo",
             "1Ec9DpAOXCbfNM6pxCbYV-RxUH7e8RjxIJ--J0WJZ9hs",
@@ -395,12 +395,12 @@ const transcripts = [
             "1ppjhYxA-iqtj5XJldUAgtAXJey86w3X3Exw9ujNxGkU",
             "1S8OuCWM-AaUa10Ki4WhNTep-3jvrnoo07wb3U-ch0bA",
             "1_hy7-TCLd2xdlNIYE2o3RM-dAttQeRRkRE-jdFgj6wo",
-            // PARTIZAN 41: Orbital Decay
+            "1_TP0NoV1Kgt-91kgM0IZoCoPUzq5_RKHZbMiO3dwBIg", //TO DO 11.8 // PARTIZAN 41: Orbital Decay
             // PARTIZAN 42: The Unbreakable Quarry
             // PARTIZAN 43: The Tunnels Beneath
             // PARTIZAN 44: The Prison at the Top of the World
             // PARTIZAN 45: Operation Shackled Sun: Act 1: The Fray
-            // PARTIZAN 46: Operation Shackled Sun: Act 2: The Gate
+            "1akSSvpddGq9Jhp84mm1eaGOfKrAkBynEc-1NLymRWPM", //TO DO 11.8  // PARTIZAN 46: Operation Shackled Sun: Act 2: The Gate
             // PARTIZAN 47: Operation Shackled Sun: Act 3: The Stories Told About the Things We Do
             "1K1_wER_xG8JHfEnbmpBWGi_XFDkg7HDVMquUT1RWzc8", // PARTIZAN 48: Post Mortem
 
@@ -413,13 +413,13 @@ const transcripts = [
             "162v2Do07dxo9TxfI-bFzmN-XwBqvoYKTW11j7gzuWqU",
             // Sangfielle 02: The Curse of Eastern Folly Pt. 2
             "1zczvM89ydLIZxwTbihU9O041TBcaHWX-qsTnRF2CvcI",
-            // Sangfielle 04: The Blackwick Group
+            "1AUXhp-q9f1s1xG0JDC-qhWQkFokFZjHTk81hKs41xnM", //TO DO 11.8 Sangfielle 04: The Blackwick Group
             // Sangfielle 05: The Hymn of the Mother-Beast Pt. 1
             "1wShi5uvYHOEpNIZgF0JuNXLFEQmK6FGnG_kMFhVsZRA",
             "1Hy68u6GQNEMfAhPqATFcF4Dv5Jqk1Jd01b_XNO3SvDk", // Sangfielle 07: The Hymn of the Mother-Beast Pt. 3
-            // Sangfielle 08: The Hymn of the Mother-Beast Pt. 4
+            "1U-4KpK9j_7I4i0iPoEvTobASAxCTJKOlyv6cf86E9ZM", //TO DO 11.8 Sangfielle 08: The Hymn of the Mother-Beast Pt. 4
             // Sangfielle 09: The Secret Ledger of Roseroot Hall Pt. 1
-            // Sangfielle 10: The Secret Ledger of Roseroot Hall Pt. 2
+            "1FwP8KkRHaH-0WOK-eKMNyNSZQsEc86MqZaVelbazS-c", //TO DO 11.8 Sangfielle 10: The Secret Ledger of Roseroot Hall Pt. 2
             "1O7-ytnphNdpn5D1zLJXgviWrDUTYxs9PJoQd3xhPzCg", // Sangfielle 11: The Secret Ledger of Roseroot Hall Pt. 3
             "1G3OUBiskuTTkJYudxbCjuIFtyE5FOnngzi37vbizkFQ", // Sangfielle 12: The Secret Ledger of Roseroot Hall Pt. 4
             "1yoCrscfk-5k8IaM_6T0RXuXDBgyAJeBTcgY0ToeKE0w", // Sangfielle 13: Market Day in Blackwick
@@ -429,6 +429,22 @@ const transcripts = [
             "1YMfPjKnmsCyYjqXFJzw_ENyrLKTJkiKLiW89-4qA2UQ", // Sangfielle 17: What Happened at the Bell Metal Station Pt. 1
             "1aXI7ibRIZaI_eWsoxVxqUx1f3YjoGyVH2dcl2noAyv4", // Sangfielle 18: What Happened at Bell Metal Station Pt. 2
             "11neQMzcBxYBoQVA8X83QXVfdUfJBZEd6y9pOSPJUm4U", // Sangfielle 19: What Happened at Bell Metal Station Pt. 3
+            "199e9j4q2nNn8TQVy-28-hKREFCIYWPWaf56UQorcsLY", //TO DO 11.8 Sangfielle 21: At the Gates of Sapodilla
+            "1eGea-QPKYJdr7OEvJg5AjtNiq3twEBHE6Lq3nEB5yrI", //TO DO 11.8 Sangfielle 22: Whispers in the City by the Sea
+            "1kJGTDu2kpmutiQEGhguBSwfsRJKv3ZWu2p_sAI7pBbM", //TO DO 11.8  Sangfielle 23: The Perpetual Oratorio of Davia Pledge Pt. 1
+            "1eqERmTIy7toxiYA3PjHEmSi2A7tsrODoEqjMPS2srJk", //TO DO 11.8 Sangfielle 24: The Perpetual Oratorio of Davia Pledge Pt. 2
+            "1wFTZhZmiho7H7EbgsgWCzdrV2cYvOhMB4ZnpqPq9-Ro", //TO DO 11.8 Sangfielle 25: The Perpetual Oratorio of Davia Pledge Pt. 3
+            //Sangfielle 26: The Perpetual Oratorio of Davia Pledge Pt. 4
+            "140fGYZguKzdHZLlXPlMwVUgoJXHU2AC3dK4Y-l_4ReQ", //TO DO 11.8 Sangfielle 27: The Perpetual Oratorio of Davia Pledge Pt. 5
+            "1_UpVBpmftWycCH4jbkJ3f4KMH8m8IrCxyfBA_XntQ0M", //TO DO 11.8 Sangfielle 28: Hark! The Citadel Beneath Pt. 1
+            "1PbZjJFhbvHT_k6vAz9XBNIdAXzPNJjh0a1HayZHLM_4", //TO DO 11.8 Sangfielle 29: Hark! The Citadel Beneath Pt. 2
+
+
+
+
+
+
+
         ]
     }
 ];

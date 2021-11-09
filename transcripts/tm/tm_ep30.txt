@@ -1,2350 +1,2487 @@
-﻿Twilight Mirage 32: This Year of Ours: The Stitch
-transcriber: thedreadbiter
+﻿Twilight Mirage 31: This Year of Ours: The Mechanic
 
 
-AUSTIN: An entry from the journal of the former excerpt “To the prince, we offered twelve thousand flowers, Blooming in an untouched field,” leader of the Beloved Nights.
+Transcribed by amikumanto [0:00:00-0:47:00], Cole [0:47:00-finish]
 
 
-How did I get here? How did I find this home? Pain. Pain was my guide.
+A letter from Kent Brighton to the lineage’s matriarch, the Lady Lyme:
 
 
-[MUSIC - “THE STITCH” begins]
+Dearest aunt,
 
 
-For the first half of the year each second was a dozen or more. I have buried my kin, my peers, and myself. I put my love to rest and lived inside a marionette corpse for months. Yet I never knew a pain like this until I looked up from Volition’s surface and saw a beautiful new world with no place for me in it.
+I hope this message finds you well. Our vessel has just now entered textual communication range, and though I could wait to see your face in just a few days, speed is of the essence. As you know, my ship, the Wakerobin, left New Independence a month ago to secure diplomatic relations with each of the new governments throughout Quire.
 
 
-I knelt before the so-called Cadent Under Mirage and waited for an answer. Where could I best serve her? Lacking her own answer, and without her advisor, the priestess, in sight, she deferred to a bureaucrat.
+ [SONG STARTS: Jack de Quidt’s The Mechanic]
 
 
-I remember the ship they put me on. It smelled of bleach and rust. it was crowded with those who would I would manage. A cleanup operation. The remains of Privign Station, which Volition’s monstrous retainers had crushed into crumbs, and which the pull of the Mirage and brought to us like galleon driftwood.
+The crew and I felt at home with the crooning of our ship’s hull as it settled.Though we moved through suntouched sky, it was familiar as the surging sea. But unlike Old Quire’s ocean, the aether offered us an opportunity unknown to the Lineage in generations: The chance to explore the uncharted!
 
 
-They all speak of miracles, but the only one that matters to me is that in this broken place, I found reason to live again.
+Each new port brought new discoveries: technologies yet unseen, delicacies fresh to my palate, songs, and theater, and friendship! Every diplomat, every merchant, every cleric, they were all charmed by our charisma and, of course, taken with the affability of our great ally, Gig Kephart. (And yes, our allegiance with the Crown was secured by bringing them the boy, worry not).
 
 
-We found her in a pod and when we brought her to, we were moved by the force of her sadness. She looked out on what the Mirage had become, how our leader had shrunk from duty, and vowed to find a place for all of us. She lifted me with a finger and stared through me from behind her veil, and she had my loyalty instantly. And I had a home and a purpose, here, beside the Waking Cadent.
+But there is more too. Our foes in the Rogue Wave can be beaten.
 
 
-Signet…I wish you had been there. Just so you knew I wasn’t a fool.
+They launched an attack as we passed through a craggy shoal, the vessel twisting between blasts from their fleet. I could sense their hunger for victory in their aggressive formation, and so too I sensed their surprise when, with each volley, it was their fleet which was wounded in the waking dream.
 
 
-[MUSIC - “THE STITCH” plays out]
+From the prow I watched their cannons blossom into rose and rouge and coral. And Aunt, you know I have no tongue for poetry. I mean what I say: Their cannons blossomed into rose and rouge and coral.
 
 
-All right. So, Signet…before you tell me about your year, tell me about your character in terms of mechanics. What do we have written down here for like stats, and heritage and background, and vice, and all that fun stuff?
+Gig captured the entire exchange and has already begun broadcasting it out. The whole system knows the truth: All their strength is for naught in this new world.
 
 
-JANINE: Okay. So, heritage is pretty obviously—it’s Thyrsus.
+Brigands be gone: Brighton rules the Wave.
 
 
-AUSTIN: Yeah.
+[SONG ENDS]
 
 
-JANINE: It’s ship-turned-planet.
 
 
-AUSTIN: Mm-hm.
+AUSTIN:: So Gig, you are playing as a Mechanic, which is for me one of the— one of my favorite things of just like, “How the fuck do we do the thing we just did in a different— in this different system?”
 
 
-JANINE: Um.
+KEITH [overlapping]: Mm-hmm.
 
 
-AUSTIN: What did you—and you ended up taking what for that? Stat-wise.
+AUSTIN: How do we— how do we either reflect a change in the character, or get to some heart of the character that isn’t represented here, because, uh, I’ve said this at this point with a bunch of other people, too, that like, The Veil had very specific classes.
 
 
-JANINE: Stat-wise?
+KEITH [overlapping]: Yeah.
 
 
-AUSTIN: Was that [CONsort] Consort?
+AUSTIN: The Veil’s classes were like, “Oh, you were part of this specific weird ancient cult. Or you have this specific device in your head.” Um, and so we’ve gotten some pretty interesting shifts. Like, uh, Janine, I think on first- on first look ⸢Signet⸣ should be The Mystic, but we’ve actually made her The Stitch because when you look at how ⸢Signet⸣… is, she’s been mostly about, like, taking care of people, and, like, talking to them and getting into their— like, being— being— um, getting them to perform at their— as their best selves, sort of, and, like, work through dee— like, work through issues with them.
 
 
-JANINE: Um. I think that’s [CONsort] Consort. Or Con—
+KEITH [overlapping]: Mm-hmm.
 
 
-AUSTIN: [conSORT] Consort.
+AUSTIN: And so, I think this is similar in that, um— Two things. One, I think, like, we can use Mechanic to kind of get around— Three things! One, we can use Mechanic to sort of, uh, hack in the sort of story-driven stuff, the— the recording, like uh, sending out broadcasts thing using the crafting system in— 
 
 
-JANINE: Is it [CONsort] Consort or [conSORT] Consort?
+KEITH [overlapping]: Yeah.
 
 
-AUSTIN: [conSORT] Consort. Consort.
+AUSTIN: —in Scum And Villainy. Um, we can also reflect [clearing throat] Gig’s— 
 
 
-JANINE: [laughs] Okay.
+KEITH: Which also works with one of The Mechanic’s abilities to hack clocks.
 
 
-AUSTIN: [CONsort] Consort is a noun, right? [conSORT] Consort is a…Consort is…Consort is a verb.
+AUSTIN: Right, totally, exactly, yeah, yeah, yeah.
 
 
-JANINE: [conSORT] Consort is a verb and [CONsort] Consort is a like a…person?
+KEITH: Yeah.
 
 
-AUSTIN: I think [CONsort] Consort is what happens if you’re in a fancy ball, and [conSORT] Consort is like if you’re in a conspiracy.
+AUSTIN: Like, the main ability I think works super well for what— the way we’re going to do it. 
 
 
-JANINE: [laughs] Sure. Um. I think that’s my thing for there.
+KEITH [overlapping]: Mm-hmm.
 
 
-AUSTIN: Yeah, that adds up to me.
+AUSTIN: And then, also it reflects Gig’s background, as being from Gumption Gam— Gumption’s Gambit, and like being from a culture of gear-heads and hackers, you know? Like. 
 
 
-JANINE: Um.
+KEITH: Yeah.
 
 
-AUSTIN: Consort is like the…kind of social verb that lets you…
+AUSTIN: People like tr- like, old school hackers. Like hackers in the, like, tinkerer sense more than the “I’m sitting in front of a computer and typing a bunch” sense. Um— 
 
 
-JANINE: Yeah.
+KEITH: Yeah, yeah.
 
 
-AUSTIN: Know people?
+AUSTIN: And then— and then three, I think it also reflects what— what you’ve done over the last year. And we don’t want to get into that quite yet, cause that’ll go into the other part of this story-thing, but it’s reflected I think a shift from watcher to doer in Gig, uh, which is really interesting.
 
 
-JANINE: The one that’s not manipulative or that’s not bossy.
+KEITH [overlapping]: Yeah.
 
 
-AUSTIN: Right, right. It’s like it’s very just like, “I’m good at socializing. I’m—”
+AUSTIN: Um so, let’s just talk about your— let’s start at the top. Uh your heritage and your background.
 
 
-JANINE: Yeah.
+KEITH: Yeah, so heritage is, uh, the ship, Gumption’s Gambit.
 
 
-AUSTIN: Like it actually is the like “I’m at a party…” skill.
+AUSTIN: Right, which is— 
 
 
-JANINE: It’s Bedside Manner. Like given Thyrsus, it’s like partially like…
+KEITH [overlapping]: Background was tough for me.
 
 
-AUSTIN: Wh…yes and no.
+AUSTIN [overlapping]: What did you take as a skill from— from Gumption’s Gambit? Like, uh— 
 
 
-JANINE: Being good at people on that level.
+KEITH: From Gumption’s Gambit?
 
 
-AUSTIN: Uh, Doctor is also Bedside Manner, like very specifically, right?
+AUSTIN [overlapping]: Yeah, because you get— you basically get one point from your background— 
 
 
-JANINE: That’s…true, yeah. Yeah.
+KEITH [overlapping]: Yeah.
 
 
-AUSTIN: Um, which is part of the thing that’s neat about the fact that the class you’re playing, which we should have started with, is Stitch!
+AUSTIN: —and one point from your— from you back—  er, from your heritage. Like, so each of those should give you one of the points that you have.
 
 
-JANINE: Whoops.
+KEITH [overlapping]: Yeah, so the— so this— this was— this is tough because I switched it all up.
 
 
-AUSTIN: Right? Like you’re not…
+AUSTIN [overlapping]: Right.
 
 
-JANINE: Yeah.
+KEITH: I had— I had myself specced as a Speaker, and then sort of shifted it from Speaker to Mechanic.
 
 
-AUSTIN: I think coming into this, we—like before we did any character creation, and way before we even did a holiday special, like when I first decided…when I was up late one night after a Tips at the Table in which it was clear that I really loved and missed Blades in the Dark, and that in general Blades in the Dark was like…a great game?
+AUSTIN [overlapping]: Right.
 
 
-JANINE: Mm-hm.
-
-
-AUSTIN: That we all wanted to get back to, to some degree, and like especially for…[sighs] what the rest of this season looks like? Um. In my mind, anyway? I remember looking at the books, and being like, “Oh, Mystic. Mystic, Signet’s already basically a Mystic!” And now you’re playing the Stitch.
-
-
-JANINE: Yeah.
-
-
-AUSTIN: Which is com—which is—
-
-
-JANINE: There were a couple classes that there was some humming and hawing about for Signet.
-
-
-AUSTIN: Mm-hm.
-
-
-JANINE: Like Mystic is the big obvious one. I think Speaker was also sort of put out.
-
-
-AUSTIN: Yeah.
-
-
-JANINE: But that’s more of like a…an aristocratic kind of feeling that…
-
-
-AUSTIN: Mm-hm.
-
-
-JANINE: Didn’t quite feel right.
-
-
-AUSTIN: Sure. Um.
-
-
-JANINE: Whereas like when you break down fundamentally what Signet’s purpose is…
-
-
-AUSTIN: Right. Right. And so like that’s the thing that I like about the moves that are here—we’re not gonna go over your moves specifically. It’ll come out during play.
-
-
-JANINE: Mm-hm. 
-
-
-AUSTIN: But! They all have to do—not all of them, I guess, but they often have to do with helping people in the way that we already saw Signet helping people, right? Like, she…
-
-
-JANINE: Yeah.
-
-
-AUSTIN: …from the jump, had been someone who comforted, and who eased the stress and the pain of others? Just as much as she did weird flippy cool bullshit, you know?
-
-
-[JANINE laughs]
-
-
-And so yeah, Doctor actually says, “When you Doctor, you attend to the needs of another lending aid and comfort, or looking scientifically at the world. You might treat someone’s injuries; you might analyze a substance’s composition to learn how it functions; you might comfort someone, but Consorting might be better.” So like, that’s one of the things I love about this game is, you could use Doctor or Consort.
-
-
-JANINE: Mm-hm.
-
-
-AUSTIN: And like, I might in some instance, say “Ooh, yeah, Doctor will work here but…it’ll be a stretch, and so it’ll be a little bit riskier.”
-
-
-JANINE: Mm-hm.
-
-
-AUSTIN: Or, it’ll be a little bit more…it’ll be a little bit more…or less effective, or something—or more effective! Right? 
-
-
-JANINE: Yeah.
-
-
-AUSTIN: Maybe there’s a situation in which like the fact that you can talk to them while applying pressure to the wound, y’know, is actually…better than just just talking to them. So.
-
-
-JANINE: And I do like that there’s room there for it to not just be a literal thing of like…mending wounds or whatever. You know, there’s room there for…
-
-
-AUSTIN: Yeah.
-
-
-JANINE: Espe—there’s room in this class for a more mystical bent…
-
-
-AUSTIN: Yeah.
-
-
-JANINE: …there’s room in this class for a more like psychological bent. So that makes it pretty perfect.
-
-
-AUSTIN: Yeah, I’m into it. And so yeah, so your heritage is Thyrsus, which maybe gives you Consort.
-
-
-JANINE: Mm-hm.
-
-
-AUSTIN: Then your background is—you’ve written Cult, which is one of the—
-
-
-JANINE: [amused] That’s one of the things it says! [laughs]
-
-
-AUSTIN: It is one of the things it says!
-
-
-JANINE: [trying not to laugh] That’s one of the choices!
-
-
-AUSTIN: I think everybody else…so like the thing we haven’t gotten into is that Scum and Villainy has kind of a dope setting in its own right. It’s—I think it would be unfair to pitch it as just like “Star Wars meets Outlaw Star,” but it is definitely in that realm of science fantasy of like, you know, treasure hunting guilds that have access to special technology and, you know, an evil empire and rimw—you know, the outside rimworlds, and stuff like that, the outer rim. And so it’s definitely like…little Cowboy Bebop, a little Outlaw Star, a little Firefly, a little—and a lot of Star Wars. Like the Mystic, you can totally read the Mystic then go, “this is just a Jedi.” [huffs a laugh]
-
-
-JANINE: Yeah.
-
-
-AUSTIN: But there’s enough here that I think makes it really unique, and so one of the things there is like, the Cults. And that is just not part of our setting, so we’re not really gonna dig into it? But it’s the—it’s close—
-
-
-JANINE: [amused noise] I mean, it’s—it’s close! It is—like there is…I wouldn’t blame anyone who like heard a little bit of Twilight Mirage and was like, “okay, so it’s some sort of weird like robot cult. Robot-human cult.”
-
-
-AUSTIN: Oh yeah. Totally.
-
-
-JANINE: Like, it’s—I didn’t have to—I didn’t feel like I was stretching writing in like, well, of these things, she’s closest to being…
-
-
-AUSTIN: [chuckles] Yeah yeah yeah.
-
-
-JANINE: You know, her background is excerpt, but that’s…
-
-
-AUSTIN: Yes.
-
-
-JANINE: There’s a cultishness to it, sure.
-
-
-AUSTIN: Yeah. What did you take for that?
-
-
-JANINE: I think what—I’m kind of…I think that’s Attune, right?
-
-
-AUSTIN: Mm-hm. That makes sense to me.
-
-
-JANINE: Because I think like…I have other skills, you know, I took Helm and Scramble, too.
-
-
-AUSTIN: Mm-hm.
-
-
-JANINE: And I think those both make sense from the context of someone who was trained as an excerpt.
+KEITH: Um, and so— and then you reminded me how, um, uh... uh, how assigning points works.
 
 
 AUSTIN: Right.
 
 
-JANINE: But that’s not a specifically excerpt-related ability.
+KEITH: Because I had forgotten in between making Speaker and switching it to Mechanic.
 
 
-AUSTIN: Yeah yeah yeah yeah.
+AUSTIN: Which happens.
 
 
-JANINE: Whereas Attune is.
+KEITH: So… It’s one— it’s one— you get one point for heritage and one point for background, is that how it works?
 
 
-AUSTIN: You know, one of the things I also just like about this game is like, one, it’s easy to imagine a world [amused] in which you have all of these skills. Right?
+AUSTIN [overlapping]: Right, and then you— and then you get— There’s a starting set that is just, like, everybody in this class gets it. So, for Mechanic, every Mechanic has 2 rig and 1 study to start. Then you get 1 from your heritage, 1 from your background, which brings you up to— to a total of 5 points, because— 
 
 
-JANINE: Mm-hm.
+KEITH [overlapping]: Yeah.
 
 
-AUSTIN: Like you don’t have any Scrap or Skulk. We’ve seen Signet doing both Scrapping—fighting—and Skulking—and kind of sneaking around, right? And we haven’t—she doesn’t have those skills, but that’s okay because of the way this system works.
+AUSTIN: —you get a 2 in rig, 1 in study, and then… Another 1 and another 1, and then you get another 2 wildcard that kind of reflect whatever you want.
 
 
-JANINE: Yeah.
+KEITH: Yeah, so here’s the thing: I, uh… The— when I had 2 in rig earlier, 1 of those 2 was from Gumption’s Gambit.
 
 
-AUSTIN: There’s a really great line early in the character like creation chapter that is like…“Every player character in Scum and Villainy is a daring outlaw, following destiny on the galactic fringe. All of them are familiar with the feats represented by the actions of the game. They’re all able to Scrap enemies, Skulk in the dark, Attune to the way, Consort with contacts, and so on. 
+AUSTIN: Right, totally.
 
 
-Because of the way the dice system works, every character can roll at least three dice for any action in the game: +1 dice from pushing or for a devil’s bargain, +1 from an assist from a teammate and +1 from a Gambit—” which is a special currency in the game. 
-
-
-“A roll of 3d is fantastic; it’s an 87% chance of success. The “0-rating actions” on your character sheet aren’t things your character can’t do, but actions for which you’re likely to burn stress and rely on teamwork. When your crew has your back and you set your mind to it, you can attempt almost anything.” And I really love that as like…
-
-
-JANINE: Mm-hm.
-
-
-AUSTIN: …a key difference between this and the Veil, and some of the other systems we play—and also, between this and actual Blades in the Dark…because…this has this Gambit system, where your crew has a kind of collection of Gambit points that you spend and gain as this kind of bonus currency. And the fact that like you can always pull on that last little bit to help is not something that’s in Blades [huffs a laugh]
-
-
-JANINE: Mm-hm.
-
-
-AUSTIN: And that alone makes this feel, on paper, anyway, we’ll see how it actually shakes out—but like a little bit more positive, and a little bit more…derring-do and a little less like dire?
-
-
-JANINE: Yeah.
-
-
-AUSTIN: Um. Again, we’ll see in play.
-
-
-JANINE: And I like the idea of—this is something that the Veil did too, where it’s like…the traits that you take say as much about your character as the ones that you don’t? Like…
-
-
-AUSTIN: Mm-hm.
-
-
-JANINE: Signet was not a character prone to joyfulness.
+KEITH: Not realizing that it had to be from... rig— er, uh, from Mechanic.
 
 
 AUSTIN: Right.
 
 
-JANINE: And the fact that that was written into her sheet just as much as like, “If she has to skulk around it’s going to really stress her out and bug her ‘cause that’s not—”
+KEITH: But ba— heritage, uh… Gumption’s Gambit scramble also works for that.
 
 
-AUSTIN: [laughs] Yes. Yes. Yes.
+AUSTIN: Yeah, I can imagine you like, scrambling through like, ducts and climbing on the outside of ships and like…
 
 
-JANINE: “—her style,” like.
+KEITH: Yeah.
 
 
-AUSTIN: Exactly—
+AUSTIN: Doing all of the… The sort of oil rig style scrambling, you know what I mean?
 
 
-JANINE: Yeah.
+KEITH: Yes, yeah, exactly.
 
 
-AUSTIN: It’s not that she won’t do it, it’s that it will stress her out. That’s a really good way of putting it.
+AUSTIN: Yeah, I like that a lot.
 
 
-JANINE: Mm-hm.
+KEITH [overlapping]: Or yeah, yeah exactly— like, wet deck hand.
 
 
-AUSTIN: Speaking of stress, we should talk about what your vice is!
+AUSTIN: Yes, one hundred percent— which— which given the ship that you’re going to end up with, I think is going to work pretty well.
 
 
-JANINE: Yeah!…This was like a tough one because…‘cause Scum and Villainy presents like, Faith…
+KEITH: Yes.
 
 
-AUSTIN: Yeah. Yeah.
+AUSTIN: And we’ll get into that I think later. Um… So— so what about, uh, background? You have labor which I think totally…
 
 
-JANINE: As a vice, and things like that. So I had to like sit down and really think that like that’s not Signet’s outlet, like that’s just what does?
+KEITH [overlapping]: Yeah, well, S-
 
 
-AUSTIN: Right. Right. 
+AUSTIN: —works, but.
 
 
-JANINE: A lot of that stuff that seems really straightforward a choice is just—that’s like—that’s where she wants to be at all the time.
+KEITH: Yeah, as Speaker, I was— cause of… Gig has a weird job with a weird background— 
 
 
-AUSTIN: Mm-hm.
+AUSTIN [overlapping]: And it’s only gotten weirder.
 
 
-JANINE: So I think her vice…sort of…I picked her vice as Pleasure, and I think that comes from…because she’s always on…when does she ever just like…
+KEITH: And so I was split— I was split in a really weird way between labor and academic.
 
 
-[AUSTIN chuckles]
+AUSTIN: Hmm… Interesting. Yeah.
 
 
-JANINE: Sit and hang out with a person?
-
-
-AUSTIN: Right.
-
-
-JANINE: When does she get to be close to a person not because she’s helping them, but because she just wants to be with them?
-
-
-AUSTIN: Right. So is that what that looks like for her, then? Is like…
-
-
-JANINE: Yes.
-
-
-AUSTIN: …copresence—[amused] how many host and hostess clubs does she visit?
-
-
-JANINE: A lot!
-
-
-AUSTIN: Yeah. Yeah.
-
-
-JANINE: That’s totally what it is! Is, I think, she is a hundred percent like…that’s totally what it is. It’s hostess clubs, host clubs, like, brothels.
-
-
-AUSTIN: Right.
-
-
-JANINE: Like I think it is very much that thing of like, sometimes she just wants to like have a nice cup of tea with someone…
-
-
-AUSTIN: Mm-hm.
-
-
-JANINE: And sometimes she wants more, and like there needs to be room for that in her life, and not…[sighs] I think because of the way the religion is, there’s a…a desire to be like “Oh, I bet that’s not okay, I bet the religion would frown on that.”
-
-
-AUSTIN: Right. Right.
-
-
-JANINE: But the emphasis that the Resonant Orbit places on humanity as having value…
-
-
-AUSTIN: Mm-hm.
-
-
-JANINE: Makes me think that like that would totally be an acceptable…thing. For someone to pursue.
-
-
-AUSTIN: Right.
-
-
-JANINE: On their own time.
-
-
-AUSTIN: Well, especially because we also know that this is a world in which it’s not just that it’s acceptable to pursue it, but I…for the Divine Fleet, for now the Divine Free States, like, we’ve talked about the dignity of human life and the dignity of…
-
-
-JANINE: Mm-hm.
-
-
-AUSTIN: …of choice and like all of the stuff that is like actually protected, and not just protected! Like not just, “the law will step in” but ingrained in a sort of culture attitude?
-
-
-JANINE: Yeah.
-
-
-AUSTIN: That to me like—I want this to be a utopia in which sex work is something that can be pursued safely…with state support—
-
-
-JANINE: Mm-hm.
-
-
-AUSTIN: —in the sense of like, having medical, you know, resources available.
-
-
-JANINE: Exactly, yeah.
-
-
-AUSTIN: And also not like framed as…not just a crime, but as something immoral? 
-
-
-JANINE: The lurid…
-
-
-AUSTIN: And so I think that—yeah, I think that this is like…yeah, it’s totally part of the culture for that sort of work to be—not just something that you can go have, but something you could pursue, if that’s your interest in life, right? So…
-
-
-JANINE: Mm-hm.
-
-
-AUSTIN: Yeah, I’m totally with that. And also, again, like sex work is—and sort of pleasure work, is a very broad category?
-
-
-JANINE: Mm-hm.
-
-
-AUSTIN: So. I know we’ve joked—[huffs] there was a bit where we were prepping, and like talking about what the ship was gonna be for this crew, and it was like, “when you land, do you set up basically Majima’s hostess club?”
-
-
-[JANINE laughs]
-
-
-As like your cover? When you’re not—I don’t know! I have to talk to Ali about what the Steady looks like at this point.
-
-
-[JANINE chuckles] 
-
-
-But, my guess is, not exactly that. But, eh, we’ll see.
-
-
-JANINE: Yeah.
-
-
-AUSTIN: Um…God, now that I think about it, Tender’s thing might actually—her vice might have been—it’s been like a week since we’ve recorded, or a week and a half, or something—but I think—yeah, her vice was also Pleasure, and I think it’s running the Steady. 
-
-
-[JANINE laughs]
-
-
-So who knows! Maybe a little overlap. [chuckles] 
-
-
-[JANINE sighs ruefully]
-
-
-In what’s happening during the off time. Um. All right, so that is your—
-
-
-[15:00]
-
-
-—name, obviously, your class, your heritage, your background…What about the rest of your key stats?
-
-
-JANINE: Um. 
-
-
-AUSTIN: So just go over your stat line, basically.
-
-
-JANINE: Yeah. So we’ve got Doctor 2, Study 1—because those are built into the Stitch class.
-
-
-AUSTIN: Right.
-
-
-JANINE: Helm 1, because she has some experience, you know, with the Mariposa and Belgard.
-
-
-AUSTIN: Right.
-
-
-JANINE: In terms of using vehicles, it seemed like a thing to put in there. Scramble 1, because, you know, some combat experience…
-
-
-AUSTIN: Mm-hm.
-
-
-JANINE: …and crisis experience. Attune 1, to account for the sort of mystical element of still being attached to Belgard. And Consort 1.
-
-
-AUSTIN: Cool. So the last thing I wanna say in this part of this—so the way we’re doing this, just so you know, Janine, is we’re doing this kind of stat-heavy thing, and we’re gonna drop that as a bonus episode inside that we’re gonna link out to? And then the kind of more narrative focus, “what has your year been like” stuff is gonna go in a different…gonna go in like the main episode? So that’s why I’m saying there’s like two parts of this. But the last thing I do wanna talk about in this kind of stat-heavy part of it is items, because I know one of the things that was like, “mm, is Stitch right?” was that it has things like Candies and Treats, and Syringes and Applicators here.
-
-
-JANINE: [laughs] We had such a talk about Candies and Treats, didn’t we?
-
-
-AUSTIN: We did! And I think it’s an important one, ‘cause it’s like, it was an important distinction. What was the—how did you make that distinction, again?
-
-
-JANINE: So, for me…[sighs] you know, I do a lot of comparison between Signet and Adaire, and Candies and Treats is totally some Adaire shit. Candies and Treats is Adaire coming back with crackers for Hella.
-
-
-AUSTIN: Right.
-
-
-JANINE: It’s like, “okay, I need your cooperation, you’re unhappy with me, here’s a treat.”
-
-
-[AUSTIN laughs quietly]
-
-
-“Instead of spending the time to actually mend this situation, to actually make you feel better about dealing with me—” 
-
-
-AUSTIN: Mm-hm.
-
-
-JANINE: “—here’s a treat.”
-
-
-AUSTIN: Right.
-
-
-JANINE: And Signet is completely the opposite, of like, the thing she wants is to spend that time.
-
-
-AUSTIN: Right.
-
-
-JANINE: Um, or to at least promise to spend that time when it’s available. Like.
-
-
-AUSTIN: So—do you have a similar…?
-
-
-JANINE: She doesn’t want the shortcut.
-
-
-AUSTIN: Right. Do you have a similar thing that would slot in there instead of Candies and Treats? Like is it like a tea set?
-
-
-[JANINE laughs]
-
-
-Which at least suggests a sort of like “okay, no, what I’m doing with this is sitting down with you and spending time.” It’s not just disposable—it’s not just like currency.
-
-
-JANINE: Yeah.
-
-
-AUSTIN: Or is it something else? Is there [stammers]—Is it something else completely?
-
-
-JANINE: I think [sighs]…So Candies and Treats is tricky ‘cause it sort of like seems like it’s intended for children, but I guess you could also stretch that to be like, “oh—she’s got a flask of whiskey for, I don’t know, like—”
-
-
-AUSTIN: Well, no, the thing that’s wild is like Candies and Treats—so this is a weird thing in this system. But in the way that—if you didn’t listen to Marielda, if you don’t remember how Blades in the Dark worked…if you did listen. When you go out in the world to a mission, you pick how much…
-
-
-JANINE: Mm-hm.
-
-
-AUSTIN: …load you’re carrying? You have like either light, normal or heavy, and that gives you different amounts of kind of carrying capacity and some things are free to carry. So like one of your other things is fine bedside manner? And that’s free.
-
-
-[JANINE chuckles]
-
-
-That doesn’t cost a load. Recognizable medic garb, which again we’ll rework to be some sort of recognizable garb.
-
-
-JANINE: Mm-hm.
-
-
-AUSTIN: For Signet’s role as excerpt, presumably? Or maybe as—
-
-
-JANINE: Yeah.
-
-
-AUSTIN: —something else. I don’t know.
-
-
-That’s also free. That doesn’t cost load. Uh. Candies and Treats [laughing] costs a load?
-
-
-JANINE: Mm-hm.
-
-
-AUSTIN: But then, over on the side—I don’t know if you’re looking at like the full—the sheets. Illicit drugs does not cost any space.
-
-
-JANINE: [puzzled] Oh.
-
-
-AUSTIN: And so it’s funny to me that like Candies and Treats is like, “no, you gotta spend a pocket somewhere for these candies and treats. You don’t just get those for free.” Or who knows, maybe this is an early beta—version, and that’ll change in the final [huffs] in the final…but um…
-
-
-[JANINE huffs a laugh]
-
-
-But I—it’s just a funny little note, so. So yeah! What are you—
-
-
-JANINE: Yeah, I don’t—…I’m not sure what—like, I feel like the spirit of that…translating the spirit of that to Signet would probably be…like Candies and Treats are something very quick, like.
-
-
-AUSTIN: Mm-hm.
-
-
-JANINE: Something very much just like you eat it, it’s gone, it’s sugar or something—I think it would have to be something more like amusing?
-
-
-AUSTIN: Oh, okay.
-
-
-JANINE: That sort of implies like an activity together?
-
-
-AUSTIN: Right.
-
-
-JANINE: Um…I guess it…could be a tea set, ‘cause I don’t know that we’re gonna be dealing with like…kids…but…
-
-
-AUSTIN: [rueful] Well, you might be. I’m—kids are good. Playing Bluff City has—
-
-
-JANINE: Yeah…
-
-
-AUSTIN: —reminded me that kids are good. Playing…[sighs] Misspent Youth. That was like a reminder to me, like, “oh, right, kids are really good!”
-
-
-JANINE: Mm-hm.
-
-
-AUSTIN: Um, that and also…what was…Golden Sky Stories was the other one. Right?
-
-
-JANINE: Yeah. That was good!
-
-
-AUSTIN: Of just like, “oh, right, kids. Kids are good.” And like I wanna get a little more Golden Sky Stories in the rest of this game. For sure. A little more like…low-energy—not low-energy, low-power? Like low-violence?
-
-
-JANINE: Mm-hm. Yeah.
-
-
-AUSTIN: It can still be a game that has violence in it, but like—
-
-
-JANINE: With softened edges.
-
-
-AUSTIN: —just solving everyday—yeah, yeah. Softened edges and solving everyday problems, is a little bit more—
-
-
-JANINE: Mm-hm.
-
-
-AUSTIN: —of what some of the initial…adventures I have in my mind look like? You know, still…
-
-
-[JANINE laughs quietly]
-
-
-We’ll see how people play!
-
-
-JANINE: Mm-hm.
-
-
-AUSTIN: Like that’s what I’ll say at the end of the day. But based on these vignettes, so far, I think people have been doing a good job with hitting that tone. So yeah, maybe not Candies—I’d say maybe sleep on it and we’ll figure it out—
-
-
-JANINE: I think I actually do kinda know what it is now.
-
-
-AUSTIN: Okay.
-
-
-JANINE: So. [sighs] One of the first things that came to my mind was a deck of cards.
-
-
-AUSTIN: Mm.
-
-
-JANINE: Because…cards, there are games you can play with adults with cards. There are games that kids like with cards.
-
-
-AUSTIN: Yeah.
-
-
-JANINE: There are tricks you can do with cards.
-
-
-AUSTIN: Yeah.
-
-
-JANINE: It probably wouldn’t be a set of just like straight up playing cards, but it might be some sort of like…something like a tarot deck…
-
-
-AUSTIN: Yeah.
-
-
-JANINE: …but with a game-y component to it…
-
-
-AUSTIN: Can they be made of metal?
-
-
-JANINE: —something probably like—
-
-
-AUSTIN: Can they be made of like—
-
-
-JANINE: Yes.
-
-
-AUSTIN: Can they have bits that spin? And like…
-
-
-JANINE: Ha—what? [chuckles slightly]
-
-
-AUSTIN: Like imagine a playing card made of metal that’s—imagine the eight of diamonds, and each of the diamonds can like lock into place, or unlock and flip [clears throat] to be backwards, so that like you could face it either way and like—I don’t know, like it’s a weird fuckin magic deck of cards, okay? Uh.
-
-
-[JANINE laughs]
-
-
-I just like I have it in my mind as being kind of spindly and metal and heavy, like it’s a hefty thing.
-
-
-JANINE: I kinda like the idea of like going back to the tarot idea of like—you know there’s the whole thing about if you deal a card upside down or right side up.
-
-
-AUSTIN: Mm. Mm-hm.
-
-
-JANINE: And I kind of like the idea of the image on the card having a mobility of its own…
-
-
-AUSTIN: Yeah.
-
-
-JANINE: …so that it like moves as you’re laying it down?
-
-
-AUSTIN: Yeah. That’d be really cool. Yeah. So—
-
-
-JANINE: Some sort of like gyroscopic kinda…
-
-
-AUSTIN: Yeah, I’m definitely—
-
-
-JANINE: …thing.
-
-
-AUSTIN: —when I’m thinking about things moving, I’m thinking about gyroscopic motion here, not like—
-
-
-JANINE: Mm-hm.
-
-
-AUSTIN: —not like gears turning.
-
-
-JANINE: Yeah.
-
-
-AUSTIN: I’m thinking about like. It feels like it has—and like maybe it is itself attuned with Quire and with the Mirage, and whatever this weird force is that’s around everybody now. Um. I like that a lot, because it—
-
-
-JANINE: Yeah.
-
-
-AUSTIN: One of my big notes for myself for the rest of this season is that things should have texture, and should be—someone noted, I think in the Discord, that we’ve been going to mosaics a lot this season? And the reason for like mosaics and mosaic touchscreens and things like that [clears throat] and the part of the reason that they read it was like, “Oh, because it’s not as simple as just like, “it’s a touch screen!”” And mosaics have this sense of history, but also have a sort of tactility to them—
-
-
-JANINE: Yeah…
-
-
-AUSTIN: —like, “Oh, right, yes, that’s perfect. Yes, that’s one hundred percent…”
-
-
-JANINE: I’m just making a note of this card thing so I don’t forget it.
-
-
-AUSTIN: [laughs] That’s completely fair.
-
-
-[JANINE huffs in amusement]
-
-
-This is my—it’s Tewhit, who’s very good, in our Discord, says, “Beloved ships use mosaics in the walls and as a method of control input. Tender also has a mosaic shrine in her private sanctum. I think they tend to recur in Twilight Mirage because they have that overlap of being ancient while also being something physically tactile, but visually resembling pixels or keyboards. To be clear, I think that’s a neat idea, but drawing them is hard.” [amused noise]
-
-
-[JANINE makes an amused noise]
-
-
-And then Grr face. And uh, I don’t know! Tewhit, you did a good job on the mosaics in this sketch that you did for Inktober, so. I’m into it.
-
-
-Um, okay! So I think that might be it for your stat run—we’ll figure out the rest of what your equipment is, but that was like the one that I really wanted to zoom in on, and figure out, right—
-
-
-JANINE: Mm-hm. That’s a big one! That’s a big one.
-
-
-AUSTIN: Yeah, totally. And the rest of it’s like fine clothing, fine medkit. Like you won’t have a medkit, but you’ll have something else—
-
-
-JANINE: Yeah.
-
-
-AUSTIN: —that has to do with something, we’ll figure it out. You still have that sash, right? Like…Um.
-
-
-JANINE: Yeah!
-
-
-AUSTIN: Presumably a sash.
-
-
-JANINE: I got a sash, I got a weird buuug! I got lots of stuff.
-
-
-AUSTIN: You do got a weird bug—we gotta figure out what that bug does at this point—
-
-
-JANINE: [laughing] We do.
-
-
-AUSTIN: —because I have no fucking idea anymore. I know what it did that one time! But who knows what your Exuvia does at this point. Um.
-
-
-Oh, and then—I mean, the big one—here’s the actual big one that we should talk about briefly, is like—how do we wanna talk about Belgard? Like we’re gonna talk about what happened to Belgard in a second, or what Belgard’s doing, or like where…she is? I always forget—she/her, with Belgard?
-
-
-JANINE: Yeah.
-
-
-AUSTIN: Yeah, okay. Where she is. But like I—my gut says I wanna make her like a…personal ship for you, basically. But not one that you’re in all the time? Like—[sighs] what like—
-
-
-JANINE: Yeah, that’s pretty much where I’m at.
-
-
-AUSTIN: Yeah. One of the key things with this game is that you all share a ship together.
-
-
-JANINE: Mm-hm.
-
-
-AUSTIN: And I don’t think I’ve said this yet, but you all share that ship, like all seven players share this ship together. And…part of the joy of this is like i get to mix and match groups from—adventure to adventure? Or like you do—‘cause I’ll say like “here are the two thing that are up for grabs mission-wise. Who’s doin what?”
-
-
-[JANINE makes an amused noise]
-
-
-And that’s exciting. But also part of that means like not…like forcing y’all to cohabit a space?
-
-
-JANINE: Mm-hm.
-
-
-AUSTIN: Which the ship design is really good at, like the actual like ship mechanics are pretty good at like making you wanna be at home in that ship. And so I’ve been trying to figure out like how do we do Belgard? And so one of the things that you could do is that the way the ship mechanics work is there is a personal ship size? And I think that’s probably what we do with Belgarde, is just make her a personal ship. And I might just end up making everybody a very like simple personal ship, because one of the upgrades you can get on your ship is like…not ground vehicles, where is it…There’s one—personal vehicles, that you could have personal vehicles that basically would solve the problem of like “What happens if in one game y’all crash the big ship?” [laughs] 
-
-
-JANINE: [amused] Yeah!
-
-
-AUSTIN: And the other game has to get off the planet now, and we’re recording in opposite ord—like who—you know. Stuff is weird with stuff like that.
-
-
-JANINE: Yeah.
-
-
-AUSTIN: So…So, yeah. That’s probably what we’ll do? I don’t know if you have any—and probably have some abilities that used to be Signet abilities, but be on Belgard now.
-
-
-JANINE: Mm. Yeah, that makes sense. Um. I don’t think it’s like much of a stretch to be like—Belgard has been restored. Belgard is—
-
-
-AUSTIN: Yeah.
-
-
-JANINE: —is alive and well, like that’s established.
-
-
-AUSTIN: Yeah. Yep.
-
-
-JANINE: But I don’t think it’s a stretch to say that if Signet is doing this other stuff, that Belgard tagging along all the time isn’t really feasible.
-
-
-AUSTIN: Right. Right.
-
-
-JANINE: Like, because—a Divine is a very obvious thing.
-
-
-AUSTIN: Yep. A hundred percent.
-
-
-JANINE: And, moreover, like there are things…[sighs] You know, even if stuff is going that like Signet feels like her time is best spent doing these smaller actions, there are still probably things Belgard can be doing.
-
-
-AUSTIN: Mm-hm. Totally. One hundred percent.
-
-
-JANINE: Like—you know, on a larg—like Belgard has abilities, and also doesn’t really need Signet to tell her to use them? Like.
-
-
-AUSTIN: Right.
-
-
-JANINE: If they are near a place where there is a big broken thing, or whatever, like—
-
-
-AUSTIN: Right. That’s just day-to-day…
-
-
-JANINE: —Belgard can go take care of it. Like I don’t—
-
-
-AUSTIN: The day-to-day maintenance stuff…
-
-
-JANINE: Yeah.
-
-
-AUSTIN: …is not why there is the Divine plus excerpt situation.
-
-
-JANINE: Yeah.
-
-
-AUSTIN: Like that’s not a crisis, that’s about making sure that things—like when it’s time, you need that human to pull the reins a little bit.
-
-
-JANINE: Yeah. Yeah.
-
-
-AUSTIN: Or vice versa, you need the Divine to—
-
-
-JANINE: Totally.
-
-
-AUSTIN: —push the human in the right direction.
-
-
-JANINE: Um. I think it’s—that’s a thing that like I don’t—I like the idea of employing Belgard as a vehicle, in sort of a structural sense. But I do think her autonomy is still kind of an important…
-
-
-AUSTIN: Yeah.
-
-
-JANINE: …element of that.
-
-
-AUSTIN: Yeah, I’m…
-
-
-JANINE: She’s not just KITT from Knight Rider, like she’s…
-
-
-AUSTIN: Right. Right.
-
-
-JANINE: Yeah.
-
-
-AUSTIN: Right, like I don’t know what the closest equivalent is, in terms of who she is at this point,like in fiction, in like sci-fi or something like that. Like she’s a living being who has her own—whose interests are in line with yours?
-
-
-JANINE: Mm-hm.
-
-
-AUSTIN: But is also…I mean, we’ll get into this. We should actually just pivot, and we should talk about what you year has been like, all right?
-
-
-[JANINE huffs in amusement]
-
-
-So!…Signet. What’s your year been like?4 Broad strokes. Last thing that happened—
-
-
-JANINE: [amused] Very busy.
-
-
-AUSTIN: Yeah! Right? That works, yeah.
-
-
-JANINE: Very busy.
-
-
-AUSTIN: Um. I’m guessing you’ve mostly been on Thyrsus, or have you been going place to place?
-
-
-JANINE: I feel like…[sighs] I feel like Signet, especially early on, would make it a priority to be as mobile as reasonable…
-
-
-AUSTIN: Mm.
-
-
-JANINE: …in the current situation. Like I don’t think she’d be moving around constantly, but like I think—
-
-
-AUSTIN: Sure.
-
-
-JANINE: She would be making a kind—she would be making a sort of rounds?
-
-
-AUSTIN: Yeah, that adds up.
-
-
-JANINE: Of the places, um. Making appearances, making sure people’s needs are being seen to as best she reasonably can. Because she’s a proper—
-
-
-AUSTIN: She certainly has cause, yeah.
-
-
-JANINE: Yeah, she’s a proper excerpt again. Like she is…
-
-
-AUSTIN: Yeah.
-
-
-JANINE: She is doing what she trained to do, and has not been able to do for a long time, at a time when people really do need it.
-
-
-AUSTIN: Mm-hm. Yes, she is now one of two excerpts…
-
-
-JANINE: Mm-hm.
-
-
-AUSTIN: …at this point. The other one is the synthetic being formerly known as Czar, is now the excerpt of Bounty. And I don’t know that I have Czar’s new excerpt name yet? We’ll get that probably at some other point. And you’ve probably spoken to him at some point. But…between the two of you, like there’s definitely…a sort of like—you make the rounds, not just because it’s good for morale, but because there’s like actual work to be done? [laughs slightly]
-
-
-JANINE: Yeah!
-
-
-AUSTIN: The thing that I’ve said about this setting is now that each of these planets like is shaped by great will on it, some great willpower, or whether that’s a collective will or the will of a stratus, or the will of a divine, or an axiom, or something else, right? Like, the will of Quire itself. The thing that that doesn’t mean is that everything just works. [huffs] 
-
-
-[JANINE makes an amused noise]
-
-
-[30:00]
-
-
-AUSTIN: I suspect there’s lots of like trying to build houses, and trying to build bridges, and trying to make sure that like the heater works in the big y’know feast hall or whatever. There’s probably a lot of vehicles that break down, and a lot of like…transport ships that are not used to the new high density of the Twilight Mirage, and that have engine problems. And so I think there’s literally work to be done. But there is also that second type of work, which is like, “Hey, the excerpt is here.” The Divine Free States are still about Divines. And maybe we can keep rebuilding them.
-
-
-JANINE: I mean, and also…yeah. [laughs] Given the context of like all of this resettlement, all of this…like massive transition, the fact that the two divines are like divines of abundance and of like recovery?
-
-
-AUSTIN: Mm-hm.
-
-
-JANINE: Just them existing doesn’t mean those things would happen on their own, like…
-
-
-AUSTIN: Right! Right, exactly.
-
-
-JANINE: There’s a lot of…footwork.
-
-
-AUSTIN: So what sort of things have you been focusing on? And like what are some of the—like I guess maybe that’s not true. Maybe what I actually want is like, what’s that look like in terms of power structure and in terms of like authority and—like where is Signet at, as a person, right now?
-
-
-JANINE: Well, there’s like [sighs]…
-
-
-AUSTIN: [amused] Small questions, you know…
-
-
-JANINE: Yeah…There’s two sides of it. There is like—especially with, you know, Empyrean is not…around anymore, and Blooming is…I suppose, doing the smaller tasks, but like isn’t a big presence. And the Cadent—right? Is not, like…
-
-
-AUSTIN: Well, so the—
-
-
-JANINE: The Cadent is still leader, but the Cadent isn’t leading everyone.
-
-
-AUSTIN: No, in fact the Cadent is now leading like [sighs]—like, the Cadent has been minimized to some degree!
-
-
-JANINE: Mm-hm.
-
-
-AUSTIN: We’ll get into this—or either we will get into it in Tender Sky’s or we already have!
-
-
-[JANINE makes an amused noise]
-
-
-But the Cadent now corules a planet named Seneschal…along with Declan’s Corrective.
-
-
-JANINE: Mm-hm.
-
-
-AUSTIN: And it works! Like she…partially because of Tender’s prodding, and teaching, and like weird mentorship, and partially because she was always capable, but she just wasn’t trained in the specific things she needed to be trained in.
-
-
-JANINE: Mm-hm.
-
-
-AUSTIN: The Cadent has begun to step up a little bit more? But not for all of the Divine Free States.
-
-
-JANINE: Yeah.
-
-
-AUSTIN: And in fact I think the thing that I’m doing here, and the thing that I wanna do, is that the Cadent is the dove among a bunch of hawks, to some degree.
-
-
-The Divine Free States aren’t looking for war, so maybe hawk is too strong, right? But they’re deeply distrustful of any sort of cooperation with the New Earth Hegemony? They’re happy that they’re at a state of uneasy truce. They would prefer it to be…a state of peace in which the New Earth Hegemony just was not in this system at all. But the Cadent is like the only one—and the Cadent’s you know entourage and…some allied smaller factions and stuff—who think “oh yeah, we should unify this as its own place.” They’re the only ones who do, and so to some degree the cadent has been minimized…as a political actor. 
-
-
-And part of that is also the kind of broader realization that her job was always to manage Divines and excerpts, not to manage people.
-
-
-JANINE: Mm-hm.
-
-
-AUSTIN: Not to manage like the citizens. And also like…you haven’t heard this yet, Janine, but part of the evacuation game was very clear that like half of the By-and-By sided with Sui Juris.
-
-
-JANINE: Mm-hm.
-
-
-AUSTIN: So that’s hundreds of thousands of people, if not more, because we have not [laughs] we have not been clear on our numbers throughout this season. You know. Either something like two hundred thousand, or something like two million people—sided with—
-
-
-JANINE: The By-and-By is the largest ship in that fleet, right?
-
-
-AUSTIN: It is the largest ship in the—
-
-
-JANINE: Or was. Yeah.
-
-
-AUSTIN: —yeah, it’s the largest ship in the fleet. I’ve given different answers—I’ve looked this up as to what I’ve given—
-
-
-[JANINE huffs in amusement]
-
-
-—in terms of answers? [amused] And at one point I said that it was like a large American city, in terms of size, and another time I said it was like a large or like a mid-sized Canadian city? I basically said it was like, “oh, it’s like five hundred thousand.”
-
-
-[JANINE laughs]
-
-
-And another time I said it’s like, “oh, it’s like New York. It’s like ten million.” And those are just two wildly different numbers. So.
-
-
-JANINE: Yeah!
-
-
-AUSTIN: But the good news is, we have a new opportunity to standardize those populations…
-
-
-[JANINE huffs in amusement]
-
-
-…and I’m gonna do that as part of the world-generation stuff? Also because there’s lots of colonists coming from the earth, now?
-
-
-JANINE: Mm-hm.
-
-
-AUSTIN: And arriving rapidly, at a rate that they should not be arriving. So. So yeah, anyways, Cadent has minimized as far as like political power goes, to some degree. But maybe—minimized is wrong. She’s been concentrated. 
-
-
-JANINE: Yeah.
-
-
-AUSTIN: She’s concentrated on this one place now, and is actively taking part.
-
-
-JANINE: Um. I think in light of that, though, that sort of means that there’s two sides to what Signet’s been doing with this time. There is the like very large public side of like trying to make sure there isn’t a void?
-
-
-AUSTIN: Right.
-
-
-JANINE: Because like some very important actors have sort of shifted or sort of, essentially, left those roles, and…bad stuff can happen when there are voids like that.
-
-
-AUSTIN: Yeah.
-
-
-JANINE: Like culturally, even. Not just in terms of [sighs] holding power or whatever, that’s not really Signet’s main concern here, but.
-
-
-AUSTIN: Yeah.
-
-
-JANINE: She wants to make sure that people have faces to look up to, still.
-
-
-AUSTIN: Right.
-
-
-JANINE: And that they still have a presence that they can turn to, or that they feel they can draw comfort or strength from, like that’s very important to her. Um. So she is doing those big things. She’s, you know, making very public, you know, tours of places, and doing what she can like, not just appearances, but work. You know, trying to make things better for people in a way where they know they can depend on her.
-
-
-AUSTIN: Mm-hm.
-
-
-JANINE: The other half of that, though, is that…and this is a thing that I’ve been pretty sure of with Signet for a while, is that I don’t think she has thought, like for a long time, that the faith that she’s a part of was going to last forever.
-
-
-AUSTIN: Mm.
-
-
-JANINE: Like I think when she was very young, she probably thought like, “okay, well some Divines will die, but then it will stabilize, and maybe we’ll make more, or something, and it’ll be fine.”
-
-
-AUSTIN: [soft laugh] Right.
-
-
-JANINE: Um. But I think probably for the past like…at least one hundred years of her life, she’s been like—she’s seen the writing on the wall. Like she thinks…
-
-
-AUSTIN: Right.
-
-
-JANINE: …that…we had a very good—like a very, very good run.
-
-
-[AUSTIN huffs in amusement]
-
-
-But things are changing, and like…I mentioned this to you, a phrase that I’ve had written sort of—I wrote it at the top of my…famous notes, more than once, is that…is “die out with dignity.”
-
-
-AUSTIN: Mm.
-
-
-JANINE: Of like…if the faith is ending, it should end on a high note. It should end with good things, and not with like tearing itself apart, or…
-
-
-AUSTIN: Right.
-
-
-JANINE: …like complete decay, or whatever.
-
-
-AUSTIN: Right.
-
-
-JANINE: So I think as part of…not part but like [sighs] a side thing during this year is that she’s been finding people from outside of the faith—or you know, relatively. Not like people who have left the faith, but like—
-
-
-AUSTIN: [amused huffing] Right right right. But people who are not excerpts or who hold church status or—
-
-
-JANINE: People who aren’t like priestess-type, you know…
+KEITH: Cause like, he was like— he’s watching… He’s, like, studying the people doing their jobs, but also he’s doing these jobs.
 
 
 AUSTIN: Right, right.
 
 
-JANINE: Who aren’t…within the church’s explicit structure—
-
-
-AUSTIN: Who are lay people, inside—
-
-
-JANINE: Yes.
+KEITH: And so I was like. “which foot am I—” and eventually I did decide on labor anyway, even in the original build.
 
 
 AUSTIN: Right.
 
 
-JANINE: Yeah.
+KEITH: Um, and that’s… [laughs] that’s where the point for study came from.
+
+
+AUSTIN: Mm-hmm.
+
+
+KEITH: But that doesn’t work anymore either.
+
+
+AUSTIN: Because now that’s from your— 
+
+
+KEITH [overlapping]: Because now that’s from Mechanic, yeah.
+
+
+AUSTIN: —your cl— Right, exactly.
+
+
+KEITH: Yeah, um— 
+
+
+AUSTIN [overlapping]: Wha— the— My biggest thing— let’s just go— quickly go over what you have written down here, which is 2 rig— 
+
+
+KEITH [overlapping]: Yeah.
+
+
+AUSTIN: —1 study, 1 helm, 1 scramble, 1 command, 1 CONsort [Pronounced like a noun], 1 sway… uh, 1 conSORT, conSORT, conSORT? [Pronounce like a verb]
+
+
+KEITH [overlapping]: ConSORT.
+
+
+AUSTIN: I’ve done this bit with somebody else.
+
+
+KEITH [overlapping]: Yeah, conSORT.
+
+
+AUSTIN: Um, so what I’ll say— My biggest thing is like— 
+
+
+KEITH: OctaGONal.
+
+
+AUSTIN: Hmm, yeah, great.
+
+
+KEITH: [Laughing]
+
+
+AUSTIN: Exec-u-cute—  a— ee— ah, fuck. How did Will Smith say it? Uh…
+
+
+KEITH: E- e- exeCUTEable
+
+
+AUSTIN: Ex- no, he said something else, ez— he said some other— he said another word— 
+
+
+KEITH [overlapping]: I thought it was exeCUTEable.
+
+
+AUSTIN: Maybe it was exeCUTEable.
+
+
+KEITH: ExECutable? Was it exECutable?
+
+
+AUSTIN [overlapping]: ExECutable! It was ez- Yeah, exECutable! [laughing] Fuckin’… ugh.
+
+
+KEITH: ExECutable.
+
+
+AUSTIN: ExECutable. Here’s a weird thing about my fucking...
+
+
+KEITH [overlapping]: Wait, is it exeCUTEable? Is that the actual way?
+
+
+AUSTIN [overlapping]: ExeCUTEable is right.
+
+
+KEITH [overlapping]: Yeah, I— yeah.
+
+
+AUSTIN [overlapping]: ExeCUTEable is correct.
+
+
+KEITH: Sorry, it’s so— Saying exECutable is so bad, that I just defaulted to how to actually say that word.
+
+
+AUSTIN [Laughing]: Yeah.
+
+
+KEITH: God, that had me literally dying.
+
+
+AUSTIN [overlapping]: Oh my fucking god.
+
+
+KEITH: That was one of the funniest things that ever happened on that podcast.
+
+
+AUSTIN: Yeah... Anyway, so two problems here— or not problems, but two things that pop out for me. One is…
+
+
+KEITH: Yeah.
+
+
+AUSTIN: One, two, three, four… Wait, one, two, three… Four, five, six, seven, eight. You’re up by 1 point, which you know about.
+
+
+KEITH [overlapping]: Yeah, one of these is— one of these we knew that we’re taking it away— 
+
+
+AUSTIN [overlapping]: Two, I’m sup— 
+
+
+KEITH: —when we went into this.
+
+
+AUSTIN: I’m surprised you don’t have hack, um… But that would be a ninth point, which is an additional problem. [laughing] Uh…
+
+
+KEITH: Yeah, so you’re saying… So, we have to take away 1, and you’re suggesting maybe take away two and add one to hack.
+
+
+AUSTIN: Right, which I— which is even harder to do, because… I don’t know where you get the— uh, hmm, I guess— hmm.
+
+
+KEITH: Well, I’m trying to think of like— I’m trying to think of like the stuff that… the stuff that— that I would be doing as a— just a citizen of Gumption’s Gambit—,
 
 
 AUSTIN: Right.
 
 
-JANINE: And also probably some people who don’t get a shit about the church, too, ‘cause—
+KEITH: —with not— with no other... with nothing other that being a guy who… who makes like sort of an… infotainment documentaries on people’s weird jobs. I don’t think any of that lends itself to being… a computer hacker.
 
 
-AUSTIN: Sure! Yes.
+AUSTIN [overlapping]: Right. Well, and the thing here, too— 
 
 
-JANINE: —I don’t think that—if they’ll hear her out, then she’s happy.
+KEITH [overlapping]: And it— you’re talking about hacking in the other, older way, which is what the rig is.
 
 
-AUSTIN: Mm-hm.
+AUSTIN [overlapping]: Which is— which is probably what rig is. So, let me read you hack and rig in the— in the book because I think there is overlap, and that’s like…
 
 
-JANINE: But she’s been finding these people and essentially training them in…in the skills and the things that people in the church do that have…that have real benefit, to people in the community. Um—
+KEITH [overlapping]: Yeah.
 
 
-AUSTIN: Like mediation, and like—?
+AUSTIN: —a thing that comes up a lot in a lot of these skills. There’s overlap where like— 
 
 
-JANINE: —the things that should be—yes. Mediation, counselling.
+KEITH [overlapping]: Yeah.
 
 
-AUSTIN: Right.
+AUSTIN [overlapping]: —Okay, you could roll this instead of that. So, hack is “You breach security systems or computers or override their controls. You might hack a data console to find out where they’re keeping a captive in the station. You might hack a drone’s control systems to keep it from firing on you. You might hack a door to get it to open (though rig might be better).” And rig is: “When you rig mechanisms, you alter how an existing mechanism works or create a new one. You might disable a trap. You might repair a damaged ship system. You might crack a safe. You might overdrive an engine. You might rig a door to get it open (though hack might be better). You might rig a bomb for later detonation.” And like, there’s obviously overlap between the two. 
 
 
-JANINE: Making sure people feel heard, making sure that people have someone to go to that they trust, making sure that people are taken care of in, you know, many different ways.
+KEITH: Yeah.
 
 
-AUSTIN: [huffs gently] Right…
+AUSTIN [overlapping]: Um, and I guess you’re…
 
 
-JANINE: Um…And…I think—
+KEITH [overlapping]: Can I bring it to— 
 
 
-AUSTIN: And are these people all in contact with each other, or just in contact with you?
+AUSTIN [overlapping]: You’re right though.
 
 
-JANINE: I don’t know that she’s like specifically setting up a network between them. I think it’s sort of like…
+KEITH [overlapping]: To like, our— to like— Okay, so, here’s— I’m going to speak in the most basic language that you and I share, which is— 
 
 
-AUSTIN: Okay.
+AUSTIN [overlapping]: Ab— uh huh.
 
 
-JANINE: …You know, I don’t imagine like she’s holding seminars or whatever, but she is sort of going to places and teaching people one on one these techniques.
+KEITH: When you’re repairing a robot in KOTOR, and using— 
 
 
-AUSTIN: Mm-hm.
+AUSTIN [overlapping]: Yes.
 
 
-JANINE: And…specifically so that the good that the church does, like if those priests and priestesses and whatever, if all those people in that religious hierarchy just went away tomorrow.
+KEITH: —parts versus computer spikes.
 
 
-AUSTIN: Right.
+AUSTIN: A hundred percent. And parts— 
 
 
-JANINE: The things that they did would still survive…
+KEITH [overlapping]: And— 
 
 
-AUSTIN: Mm-hm.
+AUSTIN: —is rig, and computer spikes is hack.
 
 
-JANINE: …for the communities, for the people who need them.
+KEITH: Yes.
 
 
-AUSTIN: It’s—the phrase that you used with me, if I’m remembering it right, was like, “it’s not a secret society, but it is kind of how one starts.”
+AUSTIN: Yeah, you’re— you’re defi— and— and I think maybe you’re right because I think about Gig getting Duck for instance…
 
 
-JANINE: Yeah.
+KEITH [overlapping]: Mm.
 
 
-AUSTIN: Right.
+AUSTIN: Our fuckin’— fuckin’ show, Jesus Christ. Remember when Gig got the horse, Duck. Um… [chuckling]
 
 
-JANINE: It’s totally how they start. Like it’s…
+KEITH: Yeah.
+
+
+AUSTIN: You— you definitely would have being using rig there, right? Cause you were talking about— 
+
+
+KEITH: Yeah.
+
+
+AUSTIN: —unplugging things, and, like, tinkering and— and moving tubes around— 
+
+
+KEITH [overlapping]: Yeah, hitting buttons.
+
+
+AUSTIN [overlapping]: And pulling levers. Right. I think it’s—  I think it’s— it’s tough because… Rig seems mostly to be about f— I guess it says, like, “crack a safe” is in there. Yeah, I think that’s fine. I think that’s fine. I think the thing to know is there will be times when what I say is “You have a lower effect because you’re using rig instead if hack.” You know what I mean? I think that— 
+
+
+KEITH [overlapping]: Okay.
+
+
+AUSTIN: Like, the getting Duck situation would have been one where… That would have been risky standard or something in— in— if you were using hack, but risky limited if you were using rig, because like, “No, that’s—” 
+
+
+KEITH [overlapping]: Yeah.
+
+
+AUSTIN [overlapping]: “—a computer system. Like, I’ll let you do it, but it is not built for this. Like, it is built to be hacked.” Um, so that’s just something just to be clear about because I want to make sure that— 
+
+
+KEITH [overlapping]: Yeah!
+
+
+AUSTIN: We’re not— that we’re on the same footing on that. Uh, so I think you’re— 
+
+
+KEITH [overlapping]: And who knows at some point I’ll maybe put a— I’ll put a— a point in hack.
+
+
+AUSTIN [overlapping]: Totally.
+
+
+KEITH: Maybe. Maybe I’ll— maybe I’ll end up doing it right now. Like, we’ll— 
+
+
+AUSTIN [overlapping]: Totally.
+
+
+KEITH: When we go through and decide what to take a point away from.
+
+
+AUSTIN: [Laughing] Right, right. But you’re also right— 
+
+
+KEITH [overlapping]: Maybe on the side.
+
+
+AUSTIN: —in that Gig has not done hacking. So I think you’re— you’re— you’re on the ball in terms of where you did already put those points. Um...
+
+
+KEITH: Yeah.
+
+
+AUSTIN: So, the big one that you have here is, for me, it’s command, consort, and sway. Uh…
+
+
+KEITH: Yeah.
+
+
+AUSTIN: Which are— which are all social skills. Um…
+
+
+KEITH: Yeah.
+
+
+AUSTIN: Command is “When you compel obedience with your force of personality. You might intimidate or threaten to get what you want. You may lead an action with NPCs. You might order people to do what you want (though consorting might be better).” Consort is “When you socialize with friends and contacts. You might gain access to resources, information, people, or places. You might make a good impression or win someone over with your charm and style. You might make new friends or connect with your heritage and background. You could try to direct your friends with social pressure (but commanding might be better).” Uh, and then… And then sway is… Um… When you sway, your influence with someone— When you sway, you influence someone with guile, charm, or logic. You might outright lie to someone’s face. You might persuade a sucker to believe you. You might argue the facts with an officer. You could try to trick people into— uh, into affection or obedience (but consortin or command might be better).” Of those, I know I’ve seen Gig sway. I know I’ve—
+
+
+KEITH [overlapping]: Yeah, absolutely.
+
+
+AUSTIN [overlapping]: I think I’ve seen Gig consort.
+
+
+KEITH: That’s the— that’s— I was actually just going to say— I was— uh, after you finished, I was going to say that of the three, I consider command to be the weakest one.
+
+
+AUSTIN: Yeah… I think that’s like an— I think there’s almost a… Well— 
+
+
+KEITH: This kind of came directly as a result of…
+
+
+AUSTIN: Yeah…
+
+
+KEITH: —what we’re going to talk about later and where I’ve been.
+
+
+AUSTIN: Well and also t— to me maybe does show up in the holiday special, right? Where like… Some of— I guess, a lot of what you do in the holiday special is consorting. It’s a lot of like, “Okay, I’m going to go try to call in—”
+
+
+KEITH [overlapping]: Yeah.
+
+
+AUSTIN:  “—a favor with this rich old lady.” A lot of like, “I’m gonna—” 
+
+
+KEITH [overlapping]: It feels for me that consort is like the middle Venn diagram of— 
+
+
+AUSTIN [overlapping]: Yes.
+
+
+KEITH: —command and sway.
+
+
+AUSTIN [overlapping]: Definitely.
+
+
+KEITH: It’s sort of the halfway point.
+
+
+AUSTIN: Well it’s— I think there’s—
+
+
+KEITH [overlapping]: And so I definitely… I like— Mako sways, I think Gig consorts.
+
+
+AUSTIN: Yes.
+
+
+KEITH [overlapping]: But sways more that commands
+
+
+AUSTIN: Definitely, a hundred percent. I think— I think that that’s totally the case. Um, and like, it’s— maybe command is aspirational, you know? Like, I think there is a little bit of command—
+
+
+KEITH [overlapping]: Yeah.
+
+
+AUSTIN [overlapping]: —in— in the holiday special.
+
+
+KEITH [overlapping]: I definitely— that’s a great way to put it. I think that’s… like… sort of why command is where it is.
 
 
 AUSTIN: Yeah.
 
 
-JANINE: You know…It’s a thing that—you know, we have a name for it. Like…the…Exponential Contingent.
+KEITH: Is like— is… where— where I’ve been for the last year, and the sort of… tone that I think Gig is trying to… have—
 
 
-AUSTIN: Right.
+AUSTIN [overlapping]: Right.
 
 
-JANINE: I think is what we’ve settled on, right?
+KEITH: —for his sort of… almost new life.
 
 
-AUSTIN: Yeah. Yeah, I think so. Yeah. I’m into it.
+AUSTIN: Yeah, now—
 
 
-JANINE: Because it…
+KEITH [overlapping]: Uh— 
 
 
-AUSTIN: The Exponential Contingent, yeah.
+AUSTIN: Now here’s a counter case for maybe keeping command and dropping helm or scramble, which you also have a point in, is—
 
 
-JANINE: Because it…you know, there’s a lot of multiple meanings in those words. There’s a lot of stuff about like contact and sort of a unit of people, or like a backup plan, or, you know…the sort of multiplication of one thing into many. So it is totally like I could totally see like 3,000 years or, you know, whatever ahead of this, that’s like some sort of…shady like Freemason whatever.
+KEITH: Okay.
 
 
-AUSTIN: Mm-hm.
+AUSTIN: —if you have… command, consort, and sway, that mean your resolve would be three. And that means that you’d be really good at resisting effects around social encounters and around… like, will— like, will power basically. Basically give you a higher will save, to use D&D terms.
 
 
-JANINE: But in this moment that’s just like a way for those people to identify each other, or to be like, “okay, I know how to take care of this. I know how to do these things.”
+KEITH [overlapping]: Mm.
+
+
+AUSTIN: Um, because the way that you resolve your prowess and your insight, which are your attributes work, is... they’re equal to however many skills you have in the thing— not points, but, like, how many skills you have points in inside of that set. So like—
+
+
+KEITH [overlapping]: Yeah.
+
+
+AUSTIN: —in resolve, there’s attune, command, consort, and sway. And so, right now you’d have a three in resolve, um, which is great. Buuuuut… like, I get— but at the same time maybe you don’t want to have a three in resolve and a one in prowess. So… um… kind of up to you. And that—
+
+
+KEITH [overlapping]: Yeah.
+
+
+AUSTIN: So then— so then helm and scramble are definitely the other ones where— where— I think scramble makes perfect sense. I think scramble is coming in—
+
+
+KEITH [overlapping]: Yeah.
+
+
+AUSTIN: —from your heritage, makes perfect sense. Helm is interesting cause I’ve— again, we’ve never seen him fly anything. Though… that’s not true. Uh, because I have to read this more closely, I think— I think you helm animals.
+[0:15:00]
+KEITH: I was just going— I was going— yeah, I was just going to say that. I was going to say you helm animals, and then also. this is another settings—based choice.
+
+
+AUSTIN [overlapping]: Yeah… Yeah… Yeah, maybe you’re right. I think, based on like, what you’re— what we’ll talk about in the vignette, um—
+
+
+KEITH: So, as— since we talked about consort, I said I— I said that consort was the sort of Venn diagram overlap of command and sway.
+
+
+AUSTIN: Yeah.
+
+
+KEITH: Even though Gig… consorts, that’s his thing— 
+
+
+AUSTIN: Yeah.
+
+
+KEITH: —I could get… I could take off consort even though I feel pretty strongly that I do do that, and sort of rely on… command and sway covering those two halves.
+
+
+AUSTIN: Yeah,  I— Here’s the one that comes back to me with Gig… Is when you pitched Gig, and we talked about what Gig was, the— one of the things—
+
+
+KEITH [overlapping]: Yeah.
+
+
+AUSTIN: —you told me was… Do you know how some celebrities are just likable? Like, they just talk to you, and you like hearing who they are? And they use like—
+
+
+KEITH [overlapping]: Yeah
+
+
+AUSTIN: Consort is that. Whereas—
+
+
+KEITH: I have a new one of those, by the way.
+
+
+AUSTIN: Oh, do you?
+
+
+KEITH: I do, I do. There’s a guy that runs a tea shop in London that has a YouTube channel.
+
+
+AUSTIN: God that sounds great.
+
+
+KEITH: I know. And he’s like, a fucking doofus and he’s not cool — He’s a little bit lame. [Austin laughs] But he’s so passionate about tea, uh— like, it’s— it’s— and it’s like, I just want to watch this guy take a sip of a tea for the first time and light up.
+
+
+AUSTIN: Yeah, so that’s to me why it sounds to me like consort. Because like—
+
+
+KEITH [overlapping]: Yeah, you’re right.
+
+
+AUSTIN: He isn’t— he isn’t trying to s— he isn’t trying to trick you. He isn’t influencing you with guile, charm, or logic, right?
+
+
+KEITH [overlapping]: Yeah, well this could be—
+
+
+AUSTIN: He’s just— he is just warm.
 
 
 [Pause]
 
 
+KEITH: Yeah... This— this could be a Fero situation.
+
+
+AUSTIN: Mhm.
+
+
+KEITH: Where Fero was always trying to sway, but was never good at it.
+
+
+AUSTIN: Mhm.
+
+
+KEITH: Um… Gig— Gig— this new Gig— this new scum and villainy Gig… could still try and command—
+
+
+AUSTIN [overlapping]: Right.
+
+
+KEITH: —despite not having any points in it.
+
+
+AUSTIN: Oh yeah, totally. In fact—
+
+
+KEITH [overlapping]: Just because—
+
+
+AUSTIN: —the big difference between this and… and… uh, like, The Veil, or The Sprawl— especially The Sprawl, where like if you didn’t have [laughing] a good stat for fighting—
+
+
+KEITH [overlapping]: Yeah.
+
+
+AUSTIN: —don’t fight. You’re going to— I’m going to make a move as hard as I can, and you’re going to just have to fucking take it on the chin. Whereas here—
+
+
+KEITH [overlapping]: Yeah, I like this— that’s sort of like— it’s sort of like a mechanical representation of the… uh, of like one of the tenants of Dungeon World.
+
+
+AUSTIN [overlapping]: Totally, totally.
+
+
+KEITH: Which is that… all of these characters are already the best in the world at these things.
+
+
+AUSTIN: Yeah, they’re already adventurers, right? These— these are characters who are—
+
+
+KEITH [overlapping]: They all know how to climb ladders; you can’t mess up climbing a ladder. You can’t critically miss…
+
+
+AUSTIN: Right, exactly. I might make you drop something while climbing a ladder.
+
+
+KEITH [overlapping]: Sure.
+
+
+AUSTIN: But your never going to fall off the ladder and— and like— “Oh, you’re dead now.” Like, this isn’t Call of Cthulhu.
+
+
+KEITH [overlapping]: I mean, well— you might make me drop something climbing a ladder if I was carrying something with me— Like, if I just said like—
+
+
+AUSTIN [overlapping]: Right.
+
+
+KEITH: “Yeah, I go up this ladder,” you’re not going to be like “roll for the ladder.”
+
+
+AUSTIN [overlapping]: Yeah, yeah, yeah. Roll— roll to climb. Yeah, exactly.
+
+
+KEITH: Roll to climb, oh god.
+
+
+AUSTIN: I know, cause we’ve both played those fucking games, right. Keith? [Laughing] Like, we’ve both had those GMs.
+
+
+KEITH [overlapping]: Yeah, yeah, no, yeah that was like— oh, my god, ack.
+
+
+AUSTIN: [Laughing] It sucks.
+
+
+KEITH: I’ve told you about my first ever GM, right?
+
+
+AUSTIN [overlapping]: No... maybe.
+
+
+KEITH: With a— uh, with a Five Star, three— three subject— You know the three subject notebooks?
+
+
 AUSTIN: Yeah.
 
 
-JANINE: I think we also have talked about that like part of that is she exchanges something with them, so like…because…
-
-
-AUSTIN: Like a physical thing? Like a…
-
-
-JANINE: Yeah.
+KEITH: The Five Star ones?
 
 
 AUSTIN: Yeah.
 
 
-JANINE: Because the last power I took in the Veil was the ability to sort of transform objects?
+KEITH: With one— filled with wor— notes on the world. The entire— Filled cover-to-cover with what the world was.
 
 
-AUSTIN: Right, right.
+AUSTIN: God.
 
 
-JANINE: Using Belgard’s sort of…not recycling abilities, but like, y’know, reconstruction abilities.
+KEITH [overlapping]: And that was my first Dungeons and Dragons experience.
 
 
-AUSTIN: Yeah, like—yeah. Yeah.
+AUSTIN [overlapping]: It’s tough.
 
 
-JANINE: I think that that would be a thing that Signet would do, like she would sort of as like a bond between her and the person that she’s trusting this information to, because like this is information that you could use to manipulate someone. 
+KEITH [overlapping]: It was a nightmare.
 
 
-AUSTIN: Right, right.
+AUSTIN [overlapping]: I get it. I get it. I love building worlds.
 
 
-JANINE: This is information you could use to do damage.
+KEITH [overlapping]: I get it.
+
+
+AUSTIN: But like—
+
+
+KEITH [overlapping]: But just why don’t you— write a book, man.
+
+
+AUSTIN: Write a book.
+
+
+KEITH [overlapping]: Come on.
+
+
+AUSTIN [overlapping]: It’s cool to write books.
+
+
+KEITH: Greg— Greg, you should have written a book.
+
+
+AUSTIN: I bet it would have been good. I— Greg, you’re probably good at writing.
+
+
+KEITH [overlapping]: It would have been a good book. He’s a good writer. He— he did the— he won the class speech contest for graduation.
+
+
+AUSTIN [overlapping]: See?
+
+
+KEITH: And it was a good— it was a good speech! [Austin laughs] Write a book!
+
+
+AUSTIN: Write a book! Come on, write a book. Um, so the— the only other thing I want to talk about in this segment really quick before we go to— to the vignette, is how in my mind— and we’ll still work out— we’ll maybe work this out a little bit more as we continue it, but like before we actually get into the recordings, um, is how… to do… the broadcasts? Um… I think— so one of the things that this game does is— like, we’re not going to go over all your moves— like, that’s— that’s— they’ll come up in play. Um, but this system has a thing called Downtime in it. And downtime happens between… um… between jobs basically. Uh, and the way I’m thinking about… your broadcast is to use the downtime system…
+
+
+KEITH: Mm.
+
+
+AUSTIN: I am looking at the wrong document; one second. Uh, again, shoutouts to the authors of this game for letting us have an early edition of it. A humorous thing is… it updates every few days, and so like the version in our private channel is not the most updated version. [laughs] The— the version that we’ve been looking at—
+
+
+KEITH [overlapping]: Oh. [laughing]
+
+
+AUSTIN: —has a hundred and seventy pages, and the one that I’m now looking at has like a hundred and ninety-six, so. Uh… So, one of the—
+
+
+KEITH [overlapping]: It’s a long book.
+
+
+AUSTIN: It’s a long book! It’s a good book. Uh, so you—
+
+
+KEITH [overlapping]: It’s a good book.
+
+
+AUSTIN: —can do a bunch of things while you are… during downtime. Um, actually, while I’m looking for this, briefly, what is your vice? Cause that’s another thing that I want to make sure we’re all on the same page… [overlapping] for...
+
+
+KEITH: Ooh, um…So, I... was really conflicted on the vice… 
+
+
+AUSTIN: Yeah. 
+
+
+KEITH: Um, so for now, uh, and I figured we could talk through it, is that I have an obligation to do these broadcasts,
 
 
 AUSTIN: Right.
 
 
-JANINE: So she wants to sort of make a pact between herself and these people, that like, I’m giving you something material here and you need to pay for it in your actions.
+KEITH: And— and to follow a story in a way that might make me… Uh, forgo other, more pressing issues.
 
 
-[AUSTIN huffs in amusement]
+AUSTIN: Right, so the thing that I want to make sure is cl— I’m cool with that, but the thing I want to make sure of is that… vices are about turning off… um… the things in your life that cause you stress, and recovering. So, I think that it’s totally fine, but only if we… Position that as not being an innately stressful thing, um so yeah I mean here’s what it says in the book about this is “Your characters are a special lot. They defy the powers that be and wrestle with factions who frequently have significant resources. They push themselves further than ordinary people are willing to go. But this comes at a cost. Their life is one of constant stress. Inevitably to blow off that steam, they turn to their vices which can be ways to— to care for oneself and blow of steam. But often end up affecting the crew’s lives when they get out of hand. A character’s vice is a deep part of who they are, and pursuing it usually makes trouble for them. But with this indulgence comes a needed stress relief and ability to again face the overwhelming odds in their daring life.” And so...
 
 
-Need to repay it in doing good—
+KEITH: Hmm…
 
 
-AUSTIN: Mm-hm!
+AUSTIN: It shouldn’t be a thing that is just part of that daring life, uh, which to me it seems like it is.
 
-JANINE: —and doing, you know, what this represents.
 
+KEITH [overlapping]: That’s true.
 
-AUSTIN: Right. So how many people are in the Exponential Contingent at this point, or who have gone through this training?
 
+AUSTIN: Right? Like.
 
-JANINE: It’s probably not a massive number.
 
+KEITH [overlapping]: Yeah, it would—
 
-AUSTIN: Yeah.
 
+AUSTIN [overlapping]: Your whole— 
 
-JANINE: Considering how difficult it is to travel around—
 
+KEITH: It would— it’s… It might be an escape from one stress, but it’s a— also a different kind of stress..
 
-AUSTIN: [amused] Yep!
 
+AUSTIN: Totally. And it’s fine that it could get you into trouble; that part is totally fine. I think that like— 
 
-JANINE: —and how much time she could be spending in one place—and—
 
+KEITH [overlapping]: Yeah.
 
-AUSTIN: And also—also like trusting people that much.
 
+AUSTIN: —everybody has one of these things that’s like… if you— the way it works is, if you overindulge, if you roll in such a— such a way that you reduce your stress more than— by more than what stress you have, you will overindulge and some bad shit can happen. Which is cool. Like, that’s a fun way for stories to unfold, uh, but it is something where it’s like I want to know really, what does Gig do… after the broadcast goes out? After— you know, uh— you know how streams go. You finish a stream, and you’re like… [Sighs] “I’m done. I’m a little jittery maybe, I’m a little like…” You kind of have that like— I don’t know how it is for you— but for me, if I’ve done a long stream, I like—
 
-JANINE: Yes! Finding the right person.
 
+KEITH [overlapping]: Yeah.
 
-AUSTIN: Yeah.
 
+AUSTIN: —I don’t just come down and now I’m cool. Like,I— I have excess, like, energy that I need to blow off, or that I need to like, deal with… Or it’s the opposite! Which is just like, “I’ve done a long week of— of broadcasting stuff, and so I’m like… I just want to fucking die.” Like, I’m just all— I’m dead on my feet, and I need something to regenerate strength… And— and energy. So, I’m curious what Gig does. The broadcast ends. He’s like, either way up or way down, how does he get back to that status quo normal?
 
-JANINE: Is going to be difficult. And then also having the time to train them in addition to doing work and stuff like that.
 
+KEITH: l— so I like the analog of… what happens to me after, like, a long stream.
 
-AUSTIN: Mm-hm.
 
+AUSTIN: Mhm.
 
-JANINE: So I think—in the span of a year—
 
-
-AUSTIN: It’s only been a year—right? Yeah.
-
-
-JANINE: Maybe a dozen people.
-
-
-AUSTIN: Okay.
-
-
-JANINE: I think a dozen is like around the right number. There—might be even a little high, but—
-
-
-AUSTIN: Mm-hm. Probably a little high, is what I’ll say. Like—or it’s either a little high, or—
-
-
-JANINE: Well.
-
-
-AUSTIN: —that relationship is not as…firm as you might think? Do you know what I mean? Like.
-
-
-JANINE: Or some of those people are people she already knew.
-
-
-AUSTIN: Right. Right right right. Yes. Right. And who you already had a positive relationship with.
-
-
-JANINE: Yes. And knew that she could like trust with…
-
-
-AUSTIN: Yeah. Totally.
-
-
-JANINE: …this kind of thing.
-
-
-AUSTIN: I’m trying to think of other stuff. Like there’s a lot here for Signet, right? Like we could do a scene with Belgard, we could do a scene with the—I kind of would love to do a scene with Primary, Satellite, and you.
-
-
-JANINE: Oh, yeah!
-
-
-AUSTIN: I’d love to see—I’d love to check in with Blueberri, like there’s all sorts of stuff on that page that we could—you know, there’s Korrin—like there’s all these characters who you’ve interacted with, that would be cool to check in on? And there’s also just like—there’s like whatever else Signet is up to. 
-
-
-You know, there’s even, is Signet losing…or not losing but like [sighs] we talked about one of the things that happened with the kind of restructure of where the Cadent is, politically, and also with the restructure of where Signet is politically, that like there has been a shift to power to sort of district governors? Like not literally district governors, but—there is a certain sort of like [clears throat] parcelling out of control—of Thyrsus, of all of the Divine Free States, because there needs to be. Not because there is corruption. We’re not talking about like the, you know, the governors are overthrowing the emperor type situation.
-
-
-JANINE: Yeah, it’s not a coup.
-
-
-AUSTIN: It’s not a coup, it’s just literally is like, “okay, well we have another new settlement popping up over on this continent over here that needs to be managed! And we have to give someone the authority to do that. We by ourselves can’t do that at the central hub or whatever.” So I—could do a scene about that. I would do a scene about whatever. Or like I—you know! I don’t know…I’m happy to not—I’d be fine not letting you—not forcing you to roll dice [laughs]
-
-
-[JANINE laughs]
-
-
-But like, so far, everybody else has had this thing that’s like, “here’s an image of them in action.” And what we do need is like you to be somewhere when recruitment happens, for what comes next? So. Maybe that’s one thing—maybe that’s one way to think about, is just like, where are you? It’s 11 months in. It’s 11 months and like two weeks since the Miracle of the Mirage. Where is Signet?
-
-
-JANINE: Um…That’s tough. I just realized like I don’t know that she has a home…place.
-
-
-AUSTIN: Right. Right.
-
-
-JANINE: Like, I don’t know that she has a place that she goes where it’s like, “okay, I did my stuff, for now.”
-
-
-AUSTIN: Mm-hm.
-
-
-JANINE: I think she’s just constantly like…
-
-
-AUSTIN: Bouncing place to place.
-
-
-JANINE: Month by month.
+KEITH: It is just an immediate crash. [Austin laughs] And just like, I’m immediately exhausted… And… sick of having to talk.
 
 
 AUSTIN: Right.
 
 
-JANINE: Or every couple weeks, just like…being wherever she has to be next.
-
-
-AUSTIN: Yeah.
-
-
-JANINE: So I don’t know where the most interesting place for her—
-
-
-[45:00]
-
-
-—to be would—be…
-
-
-AUSTIN: I think Thyrsus, if only so we can see it.
-
-
-JANINE: Yeah.
-
-
-AUSTIN: [pauses] [sighs] I’m trying to think. So here’s what we know about Thyrsus right now, is it’s cold…[huffs]
-
-
-JANINE: Mm-hm.
-
-
-AUSTIN: First and foremost.
-
-
-JANINE: And they wear coats, so it’s cool with them.
-
-
-AUSTIN: Yeah, that’s good. They already wore coats.
-
-
-[JANINE laughs quietly]
-
-
-Now their coats might have better lining now. Or something. Right?
-
-
-JANINE: Now people don’t make fun of them for wearing coats inside all the time.
-
-
-AUSTIN: [chuckles] Right. Exactly. Um…Note that there are three major factions on Thyrsus. There are the…let me pull these up really quick, here we go…there are the [sigh-nod] Synod or the [sin-odd] Synod, which are a group of kind of travelling like…medics. 
-
-
-There is the Merciful, are now headquartered there, and the Merciful have also taken on a sort of—you know, the Merciful had kind of been…sort of parole officers, in the past? Parole officers, social workers. Now they are also a sort of…community police force? They’re small. They can barely get off of Thyrsus, like they don’t have the reach across the entire sector, but you’ll find a couple of them on every New Earth—or, sorry, not New Earth—every Divine Free State planet, doing their best to try to like…doing not the same sort of mediation—not the same sort of intimate mediation that you do, but the sort of like community leadership stuff, and kind of community policing, that they were already kind of doing before. 
-
-
-And then there’s the Loving Gaze, which is a group of…like intelligence operatives? Thyrsus has sort of taken on a infrastructural role, in the Divine Free States, in that like, they get information—[stammers] and transmit information, and you know…bring it from place to place—they don’t just transmit it, they literally physically like have, you know, agents across the sector reporting data, doing drop—not blind box—dead drop boxes and stuff like that with the information. And then like serving a medical function. And I kind of like that that’s what Thyrsus has gone on to be, is like “we are the people who make this thing work.” [huffs]
-
-
-JANINE: Mm-hm.
-
-
-AUSTIN: So those are the three factions that we know are there. I could imagine you working with somebody from the Living Gaze, or something like a sequence of just like…you in a—in my mind I just have such a clear image of Signet [amused] in a weird ice bunker somewhere?
-
-
-[JANINE chuckles]
-
-
-Looking at screens, or like helping somebody. But I don’t know. You tell me, like is there any scene that jumps to mind?
-
-
-JANINE: Um…
-
-
-AUSTIN: Given that stuff.
-
-
-JANINE: I mean, I think…[sighs] The thing I’m least interested in exploring with her I think is the transfer of power stuff.
-
-
-AUSTIN: Okay.
-
-
-JANINE: Because I think that’s like totally mundane, like she is a hundred percent just like, “Yep, okay. Yeah, okay.”
-
-
-AUSTIN: [laughs] Right, right.
-
-
-JANINE: Like she totally sees the need for that. She is not precious about retaining authority or anything like that.
-
-
-AUSTIN: Mm-hm.
-
-
-JANINE: You know—
-
-
-AUSTIN: Is—
-
-
-JANINE: —is probably like relieved, ‘cause like, okay, now I can have a little more time to find some other people, and like—or like I’ll know who’s trustworthy in a sense, or…
-
-
-AUSTIN: Right…
-
-
-JANINE: I don’t know. Like I could see her finding like a lot of value in that, outside of the obvious.
-
-
-AUSTIN: Mm-hm. Mm-hm.
-
-
-JANINE: Um.
-
-
-AUSTIN: Then maybe we make the focus of this scene just this exchange with Cascara, then, because I think that that is…enough to maybe talk through some of where Signet’s at? So we can just jump to that, which is like—[stammers] yeah, I know what this scene is. I’ve gotten it now.
-
-
-[JANINE huffs in amusement]
-
-
-Where are you on a Wednesday night?
-
-
-JANINE: Um…
-
-
-AUSTIN: You’ve done your work! You’re turning out for the night—you’re turning in for the night, rather. Or you’re going out, like, whatever! What is Signet doing on this Wednesday evening?
-
-
-JANINE: I think she is probably…uh…God, it’s really hard to picture her at leisure. It’s always very hard [laughing] to do.
-
-
-AUSTIN: I know.
-
-
-JANINE: Y’know. She’s very buttoned up. I think she’s probably like—if she has free time and doesn’t have an appointment booked with someone to teach them a thing…
-
-
-AUSTIN: Mm-hm.
-
-
-JANINE: She is probably just like…not patrolling, necessarily, but she is like putting herself out in the community to like…see how things are going, or like be there if someone wants to talk, or like…
+KEITH: It’s the only time ever in my entire life that I have nothing to say, is right after a stream.
 
 
 AUSTIN: Right.
 
 
-JANINE: She’s putting herself out there in case…[breathes] in case like [laughing] work leaps at her, I guess is a way to think of it!
+KEITH: Uh, or like right after a recording session for Run Button.
 
 
-AUSTIN: Right. So let’s then say there is…are there streets? What’s this place look like? What’s this city look like? Whatever city you’re at in Thyrsus. Is this like…again, I just keep coming back to like tundra, and ice, and snow, and stuff? But like—
+AUSTIN [overlapping]: Yeah.
 
 
-JANINE: I think the best way to think about Thyrsus is to think of it as an inside-out ice hotel. Um.
+KEITH: And I’m just like… like, please put me in a room alone or let me take a nap.
 
 
-AUSTIN: Excuse me?!
+AUSTIN: I kind of like that actually, is that like—
 
 
-JANINE: Beca—[laughing] An inside-out ice hotel. Because, remember, their whole thing was like…their ship design didn’t allow for a lot of big open spaces.
+KEITH: Yeah.
 
 
-AUSTIN: Uh-huh.
+AUSTIN: So— so the options here are faith, gambling, luxury, obligation, pleasure, stupor, weird. I kind of like stupor as just like, “I’ve done my job. Leave— like, give me some space.”
 
 
-JANINE: So they faked a lot of big open spaces, and they faked a lot of outdoor areas that were actually indoors.
+KEITH [overlapping]: Leave me alone. Yeah.
 
 
-AUSTIN: Mm-hm.
+AUSTIN: Leave me alone. Like I know I’m on all the time, but I’m not. Like, there’s this other me, who you don’t know— 
 
 
-JANINE: So like, you wouldn’t go into a shop, you would just go to the storefront and like talk to the shopkeeper there—
+KEITH [overlapping]: Yeah.
+
+
+AUSTIN: —who is super low-key, and, like, who is— who doesn’t want to talk to people. I know all I do all day is talk to people, but give me some fucking room.
+
+
+KEITH: Yeah.
+
+
+AUSTIN: Um, I mostly like that because it gives me the— a brief moment of thinking about what happens when Gig has not overindulged. Gig has dealt with his shit and is just trying to relax, and then somebody else’s shit blows up, and it’s like… “All I wanted was— was a day off. All I wanted to do was take a nap.”
+
+
+KEITH: Yeah. [laughing]
+
+
+AUSTIN: Like, I told you how important this nap is.
+
+
+KEITH [overlapping]: Yeah, I like that.
+
+
+AUSTIN: Alright, cool. Let’s do that.
+
+
+KEITH [overlapping]: I like that. I like that, it feels very true to me. There’s— cause like, I’ll come home from working at the restaurant, right?
+
+
+AUSTIN [overlapping]: Yeah.
+
+
+KEITH: And I’ll… That’s when I’m like, hyped up cause I’ve been working all day doing stuff I don’t wanna do.
 
 
 AUSTIN: Right.
 
 
-JANINE: —in the rest of storage, and it would—everything felt very outdoors.
+KEITH: And so then, I’m like, “Well, let me now do some shit that I wanna do, and let me have fun.” But after a steam, which I love doing, or a recording session which I love doing, after that then I’m like, “Oh, I used up all of my positive energy on this thing that I like.”
 
 
-AUSTIN: Uh-huh.
+AUSTIN [overlapping]: Right. Right.
 
 
-JANINE: Bedrooms looked like parks and whatever, courtyards.
+KEITH: “...And now I’m dead inside. I’m so tired.”
 
 
-AUSTIN: Right, right. I’m still waiting for the inside-out ice hotel.
+AUSTIN [overlapping]: Yeah let’s— let’s do that then. Let’s do stupor, and with— with, like, in parentheses, it’s just like— it’s just time off. It’s just relaxing.
 
 
-JANINE: [laughing] So. I imagine this place as like…there are lot of like pillars, and areas with ceilings, and places with two walls but not four.
+KEITH [overlapping]: Yeah.
 
 
-AUSTIN: Okay.
+AUSTIN: Which is, like, a very simple vice, but it’s— I love it because everybody else’s vices are like, “I go into my holog— holographic nightclub” or whatever. [Keith laughs] Which is also cool, don’t get me wrong.
 
 
-JANINE: So like…it never entirely feels like you’re outside or inside, I think?
+KEITH [overlapping]: Yeah.
 
 
-AUSTIN: Mm-hm.
+AUSTIN: But I like the notion of yours just being… like, “No, I take a fucking nap.”
 
 
-JANINE: And a lot of structures if not built out of ice, then built out of things that very much resemble it, or like crystalline structures…
+KEITH: Yeah.
 
 
-AUSTIN: Mm-hm.
+AUSTIN: Alright, so the— before we— again, before we move on, there is— the thing I just wanted to note, is there’s this whole crafting system basically, that… during downtime, besides indulging in your vice, um, you can also build stuff, basically. Uh… and for people who listened to Marielda, it’s very, very similar to how, uh… Audrey[a] would build stuff between… between um… uh… missions, basically. Uh there’s a— there’s a— and you have moves for this, right? If I remember correctly, right? Mechanic has… like, your starting moves.
 
 
-JANINE: …white stuff too, just like…lots of very cool tones, lots of very like making the environment into the structures.
+KEITH [overlapping]: Downtime moves?
 
 
-AUSTIN: Yeah. Okay.
+AUSTIN: Yeah, you’re— No, like your starting move is tinker, which is… uh, when you work on a clock with rig or hack, or when you study a schematic, fill one segment.
 
 
-JANINE: Um.
+KEITH: Yup.
 
 
-AUSTIN: Um…So then I guess like at an intersection, or in a threshold or something—I kind of like the notion of like you’re standing in a threshold, you’re gonna cross between, you know, one section of this place and another. There’s just a gust of wind that blows up a bunch of snow, and then Cascara is sitting next to you, in her chair. And you have not seen or heard from her in a year. She disappeared during the evacuation. No one has seen her—or not no one. No one you’ve spoken to has seen her, including the Loving Gaze. Like, she has been off the radar entirely. And now she is standing next to you. Or sitting next you, not standing next to you. And I think, you know, she just probably says your name in full, right? Which is…[sighs]
+AUSTIN: And so the way that— that that works in play, uh, in crafting… um… I think crafting might—
 
 
-[JANINE laughs silently]
+KEITH [overlapping]: My other— one of my especial abilities is also a downtime move.
 
 
-(as CASCARA): They marked scars of light in pitch, born in fiercest purpose, and beheld as the signet sealed upon our pact. You’re doing well for yourself.
+AUSTIN [overlapping]: Oh, is it? Which one is that?
 
 
-And for others.
+KEITH: It’s uh… uh… bailing wire and twine.
 
 
-JANINE (as SIGNET): That’s the important part.
+AUSTIN: Okay, which is…?
 
 
-CASCARA: They’re both important. [sighs] Can we get a drink?
+KEITH: During downtime, the repair activity costs you zero cred.
 
 
-SIGNET: [amused] I would say so.
+AUSTIN: Okay, so that’s cool for just repairing shit. That’s just like… if some stuff breaks, if the ship is on fire, like… you will get it back up to— to snuff without it going— without needing to spend money, which is great. Um…
 
 
-CASCARA: Lead the way.
+KEITH [overlapping]: Yeah.
 
 
-JANINE: I think Signet leads her to [clicks teeth]…Mm. My instinct was open-air cafe, but everything’s open-air, so that’s not quite as special, is it?
+AUSTIN: I need to go into a different book cause the one that we currently have does not yet have the crafting rules in it. [Laughing] I’ve so many books. I have so many books in front of me.
 
 
-AUSTIN: [amused] Uh-huh! Yeah…
+KEITH: Oh wait. So, is that why I couldn’t find the crafting stuff you’re talking about?
 
 
-JANINE: I think…this might be a little too weird, but y’know in like Iceland and Finland and a lot of like sort of…subarctic places, you can rent, as hotel rooms, like these bubbles?
+AUSTIN [overlapping]: Yeah, yeah, yeah, cause they’re not in the newest book. It’s in… for us we have a book called scum and villainy hyphen six. Uh, and that is in that.
 
 
-AUSTIN: Yeah.
+KEITH [overlapping]: Oh, yeah I’ve been looking at a different thing.
 
 
-JANINE: And it’s just like a bubble in the middle of the woods.
+AUSTIN: Same. So during downtime, “a PC can craft as long as they have access to the required special materials and tools to produce drones, build or modify devices and create system modules. The system for each method is similar with each, uh, with different details depending on the design of the project. To design a schematic for a device, you need to study it as a long-term project. Most designs will require an eight-segment progress clock to invest— to invent and learn. The player and GM answer questions about the— the invention to define what it will do in play. What is required to create it. See below. The player records these answers—” Blah-blah-blah. 
 
 
-AUSTIN: [amused] Uh-huh.
+And I’m just going to have— so there’s like all these device— device questions, like, “What type of device is it? What do you do?” And then you would ask like, “What’s the minimum quality level of this item?” Um… And we should just do questions like this for your broadcasts, where it’s like, “What kind of broadcast is this? Is this a reported piece? Is this a… like behind-the-scenes thing? Are you telling a story? Is this just like a— a— a broadcast that’s just, like, your face, or are— are— is it a more produced bit with like, special graphics and stuff?” 
 
 
-JANINE: This is probably not in the middle of the woods, but I imagine there are—you know, it’s like a cafe that has some of these bubbles, and instead of being clear, they’re maybe kind of like…when ice doesn’t freeze properly—
+Um, and then, you know, you’d ask me like, “Well, what sort of effect would this have on the world?” Something like that. We’ll— we’ll work those off, off mic, so that we know what we’re doing.  Um, and then, during play… Now I have to go back to this other book to where your st— your shit is, uh… We would be— you could be rolling during play to build up that schematic, basically, um… which would then give you what you need to do to make the rig… to make the construction roll. To make the actual crafting roll at the end of… a session, basically. Or like, during downtime, what you would do is do that rig action to craft something that’s like an actual broadcast. It’s like a produced piece. 
 
 
-AUSTIN: Yeah. Yeah.
+Um... I think that to me is like the coolest way to do… this, uh… because it— it lets it be a thing that you can work on during an adventure where you’re, like, asking questions to build up this clock. And then you’d basically have this clock the whole time through, where you would know how close you are to getting what you need to do this. We could even do it in a soft way, where like… the amount of… of answers you get provides a bonus or something on your final roll to tell the story. You know?
 
 
-JANINE: —like when ice gets disturbed midway through freezing so you see all the like weird kind of…scratch marks?
+KEITH [overlapping]: Yeah.
 
 
-AUSTIN: Yeah. I totally know what you mean.
+AUSTIN: That way it’s not like, “Well I have seven of the eight pieces of the clock filled in. That’s not enough to tell the story, I guess” [Keith laughs] Um, and instead it could be like, “Well if you get to seven, then you get x— x bonus points” or whatever.
 
 
-JANINE: And like the crystalline—yeah.
+KEITH: Right. Yeah, I like that.
 
 
-AUSTIN: So is it like little—is it a cafe where it’s like a big one of those, or is it a cafe where there’s the center bubble, and then there’s little bubbles off to the side where you can go? Also.
+AUSTIN: Yeah, it’s simple but it’s like— and it’s a definitely hack-y. Like, it’s definitely us hacking it in sideways.
 
 
-JANINE: I think I like the second one—
+KEITH [overlapping]: Right.
 
 
-AUSTIN: Okay.
+AUSTIN: But it was always going to sort of be that, so I—  I kind of like it as a way to…
 
 
-JANINE: —‘cause that reminds me a little bit of Thyrsus itself, as a ship.
+KEITH [overlapping]: Yeah… I like it a lot better than just being like, sometimes I can just do— I just can just do this whenever.
 
 
-AUSTIN: Me too. Yeah, totally. Totally. Like it’s—
+AUSTIN [overlapping]: Totally.
 
 
-JANINE: Yeah. I like the idea of that being a thing, of that being like a trendy thing now.
+KEITH: I just decide that I want to do a broadcast.
 
 
-AUSTIN: Yeah. Totally. Um. Very…avant-garde.
+AUSTIN: Totally.
 
 
-[JANINE makes an amused noise]
+KEITH [overlapping]: Um.
 
 
-Or actually very nostalgic, so it’s actually not—
+AUSTIN: I mean that’s a thing that we’ll talk about in a second, is I’m curious whether or not you’ve done many of those old style of broadcast. Let’s— let’s— in fact, let’s say that that’s it for this, and now we’ll talk about the year that we’ve had. So, Gig, tell me about the last year of— of your life. Where have you been? What have you been working on?
 
 
-JANINE: Yeah!
+KEITH: Ummmm… Ships, ocean stuff...
 
 
-AUSTIN: It’s like a—it’s a little of both!
+AUSTIN: All the good stuff, ocean stuff and ships.
 
 
-All right, so she joins you, and…with everyone else, she’s just been like—in fact, and maybe she’s just gonna say this. She’s just gonna say this. She’s just gonna say it outright to you, because this is you. And she says,
+KEITH [overlapping]: Um, ships, ocean stuff, pirate stuff, uh…
 
 
-(as CASCARA): Signet, with…everyone else, I’ve come to them, and I’ve impressed them, and I’ve told them how important they are for the mission. For…what it is I’m working on. For what it is that we’re working on. And I convince them. “This is why we need you,” is what I tell them. And they hem and they haw a little bit. And then…I paint them a vision of the future for the Quire system. One of unity, and of…[sighs] respect, and something new, but also something that has its roots in the Fleet. Something still true to the Resonant Orbit, but also something that adjusts, and…no one’s said no yet. It’s not that I don’t expect you to say yes, it’s just that it feels wrong somehow to try to convince you to do this. I…I might be the one who needs convincing.
+AUSTIN [overlapping]: So, you’ve been spending time with the— with the Brighton family? I guess?
 
 
-And then she lays out for you what this is, which is a group of problem solvers that carry the official seal of Seneschal. They carry the sort of weight of the Cadent under Mirage, and also the—Declan’s Corrective? The co-governors of Seneschal? Which is like a thing you can use to land on planets, and get into settlements, and get near people. But also there’s no official jurisdiction, and so to any degree that you have authority it’s because people give it to you. And…she lays that out on the table. And there’s just this doubt in her voice, of like, you can sense the weight on her shoulders, now. Which is like, she bought into this thing, and has now been jetting around [laughs slightly] the system for months, or for weeks or something, and meeting up with people, and trying to convince them to do this, and like she’s nearing the end of these trips, and is having a moment of doubt. And isn’t gonna try to bullshit you, ‘cause she knows you better than that. 
+KEITH [overlapping]: Yeah.
 
 
-What do you think? Am I…is this naive? Is this just one more gasp of a dying civilization?
+AUSTIN: The Brighton Lineage, apologies, aprol— apologies to Kent Brighton and the Brighton Lineage.
 
 
-JANINE: I think Signet like listens really attentively, of course. She probably has her finger looped through the handle of her teacup, but doesn’t really actually lift it that often.
+KEITH: He’ll— he’ll take it, he’s…amiable.
 
 
-AUSTIN: [amused noise] Uh-huh.
+AUSTIN: [laughs] What was his voice? I’m trying to remember what his voice was. Did he have like a— like a faux…?
 
 
-JANINE: And I think she says…
+KEITH: It was an—
 
 
-(as SIGNET): What do you think dying looks like?
+AUSTIN [overlapping]: Rich guy.
 
 
-CASCARA: I came very close, Signet. I have a pretty good idea.
+KEITH: —important guy voice.
 
 
-SIGNET: I don’t mean a person dying, or a machine dying, or…any individual thing dying. A collective, or a concept. What does that look when it’s dying?
+AUSTIN: It wasn’t— But was it like, [doing a voice] an important guy voice? [Back to normal voice] No, cause it was like, cooler than— you liked him, right?
 
 
-AUSTIN: [sighs] She puts her cup down on the table, and like…runs her hand over her hair. Which is like…I wanna say it’s braided, now? Previously it had been like cut very short, and now she has her hair in braids. She kind of like tosses them back a little bit. And then like pulls them into place. And she says,
+KEITH [overlapping]: It was cool. He was cool. I liked him.
 
 
-(as CASCARA): Before the Beloved, before I joined on as a commander of that unit, I was just a…another officer in the Divine Fleet. This is…it was a little while ago, it was before you joined the Beloved to. And we had a skirmish…and I thought, going into it, that death was gonna be really quick. And I was going through a dark phase.
+AUSTIN [overlapping]: Okay, okay. 
 
 
-And she smiles.
+AUSTIN [practicing Kent’s voice] We all love your show. We would love for you to stay in the city. It’s very popular. 
+[0:30:00]
+AUSTIN: [regular voice] Okay, I’ve got him. He’s like— he— [in Kent’s cadence of speaking.] He weaves his sentences... together like this. There’s a very sing-song-y cadence.
 
 
-(as CASCARA): But the thing that surprised me…we lost. And…the signals kept coming. My unit was 40 people. It took a week before we knew what happened to all 40. A week after losing. I spent a week thinking that some of them were alive, and they weren’t, and I spent a week thinking that some of them were certainly dead. And one of those ended up being Waltz Tango Cache, so…sort of [huffs] sort of a yes there, sort of a no. Um. It’s messy, is what I guess I’d say death is. It’s messy. It’s longer than I thought it would be. That’s what I think about death.
+KEITH: Really?
 
 
-SIGNET: Do you think that this is…making more of a mess? This thing that you are…asking us to do? Or do you think it’s…[sighs] cleaning the mess? Do you think it’s…[sighs] I think the word is debriding? The wound? 
+AUSTIN: There is. That’s what he does, but the thing is he did say, “We all love your show.” Like he did say that very early in the exchange, so. [Keith laughs] Alright.
 
 
-[60:00]
+KEITH: That probably helped. That’s probably why I like him so much.
 
 
-CASCARA: When we do…
+AUSTIN: Yeah, definitely. Um… So, you’ve been doing things with ships and boats?
 
 
-SIGNET: When you sort of clear away the sort of bad tissue.
+KEITH: Ships, boats, ocean stuff, pirate stuff, um…
 
 
-CASCARA: Mm.
+AUSTIN [overlapping]: Brighton Lineage. Brighton Lineage, so— So, just to get you up to speed in terms of where we are at, in terms of… the like… the culture of the Rogue Wave, which the Brighton Lineage was part of, and where things are in the Quire System regarding this crew, um… there is a planet, uh, that is an ocean planet, because we are deep in like, the Star Wars-ification of Twilight Mirage, in which planets have— 
 
 
-SIGNET: So that the good can…
+KEITH [overlapping]: Yeah.
 
 
-CASCARA: Mm-hm.
+AUSTIN: Like, not every planet is like this, but there is definitely “Oh, this is the ocean planet. This is the desert world.” [Keith laughs] And this is definitely the ocean planet, and it is run by the Rogue Wave. The Rogue Wave is a— a sort of a… um… a collection of… uh… it’s kind of like a pirate republic, I guess.
 
 
-SIGNET: Can form in its place.
+KEITH: Yeah.
 
 
-CASCARA: I’m…
+AUSTIN [overlapping]: Right?
 
 
-SIGNET: Do you think what you’re doing is…cleansing or complicating it?
+KEITH: It’s also an indie rock band from California that I liked in high school.
 
 
-CASCARA: I’m not sure. I—[amused] this is why I’m talking to you…
+AUSTIN [overlapping]: Oh, one hundred percent. [laughing] It is actually that.
 
 
-SIGNET: Mm.
+KEITH [overlapping]: Legit no. It literally is.
 
 
-CASCARA: …Signet, is…on its face, it’s the latter. It’s cleaning things, it’s putting a foundation in place for something bigger. It’s forward-thinking. It might be death, but it’s also…transition, it’s also a birth. It’s also a…the first steps for a world that none of us will live to see. Well, you might, but [huffs]…I don’t have your long…your long age. I almost said long legs.
+AUSTIN [overlapping]: Is it literally that? Okay, good.
 
 
-[SIGNET/JANINE laughs in surprise]
+KEITH [overlapping]: It literally is a band from that I liked in high school was called World Without End.
 
 
-Not intentional. Um.
+AUSTIN: Oh, that’s good. Perfect. So, I think the name of that planet is Brighton, because one of the last things Gig did before dealing with the holiday special was produce an episode of the show, um, that kind of hyped up the— New Independence and— and the Brighton family as being… a sort of potential resort home of— on— in the oceans of Quire. And I think that just like very organically made a lot of people want to go there. Um… the other thing is The Rogue Wave, or sorry Brighton, the planet, um, I again I think that the just… simple propaganda made people start calling it Brighton, you know?
 
 
-[SIGNET chuckles]
+KEITH: Yeah.
 
 
-But. I think about those signals that kept coming back. Just little blips on the radar where we—we saw action. We saw activity, from ships that had no one in them left alive…Like [sighs] like steam coming out of an engine that’s already crashed. And I don’t know which of the two this is.
+AUSTIN: The Brighton family was like, “Let’s just call this place Brighton. Like, I don’t know. It doesn’t have a name; it’s not Quire anymore. It’s Brighton now.” Um.
 
 
-AUSTIN: And she is like legitimately at this crossroad—like there is not—you are not going to move her with words alone. Or you’re gonna—you can move her with words, but you’ll have to roll, to move her with words.
+KEITH: Mhm.
 
 
-JANINE: Hm…
+AUSTIN: The Brighton family is part of The Rogue Wave, which is this big collection of independent lineages and kind of pirate families, which can be blood related or— but don’t have to be. Um… and… they’ve kind of splintered into a couple of different major groups. Uh, the biggest one is— or the most— the most wealthy one at this point is the Brighton Lineage and its allies um, which are… very interested in keeping the world, uh, as a sort of ambassadorial center for different factions. Um, you know, the— you probably remember this from the holiday special that the— that y’all negotiated to have a kind of a split of control over the planets?
 
 
-AUSTIN: I’m gonna say this is Contr—uh, it depends on what you do. But I…yeah. It depends on what you do. That’s how this game works. [huffs] I just remembered.
-
-
-JANINE: Yeah…
-
-
-AUSTIN: I always need to like—I’m so used to being like, “what do you do, here’s the difficulty or whatever.” But…the way rolls in this work is that you tell me what you do. What skill you’re using, and then I determine the…position and the risk.
-
-
-JANINE: Um…
-
-
-AUSTIN: Or the position and the effect.
-
-
-JANINE: God, does the roll affect what I say, or does what I say affect the roll?
-
-
-AUSTIN: Both.
-
-
-JANINE: Okay.
-
-
-AUSTIN: Like, to do it you do it. Um.
-
-
-JANINE: Yeah.
-
-
-AUSTIN: You know. Those two things should be in concert.
-
-
-JANINE: Um. [sighs] I think…Signet, at this moment specifically, does take a sip of her drink.
-
-
-AUSTIN: [laughs] Fair.
-
-
-JANINE: Um. And sort of has that moment of like…that very anime moment of like looking into the cup.
-
-
-AUSTIN: Mm-hm.
-
-
-JANINE: And…she’s not reading the tea leaves, because her tea is still in there, and that’s not how that works, but—
-
-
-AUSTIN: [chuckles] Nope!
-
-
-JANINE: —y’know, she’s…she’s definitely spends like a long moment sort of considering the very slight movement of them in the bottom, and trying to figure out…
-
-
-AUSTIN: Mm-hm.
-
-
-JANINE: Even how she feels about this. And then I think she…looks at Cascara. And says, like…
-
-
-[sighs] Man, what is even the best way to express it?
-
-
-(as SIGNET): This…[sighs] this isn’t a case where…everything is spiraling towards nothing. There are too many people, there are too many…places, there are too many factors. It’s not a ship where something exploded and people died. It’s not a single battlefield where one side wins over another. It’s all of those things, and dozens and dozens of other things. I…things like that don’t just stop. It’s not just…It’s not just an engine that breaks. There’s always something left over. There’s always something that…that remains, and is—you know—that remains in play, that remains in motion. There’s always something.
-
-
-AUSTIN: That sounds like [CONsort] Consort, but…[conSORT] Consort. Is that what you’re using?
-
-
-JANINE: I think so, yeah.
-
-
-AUSTIN: All right, so I don’t think this is an action roll, I think this is a fortune roll, because action rolls are Risky by default, or even when it’s controlled…it is…a Risky maneuver. “When the player character does something challenging, we make an action roll to see how it turns out. An action is challenging if there’s an obstacle to the PC’s goal that’s dangerous or troublesome in some way.” I could conceive of this being troublesome. In regular play I might call it troublesome. [laughs] I might say like—
-
-
-JANINE: Mm-hm.
-
-
-AUSTIN: “Okay, there’s an intermediate follow-up effect.” But what I’m really curious about is just how well does this pep talk work, not does it like—not…like what the risk is, or anything like that. So I think we’re just gonna do this as a fortune roll, which means we’re just gonna roll your Consort, plus any bonuses…as just d6s, and like there’s no Risky Standard or anything like that. Um. So…What is your—
-
-
-JANINE: I don’t know how to roll in this game. [laughs]
-
-
-AUSTIN: Yeah. So I’ll talk you through it—so it’s Consort, right?
-
-
-JANINE: Mm-hm.
-
-
-AUSTIN: My question is whether or not—you have an ability called…Welcome Anywhere. “While wearing your medic garb, you’re welcome to even dangerous places. Gain +1d to Consort and Sway when offering—
-
-
-JANINE: Oh, that’s true.
-
-
-AUSTIN: —tending to anyone in need.” Are you wearing your medic garb right now? Or whatever that looks like.
-
-
-JANINE: I think Signet’s medic garb is—‘cause the purpose of medic garb is to be recognizable.
-
-
-AUSTIN: Mm-hm.
-
-
-JANINE: And I think when Signet walks around town, she wants to be recognizable…
-
-
-AUSTIN: Yeah.
-
-
-JANINE: So that people can find her if she’s needed in that moment.
-
-
-AUSTIN: Totally. I’m good with that. All right, so then that sounds like 2d6. So you’re gonna roll 2d6, and the way this system works is like, fairly simple. You want—pick whatever the highest dice. The highest die is what counts, and 4 or 5 is success, 6 is the highest succe—it’s, 1 through 3 is bad, 4 and 5 is mixed, 6 is good. If you happen to get two 6s, then it’s a critical success.
-
-
-JANINE: Okay. How do—
-
-
-AUSTIN: It’s pretty—it’s just flash…
-
-
-JANINE: How do the +1s and stuff involve—or get?
-
-
-AUSTIN: You’re just rolling an extra die. So instead of rolling—
-
-
-JANINE: Okay, so you have—
-
-
-AUSTIN: —one die, you roll two.
-
-
-JANINE: —0 in that, you just roll the one.
-
-
-AUSTIN: Uh, but you do have 1. In this, sorry.
-
-
-JANINE: Yes. No, I’m just like trying to wrap my head around that in general.
+KEITH: Yeah, yeah. The character that I played misremembered how many…
 
 
 AUSTIN: Yes.
 
 
-JANINE: ‘Cause I didn’t—I wasn’t in Blades. So this is all new to me. [laughs]
+KEITH [overlapping]: —planets there were to split— 
 
 
-AUSTIN: Correct. Yeah yeah yeah. So yeah, if you had a 0, but you had a +1 from another bonus, you would roll a +1. And that bonus could be that you push yourself to add a bonus die. By—you could take stress on to add a bonus die to the roll. You could accept a devil’s bargain to add one, or you could spend a Gambit point to add one. Or you could roll—you can always roll in this game—if you have 0, and you don’t have any help from a friend…
+AUSTIN: Yes.
 
 
-JANINE: Mm-hm.
+KEITH: —and thought they were getting a better deal, but actually— 
 
 
-AUSTIN: …you don’t have any gambit points, you can always try to roll? Even if you have 0. And that’s a 2d6 [amused] and you take the lowest one, which is not as good!
+AUSTIN [overlapping]: But actually—
 
 
-JANINE: No.
+KEITH [overlapping]: —they went 50-50. [laughing]
 
 
-AUSTIN: So in this case it’s 2d6, and you gonna take the highest result.
+AUSTIN: Yes. Well, and so here’s the thing is both sides, both the Divine— now the Divine Free States, formerly the Divine Fleet, and the— uh— the, the New Earth Hegemony both just assumed in that conversation that it’d be like, “Okay, well these are our four worlds, and these are your four worlds” or whatever it would be, and like that didn’t anticipate that some people on the planets might just be like, “Nah.” And The Rogue Wave are extremely like, “Nah.” Brighton—  the Brighton Lineage is the closest to wanting that relationship. 
 
 
-JANINE: Okay.
+KEITH: Yeah. 
 
 
-AUSTIN: You could also push yourself to gain stress, and roll 3d6 instead, but that is up to you. And that Stress would carry over into the real game.
+AUSTIN: But even they are in a position where they can’t seem weak for fear of— of looking like an easy target. Um, and also having the Divine Free States, like, military helps keep them in power to some degree. But there is this— the former leadership uh… which is a— a... a group, um— that I don’t have a full name for what this other unique group is called, but they’re— they are stationed out of a port called Port ⸢Will⸣, named after ⸢Will⸣, the captain uh… of— of, like, the— the Captain King, or whatever, of The Rogue Wave, um, who is a former excerpt of uh... The Tides of Harmony. 
 
 
-JANINE: [sighs] And I don’t know that this is the moment.
+Um, and that— that person has been like, “No. We do not want to be ruled by the Divine Free States, and in fact, we are going to become space pi— like, traditional-ass space pirates.” Uh, and so The Rogue Wave planet, Brighton, is kind of split between these forces right now. One of which is very friendly, in— in the Brighton Lineage, and one of which is extremely unfriendly, in— in the crew of Captain ⸢Will⸣. Um… I’m gonna pull up the notes. We actually just did a— a whole… The— the last um... Tips at the Table, we built The Rogue Wave out as if it was a Dungeon World front. 
 
 
-AUSTIN: No, I don’t think so either.
+KEITH: Ooo. 
 
 
-JANINE: Where like Stress comes in. Like this is…this is a thing where something’s gonna happen anyway.
+AUSTIN: And we also didn’t show the hand of like, what the world would be like after the holiday special, so we just pretended that it was just… the southern half of Quire where the ocean was.
 
 
-AUSTIN: Mm-hm.
+KEITH: [laughing] Yeah.
 
 
-JANINE: This is a conversation between two people who know each other…
+AUSTIN: So, surprise people; it’s a whole planet now!
 
 
-AUSTIN: Yes. Yeah.
+KEITH: It’s a whole planet now, sorry.
 
 
-JANINE: In a cafe, and, y’know.
+AUSTIN [overlapping]: So, I’m guessing Gig has been dealing with mostly with the Brighton Lineage then, right?
 
 
-AUSTIN: Yeah…Hey, there’s a d5.
+KEITH: Yeah.
 
 
-JANINE: Nice.
+AUSTIN: So, what has— what has he been doing with them? As they kind of— 
 
 
-AUSTIN: 5 is a success. I guess on fortune, it is a mixed success, but like good, and not bad. [huffs a laugh]
+KEITH [overlapping]: Uh…
 
 
-[JANINE makes an amused noise]
+AUSTIN: — struggled to keep— to become the focus of this whole league of five hundred captains?
 
 
-I’ll read the exact thing. It’s a limited/partial effect. Which is to say, yeah! You know, I think that you can see in her eyes, like, you haven’t moved her to be like, “The mission is the mission and I’m in lo—” you know, like—
+KEITH: You know, I think that Gig is not a hundred percent concerned with… actually maintaining Divine Free States ownership over this planet.
 
 
-[JANINE laughs]
+AUSTIN: Sure.
 
 
-—she isn’t like going out to set the world on fire, now, right?
+KEITH: But is concern— is concerned with like— like. “Well, I think my buddy Kent should be… like in charge.” [laughs lightly]
 
 
-JANINE: Mm-hm.
+AUSTIN: Right.
 
 
-AUSTIN: But she’s like—she nods with you. And says like,
+KEITH: So, I th— uh— 
 
 
-(as CASCARA): Yeah. Yeah. It’s not the same. And…that’s a good thing and a bad thing. A battlefield I know. A…conflict I know how to win, and I know what it means when we lose. This is scary, Signet…I don’t…I don’t know that I need you on board ‘cause you’re an excerpt, because you are good with people, because you’re building this little network—don’t think I haven’t noticed.
+[Both laughing]
 
 
-I need you as part of this team because…I need someone for all of us to turn to when it gets scary. You up for it?
+AUSTIN: Well, like, and part of that— 
 
 
-JANINE: I thought of a thing that Signet would say, and it’s—not comforting! Um. [laughs quietly] The thing that leapt into my mind—yeah, no, fuck it! I think she—yeah, she just says this. Um. Like, Signet’s been scared for hundreds of years.
+KEITH [overlapping]: So, I th—
 
 
-[AUSTIN chuckles]
+AUSTIN [overlapping]: Is— is part of that like, “This is my buddy,” or is part of that also “Here is what they’ve done that’s good.”
 
 
-In one form or another, like…she was scared as an excerpt, because…you know, she was relatively young, in the grand scheme of things, and suddenly thrust into a whole lot of complicated stuff.
+KEITH: Yeah, I think it’s that— I think that, like— I think that I like... I think that I like va— va— like, vacation world, you know?
 
 
-AUSTIN: Mm-hm.
+AUSTIN [overlapping]: Mhm, mhm.
 
 
-JANINE: And then she fucked that stuff up! Kind of.
+KEITH: Like, I like that like, “Hey, this is a spa. You can come— you can hang out. You can go— you can have— you can spend some time on a beach bungalow, or on like a— you can go on a pontoon. Or you can take a tour of the giant centipede robot.”
 
 
-AUSTIN: Mm-hm.
+AUSTIN: Right, which is still their capital, by the way. Like.
 
 
-JANINE: Not—really, but, y’know, that stuff got fucked up. And ever since then, it has been…a case of…
+KEITH: Yeah.
 
 
-[MUSIC - “THE STITCH” begins]
+AUSTIN: Ha— have they changed that at all, do you think? Do you think that they’re, like, middle of a like a big construction project to slowly replace the body of Independence with… like a big hotel cons— like structure, or…?
 
 
-…watching society slowly slide…
+KEITH: I would like to see them build the hotel into the carcass—
+
+
+AUSTIN [overlapping]: Okay.
+
+
+KEITH: —of the divine. I think that that the giant centipede robot carcass— 
+
+
+AUSTIN: Mhm.
+
+
+KEITH: —is a big selling point for a lot of people.
+
+
+AUSTIN: Okay, okay.
+
+
+KEITH: I think if you’re not the flowers and uh— [amusedly mocking self] flowers? If you’re not the beach and bungalow type of person— 
+
+
+AUSTIN: Right.
+
+
+KEITH: —you might be the centipede-hotel kind of person. [laughs]
+
+
+AUSTIN: [amused] Well, it’s history, right? You know, everyone needs history.
+
+
+KEITH [overlapping]: It’s history; it’s something for everybody.
+
+
+AUSTIN: Right.
+
+
+KEITH: Um… And it’s— it’s also— I think it’s really intimidating.
+
+
+AUSTIN: Yeah, sure.
+
+
+KEITH [overlapping]: For— for uh… for sort of less friendly factions of The Rogue Wave.
+
+
+AUSTIN: Right, right.
+
+
+KEITH: So I think the like— my official— I think my slash Gig’s official position is like, “Brighton is part of the Divine Free States, and if it secedes then whatever, but as long as— as Kent is there making it an okay place for people to go to.”
+
+
+AUSTIN: Sure, then that’s good.
+
+
+KEITH [overlapping]: You know.
+
+
+AUSTIN: That’s as much as you need. You don’t need… It to be lock-step with the— with the Free States.
+
+
+KEITH: Right.
+
+
+AUSTIN: Alright cool, I like that a lot. So, what have you been doing to help out there? I mean I think it’s already super interesting that Gig doesn’t just rush to the Mandati world where you would help them rebuild Gumption, and you’re more like “This is my friend. I wanna help my friend.” So, how do you help people on Brighton?
+
+
+KEITH: Um…
+
+
+AUSTIN: Are you doing—
+
+
+KEITH [overlapping]: I think it’s sort of…
+
+
+AUSTIN: Go ahead.
+
+
+KEITH: If I can go back to Star Wars, I think it’s like— 
+
+
+AUSTIN [overlapping]: Always.
+
+
+KEITH: [chuckles] Yeah, it’s I think it’s like— I think it’s like Empire Strikes Back slash Return of the Jedi, where you have characters that were just characters that have now just become, like generals for the military— like, it’s like— 
+
+
+AUSTIN [overlapping]: Sure.
+
+
+KEITH [overlapping]: —”Oh, this person that was incidentally in this spot is now deeply entwined in rebellion politics and has been awarded a station.”
+
+
+AUSTIN: Right.
+
+
+KEITH: Um… And I— and I think that it’s— that it’s like… “Well, Gig helped out, and he’s close, so he gets to be our PR guy.” [laughs]
+
+
+AUSTIN: [amused] Right. So, is that what it is? It is definitely like doing more broadcasts about Brighton and New Independence.
+
+
+KEITH [overlapping]: Yeah.
+
+
+AUSTIN: And like, and all of the cool things. And I mean we also— 
+
+
+KEITH: Yeah, I— I don’t think it’s actually PR. I think I want to get what I said to you— 
 
 
 AUSTIN: Yeah.
 
 
-JANINE: From a position where she couldn’t really do anything.
+KEITH: —a while ago. I said, “I really like the idea of Kent Brighton having his family repping a planet, but no one likes them. [Austin laughs] And I like the idea of being with him while he’s dealing with it.” Almost like I don’t want to be doing PR for the Brighton family, but I definitely want someone somewhere to be like, “Oh, Gig is working on the Brighton brand.”
 
 
-AUSTIN: Yeah.
+AUSTIN: Right, right, right, right.
 
 
-JANINE: She could do her small part. So she knows that fear. And I think has like embraced it to some degree at this point.
+KEITH: That’s the— So, I don’t think I’m doing commercials for Brighton, but I do think I’m having meetings and doing like— like, “sittin’ on the beach, drinking some Brighton ground juice!”
 
 
-AUSTIN: So she says that to Cascara, basically?
+AUSTIN: Mhm.
 
 
-JANINE: Yeah. Yeah.
+KEITH: Like, “What’s up?”
 
 
-AUSTIN: Cascara like shrugs, a little bit, is like—just her shoulders, not like her whole arms. And she goes, 
+AUSTIN: Right.
 
 
-(as CASCARA): You’re scared, I’m scared. You cut diamonds with diamonds.
+KEITH: Like, “If you’re in the area, come like— come hang out. We’re doing impromptu meetup at the—”
 
 
-And then takes a sip! And then I think that that’s scene.
+AUSTIN [overlapping]: Right.
 
 
-[MUSIC - “THE STITCH” plays out]
+KEITH: “—steak shack.”
+
+
+AUSTIN: [laughing] The other thing that we brought up that like goes kind of hand in hand with that, with just kind of being around is—  this is actually an Ali idea, which I fucking loved— was… um… God, where… where did I put it? Now I’m— we’re— We have to go back from— Oh, oh, there it is. It’s— it’s, “What if you go from being the Dirty Jobs guy—” cause previously you kind of pitched Gig as like… someone who would do Dirty Jobs, but not an asshole? [amused] Like, what if the Dirty— what if Dirty Jobs—
+
+
+KEITH [overlapping]: Right. Yeah, what if I was Dirty Jobs, but— 
+
+
+AUSTIN: —was just like Reality TV shows.
+
+
+KEITH: What’s that guy’s name? He’s the worst.
+
+
+AUSTIN: He’s the worst. He’s terrible. I don’t like him.
+
+
+KEITH [overlapping]: I fuck— He’s the actual worst guy.
+
+
+AUSTIN: Where like, instead of being judgy and shitty, you— Mike Rowe! Mike Rowe is terrible.
+
+
+KEITH: Mike Rowe, ah what an— I used to like him before I knew he was an asshole.
+
+
+AUSTIN: Mike Rowe, if you listen, and you want us to like— like us— or you want us to like you— 
+
+
+KEITH [overlapping]: Yeah.
+
+
+AUSTIN: Eeehhhh… Check out the Patreon.
+
+
+KEITH: When I was fifteen, I thought your show was cool, and then you were the actual, like, worst guy.
+
+
+AUSTIN: Right.
+
+
+KEITH: Who doesn’t believe in minimum wage.
+
+
+AUSTIN: Right, and so the— [laugh sighs at Keith’s comment] Ugh, fuck! Ugh, ugh.
+
+
+KEITH [overlapping]: I know, he’s the worst. He’s so bad.
+
+
+AUSTIN: Ugh. So, what if you go from that to doing, like, YouTube style how-to videos, where it’s not just… “Oh, um, the Brighton Lineage is dope. We’re going to have a meetup.” Or not— it’s definitely not “Here is a commercial for the Brighton Lineage,” but—
+
+
+KEITH [overlapping]: Yeah.
+
+
+AUSTIN: —it is like, “I’m going to show you guys today how to make a cafeteria with the very basic amount of supplies,” or something like that.
+
+
+KEITH: Oh, yes. Yeah, yeah, yeah.
+
+
+AUSTIN [overlapping]: That style of thing.
+
+
+KEITH: I love that.
+
+
+AUSTIN: Today— or what— what I wrote was like, “You go from ‘Here’s how these people do their jobs’ to ‘Today we’re going to build a new kitchen that can serve food for up to 400 people in an hour.’”
+
+
+KEITH: [overlapping] I love it. Yes. I love it.
+
+
+AUSTIN: And that is like, part of why you’re Mechanic, right? Is like, you’ve gone from being— 
+
+
+KEITH [overlapping]: “Here’s how to build a robot that can give stitches.”
+
+
+AUSTIN: Right, exactly. Because those are things you need.
+
+
+KEITH [overlapping]: “Out of your toaster and your protocol droid.”
+
+
+AUSTIN: [laughs] Right, exactly. Like, you need a robot who can stitch things sometimes.
+
+
+KEITH: Yeah.
+
+
+AUSTIN: Like, and especially as more people arrive, there are new— there are more colonists than before. There are, like, people coming in from the New Earth Hegemony who still need to know this stuff, you know what I mean? 
+
+
+KEITH: Uh-huh. 
+
+
+AUSTIN: Like, you might be in a weird Cold War with them, but like… That doesn’t mean that you don’t want them to have kitchens.
+
+
+KEITH: Yeah.
+
+
+AUSTIN: Or plumbing that works.
+
+
+KEITH [overlapping]: And then the other— the other half of this is like, you know who has access to all of these videos? Is the rest of The Rogue Wave— 
+
+
+AUSTIN: Right. [overlapped] Right.
+
+
+KEITH: —who are out doing their own thing. Like, they’re there, like, you know, planning on how to wrest control from the Brighton family, and they’re like, “Man, we really need a kitchen that can feed 400 people in an hour.”
+
+
+AUSTIN: [laughing] Right, exactly! Like, that’s the thing is that you might be doing— what you’re— what you’re showing off is “Hey, look. The Brighton family’s got it, because we’re building it. We’re building with our own two hands.” 
+
+
+KEITH: Yeah. 
+
+
+AUSTIN: But also, like, if the wind changes, it’s not like you’ll be a, you know, a traitor on the block. You’ll be a well— a well liked and needed resource. 
+
+
+KEITH: Yeah. 
+
+
+AUSTIN: I mean you’re a fixer; you make things. Um, so here’s a question: what’s a thing— it’s— let’s say it’s eleven months and a couple weeks into— or it’s eleven months even into the— after the miracle— 
+
+
+KEITH [overlapping]: Forty-eight weeks total.
+
+
+AUSTIN: Forty-eight weeks total, uh, [laughs] after the Miracle of The Mirage. W e’re coming up on the one year anniversary. What’s a thing that The Rogue Wave, or that the Brighton Lineage, is building in New Independence that you’re helping with?
+
+
+KEITH: [sighing] Um…
+
+
+AUSTIN: It can be whatever.
+
+
+KEITH [overlapping]: Do I have to pick one thing, or can I pick two things?
+
+
+AUSTIN: Yeah, let’s pick… Um, you can pick— pick two things, and we’ll pick the one that you’re doing this moment.
+
+
+KEITH: Okay. [overlapped] My two things— 
+
+
+AUSTIN [overlapping]: Unless they’re connected, in which case that’s funny.
+
+
+KEITH: They’re not connected. 
+
+
+AUSTIN: Okay. 
+
+
+KEITH: Because one of them is a school, and then one of them is an ice skating rink.
+
+
+AUSTIN: [laughing] I mean that— you could do that. You could do the ice skating rink in the school. That’s not too— Or like, connected to a school, you know?
+
+
+KEITH: Oh yeah, and then we can be like, “Well, we’re— you know, like, the Brighton family invites other factions of The Rogue Wave to build their own skating rinks so that we can have ice skating competitions.”
+
+
+AUSTIN: Well, this is the thing that’s— the thing that’s interesting here is like…
+
+
+KEITH: “Here’s how to do it.”
+
+
+AUSTIN: The thing that’s like— not just “Here’s how to do it” is that it’s like— the ice skating— the rink is whatever. It’s okay to build a section of— The thing that you— it sounds like you figured out though is… this is a tropical world, how did you build an ice skating rink on a tropical world? So... like, let’s just have that sequence, right? So, I imagine— what— what’s it look like? What’s this— what’s Gig and— uh, we want to put Kent there with you as just like… Kent and a bunch of little kids who are like, eager to look out on the… the final— the final steps haven’t been made yet, but they’re in their like, skating gear already. They’re all getting ready to go out on the ice, and like, they’ve never done it before, so they’re all nervous.
+
+
+KEITH [overlapping]: Is this like a ribbon cutting ceremony?
+
+
+AUSTIN: It’s— it’s like a ribbon cutting ceremony, but instead of a ribbon being cut, you’re putting the final touches on this long term project.
+
+
+KEITH: Okay.
+
+
+AUSTIN: So, what does, what’s— what’s the last step, and— and how do you explain it? This— I think Kent shows up, and he’s like... um ,
+
+
+AUSTIN (as Kent): Gig, thank you so much for taking the lead on this, the Brighton— Brighton Lineage’s New Independence’s first ever ice skating rink. Tell us, wh— wha— [stammers] what will this provide for the great citizens of Brighton?
+
+
+KEITH (as Gig): Okay, so, number one, ice skating is super fun. You put blades on your feet, and you glide right along the ice. It’s very cool. The trick is, it’s super, super warm here. Very balmy. Beautiful, beautiful weather. But how do you get it—  
+
+
+AUSTIN (as Kent): It’s gorgeous— it’s gorgeous!
+
+
+KEITH (as Gig): It’s gorgeous. How do you get an outdoor ice skating rink in a balmy tropical location? And I’ll tell you how.
+
+
+AUSTIN: All the kids go— all the kids go at once, 
+
+
+AUSTIN (as kids in unison): I don’t know. Gig! How?
+
+
+AUSTIN: Because that’s, like, part of the show.
+[0:45:00]
+KEITH (as Gig) [overlapping]: Here’s how!
+
+
+AUSTIN [overlapping]: [laughing] Yeah…
+
+
+KEITH (as Gig): Here’s how!
+
+
+KEITH: And the camera pans over to me, like, at the rink, like, bending down.
+
+
+KEITH (as Gig): The ti— Everything at the level of the—
+
+
+KEITH: Cause right now it’s a pool; it’s not— there’s no ice. It’s a pool.
+
+
+AUSTIN: Uh-huh… Right, right, right!
+
+
+KEITH (as Gig) [overlapping]: Uh… Everything at the level of the water and below is an entirely different atmosphere.
+
+
+AUSTIN (as crowd mumble): Oh. [mumble mumble] Atmosphere.
+
+
+KEITH (as Gig): Yeah! Totally new climate under there! And so, when I flip this switch— 
+
+
+KEITH: And there’s a big oversized switch. I think it doesn’t even need to be that big, but it’s de— it’s definitely for, like, visual purposes.
+
+
+AUSTIN [overlapping]: Uh-huh
+
+
+KEITH [overlapping]: And it’s this big switch.
+
+
+KEITH (as Gig): You flip this switch, and boom! Right now the atmosphere for where the ice is? Super cold. It’s like negative a hundred degrees.
+
+
+AUSTIN: Uh, so, I think we should do the repair roll! I think this is it. This is… We have to see if this worked or not, right? Um…
+
+
+KEITH [overlapping]: Yeah. [quietly] This would be really embarrassing— 
+
+
+AUSTIN [overlapping]: So, your repair is two, right? 
+
+
+KEITH: Yeah. 
+
+
+AUSTIN: Uh… Oh, your rig. Sorry, not repair rig. Your rig roll is two.
+
+
+KEITH [overlapping]: Uh, uh… Oh wait, it’s… Rig… Rig is— Yeah.
+
+
+AUSTIN: Um, uh… and one thing to know is that you have an ability that gives you an extra plus one to the clock you’re filling in. I’m gonna… I’m just gonna, for the sake of this, I’m gonna say that this is an eight-step clock that you’ve already filled in six things on. So, I’m gonna draw that real quick here.
+
+
+KEITH [overlapping]: Okay. 
+
+
+AUSTIN: Bop, bop. This is a really ugly clock. There we go. One, two, three, four, five, six. [Keith laughs] So, you need to fill in two more steps. It’s— I draw— People listening at home— 
+
+
+KEITH [overlapping]: That looks like a pizza someone had to cut at home.
+
+
+AUSTIN: [laughing] And they did not have a pizza cutter. They had a knife.
+
+
+KEITH [overlapping]: No, they didn’t. They had like a… Yeah, they had a butter— yeah, butter knife.
+
+
+AUSTIN: It actually looks like they had a paper cutter and also could not judge... [Keith laughs] And they did the first— the first one that they drew was the one that they thought was fifty percent down the middle and was one hundred percent like—
+
+
+KEITH [overlapping]: No, but it’s actually—
+
+
+AUSTIN [overlapping]: Like seventy percent.
+
+
+KEITH [overlapping]: Yeah.
+
+
+AUSTIN [overlapping]: So, it’s like, “Oh, this is just gonna be fucked. This is just gonna be fucked.” [laughs]
+
+
+KEITH: Yeah. Well, you can— you can make one side of the pizza really long and thin— 
+
+
+AUSTIN [overlapping]: Right.
+
+
+KEITH: And the other side really fat and short, and then you mess up the second cut, too.
+
+
+AUSTIN: And then the second cut is like “Op! Mm, no.”
+
+
+KEITH: Yeah.
+
+
+AUSTIN: And in fact, there’s an extra little piece in the middle that’s just a little triangle piece. [Keith laughs] Oh god, bad pizza. This is— 
+
+
+KEITH [overlapping]: Oh yeah.
+
+
+AUSTIN: That’s next up on Gig’s list of things.
+
+
+[End of previous transcriber ~47:06]
+
+
+KEITH: Yeah, how to make really good pizza. Really good Gumption’s Gambit style pizza. 
+
+
+AUSTIN: Yes. 
+
+
+KEITH: The pizza capital of the Divine Fleet. 
+
+
+AUSTIN: Alright. So, to do this roll— to do this rig, what you need to do is it's— it's— I'm gonna say that this is risky standard. And you know what? Let me just since— You've never played Blades, right? [overlapped] This is new?
+
+
+KEITH: No. I had read the book earlier cause I thought I was gonna play Blades. 
+
+
+AUSTIN: Right, right, right. So, the basics of how it works— I mean, it's pretty straightforward. The first thing that actually happens is I should not have said this sounds like rig. What— what should have happened is you say the outcome you want and then tell me what the— which to me sounds like the outcome is... there's ice?
+
+
+KEITH: A beautiful— 
+
+
+AUSTIN: Okay.
+
+
+KEITH: —freshly frozen ice skating rink ready to be Zamboni’d by my friend Kent Brighton. 
+
+
+AUSTIN: Gotcha. Most of Kent's already getting ready to get into the Zamboni. 
+
+
+KEITH: Yeah. 
+
+
+AUSTIN: Then, two, you decide the action rating. The player chooses which action rating to roll following from what their character is doing on screen, which— which is up to you. Like, you could now say, “And I'm using Hack.” And I’d be like, “Oh, okay. If you say so.” 
+
+
+KEITH: [laughs] Nah, I'm saying rig. 
+
+
+AUSTIN: Okay. So then, I set the position, and the positions are controlled, risky or desperate. Controlled is you're set up for success, you're exploiting a dominant advantage. Risky is you go head to head, you're acting under duress, you're taking a chance. And desperate is you're overreaching, you're in real trouble, a very dangerous maneuver. I think this is controlled. I think there's some risk. Otherwise, we wouldn't be rolling an action roll, we'd be rolling a different type of roll. Which is, like, a fortune roll. Which is just, like, “How well does it do?” But there's some risk here. 
+ 
+KEITH: Yeah. 
+
+
+AUSTIN: Like, do you make the ice or not? Your friend is gonna have to drive on this thing. So. 
+
+
+KEITH: Yeah, and I do like the idea that, like, Gig didn’t test this out. 
+
+
+AUSTIN: Right. Me, too.
+
+
+KEITH: Cause he's— that's just— he just was like, “Yeah, I finished it. And so now it'll work.” 
+
+
+AUSTIN: Right. Exactly. And then, I set the effect level. So, three is its positioning, which I’m gonna say is— is controlled. Four is the effect level, which is either limited, standard, or great. I'm gonna say it's standard. I think this is just, like, you've done the job. And then you would add bonus dice. If you had assistance, if you pushed yourself and took stress damage, you could add additional— an additional die to your roll. You can accept a devil's bargain, which— which also could give you additional stress. It's either you push yourself or you take a devil's bargain. Devil’s bargains are things like, right now I could say, like, “Yeah, you do it, but I advance a clock.” Or like, “Yeah, I do it— Yeah, you can do it, but you have to give up a piece of gear,” or something like that. 
+
+
+KEITH: Yeah. 
+
+
+AUSTIN: Not permanently, but for the rest of this game or whatever. And the third thing would be you could spend a gambit, which is a special currency in— in Scum and Villainy. But you don't have any gambit cause you have a ship yet. So— 
+
+
+KEITH: Yeah, I— I kind of feel like I shouldn't take any of those extra dice because it feels like there's no stakes, and I would be just grabbing dice. 
+
+
+AUSTIN: Yeah, totally. Alright. So— so 2d6. Roll 2d6, and we take— take the high roll. What you're looking for here is a four, five, or six.
+ 
+KEITH: I thought I had three. 
+
+
+AUSTIN: Uh, no you have two, but you're gonna fill in an extra thing no matter what you roll here. 
+
+
+KEITH: Oh, okay. 
+
+
+AUSTIN: Because of your move. Your move lets you fill in one additional part of this clock. 
+
+
+KEITH: Aw, man, I'm actually pretty nervous.
+
+
+AUSTIN: Uh-huh. 
+
+
+KEITH: I didn't expect to be nervous about— 
+
+
+AUSTIN: [interjecting] About this bullshit— 
+
+
+KEITH: —building this nice ice skating rink. 
+
+
+AUSTIN: It turns out Roll20 is not great. 
+
+
+KEITH: Oh, I just said 2d6. Great. 
+
+
+AUSTIN: [laughs hard] That's how nervous you are. Is you just chatted 2d6. 
+
+
+KEITH: [groans] Ugh, boy
+
+
+AUSTIN: That's a six! No, that’s a six. That's good. So— so this— in this system— 
+
+
+KEITH: Oh. 
+
+
+AUSTIN: —you don’t add them together, you take the highest. So, you rolled a six and a one. 
+
+
+KEITH: Oh, great. Excellent.
+
+
+AUSTIN: A six is you do it. In fact, on a control, you did— 
+
+
+KEITH: I do it. 
+
+
+AUSTIN: Yeah, you do it. There's no— you don't lose anything. There's nothing—  nothing goes bad. So, in this case, I will fill— you would fill in, like, a number of of clock slices. I forget how many on a six. I have to look it up. But it's— it's more than enough for this cause you only have two more to fill in. 
+
+
+KEITH: Yeah. 
+
+
+AUSTIN: So— so, tell me what happens. 
+
+
+KEITH: Okay. So, I think that you start to see the initial cracks of go— of ice start to form on the top, and it sort of spreads outward from the center, and then you can see it freezing downward, also. 
+
+
+AUSTIN: Ooo. 
+
+
+KEITH: And bas— like, basically everything from like a millimeter above where the ice freezes down is like an entirely different atmosphere where it's freezing cold. 
+
+
+AUSTIN: Right. 
+
+
+KEITH: And it basically instantly freezes this ice— or this water into ice. And it will, you know— it’ll just stay that way. And then uh— and then Kent sees it starting to freeze, and he revs up the Zamboni. It's a rev-up Zamboni. 
+
+
+AUSTIN: [amused] Uh huh.
+
+
+KEITH: A nice, nice rev-up Zamboni. I got a how-to video if you need a Zamboni for your ice rink. 
+
+
+Austin (as KENT): It needs to rev. That's one of the things I need it for, was I need it to rev like a cool motorcycle. 
+
+
+Keith (as GIG): I can do that, and I have a three step video on my channel. You can check it out, and if you don't use anything, comment, and I will get back at you. 
+
+
+Austin (as KENT): Thank you again, Gig. 
+
+
+AUSTIN: And then turns the handle and just zoom— 
+
+
+Austin (as KENT): Zamboni! 
+
+
+AUSTIN: [laughing] And he starts to Zamboni the ice. 
+
+
+KEITH: [laughing] Wait, he says Zamboni? 
+
+
+AUSTIN: Yeah, he goes, 
+
+
+Austin (as KENT): Zzzz— Zamboni.
+
+
+KEITH: Zamboni!!
+
+
+AUSTIN: And then he starts driving, and the kids and like, 
+
+
+Austin (as THE KIDS): Yeah!!! Zamboni!! [Keith laughs]
+
+
+AUSTIN: Everyone is taken! Like, this is a weird thing. You've made ice from water— 
+
+
+KEITH: Yeah. 
+
+
+AUSTIN: —in a planet covered in water. So, this is cool as hell. 
+
+
+KEITH: Yeah. 
+
+
+AUSTIN: Also, a planet where the water might be alive, we figured out recently. But this water seems to be doing what you wanted it to, which— 
+
+
+KEITH: Yeah, yeah.
+
+
+AUSTIN: —makes it especially cool. And so, I think the kids are cheering, and then we get like a— we get, like, a slow cut. We get, like, a slow fade out maybe, and then it comes back up, and the kids are all ice skating and, like, falling on their butts. And they're trying, and maybe there are some— some off-worlders who have ice skated before, who are helping the kids to ice skate. And, like, teaching them how to do it. And Gig is just watching. And then from behind him, like— I imagine there’s a concession stand here, too. Which doesn't, you know— I don’t know if it makes any sense. We built that in a previous video. You built a concession stand. 
+
+
+KEITH: Yeah. Every— Hey, every ice skating rink I've went to had a concession stand. 
+
+
+AUSTIN: Perfect. Well, this one serves iced hot chocolate cause it's so hot outside, and uh— 
+
+
+KEITH: Yeah. 
+
+
+AUSTIN: Cascara can— 
+
+
+KEITH: Can I— 
+
+
+AUSTIN: Go ahead. 
+
+
+KEITH: I have one thing that has to serve, and that is— 
+
+
+AUSTIN: Absolutely. 
+
+
+KEITH: —Dots gummies. 
+
+
+AUSTIN: Mm, mhm. 
+
+
+KEITH: [laughs] Was my— that was my— my winter treat was going ice skating and getting a hot chocolate and gum— and Dots. It was the only ever time I ever had Dots was at the ice skating rink. [Austin stammers] I do not know why. 
+
+
+AUSTIN: I have only ever had Dots like once ever, and I think it was at Space Camp, which is... a weird thing to say. 
+
+
+KEITH: What a weird— 
+
+
+AUSTIN: Yeah. 
+
+
+KEITH: It's very weird. At Space Camp, I thought they’d give you, like, freeze dried ice cream. 
+
+
+AUSTIN: They also had freeze dried ice cream, but they also had— 
+
+
+KEITH: Dope. 
+
+
+AUSTIN: Oh wait, wait, wait, not Dots. Uh, are Dippin’ Dots the same thing? [overlapped] Or it’s different.
+
+
+KEITH: No, no. Dippin’ Dots are the ice cream of the future. Dots— 
+
+
+AUSTIN: Right, which is why it was at Space Camp. 
+
+
+KEITH: Right. Exactly. Dots is— That— that is flash frozen ice cream. 
+
+
+AUSTIN: Right. 
+
+
+KEITH: Dots is just like a gummy candy. They’re like— 
+
+
+AUSTIN: Oh, those are just those little dots. I've had Dots. [overlapped] I've had Dots plenty of times.
+
+
+KEITH: Yeah. Yeah. They're— Yeah. Yeah. They're just shaped— they're shaped, like, um— They’re shaped like bullets kind of. [amused] I don't even know what that shape is. 
+
+
+AUSTIN: Yeah. They’re like little— They’re like little um... Yeah, what are those shapes? I know what you mean. I know exactly what you mean. 
+
+
+KEITH: Yeah. 
+
+
+AUSTIN: Dots can— 
+
+
+KEITH: It’s fun and the[b] bottom is a dome. It's like a dome- shaped gummy candy.  
+
+
+AUSTIN: It’s like a half-dome— What's that shape called? It’s like a— Is it just a gumdrop shape? 
+
+
+KEITH: No. Cause gum— I think— What's a gumdrop shape? 
+
+
+AUSTIN: I think a gumdrop is the same thing. 
+
+
+KEITH: I think it’s shaped different than a gumdrop. Oh no, it is shape— It's just a gumdrop shape. 
+
+
+AUSTIN: Yeah. 
+
+
+KEITH: It's a gumdrop. They're much fruitier and sweeter than gumdrops, and they don't have, like, the sugar on the outside. 
+
+
+AUSTIN: Right. Totally.
+
+
+KEITH: If you’ve never had a Dot before. 
+
+
+AUSTIN: That's totally right. Alright. Shaped like a narrow dome. Alright. So yeah, they definitely have that. So, I think what you get is Cascara, who is the— the former commander of The Beloved, rolls over to you in her wheelchair with two cups of iced hot chocolate and a little— a little— How do they serve the Dots gummy candies? Is it in a box, or is it, like— what's the— ?
+
+
+KEITH: Collectable dispensers. 
+
+
+AUSTIN: Collectible dispensers. What do the dispensers look like? 
+
+
+KEITH: This one has— one of them is Independence. 
+
+
+AUSTIN: [amused] Okay. Like old Independence. The centipede Independence. Not— not new— Not the new bad Independence.
+
+
+KEITH: Yeah, the— Yeah, centipede. Yes, exactly. Centipede Independence. Several of them are sort of tropical ocean creatures. 
+
+
+AUSTIN: Okay. 
+
+
+KEITH: And then one of them is the Brighton family crest. 
+
+
+AUSTIN: Okay. Are these like Pez dispensers basically? 
+
+
+KEITH: That’s what I’m thinking of is Pez dispensers.
+
+
+AUSTIN: Okay. But not in that necessarily form factor. Like, they have different form factors? 
+
+
+KEITH: Yeah, yeah, yeah. 
+
+
+AUSTIN: Okay. 
+
+
+KEITH: They have to be a— Yeah, to hold the Dots. The Dots, they get— they’re—  they're gummies so they get stuck together. 
+
+
+AUSTIN: Okay. Right, of course. So, it has to be like a little bit of a— there's like a thing that disconnects them or something. [overlapped] I don’t know. 
+
+
+KEITH: Right. Exactly. 
+
+
+AUSTIN: Anyway, Cascara rolls over to you. And I don't know that you know her super well. Right? Like, you've never really— You’ve talked to her once. Twice maybe, right? 
+
+
+KEITH: Yeah. 
+
+
+AUSTIN: I guess during— That’s not true. I guess during the— 
+
+
+KEITH: [quietly] Oh. 
+
+
+AUSTIN: —the evacuation game you worked with her a few times. 
+
+
+KEITH: That's true. Can I go back to—?
+
+
+AUSTIN: Yeah. A hundred percent. 
+
+
+KEITH: Okay. Here's what these dispensers are. 
+
+
+AUSTIN: Please. 
+
+
+KEITH: You push a button, and it shoots one a couple of feet of the air, and you catch it in your mouth. 
+
+
+AUSTIN: Oh, Okay. 
+
+
+KEITH: It's designed to shoot it a little bit. 
+
+
+AUSTIN: [crosstalking] Does it know if you— if you caught— 
+
+
+KEITH: [crosstalking] And then you can shoot them at each other.
+
+
+AUSTIN: —and then it lights up or something if you catch it in your mouth?
+ 
+KEITH: Oh, that’d be great— Oh, yeah.
+
+
+AUSTIN: Like, you know what I mean?
+
+
+KEITH: And it makes a little, like, [musical beeping foley] “Do-do-do— Do-do!”  
+
+
+AUSTIN: Yeah, yeah, yeah. A hundred percent. 
+
+
+KEITH: So, it’s a game— it's a collectible dispenser game. 
+
+
+AUSTIN: Yes. So, I think Cascara rolls over to you, and the reason, you know, someone is behind you is because you hear it go, [same musical foley] “Do-do-do— Do-do.” [Keith laughs] Because she has tossed one up in the air and caught it in her own mouth. Then you turn around and there's— there's Cascara who, the last time you saw, had disappeared with the ship from The Beloved, like, behind another ship and never saw her again. And she says,
+
+
+Austin (as CASCARA): Gig Kephart. Building ice skating rinks now, huh? 
+
+
+Keith (as GIG): Yeah— yeah. Hey— Hi! 
+
+
+Austin (as CASCARA): Do you want one of these?
+
+
+AUSTIN: And hands you an iced hot chocolate and then, like, aims her— her Dot dispenser at you? 
+
+
+Keith (as GIG): Oh, I'm really good at this. I used to be able to shoot two up in the air and catch them simultaneously. 
+
+
+Austin (as CASCARA): Used to?
+
+
+Keith (as GIG): I— 
+
+
+AUSTIN: And then she just fired two up in the air real quick. 
+
+
+KEITH: Oh, man. Can I roll for this? 
+
+
+AUSTIN: [amused; laughing] Yeah, yeah, totally. This is a fortune roll. This is— there's no risk here, right? 
+
+
+KEITH: Yeah. 
+
+
+AUSTIN: So, let's do uh…. God, what would this even be…? 
+
+
+KEITH: Scramble? 
+
+
+AUSTIN: Scramble. Yeah. You have a 1d6 in that, right? 
+
+
+KEITH: I have a 1d6 in that, yeah. 
+
+
+AUSTIN: Yeah, roll that 1d6. 
+
+
+KEITH: One. 
+
+
+AUSTIN: That's a one! Bah-bah! [laughs] What happens?
+
+
+KEITH: [laughing]  It’s been a— Listen, it’s been a really long time. One hits my eye; one hits my chin.
+
+
+AUSTIN: [amused] Yeah. 
+
+
+KEITH: And I just, like, fall to the ground. 
+
+
+AUSTIN: No, they have to fall into your hot chocolate, right? [Keith laughs] They have to fall into the iced hot chocolate. 
+
+
+KEITH: Oh. And then I just— I just sip them out. I just sip them out. 
+
+
+AUSTIN: Yeah. 
+
+
+KEITH: I’m like, 
+
+
+Keith (as GIG): It's just as good. 
+
+
+AUSTIN: And she says like, 
+
+
+Austin (as CASCARA): Well, I'm not here for— I'm not trying to recruit you because of your— your Dot catching skills, thankfully. You just need to get— 
+
+
+Keith (as GIG): [interjecting] I’ll practice. 
+
+
+Austin (as CASCARA): Oh, well, the good news is I'm gonna give you lots of— lots of opportunities to practice with agility and— and scrambling and all of the rest of the sort of skills that have been going to waste here. Not to waste. That's unfair. That's unfair. It's a nice ice skating rink, and I saw the cafeteria and the—  
+
+
+Keith (as GIG): School? Whole school? 
+
+
+Austin (as CASCARA): The whole school. Are these dispensers your design to? 
+
+
+Keith (as GIG): Mostly, yeah. 
+
+
+Austin (as CASCARA): Mostly. They're good. 
+
+
+Keith (as GIG): Someone else wrote the song. 
+
+
+Austin (as CASCARA): Do-do-do-do, okay, yeah. 
+
+
+Keith (as GIG): Kent wrote the song. 
+
+
+Austin (as CASCARA): I didn't know he made songs. 
+
+
+Keith (as GIG): [laughs] This is his first go at it, but I thought it worked. 
+
+
+Austin (as CASCARA): It works. It's not that I think that this work is unimportant, it's that we… we’re working on something bigger. A longer term project, more than just a couple of weeks. It might take— it might take years, but we need someone to get their hands dirty and to film it. To show people what we're trying to do. 
+
+
+Keith (as GIG): Hm. Film it. Why film it? 
+
+
+Austin (as CASCARA): For the last year, you have done the Brighton lineage a great deal of service, whether you meant to or not. People are flocking here because you've shown that this family wants the best for, not only themselves, but for others. If I'm being honest Gig, I think it's a pretty naive understanding of what the best is. But.. I don't doubt their or your... genuine goodwill. The reason you film something is so that people can see... what you— what you've done. 
+[1:00:00]
+Austin (as CASCARA continued): And we're trying to do good things. It's not just me. It's not just the Cadent, who I represent. Or…
+
+
+AUSTIN: And she— she, like, laughs for a second. 
+
+
+Austin (as CASCARA): Declan’s Corrective, of all people. It is some of your— your old friends, too.
+
+
+Keith (as GIG): It's— it's fun here. 
+
+
+Austin (as CASCARA): We want it to be fun everywhere. I think that's it, really. It's fun here. 
+
+
+Keith (as GIG): Okay. 
+
+
+Austin (as CASCARA): And it's great that it's fun here. A lot of people can't make it here. It's one of the reasons why I like your— your DIY videos is when they get shipped around the Mirage, people on other planets, people on Mirrorloc[c]k, where it's— the whole planet is a disaster. They learn how to build sinks that work. They know how to make toys now. They know how to make a bar that hovers off the ground that you can push around a town so that even if you don't have enough pubs to have a pub crawl, you can still have a pub crawl. And that's all thanks to you. [Keith/Gig laughs] We want to do the same thing. We're putting together a team of fixers, of people who can show up places and help people. And we need people to know that when we show up, we’re genuine. We can be trusted. And that even if we don't have the badge of the local magistrate, we represent justice and goodness and.... determination. And the way you let people know that is... you show ‘em a video. I don't need a yes now. 
+
+
+Keith (as GIG): That’s a pretty... Oh, okay. 
+
+
+Austin (as CASCARA): But I... 
+
+
+Keith (as GIG): I was gonna— I was gonna. 
+
+
+Austin (as CASCARA): Well, if you're gonna give me a yes, then I can go back. That’s gonna— 
+
+
+Keith (as GIG): I was gonna give you a yes. Yeah. No, you sold me. That was a good pitch. At first I was like, this is— No. This is… but then— 
+
+
+Austin (as CASCARA): I try to be honest. 
+
+
+Keith (as GIG): Yeah.
+
+
+Austin (as CASCARA): I could have given you a good pitch right away, but I wanted to be clear that it was, again, genuine. I could have come in and just tried to brown nose you, but that's not honest. 
+
+
+Keith (as GIG): No. 
+
+
+Austin (as CASCARA): Come with me in the next couple of days, or you could just meet me there. Take a— take a transport ship to Seneschal. We're meeting up, and we'll go for more details there. It's gonna be fun. It's gonna be fun. [pauses] I hope. 
+
+
+Keith (as GIG): Okay. Yeah. 
+
+
+Austin (as CASCARA): Do you— do you need anything? Do you any projects you need to finish before you leave? Do you need the extra resources? 
+
+
+Keith (as GIG): Hm… Do I have any projects? See, here's the thing. The projects, they come up and get done so fast. 
+
+
+Austin (as CASCARA): You're very efficient.
+
+
+Keith (as GIG): We started this ice skating rink, like two weeks ago, and I had the idea, like, the day before that. [laughs lightly]
+
+
+Austin (as CASCARA): How did you come up with the idea of an ice skating rink on a tropical world?
+
+
+Keith (as GIG): I loved— I love ice skating, so I just wanted to do it. 
+
+
+Austin (as CASCARA): How do you maintain that attitude, Gig? That— people say “can do” attitude? And they say it with sarcasm mostly these days. 
+
+
+[Jack de Quidt’s “The Mechanic” begins playing]
+
+
+Austin (as CASCARA): But to go from, “I had this idea on a whim” to “I'm going to make the world the way I wanted to be.” How do you do it? 
+
+
+Keith (as GIG): Um, at the end, you get an ice skating rink.
+
+
+Austin (as CASCARA): [lightly laughs] Fair enough.
+
+
+[music plays out to finish]
+ 
+[a]The character's name is actually Aubrey, but Austin says Audrey.
+[b]0:59:19
+[c]1:00:45 --> should be Moonlock?

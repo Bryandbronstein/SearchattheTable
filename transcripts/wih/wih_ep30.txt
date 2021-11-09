@@ -2349,7 +2349,7 @@ ALI: [laughing] I want to flex these shits off
 [JACK and JANINE laugh]
 
 
-AUSTIN: Yes… someone’s gotta go to work.
+AUSTIN: Yes… someone’[a]s gotta go to work.
 
 
 ALI: Yeah! I just fucking pull my wrists apart, no! Like, I talked to them, I put them on. Y’know, to be nice.
@@ -3762,3 +3762,6 @@ AUSTIN: [amused] They will give you insight relating to the current situation, a
 
 
 [“The Boat” CONTINUES TILL THE END]
+
+
+[a]I'm pretty sure Austin says "mommy's gotta go to work"

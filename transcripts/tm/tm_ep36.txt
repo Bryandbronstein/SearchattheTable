@@ -1,2399 +1,2806 @@
-﻿Twilight Mirage 38: The Good Decision
+﻿Twilight Mirage 37: Along A Route
+Transcribed by Mal [00:00 to 9:58]; meko
 
 
-Transcriber: Jen @wronghandle#1989
+[The Notion begins playing]
 
 
-JACK: Previously on Friends at the Table.
+AUSTIN: High above the world of Gift-3, caught in the saffron shade of today’s Mirage, the L-shape of a single massive arm hovers in orbit, bolted in a frame of metal, people the size of specks moving across its length lit in its shadow by the flash of welding torches. It is the arm of Gumption, once left in the center of Composure’s Coliseum on the ship of Seance. It now serves as a constant symbol of hope to the Mandati who dream of bringing their Divine back.
 
 
-AUSTIN: [narrating] Very quietly over the last six months, teenagers have been disappearing from Big Garage, Seiche, and the smaller settlements of Gift-3. It has been easy to miss. When you first landed on Gift-3, Alabaster Went got in touch with you and asked for your help. He believes that his nice Winchester has been abducted and brainwashed by the New Earth Hegemony. His evidence— and he presents this to you in a form you’re familiar with— a liquid metal .gif that kind of projects upward from this robotic drone on the ground, 
+The camera slowly pans down, and below, the planet bustles with activity. Short-hop transport ships dot the sunset sky, as caravans transport daily hauls from the outskirts to the cities of Big Garage and Seiche. Smoke rises from open-air barbecues, and in the distance, there is a sound, something like a cross between an old fuel engine and a lion’s roar.
 
 
-[MUSIC - “The Notion” begins]
+We follow that noise, and it leads us to the Crashyards, the final resting place of all the technology that is, or that might be. Ships planted nose first in the dirt and sand, hills of discarded consumer electronics topped by dozens of flickering digital assistants with no one to help. Long, high stacks of personal vehicles, entertainment displays, and old replicator machines have turned the flats into canyons. And moving through one such gulch are the Excerpt Signet, the pilot Even Gardner, and the pathfinder Echo Reverie.
 
 
-AUSTIN: that shows Winchester, pale and awkward and freckled being lifted into the air by a massive red Torch Unit.
+(music plays without v.o. for roughly a minute, then ends)
 
 
-Grand, you get up from your position, and you like, lean up over the edge of another workstation. And on the back of this Torch Unit— where normally there’s just a plain white metal plate— that plate has been filled in with a tattoo. The tattoo is of a big smelly piece of garlic.
 
 
-AUSTIN (as Orellia): Garlic, I know you’ve earned it, but you’re too important. We have to try it on someone else first.
+AUSTIN: Welcome to Friends at the Table, an actual play podcast focused on critical worldbuilding, smart characterization, and fun interaction between good friends. I am your host, Austin Walker. Joining me today for our first full session of Scum and Villainy, is… Andrew Lee Swan.
 
 
-AUSTIN: And then Garlic says back in hand signal,
+ANDREW: Hey, you can find me on Twitter @swandre3000.
 
 
-        AUSTIN (as Garlic): I know I’m important, but I should be the one taking the risk.
+AUSTIN: Also, Janine Hawkins.
 
 
-AUSTIN: And then the kid says,
+JANINE: Hey! You can find me on Twitter @bleating_heart.
 
 
-        AUSTIN (as Orellia): Sorry, but we have to listen to what Vanya says.
+AUSTIN: And Sylvia[1] Clare.
 
 
-AUSTIN: And spells out Vanya, V  A  N  Y  A.
+SYLVIA: Hey, I’m Sylvia, you can find me over at videogamechoochoo.com—and also, you can find my twitter at captaintrash.rip!
 
 
-JACK (as Fourteen Fifteen): Alright. We can go. We can leave here and let you keep doing what you’re doing. And that’s, y’know, that’s kind of appealing. But when we go back, and the people who are worried about Winchester and about the others? They’re gonna send other people, and I cannot promise you that we are gonna be better than the next people who are gonna come, but they’re gonna come. And this opportunity is gonna go. You don’t have to come back with us, we’re not gonna take you back or tell anybody where you are. We just want to try and unpick this situation at least a little.
+AUSTIN: Oh, that’s a good—that’s a good new URL, I didn’t know about that one.
 
 
-AUSTIN (as Orellia): The big guy thinks you’re telling the truth. I can set up a meet. I’m not bringing you back with me. But. I can—
+SYLVIA: Yeah! SYLVIA: Five dollars a year, so I was like, ‘eh, why not.’
 
 
-AUSTIN: And then, as she says, “I can,” the alarm starts going.
+JANINE AND AUSTIN: (laugh)
 
 
-[MUSIC - “The Notion” ends]
+SYLVIA: Ehhh... 
 
 
-        AUSTIN (as Orellia): Shit. We have to— cover us.
+AUSTIN: Uh, yeah! You know, what’s—What’s five bucks? (laughs)
 
 
-AUSTIN: And she turns back to this console, and she starts typing into these keys. And starts to move Yam on top of this work station.
+SYLVIA: That—A lot for me, but—
 
 
-AUSTIN (as Orellia): Ten minutes before they get here, probably. We’re up pretty high. But I have to do this, this really complicated procedure. I have to install this—
+AUSTIN: Yeah, uh—
 
 
-AUSTIN: and she holds up just a collection of wires and circuits—
+SYLVIA: —I make terrible decisions...
 
 
-AUSTIN (as Orellia): into Yam, and I don’t know that we’re gonna have time, so just.  Cops. You can leave now, and you can meet me by the Eastern Gate in three days.
+AUSTIN: What’s five bucks next to having a good URL for your Twitter account?
 
 
-        KEITH (as Gig): Wait, what is that thing? What is that?
+SYLVIA: Exactly.
 
 
-AUSTIN (as Orellia): It’s gonna let Yam talk. (KEITH: Oh.) We’re downloading— we’re taking the design, and we’re also installing the prototype just to see if it works.
+DRE (distantly): Yeah!
 
 
-AUSTIN: And she like, slides over on a stool and pops this very— not dramatically, but very nonchalantly actually— just uses a screwdriver to pop the front cover off of Yam? And beings to try to start wiring this thing in. Garlic—
+AUSTIN: We are playing, I guess, Scum and Villainy, which is a game by Stras, I forget how to pronounce this name, Asimovic? I can’t remember if it’s [‘ah-simovic’] or [‘asch-imovic’], if there’s a C in there, there’s two Cs… Anyway, Stras and, and, John LaBoeuf Little, again, [LaBoof], [LuhBowf], I don’t, I don’t know, I’m gonna have to reach out and… and get clarification, I should do that soon…
 
 
-KEITH: Can I help?
+Scum and Villainy is a hack of Blades in the Dark, which was a game by John Harper, and it is really cool, and we are finally going to start really playing it in earnest today. Just briefly, can we go over your—you know, I guess first and foremost, as always, I should actually read my—my goals, which are: to convey the fictional world honestly; to bring the Twilight Mirage to life, and to play to find out what happens. 
 
 
-AUSTIN: Totally. Do you know how? I guess— 
+And then, I’m just gonna one more time read these Best Practices, the Best Practices for you as players. Embrace life on the rim; chase danger and action; describe the action faithfully; advocate for the story you want; use your stress; it’s okay to go with a fun idea; start fresh, add detail and play; and plan on the fly.
 
 
-KEITH: I know how to robot.
+So, are there any questions before we start? Are there any lingering, like, rules things, or do you want to go over any moves you have, or anything that you’re not sure about?
 
 
-AUSTIN: How do you say you can help? Yeah, you do. 
+(Brief silence)
 
 
-KEITH (as Gig): I can maybe help? I can maybe help.
+If not, that’s totally cool, and, always, quote, “ask questions as we play”, so…
 
 
-AUSTIN (as Orellia): You can help?
+So! We are gonna kinda jump into things a little bit here, because that is one of the things that Scum and Villainy does really well. The camera kind of, I think, pans down, does that good Lucas, you know, pulp, slow pan down from the sky, and what we see is, just a—sort of a ship graveyard that goes on for miles and miles and miles. It’s cavernous, you know—there are these sort of, like, tall towers of cars, one on top of another, and huge hills of discarded MP3 players, and… It is, effectively, a junkyard, it is in fact, it’s called—here, it is called “the Crashyards”. I’m actually gonna move us, on roll20, to the system sheet for Gift-3. 
 
 
-KEITH (as Gig): I can definitely help.
+You all are walking through the Crashyards. You’re on your way back from a reconnaissance mission that is part of a larger mission. You’ve been sent here by Cascara to, to…. do—you know, spread the word, of the Notion, and to spread the word of Seneschal and, and the idea that the people of the Quire system could find some, um, overlapping identity and culture that is not so divided. 
 
 
-AUSTIN (as Orellia): This isn’t the same thing as building an ice skating rink, Gig.
+And, specifically, you, this group of three here—Signet, Even, and Echo—are being sent to help reconnect a group of refugees with another group of refugees—the two sides of the disconnected Tides of Harmony, one of which landed here on Gift-3, and the other of which landed on Brighton—which is where the Rogue Wave are, it’s kind of an ocean-y island planet and—the way you’re going to connect those two is through this thing called a Stitch, which, Echo, you have firsthand experience with—in fact, you have a lot of firsthand experience with it. You had that meeting in your vignette—but also have, like, examined them, and tried to get your head around them over the last year, it’s been kind of one of the big things you’ve been doing.
 
 
-KEITH (as Gig): I’m really good with robot stuff. Ice skating rink. Why are you so mad that I helped those kids skate on ice?  
+Cascara put you in touch with a, a farmer, actually—or kind of a rancher, I guess—named Graph-2, who is a synthetic rancher who has kind of a, a whole family of, like cattle herders, basically, that lives out on the steppe—this is, this whole world has kind of a semi-arid climate; there are these—again, there are these huge junkyards all over the entire planet that have been kind of summoned by the will of the people on this planet, who are—who have an entire culture built around scavenging, and repairing things, and investigating technology that they don’t understand, and it’s kind of that the combination of Quire and Gnosis and the Miracle have covered this world in technology from across the Milky Way Galaxy. Which means including stuff that no one has ever seen before, at all, from cultures that no one has ever interacted with, at all. 
 
 
-AUSTIN (as Orellia): [sighs] Garlic, go watch the door. Gig, pick up a screwdriver.
+And, you’ve been put in touch with Graph-2, who is sort of a—I don’t want to say an elder, cause, I mean, he’s just a robot, so he’s not—I don’t want to put the picture in your head of an old guy with a beard who lives on a hill, uh, old mansion on the hill or something… But he has a sort of, a leadership role among a group of citizens who are spread out across the open steppe, in between these kind of huge Crashyards, you know, junkyards, basically. And, the first step of getting that mission done and kind of reconnecting these groups was to find out where the hell that Stitch was. And you found it, which is great. Less great is that where you found it—where you found it is a place that is under lockdown by someone else already.
 
 
-AUSTIN: I’m starting a new clock. Um. And this clock also— you know what, this is going to be a shorter clock. This is going to be a four-step clock that you do not want to go up because this is going to be “Cops arrive.”
+There is what is marked by signage as, quote, “An archaeological dig site” deep in the middle of the Crashlands that is operated and defended by a group that you already have a bit of beef with [chuckles], Advent—also known—or, like, the long form of their name is Advent Discovery and Salvage Society. They are a group of treasure hunters who are not from the Divine Fleet, are not from Earth, are not from Quire, they’re kind of galactic grave diggers? [laughs] Grave robbers? They are super shitty, and they have set up a base around the location of this Stitch. 
 
 
-[crosstalk]
-KEITH: Real cops.
-ALI: (unintelligible)
-ART: On the other hand, that would definitively prove that we’re not cops.
+It is in the shadow of a massive orbital elevator, a space elevator, that connects the body of Gift-3 up to the space station that Advent has here. They have a number of space stations throughout the system and they have an HQ off on the far outer rim of the system. But here, they have one in space that is all about technology. They have a space base on a different planet that’s all about culture, they have one that’s all about biology, but this one is all about technology, that’s why they set it up above Gift-3.
 
 
-AUSTIN: It would. That’s true. That’s true. That’s a good point, I hadn’t thought about it.
+And your kind of first reconnaissance of it revealed that it is under lock and key, there are some armed guards there, there is what you identified as someone who is an Advent expert at kind of countering the weird uncanny shit that is happening inside Quire right now? And, a handful of guards, maybe a dozen guards, with some, you know—they have, like, melee weapons and they have, like, a handful of ranged weapons, some drones, and you know that the—that what they are probably doing here is sending stuff between here, this source of technology, amd Brighton, which was this, this oean world where you know that they have a biological research station, and who the fuck knows what they’re getting up to but it’s probably not good? And it’s definitely in the way of connecting these two communities back together. 
 
 
-Whoops, I didn’t mean to move that. So, what do y’all do? What’s everybody, I know what Gig is doing at this point.
+This is what you’ve learned during your reconnaissance. One of those things that you, that you noticed, were those drones that I told you about. They are these, like, flying—you know frisbees that don't have a middle? Like the sort of ring frisbees? So they're like those but a little bit bigger, and then in the middle of them, hovering in the middle, is a little eye drone sort of like Gig’s except the entire thing is cast in, like, a kind of copper color. And they rotate around the ring with the eye in the middle that can—the eye can kind of bobble down or up as if it’s held in place by a sort of, like, an elastic gravity—an invisible, like a—an invisible wire or something that’s keeping it in the middle. But it can kind of, like—it will pop up and then like elastically pull the whole body of the drone up and it will fly up higher or lower or whatever. 
 
 
-JACK: Ah, I’m gonna make toward the door and try and head where upstairs stairs are. 
+And you know about these, partially because you saw them before and partially because you hear a couple of them near you now as you walk back through the canyons of car towers and debris, back towards the nearest safe town. And you can hear them, like, doing their [droe noises] “buh-buh-buh-buh-buh-swooo” scanning of the area around here. What’s everybody doing at this point? It’s just the three of you, there’s no one else with you at this point. You’re just trying to get back to HQ to kind of figure out next steps. You haven’t been spotted yet, but you do know that these drones—there’s a chance that they would see you.
 
 
-AUSTIN: Sure. Good idea.
+DRE: And we’re pretty—These are Advent drones?
 
 
-JACK: I guess stairs in both directions. But the stairs that they will be coming up, or elevators that they will be coming up from.
+AUSTIN: Yeah, hundred percent, definitely. Like, they have very distinct—very distinct technology, their stuff. They go out of their way to brand it theirs with lots of wood panels, lots of copper and bronze and gold...it’s—it is very, like, I have described them as being shitty steampunk adventurers. Like that is very much what they are. Like, lean in, think about gears, think about, again, steam coming off of things and, like, that is what this crew is. How do you—so you see there’s a group of three of them that are spreading out across this canyon. If you do nothing, there is a chance that they will see you, is what I will say. 
 
 
-AUSTIN: Alright. There’s an elevator on the far end of the hallway. So you are on floor 28 of this tower. And you came in through scaffolding on the western window, western side right there. And you know that there are huge like— other rooms, other offices. There’s probably another office that’s this big. You don’t know that for sure, but that is the size of things. So the windows are there. And then on the left-hand side of the western side, there’s a long hallway. The room you’re in is one of the first ones to the north. And then at the far other end of the hallway, there are— an elevator door is there and an emergency stairwell there. You know what? There’s probably also an emergency stairwell here. And then you came in through the scaffolding that is repairing the outside of the wall, basically.  As far as you can tell, all of those are locked down currently. So where are you going, Fourteen?
+JANINE: I don’t really feel like I understand the space well enough to know where—
 
 
-JACK: I’m gonna make for the elevator at the far eastern end of the corridor.
+AUSTIN: Sure, I’ll draw it a little bit for you.
 
 
-AUSTIN: Okay. Um—
+JANINE: Okay.
 
 
-ALI: I’m … [laughs] This is gonna be a bad idea, and I’m gonna talk this through and you’re gonna know it’s a bad idea. But the alarm was tripped by— 
+SYLVIA: Thanks. 
 
 
-AUSTIN: By Millet, one of those little flying drones.
+AUSTIN: It is—you’re in, like, a pathway—here, one second. So, let’s just draw a big space here. Like, assume that this is the big, a big space on a continent, right, this is the size of a state or something, right? It’s the size of, like, I don’t know...smaller than Ontario, I know two of you are in Ontario. 
 
 
-ALI: But accidentally, because they were also breaking into here, right?
+[Dre and Sylvia laugh]
 
 
-AUSTIN: Well, ‘cause they were investigating what y’all were up to. Yeah.
+AUSTIN: This is like the—I would say like the size of one of the Great Lakes, right?
 
 
-ALI: ‘Cause I’m saying this fully realizing that we also snuck into this building. (AUSTIN: Uh huh.) But in a way to like, cover for everyone else escaping, is there a way to go down to the ground floor and be like, “False alarm, everyone. It’s okay.”
+SYLVIA: Okay.
 
 
-AUSTIN: That’s not a bad idea. I don’t think that’s a terrible idea. (JACK: Yeah.)
+AUSTIN: Like a middle-sized Great Lake. The place that you were looking at is in this spot in the northwest, right? And then all through here there are just, like, rows of broken cars and big spaceships and you are currently on your way back to—you’re on your way back to Seiche, which is the closest big settlement near here, which is on the southeast of this area. 
 
 
-[crosstalk]
-ALI: “I realize that there was an alarm, but it’s fine. We were testing our system.”
-JACK: “It’s just us.” (AUSTIN: Mhm.)
+And currently, you are in between this row of towering, abandoned vehicles stacked one on top of another. You can—you know, there are places where you could maybe try and slip between them, there are places where you could kind of crawl out into, you know, and hide inside one of them. They seem—they seem pretty steady, like you would have to put in a lot of force to knock one over or something like that. They’re not—you don’t feel like they’re going to fall on you at this point—you’ve walked through them once already and it was fine. And so now you’re walking back towards them and there are these three drones kind of spread out and scanning these—the kind of north, south, and center lanes, [mutters] not to use fucking use MOBA terminology [Dre laughs], but I just did. 
 
 
-ALI: Saying this fully knowing that I am not supposed to be here either. But we could try it.
+SYLVIA: No, that’s language I understand, thank you.
 
 
-JACK: Yeah, I’ll come provide backup if need be.
+AUSTIN: Yeah, I know, you’re a big MOBA fan. 
+
+
+JANINE: Can I jungle? 
+
+
+AUSTIN: Yes, you can jungle. 
+
+
+[Dre laughs]
+
+
+JANINE: Can I currently jungle? Thank you.
+
+
+AUSTIN: Yeah, if you jumped through—well, you know, it’s funny you say that, Janine. 
+
+
+JANINE: [laughing] No, I don’t want to jungle. 
+
+
+AUSTIN: No, it’s too late. 
+
+
+JANINE: There’s a—
+
+
+SYLVIA: Everyone knows Signet is better as a mid or an offline anyway.
+
+
+[Dre laughs]
+
+
+JANINE: Yeah, she’s definitely not a jungler. That’s for real.
+
+
+AUSTIN: Well, it’s funny because you hear this—in fact, I think, Dre, you probably recognize it first. Even does, like instantly. It’s a very familiar sound. Can you describe what the sound the Amprunner made again when it roared was?
+
+
+DRE: Oh man, it was like a—like a really bad old 8-bit tiger handheld noise.
+
+
+AUSTIN: Yeah.
+
+
+DRE: Like just really crunchy and messed up, yeah.
+
+
+AUSTIN: So you hear that, and it’s funny you say tiger because it was also kind of like a sabertooth tiger mech, right?
+
+
+DRE: Yeahhh.
+
+
+AUSTIN: So you hear that once, a little quiet—much quieter than how you remember it. And then you hear two of the drones going [drone noises] “Brrn brrn brrn” and they spin overhead and you can see these kind of laser scanning, the sort of like—it’s very visual, very clear that they’re scanning this area, it’s covered in like a red haze, or a red—almost like there’s a filter now over this area. And looking through some of the car doors and the kind of, like, empty—through where there where once windows and different vehicles and stuff, you see movement. And you see a pack of small Amprunners running through the sort of debris jungle and roaring up with broken tiger [laughs] electronic roars up at these drones, and beginning to kind of jump up onto these towers of cars. 
+
+
+And the—one of the drones above you starts to spin rapidly. And you can see that as it does, there’s like a light blue edge that appears around the edge of it—or let’s say a light orange-yellow. It’s like a glowing blade kind of comes out of the outside of this ring. And, within a second, there is a strange melee between these tiny Amprunners—who seem to be sentient? And not piloted as far as you can tell, there aren’t just little pilots in there—who are now fighting these flying drones. You also notice that these little Amprunners do not—they have what would be the—where the railgun was, but in place of those is, like—or in place of the gun, there are either spears or sticks or just, like, kind of curved metal there. There—they do not have guns on them. And so now they’re jumping all around you.
+
+
+DRE: Austin.
+
+
+AUSTIN: What’s up?
+
+
+DRE: I’m so excited that I get to reenact my favorite scene from Jurassic World.
+
+
+[Sylvia laughs]
+
+
+AUSTIN: [amused] Okay.
+
+
+DRE: Where fuckin’ Andy Dwyer gets to meet his pet raptors again. 
+
+
+AUSTIN: Uh-huh [Dre laughs]. Is that gonna happen? Are you gonna try and talk to these things?
+
+
+DRE: I mean, yes.  
+
+
+[Sylvia laughing in the background]
+
+
+AUSTIN: Okay! Tell me what this looks like. So what do you start doing? So there’s three drones flying in the air now, slashing down. One of the Amprunners gets knocked—I think one of them just, like, flies over the top of this tower of cars and the top cars comes falling down after it as y’all are moving through this space. And it scrambles out of the way and blocks the—actually, maybe it’s right in front of you, ‘cause it falls right in front of you, blocking your path forward. And so now there’s just, like—it’s—when I say small, I don’t mean like cat-sized, I mean like tiger-sized, right?
+
+
+DRE: Sure, yeah.
+
+
+AUSTIN: Maybe even a little bit bigger than that. 
+
+
+DRE: It’s not big enough for me to jump inside and pilot it, but it’s like—
+
+
+AUSTIN: Not at all.
+
+
+DRE: Yeah.
+
+
+AUSTIN: And then it sees y‘all and its tail whips around—also their tails now have little blue plasma flames at the end. And it whips around like a—it’s also like a—I imagine it’s thinner, I don’t think it’s as thick of a tail, I think it has like a thin, phone-wire style tail or something, or like a coaxial cable, with a blue flame at the end. And it whips around and then comes up into the sky and then goes like [growls] “brrruwuwwuw” [Dre laughs] at you. In its loudest roar, showing its teeth. And is pacing back and forth, kind of—you don’t know what it’s doing. It’s pacing back and forth. What do y’all do?
+
+
+DRE: Um, okay. Are any of these drones, like—like, they’re still around us, right? Fighting the rest of these Amprunners?
+
+
+AUSTIN: Yeah, I’d say there’s probably five of these Amprunners and three of these drones. Those two other drones are busy—or, those three other drones are currently engaging with those other Amprunners. 
+
+
+DRE: Okay. I want to use my grappling hook, which is one of my Pilot class items.
+
+
+AUSTIN: Mm-hm?
+
+
+DRE: To try and basically grapple-hook onto one of those drones and then just tug it, like, you know, thrown it down into the ground. 
+
+
+AUSTIN: Alright, so you are—you are, like, throwing it up there? Is it propelled by something or is it just like a toss?
+
+
+DRE: I like it being a toss.
+
+
+AUSTIN: Yeah.
+
+
+DRE: Like, in this low-tech world.
+
+
+AUSTIN: Me too.
+
+
+DRE: I like this being like a toss. 
+
+
+AUSTIN: Okay, cool. I think that’s probably—I mean, you tell me. What do you—this is the difference between this system and other systems. 
+
+
+DRE: Right. 
+
+
+AUSTIN: One of my—one of the habits to break for GMs in Scum and Villainy is, like, don’t tell them what move to do.
+
+
+DRE: Yeah [laughs].
+
+
+AUSTIN: It’s pretty clear about that. So, you tell me, what action are you thinking this is?
+
+
+DRE: So I think it’s probably either a Rig or a Scrap.
+
+
+AUSTIN: Mhm.
+
+
+DRE: And I’m leaning more towards Scrap ‘cause I think this is just like I’m putting my back into it to try and basically just pull this thing off course and slam it into the ground or into a wall or something.
+
+
+AUSTIN: Okay. Yeah, I think this is definitely—I think this is definitely Risky, and you know what I’m gonna do? Boy, this is quick, we’re in it. Guess what I’m about to pull out?
+
+
+SYLVIA: Oh, are you about to do a clock?!
+
+
+AUSTIN: Hell yeah, about to do a clock!
+
+
+DRE: Give me that clock! 
+
+
+JANINE: Mm.
+
+
+SYLVIA: Oh, fuck yeah, Friends at the Table is back, baby!
+
+
+DRE: Oh man. 
+
+
+AUSTIN: [laughs] Alright, I put a clock on the table. I’m gonna call this clock the “Escape the Junkyard” or “Escape the Scrapyards” clock.
+
+
+JANINE: Is it missing a line?
+
+
+AUSTIN: No, it should be six. One, two, three, four, five, six. It’s a six—it’s a six clock. 
+
+
+JANINE: Okay. 
+
+
+AUSTIN: Clocks in this system can be four, six, or eight. So it’s one, two, three, four, five, six. The top left and bottom right are just not equal in size. Okay, so I think it’s Risky because you’re going against these drones and there’s these Amprunners all around, and I think that the effect would be Standard. This is not like an especially powerful thing but it has the chance to do some serious—to give you some progress to getting out of here. So go ahead and give me a Scrap. What is your Scrap?
+
+
+DRE: It’s one, so I think I might push myself and take two stress to get an extra die.  
+
+
+AUSTIN: Okay, yeah. So here are the things that you can do at this point. I just wanna go over those maybe for a second.
+
+
+DRE: Yeah, sure.
+
+
+AUSTIN: One is you can—so you’re gonna roll the stat that you have, the action that you have, which, again, Scrap is one. You can push yourself, taking two stress to add an additional die. You can spend a gambit, you have one gambit, currently, as a crew, and you can add another die from that. [laughs] This is probably not the roll to add your one gambit to. 
+
+
+DRE: Yeah, I’m not [laughs].
+
+
+AUSTIN: Other people, at this moment, could take one stress to assist you, adding to your roll by one die. You could lead a group action instead, but this doesn’t feel like a group action. It doesn’t feel like you’re protecting anything. Or you could set up another character so that instead of doing—instead of advancing this clock, you could be setting up the clock to be advanced by somebody else. Um, anyway, that’s—those are the things you can do. So, yeah, I think Risky Standard. You’re gonna push yourself, so take two stress. 
+
+
+DRE: Yeah. 
 
 
 AUSTIN: Okay.
 
 
-ALI: Alright.
+DRE: The only thing I can think of that would modify this would be to—I don’t know if either— like, Echo, I don’t know if you want to do this as a setup so I’m basically holding it in place ad then you jump in and cut that thing in half with your ninja sword. 
 
 
-ART: Yeah, and I’ve got some forged documents that say we’re (ALI: Mhm) alarm testers.
+SYLVIA: I mean, I do like that plan.
 
 
-JACK: So do we just go into one of the lifts?
+[Austin, Dre, and Janine laugh]
 
 
-[laughter]
+AUSTIN: I would say that the—yeah, you could totally do that. The thing that would be—the thing that that would do is it would probably give Echo an improved position. 
 
 
-AUSTIN: Yeah, it sounds like it. [KEITH laughs] How do you— you just leave Gig behind with this person who doesn’t like him.
+DRE: Sure.
 
 
-KEITH: I like the idea that the building that we’re in is an alarm-testing building. “Hi, we’re supposed to be here in this building as alarm-testers.”
+AUSTIN: So that it’s—so that Echo, they have a Controlled position instead of a Risky one. So yeah, do you want to do that instead? And have this be a setup? 
 
 
-AUSTIN: You know, I guarantee this alarm was designed in this building somewhere. 
+DRE: Yeah, that sounds good. 
 
 
-So there are a bunch of this buildings, there a bunch of these towers. Again, you’re in Big Garage which is this sprawling city. Maybe we get a shot outside of the pink sky, and you can see there’s— it is a huge city that has not that many super tall structures. But the ones that do exist, the bulk of them, are these towers that are used by the Salvage Mandate to run fuel up to the—fuel and supplies and information and stuff to Big Garage itself. The whole area is the Big Garage Municipal District or something, but everyone just calls the city Big Garage. But also Big Garage is this huge hover ship, this huge huge huge air ship in the sky that occasionally comes and lands or docks or hooks up to one of these towers that fuels it and gives it new stuff. So you’re in one of those. And also they just rent out all that stuff. Actually, they don’t even rent it out. You can just apply for it, and if your application is strong enough, you can get design space on one of these massive towers. 
+AUSTIN: Alright, cool. So go ahead and give me the action.
 
 
-So that’s where you are currently. So there is a chance that on one of these floors is someone who designs alarms. So. Yeah.
+DRE: Okay. So I’m still rolling Scrap, right?
 
 
-So how do you explain what you’re gonna go do to Gig and Orellia?
+AUSTIN: You are still rolling Scrap. Are you still pushing yourself?
 
 
-ALI: Well, I think she was like, “Hey, cover for us.” And we’re like, “Got it! Gonna go downstairs, and y’know, take the heat down.” (AUSTIN: Yep, okay.) Gig, you keep doing that. I know you’re so good at it. [laughs]
+DRE: I think I will, yeah.
 
 
-KEITH: [singsong] Thank you.
+AUSTIN: Okay. 
 
 
-[ALI laughs]
+DRE: Uh, four. 
 
 
-AUSTIN: Okay. So we get the three of you in a long elevator going down. No — the elevators don’t work, there’s an alarm going off. (ALI: Oh wait.) You take the stairs.
+AUSTIN: That’s a four. So okay, so that means—on a four, with a Risky roll, you do it but there’s a consequence. You suffer harm, a complication occurs, you have reduced effect, or you end up in a Desperate position. So I think this is the thing that happens. Even, you grab it with your grappling hook, you pull it down and slam it into the ground, perfectly tied down and locked in position for Echo to come up and do something with it. And then you hear another roar, [growls] “Rrwrrwrwrwr.” And this giant Amprunner—not giant, but this—it’s not giant anymore, ‘cause the real Amprunner was actually gigantic [laughs]. This much more reasonably-sized Amprunner pins you to the ground. You are now in a Desperate position. It not here to play with you, as far as you can tell.
 
 
-JACK: There’s the shot of us all clattering down the stairs.
+DRE: Aww.
 
 
-AUSTIN: You hit the button, like, “going down” and then just BRRR!
+AUSTIN: Well not yet anyway, I don’t know what y’all do at this point. So that is—you are now in a Desperate position. Echo and Signet, what are y’all up to? Oh, also, I guess I should say really quick, because this is one of those things that we did not do a lot of in Marielda: you can resist the thing I just said. If you want to resist that complication, you could roll an attribute to try to resist it...probably take more stress but not be put in that Desperate position. 
 
 
-AUSTIN (as Elevator): Lift doesn’t work during alarm. Please use the illuminated stairwell.
+DRE: Nah, I’m gonna cuddle with this tiger. 
 
 
-AUSTIN: And then just, lights from above turn and point at that stairwell down.
+JANINE: Hm.
 
 
-ALI: [exhales] Well.
+AUSTIN: Okay, good [laughs]. Signet and Echo, what are y’all up to?
 
 
-JACK: Like, taking stairs three at a time. 
+SYLVIA: I think I’m gonna go with the plan to destroy the drone first.
 
 
-AUSTIN: Uh huh. Classic. [ALI laughs] So yeah, you’re rushing down. In fact, how quickly are you moving down these stairs? You have 20 some floors to go. 20 … 28? What did I say?
+AUSTIN: Okay. Sounds good.
 
 
-[crosstalk]
-JACK: I think you did say 28.
-ALI: You did say 28.
+SYLVIA: Just because if that gives away our position, we have even more coming down on us.
 
 
-JACK: Five. Five floors.
+AUSTIN: Absolutely. 
 
 
-AUSTIN: [laughs] I did in fact say 29. You are on the 29th floor. (ALI: Nooo.) I did say that.
+SYLVIA: And I think that would be Scrap, probably.
 
 
-ART: Are there bannisters?
+AUSTIN: Yeah, I think so. I’ll say—I’m gonna actually say Controlled with Great effect.
 
 
-ALI: So 28— oooo.
+SYLVIA: Alright. 
 
 
-JACK: No. [laughs]
+AUSTIN: Because you have—you have a really good sword and you have this thing completely tied down. And because you haven’t been revealed yet. 
 
 
-AUSTIN: There are bannisters, yes.
+SYLVIA: I have one bonus dice right?  
 
 
-ART: I would like to slide down those bannisters!
+AUSTIN: From—no, what you have is—
 
 
-AUSTIN: You’re gonna have to give me a roll for that one. That’s dangerous.
+SYLVIA: Nope, I have the Controlled, the—okay. 
 
 
-[crosstalk]
-ART: What!
-ALI: Are you sure?
+AUSTIN: The improved position, yeah, yeah, yeah. Exactly.
 
 
-AUSTIN: Yeah! What? Yeah. Whoever’s leading this should probably make a Scramble roll to see how quickly you get down there.
+SYLVIA: Wow.
 
 
-ALI: I can do that. I can just down.
+AUSTIN: That’s also a four and a one [laughs]. 
 
 
-AUSTIN: Okay. It’s gonna be another leadership roll. I actually imagine, because I described this as being a blocky asymmetrical building— I actually have buildings in mind for this. There’s buildings in— I want to say they’re in Toronto. [typing] Uh, almost put that in the fan Discord.
+SYLVIA: That’s the exact same thing. 
 
 
-[ALI laughs] 
+AUSTIN: It is the exact same thing. But that’s—so that’s a four, which means that on Controlled, you hesitate. Withdraw and try a different approach or else do it with minor consequence. A minor complication occurs if you have—a minor complication occurs: you have reduced effect, you suffer lesser harm, or you end up in a Risky position. I think that you’re gonna suffer—you go in to cut it and as you cut it, it starts to spin back up, and that kind of glowy yellow-gold energy blade catches you on the knee as you do it.
 
 
-AUSTIN: There we go. Something like that. (ALI: Ooo.) I don’t know if that’s the right one, but it’s something similar. Where like, it’s like weirdly polygonal. 
+SYLVIA: Nm. 
 
 
-ART: Oh!
+AUSTIN: So you would take the level one harm Scraped. 
 
 
-JACK: Wow!
+SYLVIA: Okay, I’m fine with that.
 
 
-ALI: It’s like a building with a Jenga pieces coming out of it.
+AUSTIN: Okay, so you’re not gonna resist that?
 
 
-AUSTIN: Yes! Jenga pieces missing, almost. Yeah yeah yeah. Exactly. Exactly.  
+SYLVIA: No. I’m gonna take this thing down.
 
 
-So yeah, I imagine there’s probably a little bit of running down different hallways and catching different elevators? Do you know what I— or finding different stairwells down. Stuff like that. So.
+AUSTIN: The thing to remember is, if you now have that level one harm, you will have less effect by—whenever you do a thing, basically. Whenever you do a thing that that relates to. 
 
 
-So. If you’re leading, then you should all three make Scramble rolls, and then you would take stress for every failure. 
+SYLVIA: Affects. Yeah. 
 
 
-JACK: I have some bad news about my Scramble. (AUSTIN: Yeah?) Don’t think I got any.
+AUSTIN: Yes, exactly. I believe that’s how that works.
 
 
-AUSTIN: No? 
+SYLVIA: Yep. 
 
 
-JACK: Nope.
+AUSTIN: Okay, cool. So go ahead and add Scraped to your level one harm thing.
 
 
-AUSTIN: Do you want to maybe spend a gambit to get one? That way you don’t have to roll two and take the lowest?
+SYLVIA: Mm-hm.
 
 
-JACK: Yeah, I’m gonna spend a gambit to get one.
+AUSTIN: Cool. Signet, what are you up to? [laughs] As drones start flying and weird animal robots start attacking. 
 
 
-AUSTIN: I said gambit, I said gamble, I meant gambit.
+JANINE: Yeah...uh, fuck. I don’t—I don’t have a lot of experience with either of these things. 
 
 
-JACK: Ahhhh, risky? 
+AUSTIN: Mm-hm.
 
 
-AUSTIN: Okay, so you’re back down to 2 gambit, right?
+JANINE: Especially not the robot tigers. 
 
 
-ART: I would also like to spend a gambit.
+AUSTIN: Mm-hm.
 
 
-AUSTIN: Alright, wow. Risky standard. It is risky standard.
+JANINE: Hmm, I think the thing I should probably be trying to do is help Even.
 
 
-JACK: One bonus die.
+AUSTIN: Yeah.
 
 
-AUSTIN: Ah, yes. That is correct.
+JANINE: He’s probably not enjoying that as much as he’s letting on.
 
 
-JACK: So, that’s a five.
+[Austin laughs] 
 
 
-AUSTIN: Hey, that’s a five. That’s not bad. Grand? That’s a six.
+JANINE: [sighs] God, what’s the best fuckin’ way to do that though? Um—do I still have my sash?
 
 
-ALI: Oh wonderful!
+AUSTIN: Yeah, I think so. We didn’t actually go over enough of your—all of your stuff, but I wouldn’t take that away from you. And I think that that is totally such a key part of who Signet is that that seems like it makes sense to me. 
 
-ART: And I can get a gambit when I spend a gambit.
 
+JANINE: Yeah.
 
-AUSTIN: You can! So you go back up to two. Look at that.
 
+AUSTIN: I would even say that that would be, like, instead of a blaster pistol, that would be your sash. You know?
 
-ALI: Wonderful.
 
+JANINE: Yeah, that's what I was thinking. Especially in the context of a blaster pistol here being, like—
 
-AUSTIN: And you too now have to roll.
 
+AUSTIN: Yeah.
 
-ALI: Scramble. I’m rolling Scramble. 
 
+JANINE: —a somewhat limited weapon with, you know—
 
-AUSTIN: You got it.
 
+AUSTIN: Mm-hm.
 
-ALI: Oh, I just got rid of my Scramble [laughs] score by pressing on the—
 
+JANINE: That’s—it’s like the sash is you sort of take a shot—
 
-AUSTIN: Uh-oh, wrong— 
 
+AUSTIN: Okay, you know what it actually is? It’s probably the Mystic-class item “a fine melee weapon.” Which is—which takes two slots because it’s not—because it’s a fine melee weapon, which means you’ll have bonuses on certain rolls and stuff. 
 
-ALI: It’s risky standard?
 
+JANINE: Mm. A fine melee weapon to me is like, I don’t know—blaster pistol makes a lot more sense to me than a fine melee weapon because it is a—
 
-AUSTIN: Yeah, risky standard. The risk is: cops show up more quickly.
 
+AUSTIN: I think it’s way too—
 
-ALI: I swear on my life, if I don’t pass this— four.
 
+JANINE: It’s not a thing Signet holds and uses though.
 
-AUSTIN: You got it. Nice work! Okay, you take the highest, which is a six. Which means you totally are able to— we just get shots of all y’all sprinting down hallways and sliding down bannisters, sliding past people, and jumping over little robots, and stuff like that. 
 
+AUSTIN: I think it’s way too versatile to be one thing. To be a one-slot item. 
 
-And you slide through the exit door, and you see that people are now milling about the lobby? Because alarms are going off? And they’re like, “What are we supposed to do? What’s goin’ on? What’s goin’ on here?” And you see there’s a receptionist speaking to a number of guards. Really wide-brimmed hats with red and white armor on who have stun batons with them? And she’s— you can see her talking and she’s saying “29th floor” basically.  
 
+JANINE: Okay.
 
-So, let’s hop back to the 29th floor really quick. Talk to me about what you’re doing.
 
+AUSTIN: That’s like really what it comes down to, is like, it is a mystical—
 
-KEITH (as Gig): [takes a breath] Basically, open up this robot and stickin’ stuff in there. In layman’s terms.
 
+JANINE: I don’t have a thing in my thing for this thing. 
 
-ART: Thanks for not getting too technical. [ALI laughs]
 
+AUSTIN: I would—heavy blaster is what I would use for it. 
 
-KEITH (as Gig): Yeah. No problem.
 
+JANINE: Okay.
 
-AUSTIN: Thank you, yeah. Keeping it basic for us. So yeah. You’re able to tell before you even do any rolls here, this is a vocoder device that’s built for— one of the things about Gift-3, this planet, is that there’s technology from all over the galaxy on it. Even from places that you’re not sure anyone here has ever been to. And so what that means is there’s lots of ports and lots of stuff that has to plug into other stuff. But the Mandati are really good at technology, and they’re devoted to taking advantage of this place. This place is a dream world for them. One of the earliest things they started working on was a universal port— y’know converters, basically? They needed to create a basic standard for things to plug into other things. So this is an extension of that, that is a device that can be attached to anything that has anything like intelligence to allow it to speak. It’s the only prototype in existence. They also have the plans to fabricate more of them. And you’re being asked to help put into a New Earth Hegemony Torch robot. 
 
+AUSTIN: Yeah. And then that should still add up. One, two, three, four—or maybe, yeah—now you’re over by one, so you’d be in a heavy situation. 
+ 
+JANINE: Yeah, I took some stuff off.
 
-I don’t know if Gig— again, everybody knows this. Torch robots don’t speak. They are robots, they are not synthetic. They are not people. Torch Units are guns that walk around and shoot the things that they’re pointed at. Or they were before guns stopped working. [laughs] I mean, I think these ones don’t have guns. But most New Earth Hegemony units probably still have a rifle that’s like a single-shot rifle. Maybe they have one extra tube to reattach to get a second shot with or whatever. But they are not— they’re toasters. They don’t know sign language. So something else is happening with these Torch Units is the other thing you know as you start to work on this.
 
+AUSTIN: That’s fine. 
 
-KEITH: This is not the first modification going into this robot.
 
+JANINE: I don’t think I’m—
 
-AUSTIN: Right— maybe. Maybe.
 
+AUSTIN: Gonna need most of that stuff anyway.
 
-KEITH: Or something.
 
+JANINE: —doing the math—it’s probably fine. 
 
-AUSTIN: Or something. So yeah. So what do you do? You put the thing in the thing?
 
+AUSTIN: Yeah. Okay.
 
-KEITH: Yeah. I put the thing in the thing. Again, I don’t want to bore you with— I could tell you exactly how this robot works. But basically I just put it in there.
 
+JANINE: Anyway, the thing I was gonna say was I wanted to use that sash to—I don’t know if I ever—I feel like I must have done this at some point—but basically, not quite clotheslining—
 
-AUSTIN: Alright. You’re using Rig, I’m guessing? 
 
+AUSTIN: Mm-hm.
 
-KEITH: Yeah.
 
+JANINE: But something where the force of the two ends is doing most of the work, but the actual thing—it’s sort of catching in the middle.
 
-AUSTIN: That seems to be the one for makin’ junk. (KEITH: Mhm.) Alright, I’m gonna make a second clock now, which is the clock for getting this all installed and working.
 
+AUSTIN: Right.
 
-KEITH: Okay. How am I rolling?
 
+JANINE: Basically around its neck. Or—it has a neck, right?
 
-AUSTIN: I think this is risky standard. [typing] Give … uh, not Garlic. Give Yam … voice. Give Yam voice.
 
+AUSTIN: Yeah. Yeah, yeah, definitely. 
 
-[crosstalk]
-KEITH: I’m gonna use a gambit.
-AUSTIN: It’s a four-tick clock.
 
+JANINE: Okay. Yeah, I’m not familiar with the robot tigers [laughs], so I’m assuming they have a neck that I can wrap something and pull.
 
-AUSTIN: Alright. So we are back down to one gambit. So what’re your dice?
 
+AUSTIN: Yeah. It’s the same tiger that Even used on Volition that helped pin down Independence. 
 
-KEITH: I’m rolling 3 dice right now.
 
+JANINE: Ohhh, okay.
 
-AUSTIN: 3d6 and again, that is risky standard. You’re not using any special tools or anything, right?
 
+AUSTIN: It’s just a tiny version of that [Janine snorts]. A tinier version of that. Tiny is too tiny. It’s a—you know what I mean.
 
-KEITH: Um. Oh, I had actually repair tools.
 
+JANINE: Mm-hm.
 
-AUSTIN: Right, I think that just lets you do it, it’s not special or anything. (KEITH: Alright.) Alright, you got a four, which— so I think what I’m gonna do - and you can resist this if you want to, we haven’t had many things where I’ve been like, “Oh you can resist this if you want” - but [reading] there’s a complication, you suffer harm, there’s reduced effect, you end up in a desperate position. What I think happens is, if you succeed I’ll give you the tick here. Actually two ticks here. But while you’re doing it, you notice that one of the tools you’re using has to be plugged in. And the cops are able to zero in on anything that is using current, using power, that is actively being used and not shut down by the alarm. And so they get a tick closer to you. 
 
+AUSTIN: Okay, so you are gonna—you are going to—say that one more time?
 
-Now you could resist that somehow. If you tell me how and then roll to resist, in which case what happens is you take stress and that doesn’t happen. That is the give and take of this game. Even when you’re not being shot at, you can be getting stressed the fuck out, which is why stress kind of works as this narrative XP in some ways.
 
+JANINE: Um—
 
-I’m actually going to read it to you, even if you’re not gonna do it right at this moment. Just so we all are on the same page. [reading] When your PC suffers consequence that you do not like, you can choose to resist it. Just tell the GM, “no, I don’t think so. I’m resisting that.” Resistance is always automatically effective. The GM says if the consequence is reduced in severity or if you avoid it entirely.
 
+AUSTIN: Like, wrap it around the neck and pull back, basically?
 
-So I could say— okay, let’s say I ticked it three times, so you completely failed. And I’m like, “Oh yeah, the cops are gonna get there quick.” You could resist it, and I could say, “resist from three checks to two or to one, but it’s not going away altogether.” Or, it might be like, “Oh if you resist it by doing that then you completely avoid it.” 
 
+JANINE: It basically—the sort of two embellished ends shoot out with the middle catching the neck. 
 
-What you do is, you tell me you don’t want it to happen, [reading] you make a resistance roll to see how much stress your character suffers. You make the roll using one of your character’s attributes: Insight, Prowess, or Resolve. The GM chooses the attribute based on the nature of the consequence. Insight is for consequences from deception or understanding. Prowess is physical strain or injury. And Resolve is mental strain or will power. So to do that, you just pick one and you roll whatever that is.
 
+AUSTIN: Mmm. 
 
-KEITH: Sorry, which one is Insight?
 
+JANINE: So the force is on the two ends and it’s basically yanking it back.
 
-AUSTIN: Insight is deception or understanding.
 
+AUSTIN: Gotcha.
 
-KEITH: Okay. So deception/understanding, physical harm, and then it was knowledge or fortitude?
 
+JANINE: By the neck. 
 
-AUSTIN: And then mental strain, will power.
 
+AUSTIN: Yeah, that—so I’m guessing—again, you tell me. That sounds like Scrap, but you tell me.
 
-KEITH: Mental strain, got it.
 
+JANINE: I was also thinking Scrap.
 
-AUSTIN: [reading] Your character suffers six stress when they resist, minus the highest die from that roll. So if you rolled a four, you get two stress. If you rolled a six, you get zero stress. 
 
+AUSTIN: Okay. So I def—I think this is Controlled because—oh, you know what? It’s Risky but the risk might not be to you. It’s to Even [laughs].
 
-KEITH: Got it.
 
+JANINE: Mhm. 
 
-AUSTIN: If you get a critical result, which is two sixes, you clear one stress on top of it not hurting you. So yes, that’s the basics.
 
+DRE: Fair.
 
-KEITH: I am going to resist this.
 
+AUSTIN: Like, it’s a risky situation in that things can go bad here, but because this thing is fine quality, and specifically because we know that the Amprunners are—have, not shoddy but are not—I guess, mm, maybe they only look shoddy, right? That was actually part of it, right, Even? 
 
-AUSTIN: Alright. How are you resisting? Or, I guess, I’m saying I think it’s Insight. This is understanding, this is like, “Oh shit, no! We have to be off the grid!” (KEITH: Yeah. Yeah.) So go ahead and roll your Insight. (KEITH: Yeah, okay.)  I think you just click Insight.
 
+DRE: Yeah, that was like the whole thing was that it looked bad. 
 
-KEITH: Um. Click Insight. And then there’s no bonus dice for that.
 
+AUSTIN: Yeah.
 
-AUSTIN: No. Unless wait, do you have an ability around that, that does anything with that? (KEITH: Um.) I don’t think you do. No, you don’t.
 
+DRE: As a way to give Even sneakiness advantage.
 
-KEITH: No. [pause]
 
+AUSTIN: Right. Okay, I’ll still give you Great effect on this though, because the, the—your fine quality outclasses it. So go ahead and give me a Scrap roll.
 
-AUSTIN: Oh heyheyheyheyhey, you forgot something. You did forget something, you forgot an ability that’s useful.
 
+JANINE: Okay.
 
-KEITH: What’s that?
 
+AUSTIN: And that is Risky Great. 
 
-AUSTIN: [reading] When you work on a clock with Rig or Hack, fill +1 segment. (KEITH: Oh. Okay.) So you’re even further in. Yeah, you only have one more tick to give Yam a voice.
 
+JANINE: Oh, wait, I fucked up then [laughs]. New system.
 
-KEITH: Okay, that’s great. I do have that, that’s my starting ability, I did not check that. (AUSTIN: Nice.) Okay. Um. So how many dice is this gonna roll?
 
+AUSTIN: No, totally fine. 
 
-AUSTIN: It’s gonna roll two because your Insight is two. Your Insight is—
 
+JANINE: New Roll20 plugins. 
 
-KEITH: Is the highest of whatever?
 
+AUSTIN: [laughs] Uh-huh. It’s true. 
 
-AUSTIN: No, it’s how many things total you have in that category. (KEITH: Oooh.) So you have two in Rig and one in Study, but you don’t have anything in Hack or Doctor.
 
+JANINE: Great? Okay. 
 
-KEITH: Got it.
 
+AUSTIN: Great, you got it. Also, I need to start marking clock stuff, one second. That’s a five! Oh wait—oh, do you not have Scrap?
 
-AUSTIN: The highest this thing can be is four, but for you it’s two because you have two in this category. In fact you have two in everything, which is a nice well-rounded situation? For a minute there during character creation, Echo had four in Prowess and nothing in Insight [KEITH and ALI laugh] and that was a lot.
 
+JANINE: I guess I don’t, no.
 
-KEITH: Oh boy, okay.
 
+AUSTIN: Okay. So then three, which is not great.
 
-AUSTIN: Alright, so go ahead and give me your Insight roll.
 
+JANINE: Nmm. No. Cool.
 
-KEITH: Okay. Okay … six!
 
+AUSTIN: Okay. Um—
 
-AUSTIN: Ey! That’s a six! You take the highest, so that’s a zero stress.
 
+DRE: It’s fine!
 
-KEITH: Oh, it’s a new picture!
 
+JANINE: Nmmm.
 
-AUSTIN: Yeah, it’s a different picture ‘cause you’re resisting consequence.
 
+AUSTIN: It’s gonna be something alright! Give me one second, ‘cause I have to mark a clock segment. Um…
 
-KEITH: I love that.
 
+SYLVIA: Oh, we’re in it now! Clock segment just got marked. 
 
-AUSTIN: So how does this work? Do you—
 
+[Dre laughs]
 
-KEITH: I know exactly how this works. I use my eye drone as a middle man between the power source and the (AUSTIN: Oh, that’s clever) the tool.
 
+AUSTIN: Mm-hm. Uh-huh. It’s about to, it’s about to. I’m gonna mark, I’m gonna mark three for your Great effect, from the first—from the sword slash, Echo. Then [chuckles], oy, this one’s gonna be a little rough. So you failed that roll, on Risky, things go badly. You suffer harm, a complication occurs, you end up in a Desperate position, or you lose this opportunity. I’m actually going to lose this opportunity. So actually, what’s gonna happen is you pull back on the Amprunner, on its neck. And the—so, to remind people, the way that these worked is looked like they were more poorly armored and built than they actually were. And when you pull back, there’s like a—the fake rust all over its neck shreds off and when you pull, all you do is pull off this fake layer of aesthetic armor that protects it. Like, it was a good pull, you had it, but you didn’t know about this special feature that it had [laughs]. And so maybe you pulled too tightly or something, like almost like when you’re fishing, you know what I mean?
 
-AUSTIN: So  it’s only coming in through— well, what’s that power? And it gets lost in the grid so you don’t know where it is because it’s floating eye drone that could be on any floor.
 
+JANINE: Mm.
 
-KEITH: The way I think it works is the drone has to have an internal power source just because it’s a drone that flies around and it’s not attached to my eye? (AUSTIN: Yes.) It’s not attached to my head or brain. So I think that what happens, it’s sorta like if you’re watching Youtube but you’re charging your phone from a laptop, and Youtube takes up more power than the phone can charge. So the eye is slowly draining of its battery because it’s not taking much from the wall, and that’s how it keeps it from getting noticed.
 
+AUSTIN: You didn’t snap your sash or something like that, but, you know, you gave it the right amount of pull for how armored it looked but it was not—it was actually much more armored than that. And so it slips away, and then the thing that it does [chuckles] is it lifts Even by—it flops Even over and it grabs him by the back of the neck, digging in with its teeth, and then leaps up on top of one of these towers of cars all around you. Even, take the level one damage Bitten. 
 
-AUSTIN: Gotcha. Gotcha, gotcha. So eventually your eye drone could just like flop over, but for now it’s powering the thing you’re using. Alright, cool, love it. 
 
+DRE: Yeah, okay.
 
-Awesome. So back down on the ground floor, those cops are beginning to do preliminary lock-down stuff. But they have not unlocked the elevator to go up to the 29th floor yet. They’re looking at scans and stuff some like that.
 
+AUSTIN: Unless you want to resist.
 
-KEITH: Can I tell you this? We are spending so much time tricking these cops, we are for real criminals!
 
+DRE: Um...so level one harm, you just—you do less effect when you make—
 
-[ALI and ART laugh]
 
+AUSTIN: You do less effect. 
 
-AUSTIN: So what do y’all do, down in the bottom floor, the lobby floor?
 
+DRE: Less rolls or certain rolls?
 
-ALI: So we came into a room and it was like, a bunch of people in the lobby who presumably work here?
 
+AUSTIN: I believe it’s in related rolls, rolls where the thing makes sense to, um, cause a negative. 
 
-AUSTIN: Are all like people who work here, they’re all, “Oh the alarm went off, I have to go downstairs like a fire drill again.” You know what I mean?
 
+DRE: Right, yeah.
 
-ALI: Okay. But we come out— they’re not like, “What are you doing here?”
 
+AUSTIN: Which, to me, would be like you’re bloody, you’re hurt, so anything physical, you know? Or, I don’t know, I bet talking to somebody while blood [laughs] is running down the back of your neck is also not great either.
 
-AUSTIN: No, ‘cause they are also— you probably passed some of them on the way down. You know what I mean? Everybody was trying to get down here quick. Maybe you all faster than other people, because you did get down here. The cops have just arrived. They’re talking to the receptionist here.
 
+DRE: Yeah, yeahhh. Um...I’ll take it. 
 
-ALI: Ooo, ooo. Could I perhaps talk to the cop before he talks to anyone else. Because that was kinda the whole point of this plan.
 
+AUSTIN: Okay. Alright, so then add that to your sheet. And we are back to you, Even, as you’re being pulled away [Dre chuckles]—or pulled up to the top of this tower. You can look around and see that two of the other Amprunners have been destroyed by those two drones, and now those two drones are—one of those drones is now fighting two of the remaining Amprunners and the other one’s coming towards you as this Amprunner begins to stuff you into a car [Dre laughs loudly, Sylvia laughs], as if saving food for later. 
 
-AUSTIN: Oh, you want to talk directly to the cops.
 
+DRE: Oh, good. Um...I want to know—okay, I want to know where this thing came from. So I think this is gonna be another good conversation thing as we figure out how this works.
 
-ALI: Yeah, just be like, “Hello, officer.”
 
+AUSTIN: Uh-huh.
 
-AUSTIN: Yeah, you succeeded at that roll, sure. (ALI: Okay.) My bad. I thought you wanted to get down here and talk to the receptionist and be, “Oh everything’s cool.” I didn’t realize that the goal was literally talk to the cop first.
 
+DRE: So it’s got me—does it still have me by the neck? Or—
 
-ALI: Oh no, ‘cause I wouldn’t want the receptionist to be, “Yeah, there was this alarm” and then have them go chase those kids, right? 
 
+AUSTIN: No, at this point it’s, like, shoving you into this old Honda Civic, basically. 
 
-AUSTIN: Yes. I gotcha.
 
+DRE: Okay.
 
-ALI: So we are covering for this other team. (AUSTIN: Mhm.) So yeah, I would love to— all three of us? by myself? Probably all three of us approach this cop and be like,
 
+AUSTIN: You know what it is? It’s like a hatchback and it’s shoving you into the back of this hatchback.
 
-ALI (as Tender): Hey, officer. Sorry. Sorry to make you come all the way down here. The alarm did go off, I know that you have to come all the way down here. It is a bit of a drill, so you don’t need to be here. I apologize for that. We should have called it in beforehand—
 
+DRE: Gotcha.
 
-        AUSTIN (as Cop): Gotta come in for a drill too.
 
+AUSTIN: And is like turning to roar at this drone. 
 
-ALI (as Tender): I understand. Yeah, that’s the drill, we have to figure out how soon you’ll come here. And I think it was approximately … 5 minutes, 43 seconds. So that’s a great time.
 
+DRE: Okay. So as it’s trying to stuff me in—
 
-AUSTIN (as Cop): Yeah, I’m gonna have to call this. I’m gonna have to call this one in and make sure everything’s on the up and up. We get an alarm like this, we gotta make sure. There’s all the unions involved, obviously. So.
 
+AUSTIN: Uh-huh?
 
-        ART (as Grand Magnificent): Alright, but that means we have to call it in.
 
+DRE: I brace myself kind of against, you know, like the inside of the car.
 
-        AUSTIN (as Cop): What?
 
+AUSTIN: Mm-hm.
 
-        ALI (as Tender): Well yeah, actually—
 
+DRE: And two of my hair tendrils snake out and try to touch this baby Amprunner.
 
-        AUSTIN (as Cop): Didn’t you already call it in? The alarm?
 
+AUSTIN: [intrigued] Okay.
 
-        ART (as Grand Magnificent): No, we have to call in what you do. 
 
+DRE: ‘Cause I want to see if I can somehow either get more information about it or talk to it or, like—I don’t know. 
 
-ALI (as Tender): Yeah, so if you could just give us the number—
 
+AUSTIN: Yeahh. So the way you talk to machines in this way is Attune, in this system. But you also have a special thing that says—you have a move for this, right?
 
-AUSTIN: She squints at you. 
 
 
-[ALI laughs]
 
+DRE: Yeah, “machines speak to you when you study them.”
 
-KEITH: I love it! You’re going like, “Actually cops, you’re the ones in trouble!”
 
+AUSTIN: So I think that means you can Study here instead.
 
-[JACK and ALI laugh]
 
+DRE: Yeah.
 
-ART (as Grand Magnificent): I’m just saying we have to file a report, so we need your call in the report, so I need to call someone about—
 
+AUSTIN: That’s what that reads like to me.
 
-AUSTIN (as Cop): Waitwaitwait. What’s happening with your coat? 
 
+DRE: Okay.
 
-[JACK laughs]
 
+AUSTIN: Which is very good, because your Study is two and your Attune is zero.
 
-        ART (as Grand Magnificent): What? What are you talking about?
 
+DRE: It is zero, yep [laughs].
 
-        AUSTIN (as Cop): Why is it— your coat.
 
+AUSTIN: Also because the thing you described was not talking, it was figuring out where it came from, basically, right?
 
-        ART (as Grand Magnificent): It’s very nice. 
 
+DRE: Right, yeah.
 
-[KEITH laughs]
 
+AUSTIN: Alright. So I actually don’t think that this is a Risky—I don’t think this is—I think this is a fortune roll, not an action roll. 
 
-        [crosstalk]
-KEITH (as Gig): That’s the only thing about it, it’s very nice.
-        AUSTIN (as Cop): What’s your job?
 
+DRE: Okay.
 
-ART (as Grand Magnificent): I’m an alarm tester.
 
+AUSTIN: Which means that I don’t think you’re at risk to do the thing that you’re talking about right now. So go ahead and give me your Study. So, for people listening, a fortune roll is just the same thing, basically, as an action roll, except because there is no risk, like—the failure here is just gonna be about what Even does or doesn’t get.
 
-AUSTIN (as Cop): You?
 
+DRE: There’s no failure, Austin. 
 
-ART (as Grand Magnificent): [defensive] I make good money testing alarms. I buy nice things with it. Some people go out for restaurant meals, and I bought a fine coat!
 
+AUSTIN: Exactly. Exactly. 
 
-ALI (as Tender): It’s not against dress code.
 
+DRE: ‘Cause that's a six. 
 
-AUSTIN (as Cop): [grumbling] Okay. You write your report, I’ll do my call-in. It’s fine, we both get called in, it’s fine. 
 
+AUSTIN: That is a six. That’s a good outcome, standard effect. So you’re specifically—do you have any questions specifcially or are you just like—[Dre sighs]. There’s some good Gather Information rolls—
 
-ART (as Grand Magnificent): Alright, I’m just sayin’, we’re gonna call. 
 
+DRE: Yeah.
 
-[AUSTIN groans]
 
+AUSTIN: Or questions at the bottom of your sheet if you ever really wanna know.
 
-ALI (as Tender): Can you give us the name of the person you speak to? ‘Cause I have to put that on my form.
 
+DRE: Um—
 
-AUSTIN (as Cop): Who I speak to?
 
+AUSTIN: But I’m happy to answer a couple of questions about this. Like what, um—I can give you a little bit. I can give you a little bit for free, or not for free, but just from my side.
 
-ALI (as Tender): Yeah. You’re calling it in.
 
+DRE: Yeah.
 
-AUSTIN (as Cop): Yeah, I’m calling it in. I’m gonna call it in. I’m gonna call it in to—
 
+AUSTIN: Which is, all the technology on this place is built from the collective will and dreams of the people on this world. This does not mean that this came from you though. In fact, where it probably came from—like maybe what you get a shot of is the vision of a—of [chuckles] a group of mercenaries who are traveling down the side of a mountain towards a convoy that they’re attacking. When suddenly, breaking through the atmosphere, is this giant mech. This Amprunner. That lands, that then you get into and then fuck up their whole day. This is—this—these things are a reflection of this very intense memory that one of the mercenaries that attacked the Doyenne had, back in the first Quire game. Like, “I remember that they looked shitty, I remember they had a big thing on its shoulder, I remember it was a tiger that roared weird.” And like, bit by bit, between that, between records that it had, records that existed in computers about the Amprunner, these things were built out of that by Quire during the Miracle.. So that’s where they come from. And they’re alive. They are just as real as a real tiger would be. 
 
-ALI (as Tender): Who are you calling?
 
-AUSTIN: to, I don’t know their name, when they pick up they’ll give me their, I can call them right now and find out their name. It’s a different person every time.
+DRE: Okay. And so—there’s probably no—like, there’s no recognition from these things of who I am?
 
 
-ALI (as Tender): Okay, tell me their name when you call in.
+AUSTIN: Umm...you know, on a six I’ll say yeah, there is. Like, on a six on a Study. You’re part of them in a weird way, right? Like, they move, and I think maybe this is part of your hybrid self. We’ve talked before about the way that muscles can have memory and we want technology to be in a similar sense here, that like they have you in them in an almost genetic sense. Because, when it moved, and the people who saw it move, those mercenaries saw it move, they saw you moving. And so it moves the way you used to pilot it. It sweeps with the same grace that you would have swept around your rear tail and charges ahead with the same ferocity. And so it is not just like someone cast Animate, it is as if there is a little Even Gardner piloting it [chuckles] in terms of the way it moves and jumps around. 
 
 
-[group laughter]
+DRE: Right.
 
 
-AUSTIN (as Cop): Okay. I’m gonna. Hmm. 
+AUSTIN: Which maybe gives a bonus on a roll to try to Attune, you know what I mean? I think maybe it gives you a plus 1d to Attune if you wanted to try to do that. 
 
 
-[KEITH laughs]
+DRE: But overall their intention is just—they are just like—
 
 
-ALI (as Tender): You seem tense. Are you, do you not, is this your first time?
+AUSTIN: They’re animals. 
 
 
-AUSTIN (as Cop): Normally we go up— we have to check the alarm, I have to go upstairs. What floor is it on? (ALI as Tender: Wuhwuhwuh.) Then I can call it in.
+DRE: They’re wild animals, yeah.
 
 
-KEITH: Are you guys even real cops? 
+AUSTIN: Yes. They’re wild animals and you look really tasty because of being a weird technology person. 
 
 
-[ALI laughs]
+DRE: [laughs] Sure, yeah. Alright.
 
 
-        ALI (as Tender): This seems— no one’s ever had— we do these drills often.
+AUSTIN: And so do the drones, for that matter. You know, they’re predators. 
 
 
-AUSTIN (as Cop): You do? I’ve never seen you here before! I’ve done these drills before. We go up—
+DRE: Yeah. 
 
 
-        [crosstalk]
-JACK (as Fourteen Fifteen): It’s a different person each time. It’s someone else each time.
-        ALI (as Tender): Yeah, what do you— 
+AUSTIN: Alright, cool. I like that. Signet and Echo? 
 
 
-[KEITH laughs]
+SYLVIA: Ooof. [clears throat] Okay. 
 
 
-ART (as Grand Magnificent): Yeah, that’s how you know the check on the up and up. Because it’s different people each time. The same person checks the alarm each time, you wouldn’t learn anything about the alarm.
+AUSTIN: [laughs] Deep breath. Okay. 
 
 
-        ALI (as Tender): Exactly.
+SYLVIA: Let’s figure this out. My knee is fucked up.
 
 
-AUSTIN: I think this is a group Sway. 
+AUSTIN: Uh-huh.
 
 
-[ALI laughs] 
+SYLVIA: Even’s being pushed in a car.  
 
 
-AUSTIN: I think this is a group Sway. If that sounds right to y’all?
+AUSTIN: Mm-hm.
 
 
-ART: You don’t think this person is just blinded by our … continual— ?
+SYLVIA: But the drone thing is taken care of, right?
 
 
-AUSTIN: I am. I am blinded. (KEITH: I’m loving it.)
+AUSTIN: Mm-hm.
 
 
-JACK: Don’t you have those fake documents?
+SYLVIA: Okay. Yeah, I’m not entirely sure what I can do here. 
 
 
-ART: I do, I have forged documents. (AUSTIN: That’s true.) I’m gonna check that on my load. If— 
+AUSTIN: Think broad.
 
 
-AUSTIN: So what are they? What do they say? Are they— here’s a thing we haven’t done at all, which is we’ve done no flashbacks yet. But at any point, you can just do flashbacks because that’s the game this is. So like, give me the flashback of you setting up whatever it is that these documents are, that are perfect for this moment.
+SYLVIA: Yeah.
 
 
-ART: Well I mean, they’re alarm inspector credentials. 
+AUSTIN: Like, zoom out the camera. You don’t have to be in the spot you were in. Think about how the anime would go, where we would cut and maybe you wouldn't be on the ground anymore, you’d be somewhere else. 
 
 
-[ALI laughs] 
+SYLVIA: Would you count this encounter as an ambush, Austin?
 
 
-KEITH: If I can be so— this is a very Mako/Larry moment where you guys are just trying to convince this cop that he’s somehow—
+AUSTIN: Oh yeah, it’s definitely an ambush.
 
 
-AUSTIN: He’s the one who’s wrong.
+SYLVIA: Okay. So maybe—
 
 
-KEITH: He’s somehow in trouble and is the bad guy. 
+AUSTIN: Well—yeah. It is.
 
 
-[ALI laughs] 
+SYLVIA: So I have a move called Ready For Anything. 
 
 
-KEITH: “I showed up because I thought there was a burglar, but I guess I’m the burglar?” 
+AUSTIN: Mm-hm.
 
 
-[JACK laughs]
+SYLVIA: “When being ambushed, you gain potency to all actions during flashbacks and your first flashback costs zero stress.”
 
 
-AUSTIN: So yeah what are the, how did you make them? What did you have to— how did you get them? Just tell me, it doesn’t cost stress ‘cause this is just a thing on your character sheet. But I am curious how you got these forged papers, how they came about.
+AUSTIN: Oh shit! Okay. 
 
 
-ART: I think it’s like, Grand sitting around like with everyone beforehand, being like, “So what do you think they got in there?” And it’s like, “I don’t know, probably they got ducts, they got— what could we be doing there?” And just brainstorming, right? We could be doing the ductwork, we could be elevator inspectors, and then settling on alarm. “Alarm! we should be alarm inspectors!”
+DRE: That’s rad!
 
 
-AUSTIN: That way, if an alarm goes off—
+AUSTIN: That’s really cool.
 
 
-ART (as Grand Magnificent): That way, if an alarm goes off, everyone else is the problem. 
+SYLVIA: So I’m thinking of doing something with that, but I’m not entirely sure what [laughs].
 
 
-AUSTIN: God.
+AUSTIN: Does anyone have ideas about a cool flashback for how Echo could have prepared for this?
 
 
-[ALI laughs] 
+DRE: Uhhhh.
 
 
-ART (as Grand Magnificent): Everyone else is just not doing the alarm drill properly.
+JANINE: Training montage with catching stuff out of the air?
 
 
-AUSTIN: Alright. So.
+[Dre laughs]
 
 
-ALI: Can I— ‘cause Art said that we are alarm inspectors or whatever. I would love for the pages to also have sorta like what the plan was, which is we are specifically setting off an alarm on the 28th floor, ‘cause we know we are going to the 28th floor. And then just being like— when you call it in just read off of this paper: “You don’t have to go upstairs, this doesn’t have to be a whole thing.”
+AUSTIN: Training montage—that’s totally fair. 
 
 
-AUSTIN: I’m gonna read from the book here, which is very good. It says [reading]: Forged documents— reasonably well-made facsimiles of documents that would never actually be given to someone like you.
+DRE: Yup.
 
 
-[laughter]
+AUSTIN: Or like training montage while jumping and then catching stuff out of the air? Like, specifically jumping from the side of this canyon to the other.
 
 
-ART: You could just add into that rule “or anyone.”
+JANINE: Oh, like a sort of zipper jump between two walls to snatch some sort of, like—
 
 
-[laughter]
+AUSTIN: Yeah.
 
 
-AUSTIN: Perfect. So what I’m gonna do is— because they’re fine quality or because you have the item, you’re gonna get a higher effect level on this basically. So instead of being risky standard, it’s gonna be risky great. Or whatever. Risky … risky grand? Risky grand.
+JANINE: Not a Golden Snitch but some other reference [Austin laughs] that’s not as played out of a thing that flies
 
 
-ART: Risky Magnificent. 
+SYLVIA: They played a lot of Mario Odyssey, that’s what’s going on. 
 
 
-AUSTIN: [laughs] Risky Magnificent, your cousin. 
+AUSTIN: Exactly. Exactly. 
 
 
-[ALI laughs] 
+SYLVIA: Gotta get that moon. 
 
 
-AUSTIN: I know it’s a mononym, you don’t have to correct me. Oh wuhwuhwuh wait. 
+AUSTIN: Gotta get that moon. 
 
 
-ART: I do have a younger cousin who was so impressed that he named himself after me.
+SYLVIA: I like that.
 
 
-AUSTIN: Right, of course. Good. So I do think that based on what you were all doing though, it’s either that you were doing a setup move, Tender, for Grand to present these things. So you should roll, and then he can get an even higher one. Or I think it’s another group activity where you all roll and we take the highest roll, but someone takes all the stress for failures. And this is 100% Sway. I don’t know, I can’t make that decision for y’all, but.
+AUSTIN: Yeah, no, totally, I would totally—that’d be really cool. Though the thing that that gets is, like—I guess, yeah, what that would do is maybe that would work as a setup action for yourself—
 
 
-JACK: No, this is Sway. This is not Consort, is it? 
+SYLVIA: Yeah.
 
 
-[crosstalk]
-ALI: I think it is Consort?
-KEITH: I think Jack should take the stress ‘cause I don’t think Fourteen is stressed enough.
+AUSTIN: —to get a better effect in the next thing, right? I’m just trying to figure out how that works mechanically. ‘Cause we can have that flashback but I need that flashback to then relate to the thing you’re doing now in a way that’s—
 
 
-ALI: [laughs] Is there— can we just know the rules really quick? ‘Cause I have the ability that says “You can spend a gambit instead of taking any stress cost.” 
+SYLVIA: Yeah, that’s my problem. 
 
 
-AUSTIN: Yeah, it says “any.”
+AUSTIN: I don’t want you to have to roll twice just to have that effect, do you know what I mean?
 
 
-ALI: And I think in the rules it specifically said like, even things you’re leading.
+SYLVIA: Yeah. Um—
 
 
-AUSTIN: If it says “any” then I’m gonna say any. But I’ll double check for you, one second. I have the book open so I may as well go find it. [reading] You can spend a gambit instead of paying any stress cost. Any time you need to spend stress, you may spend a gambit instead. This includes resistances and push costs. For powers which have a variable cost, such as Sundering, those additional costs are part of the same activation, so push and all additional features only cost one gambit.
+AUSTIN: You know, maybe the way to do that is just like, you’ve done that flashback, we know you have that. You have potency on that flashback, right? Which means that it’s going—is that what it is? You have potency on the flashback?
 
 
-So yeah. Yeah, you can spend a gambit to suck up any stress costs. So yeah, if you lead this, you would totally be able to do that.
+SYLVIA: You gain potency to all actions during flashbacks, and your first flashback costs zero stress. 
 
 
-ALI: Okay.
+AUSTIN: Okay. So potency, again, is just like a quality thing.
 
 
-AUSTIN: You have one gambit left, as a reminder. 
+SYLVIA: Yeah.
 
 
-[ALI laughs nervously]
+AUSTIN: Which means like, ‘Oh, I’m going to get a better effect here,” basically. It’s like—you know how we talk about, like, ‘oh, it’s a small gang’? You can fight as a small gang.
 
 
-AUSTIN: Uh huh. You get more when you roll six on a risky, though.
+SYLVIA: Um—
 
 
-KEITH: Do I get one for the resist roll?
+AUSTIN: That’s scale. Potency is like strength slash—strength, and then quality is another thing that can give you an advantage. 
 
 
-AUSTIN: No. Nonononono. It’s a six on a risky, it’s a six on risky roll.
+SYLVIA: So I did just have an idea.
 
 
-KEITH: Oh, is there not risk in resists?
+AUSTIN: Okay.
 
 
-AUSTIN: No, there’s not any risk ‘cause you’re just resisting.
+SYLVIA: So I’ve talked a lot about how Echo acts as a scout.
 
 
-KEITH: Good point.
+AUSTIN: Mm-hm. 
 
 
-AUSTIN: I you get a six on a risky or a double six on a risky. Alright. So Grand, you got a five. Fourteen and, and Tender also roll. Risky great.
+SYLVIA: Would it be safe to say—and what I’m asking is, is it cool if we say Echo scouted through here a little bit?
 
 
-ALI: Oh my god, I don’t know if I should take this gambit to have anything in Sway for this.
+AUSTIN: Oh, a hundred percent. Totally.
 
 
-AUSTIN: Oh, I see what you’re saying. Well, make that decision now before anybody else rolls. But if you fail, as long as someone else succeeds you’ll just be taking stress, d’you know what I mean?
+SYLVIA: Okay. So I have this thing in my inventory called a detonator. 
 
 
-ALI: Right. Fourteen, what’s your Sway?
+AUSTIN: [amused] Uh-huh.
 
 
-JACK: It’s one.
+SYLVIA: And what I’m thinking is that I planted a thing along a route.
 
 
-ALI: Okay, okay. We’re all just gonna roll.
+AUSTIN: Mm-hm.
 
 
-JACK: Okay.
+SYLVIA: And I’m—and can use—like, I didn’t know I was gonna use it for this; I expected to use it against soldiers or something. 
 
 
-ALI: Risky standard … risky great.
+AUSTIN: Uh-huh. 
 
 
-AUSTIN: Risky great, yeah.
+SYLVIA: But it’s basically like a falling rock trap type thing.
 
 
-ALI: Not risky extreme. [laughs]
+AUSTIN: Right. 
 
 
-JACK: Risky …
+SYLVIA: And I use it to take, like, using it against the group of Amprunners, basically.
 
 
-ART: Boom! 
+AUSTIN: Right. So—
 
 
-ALI: Yesss!
+SYLVIA: As opposed to using it against soldiers like I intended. 
 
 
-AUSTIN: Wow, what a good roll. Tender rolled two— so when you don’t have a skill, which Tender doesn’t. Wow! So. Incredible rolls all around. So Tender has to roll two dice and takes the lowest one - but she rolled two fives - because she doesn’t have one in Sway. Fourteen rolled a six.
+AUSTIN: Can I, can I suggest something which moves it away a little bit—
 
 
-ART: So we get another gambit!
+SYLVIA: For sure. ‘Cause I’m reaching here.
 
 
-AUSTIN: So you get another gambit, you get another gambit.
+AUSTIN: Which is only—it’s, I mean, the way the system works is it could be exactly where you want, it would just mean more stress but because you have that ability would cost you no stress. 
 
 
-KEITH: So now we have two gambits.
+SYLVIA: Yeah.
 
 
-AUSTIN: Look at that. Two gambits, back up to two. I’ll got back over to this other sheet and update it.
+AUSTIN: So you could absolutely have it do the thing you were talking about, which is, like, you set it up, you pull the trigger, it all happens. Like, a hundred percent I will let you have that if that’s the way you want it to go
 
 
-So this poor cop, whose name is Every Avery [ART laughs] takes the fuckin’ documents from you and is like, 
+SYLVIA: Mm-hm.
 
 
-        AUSTIN (as Every Avery): Yeah, this all—
+AUSTIN: But I kind of also like the notion of it not needing to crush anybody. Like, if there’s a big explosion, what happens? Okay, the drones get scared and the Amprunners get scared— 
 
 
-AUSTIN: And then like, touches a communicator on her shoulder and says like,
+SYLVIA: Oh yeah!
 
 
-AUSTIN (as Every Avery): [haltingly] Everything’s— good— Command, the alarm test all worked out— normal. What’s your name? They need your name. Yeah, I know. I know. Carlene?
+AUSTIN: And everything just scatters. Instead of it being about killing something, it can be about scaring them off.
 
 
-        ALI (as Tender): Oh, that’s lovely.
+SYLVIA: For sure. So, where are we on the map? Are we still here on this ‘X’?
 
 
-ALI: And I write it on the—
+AUSTIN: You’re in this—no, you’re in the little red area here. 
 
 
-AUSTIN (as Every Avery): Her name is Carlene Thrush. I’m sorry this caused a whole thing, but um thank you for having everything in order here. 
+SYLVIA: Okay.
 
 
-[ALI laughs]
-00:34:41
+AUSTIN: You’re, like, literally here.
 
 
-AUSTIN: And I think they’re gonna leave, the threat is gone. Gig, you’re able to finish this. You know what I mean? There’s no more threat, so I’m not gonna make you roll. You’re already at three out of four ticks, and so. I could gin up some risk, like, “oh, you might electrocute yourself or some bullshit,” but no. They got a great effect on keeping the cops away. So delete this “cops arrive” thing. And you finish like plugging it in, and Yam’s big front light turns on all the way like, high beam. And it’s like,
+SYLVIA: Alright. So what if I left it on this path here?
 
 
- [12 seconds of AUSTIN’s booting up noises — it’s serious amount of foley]
+AUSTIN: Yeah, totally. Exactly 
 
 
-AUSTIN: And it does not know how to make words yet. Mrrrooww yam. 
+SYLVIA: So it’s close enough to make—like, so that’s to the left of us. 
 
 
-ALI: Aww.
+AUSTIN: Yeah, to the west, yeah. 
 
 
-[KEITH laughs]
+SYLVIA: So it’s close enough to make a loud noise. 
 
 
-AUSTIN (as Yam): Mrrrooww yam. Keeeyahyam. Kyahyam. Brrwww.
+AUSTIN: Yep.
 
 
-AUSTIN: And is trying to make noises, and it can’t— it also doesn’t know how to stop making noises! So mmmwwah, just making that noise super loud? And then the alarms finally go off, and it’s still way loud? And Orellia is like,
+SYLVIA: But not—we don’t get hurt from it. 
 
 
-AUSTIN (as Orellia): [sigh] Alright. You did good job. I think your show sucks. But. Thank you. You might be a real one.
+AUSTIN: Totally.
 
 
-        KEITH (as Gig): God, you’re so rude. You’re so rude! What?
+SYLVIA: And it also will sort of wall off that path.
 
 
-        AUSTIN (as Orellia): You’re so rude.
+AUSTIN: Totally.
 
 
-        KEITH (as Gig): Fuck you!
+SYLVIA: Yeah. 
 
 
-        AUSTIN (as Orellia): Fuck you! I’m sixteen! I’m a little kid! 
+AUSTIN: So I think that that’s Rig, is what that sounds like to me.
 
 
-[ALI laughs]
+SYLVIA: Okay.
 
 
-KEITH (as Gig): I don’t care! I don’t care if you’re sixteen! I just made your robot talk for you, and you’re like “Your show sucks, thanks.” Fuck off!
+AUSTIN: Or sorry, again—again, you get to say what this is. 
 
 
-        AUSTIN (as Yam): Nyyyaamm.
+SYLVIA: Yeah.
 
 
-KEITH: I take the voice out.
+AUSTIN: And I’ll tell you what the position and effect are. 
 
 
-[crosstalk]
-ALI: NO! 
-ART: Don’t ta—
-AUSTIN: NO! You do not! That is not in character!
-JACK: No no no no no.
-KEITH: No, I don’t.
-  
-ALI: God.
+SYLVIA: [exhales] Phoo. I can’t—I don’t have anything that I could really make a case for [Austin chuckles], ’cause I don’t think Scrap makes sense at all.
 
 
-AUSTIN: Yam stands up. And Garlic makes some hand signals. And Orellia nods and says,
+AUSTIN: Scrap would make sense if you were throwing it. 
 
 
-AUSTIN (as Orellia): Alright. Get your friends back up here, we’re going home. Only ‘cause you fixed Yam. [sigh] I’m gonna take you to her.
+SYLVIA: Yeah.
 
 
-AUSTIN: So everyone comes upstairs?
+AUSTIN: It actually gets into that. It’s like, if you’re throwing a grenade, that’s Scrap.
 
 
-ALI: Yeah. Can we—
+SYLVIA: Yeah, but—
 
 
-JACK: We take the lift this time, yeah.
+AUSTIN: But if you’re setting off a bomb that you planted—
 
 
-AUSTIN: Yeah, the lift’s good now. And so Orellia leads you to the scaffolds that y’all came in on. And then she says like,
+SYLVIA: Um—
 
 
-        AUSTIN (as Orellia): Alright. Just— everyone be cool for a second.
+AUSTIN: It could be—it could have been Skulk if you were sneaking through it. 
 
 
-AUSTIN: And she pulls a gun out from the inside of her jacket, and aims it in the air and fires. And the gun itself? The barrel of the gun blossoms into flowers. And then the petals break and fall away. And into the sky, a flare goes up against the pink of the Twilight Mirage. And then she says
+SYLVIA: Skulk actually I think could work because I was sneaking through the area and that’s the action, right?
 
 
-        AUSTIN (as Orellia): She’ll only be a few se—
+AUSTIN: Oh, you know what else it could be? It could be Scramble, which is you’ve climbed up to the top of the thing. 
 
 
-AUSTIN: And then before she can even say “seconds,” a huge balloon with a basket underneath it like a hot-air balloon flies around the corner of another one of these tall structures and heads towards y’all. It’s literally a hot-air balloon with netting and stuff all around the balloon. And then the basket is this big metal box that has jets attached to the side of it? Clearly just welded on. And they flip and turn from being forward-facing— I guess backward-facing and producing thrust to go forward, to being reversed to slow down, and then vertical to aid the balloon in just kinda floating in place outside of the scaffolding.
+SYLVIA: Okay. 
 
 
-And you can see, the driver looks over and nods at Orellia like, “who the hell are they?” And Orellia says,
+AUSTIN: So then it’s about—it’s kind of like, what’s the camera framing?
 
 
-        AUSTIN (as Orellia): We have to take them to see Vanya.
+SYLVIA: Mm-hm. 
 
 
-AUSTIN: And the pilot shakes their head and let you all in. And inside is very cramped. They did not expect to have to transport an additional four people. I think this is probably the moment when you realize that this person, the person piloting, whose name is Piper Clay, also has on one of these arm bands. And now in the light you finally are able to see the arm band. 
+AUSTIN: And so like—
 
 
-The other side of the group right now has been dealing with a group called the Volunteers of Seiche. The Volunteers of Seiche— this is kind of public knowledge— are an anti-New Earth Hegemony group. They’re kind of a militia. Kind of a citizen-run militia that believes that the Quire system is the holy and sacrosanct home for the Divine Fleet, and that the New Earth Hegemony had no right to bring millions of people to the system to colonize it. And also blames New Earth Hegemony for being in this position to begin with. They are not official, but the Divine Free States has not interceded to prevent them from doing things like rallying up this very anti-Earth sentiment. They’ve not come to blows yet with anything from Earth because they’re focused here on Gift-3, which is primarily a Divine Free State World. But they are very much anti-Earth. And their armbands are black with white text that says SOA-- er, sorry VOS, which is Volunteers of Seiche. 
+SYLVIA: I mean, I do like—we talked about the sort of jumping around—
 
 
-These are those same armbands, but turned upside down and with a kinda prismatic line drawn through the upside-down V to turn it into an A. So instead of it— here, let’s do this on the thing. Instead it being like [drawing] S … O ...  - I did it backwards again - SOV or VOS rather. Letters are hard, friends! 
+AUSTIN: Double j—yeah, totally.
 
 
-[ALI laughs]
+SYLVIA: And I do like that visual.
 
 
-AUSTIN: Instead of it being V … O … S it is S … O … and then like that. I don’t have a rainbow color as an option here. But imagine that there’s like a rainbow connection here turning that upside-down V into an A. And that is what these kids are all wearing. And they let you onto their-- do you all just hop on board?
+AUSTIN: Yep.
 
 
-JACK: Yeah.
+SYLVIA: So we can kind of tie that in using Scramble here. 
 
 
-KEITH: [hesitates] Yeah.
+AUSTIN: So then, yeah, let’s use Scramble. Let’s use Scramble and say that that is—again, it’s potency so it’s gonna have—you have potency so you have Great effect there. 
 
 
-ALI: Mhm.
+SYLVIA: Um, what’s my position here? Risky still?
 
 
-AUSTIN: It sounded like there was some trepidation there from you, Gig. 
+AUSTIN: I think Risky because I can think of ways in which this would [slight glee] all go really bad. 
 
 
-[JACK laughs]
+SYLVIA: And Great effect?
 
 
-AUSTIN: Which is fair. Which is fair. And then they leave. They leave Gift-3, and they fly across the Crash Yards, which are. Er, they don’t leave Gift-3, sorry! Hoo. They don’t go to space in this balloon. 
+AUSTIN: Great effect. 
 
 
-[ALI laughs] 
+SYLVIA: Four.
 
 
-They leave Big Garage and pass over the Crash Yards, which are— I’ll just read from my description. [reading] They’re built from the collective will of those on the planet. The Crash Yards are a collection of technological refuse, real and imagined. If you need a part your middleman doesn’t have, you can come there. It is ship cemeteries and towers of destroyed cars and hills of discarded electronics from all across the Milky Way. There are the sounds of livestock crooning and of mechanical predators stomping across plastic and metal. 
+AUSTIN: Four. Okay. Um, let me see something one second...so four again is there’s a complication, right? So here’s what happens, I think. We—the—it’s just lesser effect, is the outcome here. The explosion goes off and the cars start to fall, like the entire row of them starts to fall over over to the west. And the two remaining drones go like, [alarm noises] “Brrrrwohh, brwwwwaoh” and take off to the west to investigate that. And so you’ve dealt with them, but you still have the problem of these three remaining Amprunners, one of which has Echo pinned inside of a Honda Civic [laughs]. 
 
 
-And you’re above it all. You kind of look down on it. And off in the distance, again still silhouetted against this pink and blue twilight sky, there is the strangest thing you have ever seen in your life probably. Well, maybe not ever, y’all have seen some weird shit for sure. There is a massive treaded structure like the size of a small town on top of big tank treads, rolling across the flats of Gift-3. Gift-3 as far as its climate goes is sort of — what’s the phrase I’m looking for. They’re like the Eastern European steppes. Semi-arid, I guess? When there isn’t just like weird technological refuse everything, it’s just like cracked, hard, dusty ground or rocks with some brush here and there. But off in the distance there’s this huge structure on top of these tank treads. It takes you awhile to notice this at first, but it is a massive theme park on massive tank treads. With a huge rainbow. Not just one. There’s like a huge main rainbow going across the entirely of the theme park? But also other ones all around it. At first you think they’re just holographic projections, but then you hear the sound of thunder. And you can see that there’s just a sunshower over top of this slowly moving around theme park up on tank treads. And then you get a little closer, and you can actually see the tank treads. The actual wheels inside are just merry-go-rounds or Ferris wheels? And it’s the strangest thing. You get closer and closer, and you can hear music playing. You can hear music of— the music it sounds most like is — actually I think iit sounds like— Bo En did the soundtrack to a game called Lovely Planet? 
+SYLVIA: I think you mean Even. 
 
 
-JACK: Ohhh.
+AUSTIN: Oh right, sorry, Even. Yes, yes, yes. So you’re close.
 
 
-AUSTIN: I don’t know if— are you familiar with that, Jack?
+SYLVIA: Yeah.
 
 
-JACK: Yeah. Yeahyeahyeah. Great soundtrack.
+AUSTIN: Five of the six clock pizza slices have been filled in [laughs].
 
 
-AUSTIN: It’s super good. It’s just bubbly and poppy, really hard not to bob your head to, basically? And it’s playing all through this park as you get closer and closer. And down below you can see the 300 missing kids. They are in the fields of the Jungle Land section of the park where now they are tending to crops. Or some of them are racing around Speed Town in these loosened freed bumper cars, going from place to place, going on gravity rides. Standing in line to get food from concession stands that they’re running. And you see more Torch Units too. Not 300, but maybe a dozen or so. 
+SYLVIA: Ooh, we gotta start calling those pizzas instead of clocks.
 
 
-And then you see in the center area, Rainbow Heaven, a landing pad for you and everyone else here. And walking up to meet you is the leader of this place, the leader of the Sailors of the Ark. You see a sign above her head “Leave Your Worries on the Other Side of the Rainbow” and above that it says the name of the park, which is the Ark and Ciel Amovement Park.
+JANINE: Nmm.
 
 
-And she is wearing— she is like, half Indian half Dominican in my mind? She has sharp, curved, almost knife-like hair that is prismatic. It looks like it could be made of metal. It literally looks like it could be made of sharp rainbow metal around her face. With a dark lip stain and dark eyes, and she has glasses with big black plastic frames. And she is wearing— imagine a ringmaster outfit, imagine a blue ringmaster outfit, but also a high fashion version of that with a huge popped collar and black lapels with gold flourish and black pants. And she has a white dress shirt with another chromatic tie. The balloon lands and you all get off, and she says, 
+AUSTIN: They’re slices, you know? Pizza pie slices. Instead of calling them clocks, we’ll call them pies, you know? [quietly] I want pizza. 
 
-        AUSTIN (as Vanya): I’ve heard about you. Are you cops, or are you people?
 
+JANINE: It’s funny, ‘cause when I saw this clock I thought, “Wow, Austin definitely never worked in a pizza place.”
 
-AUSTIN: And she smiles. This is not aggressive. But if someone is in charge here, it is her. It is Vanya de la Vega.
 
+AUSTIN: [defensively] I didn’t draw this clock! This is what clocks in this system look like! 
 
-        ART (as Grand Magnificent): I don’t know. Neither?
 
+DRE: Wow, harsh.
 
-ALI (as Tender): That’s a Venn diagram with some overlap. [laughs] 
 
+JANINE: Okay [laughs]. Alright. It’s just a little uneven, is all [Dre laughs]. It’s just, you know, it’s—it’s a—if you sent that medium out, someone would complain. 
 
-ART (as Grand Magnificent) : I don’t like this.
 
+[Austin sighs]
 
-AUSTIN: She shakes her head. She says,
 
+JANINE: It’s fine, it’s a good clock. 
 
-AUSTIN (as Vanya): Not from where I’m standing.
 
+AUSTIN: You should see—okay, you should see what the original fucking clocks looked like. 
 
-KEITH (as Gig): I’m sorry, what was the Venn diagram?
 
+[Dre cackles]
 
-ALI (as Tender): Cops and people.
 
+AUSTIN: You want to talk about an uneven slice, look at this shit right here. It’s bad. I—you know, that’s three big slices and then three tiny slices. 
 
-KEITH (as Gig): Oh, okay, got it.
 
+SYLVIA: Yeah, that’s terrible.
 
-AUSTIN: I’d say she’s like 19. 18, 19. Older than most of the kids here, who are like 13 to 17.
 
+JANINE: What the fuck is that?! Oh my God. 
 
-        ART (as Grand Magnificent): Yeah, I’m not sure we’re either. 
 
+AUSTIN: It’s a clock. It’s a clock [Janine sighs] and so it’s meant to be like a—
 
-[ALI laughs]
 
+DRE: Where is it? I don’t even see it. Oh—
 
-AUSTIN: She smiles, and she says, 
 
+AUSTIN: I linked it in the chat, I linked it in the chat. Yeah, that’s what the original clocks looked like in Apocalypse World. 
 
-        AUSTIN (as Vanya): Ahh, that’s the right answer. Come with me.
 
+DRE: Oh yeah, that’s bad.
 
-KEITH (as Gig): Of course Grand Mag fits in with these dipshit kids.
 
+AUSTIN: Mm-hm.
 
-ALI (as Tender): [laughs] Of course!
 
+JANINE: That’s bad.
 
-AUSTIN: She begins to lead you through this amusement park. I think like, it becomes pretty clear quickly— and she’ll talk to you about it, she says,
 
+AUSTIN: And then the thing I’ve shown you is literally what the Apocalypse World clocks look like. Basically, there’s a—the southeast and northwest slices are very big.
 
-        AUSTIN (as Vanya): So what do you want? I hear you did us a favor.
 
+JANINE: Oh, this is the seduced clock.
 
-AUSTIN: And behind her, you can just hear
 
+AUSTIN: Yeah, for if you were being seduced, for instance. 
 
-AUSTIN (as Yam): Nnyaaaamm. Nnnyaaaaummm. ME! Yammee! 
 
+JANINE: [laughing] Okay.
 
-[KEITH and ALI laugh]
-        
-KEITH (as Gig): Yeah, we did that.
 
+AUSTIN: It’s only a six—
 
-AUSTIN (as Vanya): And you held off the Salvage Mandate.
 
+JANINE: Time until seduction, right, okay.
 
-KEITH (as Gig): Right. And the cops.
 
+AUSTIN: Right, exactly. Versus the broken leg clock, which is an eight—an eight slice clock.
 
-AUSTIN (as Vanya): That’s who I meant.
 
+JAININE: Takes longer to get a broken leg than be seduced, I guess, is what—
 
-KEITH (as Gig): Okay.
 
+AUSTIN: I think get a broken leg fixed, is my guess.
 
-ALI (as Tender): Uh, we’re here because people are concerned that the kids who are here are here against their will.
-00:48:38
 
+JANINE: Oh, okay.
 
-AUSTIN (as Vanya): They’re concerned about the wrong thing. They should be concerned that kids here are here completely of their own will because they did such as a shitty job as parents and guardians. Maybe if they’d been concerned about that a little sooner, we wouldn’t be building our colony.
 
+AUSTIN: Which, yeah, uh-huh, I’ve seen movies. Lots of people falling in love while their broken legs are healing.
 
-KEITH (as Gig): That mostly checks out.
 
+JANINE: So—Mm. Okay. Uhh, God. Fuck. I—New systems are hard to figure out.
 
-AUSTIN (as Vanya): Yeah. 
 
+AUSTIN: Mm-hm. Think about what Signet would do and we’ll work out the system shit second. 
 
-AUSTIN: She’s walking you through all the— you’re in the center zone basically. I want to bring you over to this map page. I wanted to sketch this out properly and did not have the time. But there’s a big lbop thing, tank base, right? And then there is the center area where y’all are now. There are three other areas total. So I’ve drawn a rectangle and a little circle in the middle. And then there’s a western, eastern, and southern area? And each one is a different sub-park. Like Tomorrowland or whatever. Um. And those three areas are, or the four areas I said are Jungle Land, which is a zoo/safari area that they’ve converted into a big farm. It is Speed Town. Obviously. And then there’s Musicalia in the south. And you are in Rainbow Heaven right now, in the middle.
 
+JANINE: [laughing] I mean, I kind of can, but that’s the problem is I don’t have a thing for that anymore. 
 
-KEITH: I need to figure out how to get a licensing deal with these kids so we can add a fourth segment called Kepcot.
 
+AUSTIN: Tell us what it is and we’ll figure it out. 
 
-[laughter]
 
+JANINE: I can’t touch a robot and make it do different stuff; that’s not really in my book here. 
 
-AUSTIN: You’re actually in the Epcot version area. You know how Epcot has the “places from around the world” area? It’s that, but alien cultures you’ve never fucking heard of. “Oh, these are like green people who have seven eyes.” And they’re waving and singing their - it’s robots that are doing this basically - and singing some song from whatever planet that’s from, you don’t fuckin’ know where they’re from. But she’s taking you in fact to a specific restaurant called The Grolian Plates. Which you assume— there is a floating planet above it that you assume is Grole G R O L E that instead of having rings, it has giant plates. Like discus plates stuck in the planet? But also it’s a restaurant, so it’s called Plates, like a plate that you would eat food on. And she leads you in there to get some food.
 
+AUSTIN: Yeah, it is. That’s Attune. So that’s totally just Attune. 
 
-The whole park is very sparsely populated because there’s only 300 kids here. And a dozen robots, a dozen of these Torch Units. So it’s not like anything’s packed. There’s lots of shut down rides and empty storefronts and stuff like that. And in general, the fashion is very much a punked out version of stuff that they found in this place. Y’know? So yeah. She leads you to the Grolian Plates.
 
+JANINE: Okay. 
 
-        AUSTIN (as Vanya): So what do you need?
 
+AUSTIN: Like, that’s the thing, is like there are definitely—it’s because there’s action systems in this instead of just moves and instead of just— 
 
-AUSTIN: She sits down in a booth. You’re all seated and getting food brought to you and stuff like that.
 
+JANINE: Okay. That’s fair.
 
-        KEITH (as Gig): Um. That’s a good question. What do we need?
 
+AUSTIN: Like, a lot of it will fall in that general action space, you know?
 
-AUSTIN: As a reminder, out of character. Grand, your contact, whose name was Alabaster Went, needed you to look for his niece Winchester Went. That is who you’re looking for. Your mission was not to come save all these kids or something. He specifically asked you to do this. But. You know.
 
+JANINE: Hmmm...okay. So where are these—okay, so there’s the one—
 
-ALI: But we know it’s like, a growing concern among the community, right?
 
+AUSTIN: There’s one—
 
-AUSTIN: Yes. Totally, totally. 100%
 
+JANINE: The one Amprunner that’s stuffing [Austin laughs] Even into a trunk, or whatever.
 
-JACK (as Fourteen): Yeah. We uh. We’re looking for someone called Winchester. Her uncle was concerned about where *she’d gotten to.
 
+AUSTIN: Has Even—yeah. Mm-hm.
 
-AUSTIN: “So what do you all want to eat?” says a waitress who comes over. She is 16 probably? No, she’s not a waitress. She’s a resident who is running this today. To be clear, she’s probably going to go cook whatever food you order. And she hands you—or on the tables are modified versions of the menus that were already here, with literally Sharpie crossed-off some of the things or new stuff has been added in.There’s— textbook cover, what is that stuff called? Contact paper on top of the menu where like new menu stuff has been written on that so they didn’t destroy the original menus? 
 
+JANINE: And then there’s three others?
 
-        ART (as Grand Magnificent): Do you guys have any pomegranates?
 
+AUSTIN: There’s two others left.
 
-        AUSTIN (as Waitress): No, but we have grolianates, which are similar.
 
+JANINE: Okay, two others. 
 
-[KEITH laughs]
 
+AUSTIN: And those are out in the same kind of car fields near you. Frame—
 
-ART (as Grand Magnificent): Alright, can I have one of those, and the smallest spoon you have?
 
+JANINE: Are they largely preoccupied with the drones right now?
 
-[JACK laughs]
 
+AUSTIN: No, ‘cause the drones have left now. 
 
-        AUSTIN (as Waitress): Of course.
 
+JANINE: Okay. Okay. 
 
-        ART (as Grand Magnificent): Thank you.
 
+AUSTIN: So now they are like—I think now they are trying to get their bearings and figure out what the fuck to do. There’s kind of a downbeat here where you can frame the scene however you’d like.
 
-        AUSTIN (as Waitress): No problem, on the house.
 
+JANINE: Okay. Then I think the thing that Signet does—she kind of moves sort of alongside, like just behind one of the junk towers to sort of get into a flanking position, I guess would be the best.
 
-        ART (as Grand Magnificent): Do y’all want anything?
 
+AUSTIN: Mm-hm.
 
-        KEITH (as Gig): [hesitantly] Do you … guy … have … gr-ground juice?
 
+JANINE: If that’s possible, I’m not entirely sure on this map, but—
 
-        AUSTIN (as Waitress): Ground juice, ground juice.
 
+AUSTIN: Yeah. 
 
-        KEITH (as Gig): It’s like a jelly juice.
 
+JANINE: And then I think—I think she basically wants to get behind one of the Amprunners and, um, maybe not grab it by the tail ‘cause that’s on fire, there’s like some sort of—
 
-        AUSTIN (as Waitress): You mean jelly juice. Like a jelly juice?
 
+AUSTIN: There is a fire thing, yeah. 
 
-        KEITH (as Gig): Yeah, like a jelly juice from the ground.
 
+JANINE: Yeah, so maybe not grabbing it by the tail. But probably just get close enough that she can—she can sort of make that sort of weird connection. 
 
-        AUSTIN (as Waitress): Y’know, what we have is a jam juice.
 
+AUSTIN: Are you sneaking up on it? Are you leaping on it? What’s the—what’s that physically look like?
 
-        KEITH (as Gig): I like jam juice.
 
+JANINE: Uhh...I hadn’t considered leaping, but then you said leaping [Austin laughs]. And I was like, “Man, I need to play more Horizon [Austin laughs], what if Signet’s just Aloy?” 
 
-        AUSTIN (as Waitress): Is that okay? You’ll try a jam juice?
 
+AUSTIN: Uh-huh.
 
-        KEITH (as Gig): Yeah. I’ll have jam juice, yeah.
 
+SYLVIA: Hm.
 
-        AUSTIN (as Waitress): Alright, we’ll get you a jam juice.
 
+JANINE: Which she’s not—
 
-        KEITH (as Gig): Can I have the largest spoon that you have?
 
+AUSTIN: No.
 
-        AUSTIN (as Waitress): And the jam juice.
 
+JANINE: —but that’s fun. 
 
-        KEITH (as Gig): And the jam juice, yeah.
 
+AUSTIN: Yeah.
 
-        AUSTIN (as Waitress): Of course.
 
+JANINE: So maybe, maybe—she hasn’t been acrobatic in a while, fuck it! 
 
-        JACK (as Fourteen): I’ll just take a—
 
+AUSTIN: Yeah, yeah. 
 
-        KEITH (as Gig): Regular-sized spoon?
 
+JANINE: Like let’s—
 
-        ALI (as Tender): Water would be great.
 
+AUSTIN: Alright, yeah, so—
 
-        JACK (as Fourteen): Yeah, just water. Just water
 
+JANINE: She’s been doing church shit; she wants to maybe jump around, get a little exercise in.
 
-        ALI (as Tender): Water would be fantastic.
 
+AUSTIN: Awesome. Cool. So I think you have that. Scramble is jumping stuff, right? Is that the—
 
-        JACK (as Fourteen): Cool at this point. I’ve never been to Grole.
 
+JANINE: I think so.
 
-        AUSTIN (as Waitress): Neither have we.
 
+AUSTIN: Yeah.
 
-AUSTIN: And she laughs. It’s a good laugh. She fires back “neither have we” with the sort of speed you would call precocious. Do you know what I mean? And she laughs and says,
 
+JANINE: I think Scramble like scrambling to or scrambling from.
 
-        AUSTIN (as Waitress): Oh, I’ll be right back with your drinks.
 
+AUSTIN: Mm-hm. And, like, climbing or jumping. 
 
-AUSTIN: And before she steps out all the way, she goes, “Vanya— the usual?” and Vanya nods. And then Vanya says,
 
+JANINE: Yeah.
 
-        AUSTIN (as Vanya): So. What’s the ask? How do we repay ah— do you have a name?
 
+AUSTIN: “Climbing, swimming, traversing harsh environments,” yeah. 
 
-        JACK (as Fourteen): Yeah. Ahhh—
 
+JANINE: Yeah.
 
-        ALI (as Tender): We’re with the Notion.
-00: 55:04
 
+AUSTIN: Alright. So, um, I’d say again this is definitely Risky. Risky Standard.  
 
-KEITH (as Gig): I thought it was the Ocean.
 
+JANINE: That makes sense. 
 
-ART (as Grand Magnificent): Why would it be the Ocean?
 
+AUSTIN: Yeah, this is for the getting in there, making that landing, and, like, catching it. You have to do that—you’re gonna need to do that before you Attune with it, because otherwise you can’t—
 
-[crosstalk]
-KEITH (as Gig): I just thought that’s what you said.
-ALI (as Tender): That was where you were before this, Gig. You were with the— 
 
+JANINE: Mm-hm.
 
-        KEITH (as Gig): Ohhh, so I went from the Notion to the Ocean?
 
+AUSTIN: You know, so—
 
-        ALI (as Tender): You went from the Ocean to the Notion.
 
+JANINE: Yeah.
 
-        KEITH (as Gig): So which one’s which?
 
+AUSTIN: Kind of a multipart thing. So this will not add to the clock; this will only set up that next move for yourself, basically.
 
-        AUSTIN (as Vanya): It’s a good name.
 
+JANINE: Risky Standard, right?
 
-        JACK (as Fourteen): Thanks.
 
+AUSTIN: Risky Standard. 
 
-        AUSTIN (as Vanya): So, how can we repay the Notion?
 
+JANINE: Okay.
 
-        KEITH (as Gig): Uhh, I’m good.
 
+AUSTIN: Oof. That’s a three. That’s no good.
 
-ALI (as Tender): If this is becoming an exchange, what we want to do is work with you to make this place sustainable. If that’s what you’re planning. ‘Cause—
 
+[Janine sighs]
 
-        ART (as Grand Magnificent): And we need Winchester.
 
+AUSTIN: So, you make that jump and—so things go badly. You suffer harm, a complication occurs, you end up in a Desperate position, or you lose this opportunity. So you—I need to think of what the most interesting thing here is. I think you take this leap and you land on it and you, like, it shakes you—it begins to shake you off and then slams you into the side, like it does a hard shoulder turn and flings you into the side of one of these other towers, and the tower begins to fall downwards on you because of the force that it flung you with. So two things happen. One: you’re in a Desperate position because this tower’s gonna fall, and two: you take the level one harm Bruised. Again, you can resist either of those and that would avoid one or the other. You could avoid being in a Risky position—or being put into a Desperate position—or you could avoid the harm. You could do both, you would just have to roll twice to resist and potentially take on some stress. 
 
-        ALI (as Tender): [laughing] No.
 
+JANINE: I’d actually like to resist the being in a shitty position thing.
 
-JACK (as Fourteen): No. No no no. I don’t think we need to do an actual person exchange. Right? Grand?
 
+AUSTIN: Totally. Okay. So to do that you use one of your attributes. You have Insight, Prowess, and Resolve. This would be Prowess, ‘cause it’s about physical distance and stuff like that.
 
-        ART (as Grand Magnificent): No. But we should probably lay eyes on her.
 
+JANINE: Mm-hm.
 
-ALI (as Tender): What I would like to insist here is that if you keep running things the way they are, we are not going to be the only people who come here.
 
+AUSTIN: Physical movement, rather. So you roll one die per attribute dot. In this case you have two, because you have Helm and Scramble. The attributes are made up by how many skills that you have underneath it. So for people at home who don’t see these sheets in front of them Helm, which is your piloting skill; Scramble, which is your climbing skill and athletics skill, kind of; Scrap, which is your fighting; and Skulk, which is your sneaking around...all of those are Prowess skills. And because she has Helm and Scramble, she has two Prowess. So go ahead and you’d roll two dice. 
 
-AUSTIN (as Vanya): We know that. That’s why we’re taking precautions. We’re already pretty sustainable, And the weather-control main—
 
+JANINE: So bonus dice two or no?
 
-AUSTIN: and she points out the front window to where there’s the big rainbow? And now that you’re close enough, you see there’s like a big metallic tube that runs over the entire place making this fake rainbow - that one’s fake, the rest are real - because it is making it permanently sunshower here. Right now it’s stuck in sunshower. She says,
 
+AUSTIN: Uh, if you hit Prowess— 
 
-AUSTIN (as Vanya): We can always have a sunny day or enough water to water the crops. It isn’t perfect, but—
 
+JANINE: I just did—yeah, that’s what I did—
 
-        ALI (as Tender): That’s not what I mean by sustainable. [laughs]
 
+AUSTIN: Bonus dice none. 
 
-        AUSTIN (as Vanya): No, you mean people are gonna come and try to take what’s ours.
 
+JANINE: Okay, so it’s just gonna automatically...alright.
 
-        ALI (as Tender): Or they’re gonna try to take their kids home.
 
+AUSTIN: You got it. So you suffer six stress, minus the highest die result. So  in this case, you rolled a four. You rolled two fours. So subtract two—so two, you have two stress. So mark two stress boxes...boom. So that means you still get—you still can’t get in there for the Attune but when it throws you against the side of this car, you’re able to slide out of the way, putting yourself back into a regular Risky position instead of a Desperate one. Maybe we even see the tower fall over and separate you from this—from this Amprunner. Not separate as in ‘it’s gone now’, but you would have been there; now you’re not and you’re safe. [laughs] You have not been crushed by this tiger—or by these cars or this tiger-creature.
 
-        AUSTIN (as Vanya): And we’ll fight them off. You’re not the first people to show up here.
 
+JANINE: Yeah.
 
-        JACK (as Fourteen): That’s not sustainable.
 
+AUSTIN: Even, what’re you up to? In the back of this [Dre laughs]...this hatchback?
 
-AUSTIN (as Vanya): What do you think you can do to make people let us have sovereignty? No offense. You’re four people. We’re gonna have to earn that ourselves, you don’t get to come in here and win that fight for us.
 
+DRE: So—
 
-        ALI (as Tender): No, but you start a conversation.
 
+JANINE: Oh wait, was this a Desperate action that I would mark XP for? Was that like—
 
-        AUSTIN (as Vanya): We tried starting conversations with our parents a long time ago.
 
+AUSTIN: Oh, yeah! If you did a Desperate—that’s actually an important note to make. Whenever you do a Desperate action, you should mark XP. And you should be marking the XP in the attribute that you’ve done. So who has done anything Desperate so far?
 
-JACK (as Fourteen): You’re in a better position to negotiate now. You have this place, you—
 
+JANINE: I don’t know.
 
-AUSTIN (as Vanya): You think that me and 300 16-year olds are gonna get on the phone and call our parents back and say, “Sorry we moved out” and they’re gonna listen?
 
+AUSTIN: It’ll tell you, thankfully, this new system that we have. Desperate...I don’t see any Desperates. Risky, Risky, Risky, Risky, Risky, Controlled, Risky, Risky. Yeah, I think we’re good.
 
-        ART (as Grand Magnificent): No.
 
+JANINE: Okay. 
 
-        JACK (as Fourteen): That’s what we’re for.
 
+AUSTIN: Yeah, nothing Desperate yet. Though I do believe, Even, you might be in a Desperate position [laughs].
 
-        AUSTIN (as Vanya): You’re out of your mind!
 
+DRE: Oh, do I still have an angry tiger-zoid on top of me?
 
-        KEITH (as Gig): Yeah. I think you guys are out of your mind.
 
+AUSTIN: Yeah. Yeah. 
 
-        AUSTIN (as Vanya): This doesn’t end with a meeting where they say, “Oh”
 
+DRE: Okay.
 
-AUSTIN: And then she like, makes the sign of the cross. [ALI laughs]
 
+AUSTIN: I think at this point it does a howl, as if to, like, “Alright everyone, we’ve got dinner!” 
 
-        AUSTIN (as Vanya): “now you’re adults.” It doesn’t work like that.
 
+DRE: Oh man. Okay, yeah. Let’s go for it. Let’s get all—let’s get all Jurassic World up in here. 
 
-ALI (as Tender): No, but it keeps people from being scared and thinking that you’re missing.
 
+AUSTIN: Okay.
 
-AUSTIN (as Vanya): [short sigh] You can let them know that we’re fine. I’m not having a sit-down. 
 
+DRE: I made the stupid joke and let’s follow through. 
 
-JACK as Fourteen: We’re not— 
 
+AUSTIN: Let’s follow through. Exactly [laughs].
 
-AUSTIN (as Vanya): You know what? Fine. Here’s what we’ll do. It’s not my decision to make, it’s the group’s decision to make. We’ll have a vote, we’ll see what people think. And if the group wants to have a sit-down, we’ll have a sit-down. And if this is taken from us because of that, they’ll know who to blame.
 
+DRE: As it’s howling, Even puts out a hand.
 
-JACK (as Fourteen): Hang on, no, wait a second. Tender, I don’t— correct me if I’m wrong, I’m not pitching a sit-down. I— 
 
+AUSTIN: Mm-hm?
 
-        ALI (as Tender): Yeah, I— can we have an aside? Can the adults have an aside? 
 
+DRE: And just, like, very authoritatively says “Even Gardner, in the Amprunner, coming online.”
 
-ALI: Can Tender pull out her sidekick?
 
+AUSTIN: [laughing] Oh buddy. Okay. What is that? What is that?
 
-AUSTIN: Her eyes go big at that? 
 
+DRE: I would say Command?
 
-[ALI laughs]
 
+AUSTIN: Oh, interesting! Okay. So I think—
 
-        AUSTIN (as Vanya): Fine.
 
+DRE: But—but!
 
-ALI: Typing rapidly on my sidekick.
 
+AUSTIN: Mm-hm?
 
-ALI (as Tender): There’s like, a respectfulness that we should have here. But there’s also like, they’re 13.
 
+DRE: I could also see, like, how, with the way that this works and technically talking to robots, that it could be Attune as well. 
 
-JACK (as Fourteen): Yeah. Yeah, for sure. I mean, if these people were adults and they’d they’d broken off and were, were trying to gain some— I don’t know. I feel that like, we were asked to do something by Casc— I don’t know what Cascara asked you to do.
 
+AUSTIN: You can use either, it’s just that the effect’s gonna be different.
 
-AUSTIN: So Cascara’s job is the one the other side of the team is doing. This was not a Cascara job. This is as “Grand knows a guy here” thing.
 
+DRE: Right. 
 
-JACK (as Fourteen): Ah no, sorry. Right, rightrightrightrightright. We were assembled by Cascara to do a job, and that job is broad. Which is to make some kind of— I don’t know. Tender, when you said “sustainable,” our job is to make sense of this new place and then try and keep it going in ways we can. Right? And a way of doing that would be like, “Okay cool, let’s get all these people together and sit down. You can talk to your parents about that stuff.”
 
+AUSTIN: So Command, for me, is like you are—it’s like talking to a dog. It’s like “Sit!” It’s so much just in your voice; it’s in the cadence of how you’re talking. It’s in the way you’re standing; it’s in the way that you’re addressing this creature. Attune is, it understands you. Not just it understands your tenor and it understands that you’re directing it, but it understands you. And so I would say that Command has a lesser effect. Not lesser, but—actually, yeah, I think Command has lesser effect, which would be one tick of this clock.
 
-ALI (as Tender): I mean, that could be part of it, but it doesn’t have to the thing. The thing that— I would like for people not to come here with guns? 
 
+DRE: Yeah. 
 
-[crosstalk]
-JACK (as Fourteen): I don’t want these teenagers to murder them when they get here.
-ALI (as Tender): And I would like for a bunch of parents to not— yeah. [laughs]
 
+AUSTIN: Which would be enough to—if you nail it, it would be enough to succeed. But Attune would be normal effect, regular effect, because it’s actually communicating with this thing. Regardless, this is gonna be a Desperate roll. 
 
-ALI (as Tender): That’s a big one! Also, all of those parents at home should not be looking out the window every day because they think their kids are dead and blaming the New Earth Hegemony. There are multiple vectors in which we should fix the situation.
 
+DRE: Right.
 
-ART (as Grand Magnificent): Sure. Just as an aside, we could super easily be murdered by these people. They’re being very nice right now? But like, an army of 13-year olds can kill you.
 
+AUSTIN: So, you tell me which of those two you want to do.
 
-AUSTIN: Again, they’re not all 13. I want to be clear. She is 19, they range from 13 to 17. They’re probably—
 
+DRE: Are you still willing to give me that extra die on the Attune? Because of the last roll here. 
 
-[crosstalk]
-ALI: I just--
-AUSTIN: They range—
 
+AUSTIN: Yeah, totally. 
 
-ART: But mostly post-pubescent, right? 
 
+DRE: Yeah, let’s do it. Let’s go for it. 
 
-AUSTIN: Yes. Yeah, I get it.
 
+AUSTIN: Alright. So go ahead and give me an Attune roll, with a plus one bonus, because otherwise you’d have a zero. 
 
-ART: So that’s a—
 
+DRE: And that’s Desperate, right?
 
-KEITH (as Gig): I mean, even an army of 5-year olds could kill you. 
 
+AUSTIN: Is anybody—yeah, that’s Desperate, totally. Again, you can push yourself. You could—I can offer you a Devil’s Bargain if you’d like another die, also.
 
-[ALI laughs]
 
+DRE: Oh boy. Um, I mean, I’ll hear it [laughs].
 
-ART (as Grand Magnificentj): Well. An army of 5-year olds is gonna be harder to wrangle.
 
+AUSTIN: Um, it’s—
 
-JACK (as Fourteen): Yeah, I just want to find the space between “Off you go, 13-year olds” because that’s not gonna work, and on the other side, like “Alright let’s all put 300 chairs in a big circle.”
 
+DRE: Or is it that I have to say yes before you give it to me?
 
-ALI (as Tender): Oh no no no. Go on.
 
+AUSTIN: No, you can—I can offer it to you first. Which is, the Devil’s Bargain here is simple, it would be Heat. The—what would happen is the—by doing this, you’d be leaving your mark on these things and then, you know, fast forward a week from now as one of the factions who doesn’t like you is like, “I think Even was here recently,” they’d be able to scan these Amprunners for your—for this moment and recover you from that—recover the image of you. And we’d just get plus one heat inside of Gift-3.
 
-JACK (as Fourteen): Because I’m worried that if Vanya goes off and presents this as - I can understand why she’d do that, ‘cause we’re just four adults - like, “Right, well time to think about your parents!” And if she goes out and she presents is as like, “Well look, these four weirdos wanna sit down and it’s gonna go badly” and she manages to get them all thinking people are gonna be coming for them, we might end up with a situation way worse than we intended here.
 
+DRE: I mean, not if I make them all my friend and they come on the ship with us. 
 
-ALI (as Tender): I mean, I don’t doubt our ability to state our case— 
 
+AUSTIN: [laughs] Yeah, okay, fair [Dre laughs]. You get an army of Amprunners.
 
-JACK as Fourteen: I do!
 
+DRE: Yeah. You know what? I’ll take that Devil’s Bargain, ‘cause I think it’s interesting. 
 
-ALI (as Tender): — right? [laughs] If it comes to that. But I—
 
+AUSTIN: Okay. So then two dice. I’m going to mark the first Heat box here. Boop!
 
-AUSTIN: There’s an added thing that y’all should be thinking about on top of this. And I think that the way I introduce it is that Yam comes in. Yam and Garlic come in with Orellia. And Orellia rushes over and says,
 
+DRE: And also, yeah, let’s just get all the mechanics out right now. 
 
-AUSTIN (as Orellia): I’m sorry, I’m sorry, I’m sorry. I don’t mean to interrupt, I really don’t mean to interrupt, but Yam really wanted to come over and say—
 
+AUSTIN: Yeah, exactly. So Heat—
 
-        AUSTIN (as Yam): [robot voice] Thank you! Thank youuuuyam. 
 
+DRE: Talk about Heat, talk about bonus dice…
 
-[JACK laughs]
 
+AUSTIN: Exactly! Heat is the thing that lets you—or that kind of references your—the fact that people know you’re here and are looking for you. So anybody who doesn’t like you, Heat—it doesn’t mean that people on the planet don’t like you; what it means is, like, if someone was to—there are factions here who don’t like you; those people know where the fuck you are and are able to find you, basically. 
 
-        KEITH (as Gig): You’re welcome. Yam.
 
+DRE: Alright, here goes. 
 
-        AUSTIN (as Yam): Thank you.
 
+AUSTIN: Alright, give me your Attune with two bonus die. 
 
-AUSTIN: And then signs much more clearly because understands how to use— can speak, but cannot vocalize quite yet, still getting a handle on this new device. And Orellia translates for you - or I guess, again, Tender you have the eye that can do it - and says,
 
+DRE: Fuck me!
 
-AUSTIN (as Orellia translating for Yam): You don’t know how frustrating it has been to be around people who I want to, with my voice, tell them how grateful I am? But because you helped me, you are the first people I’m telling thank you to.
 
+AUSTIN: That’s bad. 
 
-AUSTIN (as Yam): Thankyou! 
 
+DRE: That’s two twos!
 
-AUSTIN: And she’s like,
 
+AUSTIN: That’s two twos. That’s two twos. Make sure you mark that XP [laughs]. 
 
-        AUSTIN (as Orellia): Alright, you can go. C’mon, let’s get outta here.
-1:03:01
 
+DRE: Well, there goes that hand I was holding onto [laughs]. 
 
-AUSTIN: And Garlic kneels next to— it’s a big knee, you can hear the pistons deploying in their leg dwhoow as it depresses and kneels. And quickly signs with Vanya, who signs back. And then she puts a hand on Garlic’s shoulder, and Garlic stands up and begins to leave.
 
+AUSTIN: Yeah man, this is not—it’s the worst outcome. You overreach your capabilities. It’s the worst outcome: you suffer severe harm, a complication occurs, you lose this opportunity. Those other tigers are gonna get up here, buddy. 
 
-And then she looks back over at y’all, and she’s like,
 
+[Dre guffaws]
 
-        AUSTIN (as Vanya): Do the adults need more time? 
 
+AUSTIN: Those other Amprunners start coming up at you. And they, uh, they dig in. You’re gonna take the level three Harm...what’s a good word for being chewed up?
 
-KEITH (as Gig): Yes.
 
+DRE: Like mauled?
 
-AUSTIN (as Vanya): Okay.
 
+AUSTIN: Mauled. 
 
-AUSTIN: And then the, the server comes back over and hands uh everyone their drinks. She ordered the same thing Gig did, which is a jam juice and the biggest spoon possible. 
 
+DRE: I’m gonna resist that [laughs].
 
-[KEITH laughs]
 
+AUSTIN: You can resist this—yes. Yes. I’m still gonna say that your resist is—it’s gonna just lower it to a level two harm, probably.
 
-ALI: Whose spoon’s bigger?
 
-AUSTIN: It’s the same spoon. They’re both the same spoons. Equal spoons! Equal spoons. 
+DRE: Okay.
 
 
-[ALI laughs]
+AUSTIN: It’s not gonna reduce—or, you know what? It’ll lower it to a level one, is what I’ll say it does, if you, you know, by doing—so how do you resist this? Are you just, like, crawling away? Are you, like—trying to get out of here? Is it just like—
 
 
-        KEITH (as Gig): Eeurrragh … Wow! This is thick!
+DRE: I think, yeah, it’s like a moment where he says that, and then maybe he says it one more time, and then it’s just like, “Oh, fuck. This isn’t gonna work.”
 
 
-        AUSTIN (as Vanya): It’s thick.
+AUSTIN: Right, right.
 
 
-        KEITH (as Gig): This is like a pudding!
+DRE: And he almost, like, kicks or punches the thing in the face. Not to hurt it—
 
 
-        AUSTIN (as Vanya): It’s nearly a pudding.
+AUSTIN: Uh-huh.
 
 
-        KEITH (as Gig): This is. This is nigh on a pudding!
+DRE: But just to be like, okay, I’m gonna buy myself an inch of space here. 
 
 
-[group laughter]
+AUSTIN: Mmm. Mm-hm.
 
 
-AUSTIN: I think she goes back and forth with Gig on various ways to say “nearly”? 
+DRE: And just kind of tries to, like, almost just jump off from where he is. Because like, “Okay, I might land on something bad—”
 
 
-[KEITH and JACK laugh]
+AUSTIN: Ohh, sure. 
 
 
-        KEITH (as Gig): This is approximately pudding.
+DRE: “—but it’s probably not the same as having a tiger pack eating me.”
 
 
-        AUSTIN (as Vanya): This is practically pudding.
+AUSTIN: Getting eaten, yeah, exactly. Exactly. Quick question: do you have armor on?
 
 
-        KEITH (as Gig): This is extremely close to pudding.
+DRE: Ohh. Um—
 
 
-        AUSTIN (as Vanya): This is juuust about a pudding.
+AUSTIN: Because that could be one of those things that helps you.
 
 
-        KEITH (as Gig): Hmm. This is orbiting pudding.
+DRE: Yeahh, I’ll say I have armor on [laughs].
 
 
-        AUSTIN (as Vanya): This is like. It’s not quite pudding, but it’s in the neighborhood.
+AUSTIN: Instead. Because then, then, and we can kind of talk about how armor works then, also.
 
 
-        KEITH (as Gig): Hmm. This is in the ballpark of pudding?
+DRE: Right. 
 
 
-        AUSTIN (as Vanya): This is close to pudding. No cigar. 
+AUSTIN: As we continue to walk through all the systems of this game. 
 
 
-[ALI and KEITH laugh]
+DRE: Have we—I guess since we jumped right in, we haven’t really declared load or anything. 
 
 
-AUSTIN: What do the adults say during this back and forth?
+AUSTIN: No, I’m letting—I’m being flexible here because I want this opening scene to be pretty fun. 
 
 
-ART (as Grand Magnificent): We should do the job. And I’m not saying we shouldn’t try to help, but this isn’t our responsibility.
+DRE: Yeah. 
 
 
-        KEITH (as Gig): I’m not comfortable—
+AUSTIN: Which is like, yeah, let’s just—as long as we’re not—as long as you’re not going over your heaviest load or whatever.
 
 
-        ART (as Grand Magnificent): They don’t even really want us to help!
+DRE: Sure, sure, sure. 
 
 
-KEITH (as Gig): No, they don’t. My impression is that they don’t want us to help. My instinct is that there is way more ways that we could mess it up than we could help. And I’m satisfied with the permission we were given to let these people know their kids are okay.
+AUSTIN: Then you’re good. So the way armor works is: [reading] “If you have a type of armor that applies to the situation,”—and just ‘Armor’ would do that—“you can mark an armor box to reduce or avoid consequence instead of rolling to resist. For instance, Aman is taking the level two harm Scorched Ribs and the fight isn’t even over yet. So Juan decides to use Aman’s armor to reduce the harm. He marks the armor box and the harm becomes the level one Winged. If Aman had had a power that gave him additional armor, such as Cerberus’s Crew power, Loaded For Bear, he could mark a second armor box and reduce the harm again to zero. When an armor box is marked, it can’t be used again until it is restored. All of your armor is restored when you choose your load for the next score.” So I’ll say after this scene, you’d be able to get that armor back up to snuff, basically, but, but—Ah, you know what? Maybe I actually won't. I think if you lose your armor here, you lose it for this job, you know?
 
 
-ART (as Grand Magnificent): We need to lay eyes on Winchester 
+DRE: That makes sense. But I’ll go ahead and use it here, yeah.
 
 
-KEITH as Gig): I agree.
+AUSTIN: Okay, so go ahead and mark that you’ve used your armor. Got it, cool. Awesome. So instead you take the less effect, the level one harm. You’ve already gotten Bitten and Bloody, huh? I think this is from the fall. I think maybe you do get away and the thing that—it’s like winded. Where, like, you just—you get it knocked out of you.
 
 
-ART (as Grand Magnificent): That’s an objective we need to complete.
+DRE: Yeah.
 
 
-KEITH (as Gig): I think the best — here’s the thing. I don’t want to be blamed for not saying where these kids are? I think we should maybe say that the kids should somehow let them know that they’re okay? But I don’t want to push it. And maybe push slightly harder in the case of Winchester. But. I still don’t want to push it.
+AUSTIN: So take Winded. Signet and Echo. You see Even fall out from the top of one of these towers. Here’s another little reminder: the goal of this fight is to get away, not to kill these things necessarily. Oh, fuck. I moved everything and now it’s all fucked up...there we go. 
 
 
-        AUSTIN (as Vanya): Roughly a pudding. 
+SYLVIA: There we go. 
 
 
-[ALI laughs] 
+DRE: I don’t think we’re gonna get any new animal friends, guys. 
 
 
-AUSTIN (as Vanya): Alright. What do you want?
+JANINE: Nm.
 
 
-        KEITH (as Gig): I kinda want a pudding now.
+DRE: I tried! I tried!
 
 
-        AUSTIN (as Vanya): [softly] Oy.
+AUSTIN: Two of you tried! I;m, you know, I was rooting for you, I’m not gonna lie. I liked the notion.
 
 
-        JACK (as Fourteen): We’d like to meet Winchester.
+JANINE: Ehhh, I mean, there’ll be other animals.
 
 
-AUSTIN (as Vanya): I can’t make that decision. Winchester has to make that decision. That’s her decision to make.
+AUSTIN: True.
 
 
-        JACK (as Fourteen): That’s okay.
+DRE: [laughs] If there’s anything Twilight Mirage has taught us, it’s that there will be weird animals.
 
 
-        ART (as Grand Magnificent): Well, can you ask for us?
+AUSTIN: [laughs] I gotta do foley, you know?
 
 
-        AUSTIN (as Vanya): [sighs] 
+[Dre laughs]
 
 
-AUSTIN: And the server comes back to take the empty pudding cup and says like,
+JANINE: I mean, okay, so what’s the recap here? Even’s now on the ground, at least?
 
 
-        AUSTIN (as Winchester): I’m right here.
+AUSTIN: Even’s now on the ground. Like, has the wind taken out of him but is alive. Why are these nameplates not showing?
 
 
-        JACK (as Fourteen): Hi.
+JANINE: Uhhh, okay, I think—I mean, the most practical thing to do here is to help Even get back onto his feet. So we can move, go. 
 
 
-        AUSTIN (as Winchester): Hey.
+AUSTIN: Totally. Yeah. 
 
 
-        JACK (as Fourteen): Well. You seem to be safe.
+JANINE: Now that the problem isn’t that he’s being put in a car-tree by a robot panther or whatever.
 
 
-        AUSTIN (as Winchester): Safe and sound. Safe as houses. Safe for now.
+[Austin and Dre laugh]
 
 
-        ART (as Grand Magnificent): Great.
+AUSTIN: Yep, you got it.
 
 
-AUSTIN (as Winchester): Alabaster isn’t a bad guy. He’s just a bad fake dad. Y’know? I went missing a month ago. The first time he tried to call me was last week.
+JANINE: Would that be Doctor?
 
 
-        JACK (as Fourteen): Yeah, I don’t think … 
+AUSTIN: Yeah, I think that would be Doctor. Um—
 
 
-AUSTIN (as Winchester): There are 300 of us? There are 2 million kids on this planet. We’re not trying to build an army. I just want to live a decent life. And help other people like me. I’m sorry, Vanya. I didn’t mean to—
+JANINE: I’m really desperate for an okay roll. Just one. 
 
 
-AUSTIN: and she’s like, “no, it’s fine, it’s fine, you should tell your story.”
+AUSTIN: Just one. 
 
 
-AUSTIN (as Winchester): We can show you around, we can— it’ a planet. It’s a planet. It’s a planet! We can get far enough away. We can just live until we’re older, and then …
+JANINE: I just don’t want to spend my first night with a new system rolling nothing but trash from a butt.
 
 
-AUSTIN: And it’s clear she hasn’t thought this stuff through that much. But also there’s a little bit of a grain of truth that she really believes? Which is, there are two big cities on this planet and they don’t need to be near them. That is what she hopes, anyway.
+[Dre laughs]
 
 
-        JACK (as Fourteen): I dunno, I— Grand?
+AUSTIN: [laughs] Oh, okay. Yeah, gotcha. Uh, yeah, I think that the thing you’re describing—so what do you do? What’s this look like?
 
 
-        ART (as Grand Magnificent): I’m satisfied.
+JANINE: I think this is, um, I mean, Signet—Signet’s already sort of on her own feet. 
 
 
-JACK (as Fourteen): Yeah? When?
+AUSTIN: Mm-hm.
 
 
-        KEITH (as Gig): I’m satisfied.
+JANINE: Like, she had—she got sort of tossed off. And I imagine she—I picture that scene as like her hitting the wall—that garbage wall sort of thing. 
 
 
-JACK (as Fourteen): When is this done? When do we consider this done?
+AUSTIN: Yeah.
 
 
-JACK: And I think— I dunno. Tender?
+JANINE: Stack of crap. But then springing away pretty quickly. Just sort of, you know, being acrobatic and cool.
 
 
-        ART (as Grand Magnificent): I’m—
+AUSTIN: Yeah.
 
 
-        AUSTIN (as Winchester): You can’t let them know where we are, though.
+JANINE: And I think this is probably a delayed sort of third step in that movement. Of, like, there was a moment of delay to figure out, ‘Okay, that didn’t work, what next?‘
 
 
-        ART (as Grand Magnificent): Okay. Can I tell him you’re safe?
+AUSTIN: Mm-hm.
 
 
-        AUSTIN (as Winchester): Yeah. But that’s it.
+JANINE: And then Even gets chucked [Austin snorts]. And then she’s like, “Okay, that next.”
 
 
-        ART (as Grand Magnificent): Alright. I mean. Sure. I don’t—
+AUSTIN: Mm-hm.
 
 
-AUSTIN: Vanya raises her eyebrows. 
+JANINE: And then sort of bounds over to scoop him up. Not scoop him up, but, like, you know...
 
 
-ART (as Grand Magnificent): I don’t want to be in this war, y’know?
+AUSTIN: Yeah.
 
 
-AUSTIN (as Vanya): You got yourself involved already.
+JANINE: Hasten his not-being-on-his-back-edness? 
 
 
-ART (as Grand Magnificent): I’m reeally good at getting myself uninvolved.
+AUSTIN: So are you—are you doing something to address the wounds or the—
 
 
-[crosstalk]
-ALI: Jesus christ.
-AUSTIN: Fuck.
-[KEITH laughs — JACK sighs]
-1:08:28
+JANINE: I don’t know that this is the time for that, exactly.
 
 
-AUSTIN (as Vanya): [sighing heavily] You call her uncle and you say, “I found her, she’s safe, she doesn’t want to come home.” What do you think the next step is?
+AUSTIN: Okay.
 
 
-ART (as Grand Magnificent): Nnnnone of our immediate concern?
+JANINE: Like, I have a fine medkit but I feel like if he’s just winded at this point it makes more sense to maybe get somewhere safer before whipping out the medkit kind of thing.
 
 
-JACK (as Fourteen): Wait.
+AUSTIN: Yeah. I’m—
 
 
-ALI (as Tender): A little bit of our immediate concern, Grand.
+JANINE: Or whatever that medkit actually is, I’m not actually sure.
 
 
-JACK (as Fourteen): This is not something we can wash our hands of, and I don’t think it’s something that I would want to. ‘Cause you’re right. And I was right earlier when I talked to your friend. They’ll send someone else.
+AUSTIN: Is it then—it’s more about, like, “Come on, get on your feet. We’re getting out of here,” type of thing. 
 
 
-AUSTIN (as Vanya): [sigh] Don’t tell them we’re anything. [another sigh] Couldn’t find us. Such a shame. You thought you had a lead.
+JANINE: Yeah. Yeah.
 
 
-JACK (as Fourteen): My worry there is— you know people are pinning this on the NEH, right?
+AUSTIN: Okay, cool. I still think—
 
 
-AUSTIN (as Vanya): Yeah. And you know what? Fuck the NEH too.
+JANINE: It’s like a sort of “I got you. But we need to go.”
 
 
-ART (as Grand Magnificent): You know they’re just gonna hire someone meaner than us. The next person’s gonna find you, and they’re just gonna draw guns.
+AUSTIN: [laughs] Right, right, right. Yeah, I think that that—you can totally do that with Doctor. And the thing that I’ll actually say is, and we’ll—we can maybe do all of the—mm, yeah, I think maybe it’s just Doctor. Yeah, I think that that’s just Doctor. And then the way that works is it’s Risky, ‘cause again there are these tigers around, and Standard, for effect. So Risky Standard Doctor.  
 
 
-JACK (as Fourteen): What if we— 
+JANINE: What the fuck! Like—
 
 
-AUSTIN (as Vanya): Alright. You wanna help us? We can actually keep this place safe. Not right now. And I don’t mean safe by making sure we each have our own guns. Wherever this place came from, the atmosphere there was not great. It was acid storms all the time. But people still wanted to celebrate, I guess, and so this place used to have an energy shield? But we can’t power it. We have enough energy from the solar panels and the rest of the engine and the fuel we can scrape up from out here in the Crash Yards to keep it going indefinitely. But we can’t raise this shield. You get us power for that, nothing can get in if we don’t want it to get in. I mean, nothing. Especially not the way Quire works these days.They’d have to bring down a dreadnaught.
+AUSTIN: Those bad rolls. Not a great roll.
 
 
-JACK (as Fourteen): So wait. If we do that, it wouldn’t matter if they send meaner, meaner detectives, because they’d just stand on the outside— 
+DRE: Mm. 
 
 
-AUSTIN (as Vanya): And throw rocks at us.
+AUSTIN: It’s a one and a two, on that Risky Standard. 
 
 
-JACK (as Fourteen): — and shout.
+JANINE: So I just trip on him and then faceplant into another garbage pile?
 
 
-AUSTIN (as Vanya): Yeah. Now that’s maybe more involved than you want to be. That’s fine. And I don’t have any plans in the near future to send my own people to do it. It’s too dangerous, I’m not sending a 15-year old into Big Garage to steal a perpetual motion machine.
+AUSTIN: No, no! One of the—one of the things here is always—one of my principles is literally like, ‘When you fail, it’s not because you’re shitty.’ It’s because there’s something you didn’t account for; it’s because there is, you know, someone else is just as skilled as you, or something. It’s not because you’re incompetent; like, that is one of the core things in Scum and Villainy. You are weird, badass adventurers in space. Like, Han Solo doesn’t trip over his own shoelaces; there are more Stormtroopers than he expected. And that’s the thing that happens here. It howled to tell everyone dinner was coming. You’ve slipped into a Desperate position: there are not three Amprunners, there are ten. Dre is up—Even is up on his feet. But the chase is on. So y’all are in a Desperate position. 
 
 
-KEITH (as Gig): I don’t want to speak for anyone else, but that sounds like exactly my shit though.
+SYLVIA: What size was this gang, would you say?
 
 
-[AUSTIN laughs]
+AUSTIN: Oh, this is a small gang [laughs].
 
 
-        ALI (as Tender): [long sigh]
+SYLVIA: Is this a small gang? 
 
 
-AUSTIN (as Vanya): But I know you have reservations, and if you want us to do the vote, I’ll do the vote.
+AUSTIN: Yeah.
 
 
-        ART (as Grand Magnificent): W-what are we? Ahh … 
+SYLVIA: Hmm! So I—
 
 
-AUSTIN (as Vanya): Maybe you need some time. Put you up on the finest suite. Lotta empty rooms these days. Give you a tour of the place. Come to your own conclusions. 
+JANINE: Austin. Austin, if you were in a room with ten tigers, would you say that’s a small gang of tigers? 
 
 
-        KEITH (as Gig): Is there a bungalow suite?
+[Austin and Dre laugh]
 
 
-        ART (as Grand Magnificent): Why do you need a bungalow?
+AUSTIN: Alright. Alright, it’s a big gang of tigers.
 
 
-        KEITH (as Gig): I like a bungalow. 
+SYLVIA: No, I want him to say it’s a small gang.
 
 
-[JACK laughs]
+AUSTIN: It’s too late! Janine just dug you deeper.
 
 
-        ART (as Grand Magnificent): What do you like about a bungalow?
+SYLVIA: Aah.
 
-        KEITH (as Gig): I don’t know, I just think it’s a nice vibe.
 
+AUSTIN: It’s not, it’s a big gang. It’s a large gang.
 
-        ART (as Grand Magnificent): You need a freestanding building?
 
+SYLVIA: Alright.
 
-        KEITH (as Gig): I don’t need one, I just asked if there was one.
 
+AUSTIN: I’m sorry. But you can hear them now, moving through the, through the—you don’t know the number, actually. That’s actually not fair, ten is not fair. There’s a number of tigers. It is a small gang of Amprunners. But you don’t know how many. It might be two more showed up, it might be four more showed up. But you can hear them all, like [growls] “Hrraghghgh” through the entire area, and you can hear them leaping from car-tree to car-tree [laughs]. And so that’s the thing that happened here. It’s that not you—it’s not just like, ‘Oh, you didn’t deal with the harm that had occurred,’ it’s not just Even didn’t—isn’t just like ready to roll, it’s you have been slipped into this more desperate position. [defensively] They sound like Muppets because Even and Grand Magnificent designed them to sound like Muppets!
 
-        ART (as Grand Magnificent): No, I get it. You can’t share a building with the rest of us. 
 
+DRE: Yeah. 
 
-[AUSTIN and ALI laugh]
 
+JANINE: Grand Magnificent is Canadian so he loves puppets.
 
-        AUSTIN (as Vanya): This is why we don’t like Gig. This is it.
 
+AUSTIN: Right, exactly [laughs]. So what do y’all do?
 
-        ART (as Grand Magnificent): Apparently he needs his own four walls.
 
+SYLVIA: I might do the fuckin’ Echo special, and by that I mean ‘be a distraction’. 
 
-        KEITH (as Gig): Listen! 
 
+AUSTIN: Oh no. What’s that—what’s that mean?
 
-AUSTIN (as Vanya): Very private person. Except when he’s looking at other people with his camera eye.
 
+SYLVIA: Um, so, I think what it is is, like—so what I’m thinking here is I’m trying to drag them away, like get them to chase me.
 
-        ART (as Grand Magnificent): I know!
 
+AUSTIN: Okay. 
 
-KEITH (as Gig): I didn’t say that you guys couldn’t come ins the bungalow. We could all split a bungalow!
 
+SYLVIA: So I’m thinking it’s mostly just, like, taking my sword out and clattering it against some stuff while I’m running, basically.
 
-        ALI (as Tender): But it is your bungalow.
 
+AUSTIN: Interesting. Okay.
 
-KEITH (as Gig): I didn’t say that! I just said do you have a bungalow! Listen! All I’m sayin’, all I’m sayin’ is— there could be a lot of cool stuff here if you watch some of my how-to videos. They’re very good.
 
+SYLVIA: Make noise so they follow that instead of following my hurt friends [laughs].
 
-        AUSTIN (as Vanya): We’ve watched them all, don’t you worry.
 
+AUSTIN: [makes sympathetic noises] Um, cool. What do you think that is?
 
-        KEITH (as Gig): [under his breath] You piece of shit. 
 
+SYLVIA: I was gonna say Scramble. 
 
-[AUSTIN laughs]
 
+AUSTIN: I—I think the Scramble would be, like, the keeping ahead of them
 
-ART (as Grand Magnificent): Remember when we went around and Gig called a bunch of kids pieces of shit?
 
+SYLVIA: Okay.
 
-[ALI and JACK laugh]
 
+AUSTIN: Which is fine too. 
 
-        [crosstalk]
-        KEITH (as Gig): They like it.
-        ALI (as Tender): A good time.
 
+SYLVIA: Yeah.
 
-        KEITH (as Gig): It’s fun, it’s fun.
-        
-        ALI (as Tender): Eh, it’s honest.
 
+AUSTIN: I think then, the way we frame that scene is you jumping all around the place and getting them to follow you more than it is the—like, my thing is I think getting their attention would be Sway. 
 
-        AUSTIN (as Vanya): Yeah.
 
+SYLVIA: Okay.
 
-        ART (as Grand Magnificent): I don’t know. Y’all wanna do this?
 
+AUSTIN: Getting—keeping ahead of them would be Scramble. There is another way to do this though.
 
-        KEITH (as Gig): Anyway. I’ll— do you guys have a bungalow suite that we can all share?
 
+SYLVIA: Mm-hm?
 
-AUSTIN (as Vanya): We do have a bungalow suite, I think it’s vacant currently. I’ll look into it.
 
+AUSTIN: Which is, we could maybe give you the role of the person who is gonna get hurt from whatever goes wrong here [laughs]. By letting you do that as a sort of leadership role, like, one of the teamwork things is lead a group.
 
-        KEITH (as Gig): I just want proximity to the water is all. C’mon you guys.
 
+SYLVIA: Okay.
 
-        ALI (as Tender): Don’t go kicking anyone out of a bungalow.
 
+AUSTIN: [reading] “Lead a group action: roll for each character who participates in the group action. The best single roll counts as the action result, which applies to every character rolled.” But you would take one stress for any failed result, including your own.
 
-        [crosstalk]
-        KEITH (as Gig): [yelling off mic] Don’t— I didn’t ask anyone to be kicked out!! 
-        AUSTIN (as Vanya): I’m not gonna kick anyone— hey!
 
+SYLVIA: Okay.
 
-KEITH (as Gig): What is going on?! 
 
+AUSTIN: So I think that represents the thing you’re talking about, which is, like, you’re distracting them while the whole crew can try to get away.
 
-[AUSTIN cackles] 
 
+SYLVIA: Okay.
 
-KEITH (as Gig): Oh man. I didn’t ask for that! If I ask for a sandwich, I’m not asking, “Can you take a sandwich away from someone else and give it to me.”
 
+AUSTIN: So everybody can roll their—can roll their Scramble now. 
 
-ALI (as Tender): She said someone might be using it!
 
+DRE: Oh good. I have none in that.
 
-        KEITH (as Gig): I didn’t say, “Well kick them out.” I just said “Okay.”
 
+AUSTIN: So you’re—go ahead and hit roll on that and you’ll see what happens. You’ll roll two dice and take the lowest one. But again, it won’t affect you! It’ll affect—
 
-        ART (as Grand Magnificent): Did … did you take that jelly juice from someone?
 
+DRE: Yeah.
 
-KEITH (as Gig): Did I steal someone’s jelly juice? Jam juice? Did I rip this spoon from someone else’s hands? I was offered this!
 
+SYLVIA: Risky Standard for me? Or—
 
-AUSTIN (as Vanya): We’ll get you set up. And take all the time you want. We’re not goin’ anywhere. Sort of. Kinda goin’ lots of places. But. You know.
 
+DRE: Risky Standard?
 
-KEITH (as Gig): Yeah. On second thought, I’ll sleep curled up in the smallest closet that you can find. Jesus christ.
 
+AUSTIN: Risky Stan—uh, no it’s Desperate. It’s Desperate Standard for sure. 
 
-        AUSTIN (as Vanya): We have pretty small closets, if that’s a thing you need.
 
+SYLVIA: For everybody?
 
-        KEITH (as Gig): Deal. I’m into it. I will be inside of this.
 
+AUSTIN: For everybody, yeah, yeah, yeah.
 
-ALI (as Tender): Oh no, we have a spaceship that doesn’t have any beds in it, I would love to sleep, fuck you, in my own bedroom please. Thank you.
 
+DRE: [singing] Mark that XP! Aw man. 
 
-KEITH (as Gig): Oh wow, real diva needs a bed all of a sudden. Oh, you’re not gonna share your bed with somebody? You’re gonna have one bed all to yourself? 
 
+AUSTIN: Oh, that’s a shame! 
 
-ALI (as Tender): Yeah.
 
+DRE: There’s that six. 
 
-KEITH (as Gig): Gonna kick someone out of your bed? Someone was using that bed, maybe. [under his breath, very softly] Jesus christ. These fucking idiots.
 
+AUSTIN: Oh, that’s such a shame.
 
-[prolonged laughter from ART]
 
+DRE: There’s that two two.
 
-AUSTIN: Gig Kephart, everybody.
 
+SYLVIA: Fuckin’ Christ. 
 
-[ART and ALI laugh]
 
+AUSTIN: Okay, Signet.
 
-KEITH (as Gig): I don’t like pushback.
 
+[Janine sighs]
 
-ALI (as Tender): Can we all just have a pow-wow here, while we’re alone? And—
 
+SYLVIA: Alright, so how much stress do I—
 
-[cross talk]
-AUSTIN: We’re in the bungalow, is that—
-KEITH: You gonna kick someone out of the pow-wow?
 
+AUSTIN: Signet has to roll.
 
-[ALI laughs]
 
+JANINE: What do I roll?
 
-ALI (as Tender): Can we all just take a minute to think of the best idea we had when we were 19 years old? 
 
+AUSTIN: You’re rolling Scramble.
 
-ART (as Grand Magnificent): Yeah! I was gonna become a renown mech designer and be rad for the rest of my life. And it worked for a pretty long time!
 
+JANINE: Okay.
 
-KEITH (as Gig): Yeah, I was gonna be an internet celebrity.
 
+AUSTIN: Uh, does anyone want to use a gambit or push themselves? I guess Signet is the only one who hasn’t rolled yet, but—
 
-JACK (as Fourteen): I don’t remember.
 
+SYLVIA: Yeah.
 
-AUSTIN: Awww. Yeah, you don’t.
 
+AUSTIN: It might be what you’re—what’s your Scramble?
 
-JACK (as Fourteen): Tender, I get that. If you asked me this morning if I thought that a fairground on caterpillar tracks run by teenagers was a good idea, I’d be like, “Yes, it’s great.” But I’d also be like, “I don’t think that’s gonna work.” But I don’t know— what’s the best-case scenario of this look like? ‘Cause it sure isn’t putting these people be in contact with all the people they’ve run away from and all the things they’ve run away from. 
 
+JANINE: One.
 
-        ALI (as Tender): Sometimes that helps. It’s not gonna help for every one of them, but—
 
+AUSTIN: Maybe push your—I guess you already took stress, right? Yeah.
 
-JACK (as Fourteen): How many people is it gonna suck for?
 
+JANINE: Yeah.
 
-ALI (as Tender): I’m not saying that that’s the— we don’t force all of them to do that. But there’s a middle ground here that isn’t “Walk away from a bunch of kids trying to make it on their own in an abandoned amusement park with a big dome that nobody can get into that we helped them build!”
 
+AUSTIN: Eh, maybe that one’ll [Dre laughs] be alright.
 
-KEITH (as Gig): You know, hearing it said out loud like that, I I really like it. I’m still into it.
 
+[Janine sighs]
 
-[ART and ALI laugh] 
 
+DRE: Oh man, I miss playing Blades. 
 
-AUSTIN: Oh, fuck!
 
+AUSTIN: Oh, that’s a lot of bad dice.
 
-        ALI (as Tender): Yeaaah?
 
+JANINE: [exasperated] Yeah, cool, it’s another three. It’s my fuckin’ third—fourth? Third. Three. 
 
-        KEITH (as Gig): Yes. Yeah.
 
+SYLVIA: Sooo.
 
-        ALI (as Tender): [sighs] Well. Signet’s half a galaxy away. So we might as well. [laughs]
 
+AUSTIN: Everyone mark XP in Prowess. 
 
-AUSTIN: She’s on this planet. She has the ship, she’s there with the ship.
 
+SYLVIA: How much stress am I taking here? One for everybody?
 
-ART: Yeah, didn’t we see Signet like this morning?
 
+AUSTIN: One for everybody. You’re taking three stress.
 
-AUSTIN: Yeah, yeah yeah. Like two days or something. You did some legwork.
 
+SYLVIA: [muttering] Fuckin’—
 
-ALI: I thought they went elsewhere to deal with something else.
 
+AUSTIN: Which is not good. So this is the thing—here’s the thing that actually ends up happening. And I think this is how we get out of this sequence. We see you all, like, running through the Scrapyards as the—you’re running through the Scrapyards and the towers are getting higher and higher and higher to the point that the sun—or not the sun, but the light is being blocked out by the height of these towers. And we get a long shot of the tigers behind you jumping up off of all these different cars and stuff. And then—they’re getting closer and closer and closer—and in front of you, you can see that you’re finally getting towards the exit of this area, and it begins to open up. And there is—one of them leaps in front of you, like, jumps past you and blocks the exit. And then another one does. And for a brief second, it looks like you’re trapped. 
 
-AUSTIN: They’re dealing with the Volunteers of Seiche. They’re doing— oh my god, I don’t know the order these are coming out, so I’m not gonna say what they’re doing.
 
+And then you hear the sound of a mortar shell being fired. And then the first thing you see is, the mortar where that—something on the distance explodes. Like, you know that it’s the thing that fired the mortar. Like, it’s the mortar shell gun, it’s the actual mortar itself, is what blew up because you can’t fire weapons on planets anymore without the weapons being destroyed. But then the mortar shell hits those two Amprunners. And you’re looking out over the steppe and the other Amprunners all flee at that point. And then you see a Jeep hovering over to you from where the mortar was fired. And you can see Seiche on the distance—in the distance. And in that car—Sylvia, I need you to describe somebody for me.
 
-JACK (as Fourteen): Alright. Okay. ‘Cause it would be absurd, right? To go up to Cascara and say, “Cascara, you know your big list there? I’ve got a new governing body I’d like you to recognize. It’s the children in the theme park that rides around.” What’s Cascara gonna say to that? She’s gonna be like, “No!” 
 
+SYLVIA: Oh! Okay.
 
-        ALI (as Tender): I think this is something we hand off to her, though?
 
+AUSTIN: What’s Ballad look like?
 
-JACK (as Fourteen): I don’t think it’s something we hand off to Cascara. But in the version of this that works, is Cascara the one who knows about it?
 
+SYLVIA: So, uh, Ballad is, like, I’d say probably around mid- to late-twenties. 
 
-ALI (as Tender): I’d say so. I mean, she’s the one who’s putting weird secret agents together all the time, she knows how to keep a secret. But. I don’t know.
 
+AUSTIN: Mhm.
 
-KEITH (as Gig): Yeah, I don’t know about that part, either. But— okay. Okay. Hold on. I have two things, two points. One, we can’t just go and be like, “So have you kids all — have you thought about goin’ back?” Of course they’ve thought about it. They don’t need to be introduced to the idea of going back home, that’s not a new idea for them. And the other thing is, I’m just more comfortable with the worst-case scenario of this place running like this than the worst-case scenario of telling someone about it and not doing the shields. If 299 kids are safe and we put one person in incredible danger, that is not worth it. I would rather do nothing. I would rather do nothing than do that.
 
+SYLVIA: They’re about six feet tall.
 
-        ART (as Grand Magnificent): We get a lot more credibility for helping them.
 
+AUSTIN: Okay.
 
-ALI (as Tender): We also don’t know what danger looks like. Even if we stay here and talk to them for a week about how much they’ve thought this through, right? We don’t know what they would do if a hundred of them decide that they want to make a different rule, or like, if they get sick. It’s great that they have worked out a system where one of them gets to be a waitress today. But who gets to be a doctor if there’s an outbreak? Or anything? And how is that help— if they’re in a dome that no one can get into. 
 
+SYLVIA: They’re in good shape. They—you can immediately tell that they also do a lot of the same type of training stuff that Echo has done, with the same sort of toning and shit. 
 
-JACK (as Fourteen): Yeah, I— 
 
+AUSTIN: Mm-hm. Okay.
 
-        ART (as Grand Magnificent): Well I assume they can presumably get out of the dome.
 
+SYLVIA: The big difference is that, like, Ballad had this much more intense look to him. 
 
-ALI (as Tender): And then go where? If they don’t want anyone to know what’s here? Like you’ve never hidden something in your bed from your parents? That’s not— 
 
+AUSTIN: Yeah.
 
-ART (as Grand Magnificent): Yeah, but it didn’t stop me from goin’ to the doctor. 
 
+SYLVIA: Than Echo does. Like, he’s got kinda some stubble going on. 
 
-[ALI laughs]
 
+AUSTIN: Yeah. 
 
-KEITH (as Gig): I feel like this is what I was talking about when I said that I was more comfortable with the worst-case scenario of us not doing anything than us interfering in a negative way. 
 
+SYLVIA: He’s got the same color hair that Echo does. 
 
-JACK (as Fourteen): What if— okay, remember earlier when I suggested introducing this organization to Cascara as an object of ridicule? I’m comin’ around on it. What if that’s what the mid-ground looks like? Not introducing these people to their parents and their carers or to the kind of systems that put them here but to the fixers above us?
 
+AUSTIN: That blue—that dark blue-violet.
 
-ALI (as Tender): I’m fine with that. But I don’t want to do the thing of just washing our hands and walking away that you all want to do.
 
+SYLVIA: Yeah, that sort of dark blue.
 
-JACK (as Fourteen): Hey, I don’t— 
 
+AUSTIN: Yeah. 
 
-ALI (as Tender): Okay. The other two, the other two. I’m sorry. We both—
 
+SYLVIA: He keeps his long still. And he’s got these fuckin’ two dope-ass swords on his back too.
 
-ART (as Grand Magnificent): That’s not what I want to do either. I want to go get ‘em that power. 
 
+AUSTIN: Okay.
 
-KEITH (as Gig): Yeah, I wanna go get them that power, that perpetual motion engine?
 
+SYLVIA: Yeah.
 
-ALI (as Tender): Right, and then leave? And then just leave?
 
+AUSTIN: He is wearing a dress uniform as he pulls up in this Jeep. With a—you know what, it’s not even a dress uniform. It is like an OD green M-65 army jacket, with khaki pants and a white dress shirt. And around the arm, he is—around his left arm he has an armband that has VOS, V-O-S, written on it with, like—in my mind, it’s one of those things that’s like it’s a V and then an O that kind of goes into it, and then S that’s like lower, do you know what I mean?
 
-ART (as Grand Magnificent): Yeah, there’re serious— I mean, I’m not gonna be these kids’ parents.
 
+SYLVIA: Mm-hm.
 
-KEITH (as Gig): Yeah, they clearly don’t want that. 
 
+AUSTIN: It’s not exactly right, but you know what I mean. Like, it kind of has a diagonal down vibe going on that looks like something that would be on an armband. And you know that that is the armband signifying the Volunteers of Seiche. Seiche is the—is one of the largest settlements on Gift-3. Seiche was half of the Tides of Harmony and the Tides of Harmony is the ship that you’re from, Echo. 
 
-JACK (as Fourteen): No— 
-        
-ALI (as Tender): Yeah, but I don’t want to read in a newspaper in three months about a bunch of kids that got sick and came home.
 
+SYLVIA: Yep.
 
-JACK (as Fourteen): Turned out the air could only go into the dome or out of it. They all died.
 
+AUSTIN: And those split during the Miracle. And Seiche landed here, on Gift-3. Seiche is, I imagine it a sort of very agricultural center city. Which is to say, it’s not a population center. It is not a metropolis. It is a town of markets; it is a town of some warehouses and kind of manufacturing centers for the goods that are brought in, but it is not towering skyscrapers. And, in fact, one of the biggest defining characteristics is, like—when you described the Tides of Harmony to me  you talked about how housing was built on top of each other because everything was so cramped.
 
-ART (as Grand Magnificent): That’s almost certainly what’s gonna happen.
 
+SYLVIA: Mm-hm.
 
-KEITH (as Gig): Yeah. And if that happened, we were at least there for that.
 
+AUSTIN: Here, I imagine it as being almost like everyone has their own little estate, with an acre or two of their own land, because they have a whole planet. And so it’s—the population is large in the sense that it is a—it is one of two bigger population centers on the planet, but it is spread very—it is spread out the way Los Angeles is spread out, but nowhere near as dense. And so it’s just kind of these...rolling McMansions.
 
-ALI (as Tender): Oh my god, a million things could happen. How have you guys been living your lives not knowing that anything could happen? Especially like the last year and a half. God.
 
+[Sylvia laughs]
 
-[JACK laughs]
 
+AUSTIN: That are then centered around—farmland for miles and miles and miles, which is kind of what you come out into, and then these mansions and estates and farmhouses, basically, and then, finally, you get into the city center where there’s marketplaces and warehouses and shipping and stuff like that. Probably a spaceport for sending stuff into orbit. Or like, to send stuff up to connect to other long-range freighters, basically, stuff like that. And I think this is the first time—Ballad uses he/him?
 
-ART (as Grand Magnificent): I mean, I’ve lived the last year and half on my reputation. My reputation as someone who gets things done, not like “Oh yeah, he just like left.” That’s not how I’ve conducted myself. We need to take a stand, and if you’re gonna say, “Let’s help these kids” then you have to say, “Let’s fucking wreck this shit!” 
 
+SYLVIA: Yeah.
 
-JACK (as Fourteen): That’s not— 
 
+AUSTIN: Right. So this is the first time you’ve seen your brother. But here he is, saving the day.
 
-ART (as Grand Magnificent): But you have to tell me that’s your solution. 
 
+SYLVIA: I mean, that’s always been what he does. 
 
-KEITH as Gig): When you— 
 
+AUSTIN: [laughs] Yeah. And I think it takes him a second, but he’s like—I think he spots your hair first. And he’s like—what’s he—is he someone who would say “Holy shit!”?
 
-ALI (as Tender): The problem is, we all have a different answer of what helping with these kids looks like. And turning them—
 
+SYLVIA: [laughing] Yeah.
 
-ART (as Grand Magnificent): Yeah, and you’re a fucking narc!
 
+AUSTIN: Okay.
 
-[general laughter]
 
+        AUSTIN (as Ballad Reverie): Holy shit, Echo!
 
-KEITH (as Gig): Here’s the thing. When you live in a world where anything can happen, a lot of those things are good things. Just because anything—
 
+AUSTIN: And, like, you hear the [vehicle noises] “b-b-b-b-b-buhhhh” and he turns on the hover speed a little faster. And pulls, like, rushes out to y’all. And does a drift-turn to stop in front of you. And then gets out and runs over to you and gives you a huge hug.
 
-        ART (as Grand Magnificent): Let them make this mistake!
 
+SYLVIA: I mean, yeah, no, Echo’s like—the second he’s out of that car, Echo’s running towards him too.
 
-KEITH (as Gig): Anything being able to happen doesn’t mean that bad things only happen.
 
+AUSTIN: It’s nice.
 
-        ALI (as Tender): But they do.
-1:21:22
 
+SYLVIA: Yeah.
 
-        JACK (as Fourteen): Yeaaah.
 
+AUSTIN: When was the last time you saw him?
 
-KEITH (as Gig): These people are gonna have bad lives whether they’re out or whether they’re at home. And they chose to have the potential of a bad life out here.
 
+SYLVIA: God, it would have been pre-Echo’s arrest even.
 
-JACK (as Fourteen): Gig, I can’t remember what I was like when I was 19, but I know that I did something. And the thing that I did was join up and start working with Castlerose. And I don’t know why I did that, but I don’t think was— it wasn’t a decision that led to the best things. But it’s where I am, it’s what I did, and I want to make sure that we can put these people in a place where they can make decisions like that, but there’ll be something that this capable of supporting them if the oxygen only leaves the thing. Y’know? Or if there’s an outbreak.
 
+AUSTIN: Yeah. Yeah.
 
-KEITH (as Gig): Hold on, that first thing is a made-up problem.
 
+SYLVIA: Like at least a year, I’d say. 
 
-ART (as Grand Magnificent): Don’t you think they would just take the dome down before they died of suffocation? Like, that seems to be a really easy—
 
+AUSTIN: That’s a while. That’s a long time.
 
-KEITH (as Gig): Just snap it on and off. 
 
+SYLVIA: Yeah, it’s been a while. And like—yeah.
 
-ALI (as Tender): It’s a joke bad thing. There are other bad things.
 
+AUSTIN: And then we just get—we the wide shot of the Scrapyards—the Crashyards, rather—and we get Ballad pointing over his shoulder with a thumb to be like, “Hey, get in, get in.” And it’s all just kind of in the shadow of the Crashyards; it all looks kind of gray, and the sound drops out, and we just get this panoramic view of y’all getting into—and I’m picturing some of the shots from Arrival, if you’ve seen Arrival, out near the Anomaly-thing. And then, like, we get y’all getting into the car, and then it cuts, and then we’re at a dinner table. At one of these farmhouses, where Ballad—where Ballad lives with [laughs]. And we get a very weird shot, like, it’s cut and it opens on what looks like a Thanksgiving turkey. It’s probably synthetic meat—it might not be, there are farmers here, they could grow organic meat. It’s like, it is like a Thanksgiving spread, it’s like a holiday dinner spread. And then—so it’s a closeup of that and then it cuts again to a wide shot of everyone at the dinner table, and it’s a bunch of people in military gear all wearing the VOS, the Volunteers of Seiche, armband. And Ballad is there talking with you—or Ballad is there at the table, everyone else is here at the table. Everyone can clear their level one harm; if you have higher than level one harm, you don’t—you cannot clear it [laughs]. But level one harm can clear at this point.
 
-JACK (as Fourteen): Okay, here’s a—
 
+DRE: Yaay. Both of them, or just one?
 
-ART (as Grand Magnificent): What’s a bad thing that they couldn’t just stop? They could just go, “Oh okay, this didn’t work” and walk away.
 
+AUSTIN: Um, and—both of them, both of them. 
 
-JACK (as Fourteen): Okay. Massive internal conflict. Epidemic. Raider groups.
 
+DRE: Yeah!
 
-ART (as Grand Magnificent): Nothing’s stops from going to a hospital. It’s an impenetrable dome.
 
+AUSTIN: You’ve been taken care of by this crew. And you’re now being served dinner with Ballad and a couple of other officers of the Volunteers of Seiche. And it’s good, it’s good food. And, uh, Ballad is like:
 
-JACK (as Fourteen): No. A lot of stuff stops them from going to hospital, which is that they all wanted to run away from that shit.
 
+AUSTIN (as Ballad): Y’all can stay as long as you need to, just let us know. How long have you been in town?
 
-ALI (as Tender): Yeah. And that they don’t want to be found and they don’t want— if they leave here and give someone their name, they’re afraid someone’ll come back here.
 
+SYLVIA (as Echo): [exhales] Not—not long. I mean, longer than you’d think but not that long.
 
 
+AUSTIN (as Ballad): What were you doing in the Crashyards? That place is dangerous, Echo.
 
-JACK (as Fourteen): That’s it, that’s it. Then their aunt comes and picks them up from the hospital.
 
+SYLVIA: God, what was it we were specifically looking for again?
 
-ART (as Grand Magnificent): They’re kids! When it gets shitty, they’ll just go home!
 
+AUSTIN: You’re finding this Stitch that— 
 
-JACK (as Fourteen): No. They won’t. They’re kids, and when it gets shitty, they won’t make the good decision.
 
+SYLVIA: Okay, yeah.
 
-ART (as Grand Magnificent): Oh my god. 
 
+AUSTIN: And again, we’re using the word “Stitch” to talk about these weird anomalies that are kind of like gates between different planets, that exist on both planets at once and that can kind of allow you to fast-travel between them if you know how it works.
 
-JACK (as Fourteen): Okay, here’s what I propose. I think it’s probably adjacent to you, Tender, but I’m not sure. 
 
+SYLVIA (as Echo): We’re looking into the Stitches between the different planets. And we found one out there. 
 
-ALI as Tender: Go ahead.
 
+AUSTIN: You can see that his second-in-command, like, slides—her eyes quickly turn—like, not spin, what’s the word I’m looking for? They, like—
 
-JACK (as Fourteen): I think we should get them the fucking thing, the— 
 
+SYLVIA: Widen?
 
-KEITH (as Gig): Perpetual motion engine.
 
+AUSTIN: No, no.
 
-JACK (as Fourteen): — the perpetual motion engine, and then once we’ve got that in place, then we introduce them to Cascara and to Cascara’s people. And we try and establish this place as some sort of entity that is more than a theme park that a bunch of children have run away to. I don’t know if we need the perpetual motion machine to do so, but my worry is that they need something like that to back them up.
 
+SYLVIA: Oh.
 
-ALI (as Tender): Yeah, I’m fine with that. And they’re not gonna trust us unless we give them something like last time.
 
+AUSTIN: They very quickly connect with his.
 
-JACK (as Fourteen): And I think we should be open about this, right? I don’t think we should be like, “Well, we’re gonna go get you the thing” and then put it up, and then just sell you out to Cascara. I think we should propose that as a condition.
 
+SYLVIA: Ohh.
 
-[MUSIC - “The Notion” begins]  
 
+AUSTIN: Like, she looks away from you really quick to look at his and they make eye contact for a second. And he takes a big bite out of a drumstick [laughs]. And then puts it down and leans forward and says:
 
-ALI (as Tender): Yeah. I mean, I think that we can sell Cascara. Right? We can explain who she is and the sort of things that she does, and she’s not a cop.
 
+AUSTIN (as Ballad): You found one? The three of you—I didn’t know you were experts in things like this.
 
-JACK (as Fourteen): I don’t know what she is.
 
+SYLVIA (as Echo): I mean—
 
-KEITH (as Gig): Yeah. What is she? 
 
+AUSTIN (as Ballad): I knew you all served during the Weeklong War. I saw—I’m sorry, I should better introduce myself, because I know who you all are. You’re all heroes. Even Gardener, the pictures don’t look like this but I’ve heard about how you look now, so. Your service, thank you so much. And Signet—
 
-ALI (as Tender): She’s a secret agent? Organizer?
 
+AUSTIN: He bows his head a little bit.
 
-KEITH (as Gig): Isn’t she kind of a cop, though?
 
+AUSTIN (as Ballad): You mean so much. You mean so much, to everyone. You kept our hope alive. 
 
-ALI (as Tender): No. No. 
 
+SYLVIA: [laughs] This is when Echo punches him in the shoulder and is like:
 
-JACK (as Fourteen): I mean, she terrifies me. [AUSTIN laughs] But also …
 
+        SYLVIA (as Echo): Stop being weird!
 
-ALI (as Tender): Like, Declan was a cop. The Cadent was a cop. Cascara’s a different thing.
 
+[Janine laughs] 
 
-AUSTIN: She’s a super cop. 
 
+AUSTIN (as Ballad): I’m sorry. It’s just been a long year, you know? It’s been—it’s eleven months and three weeks to the Weeklong War, to everything a year ago. I didn’t—we were moving through space towards Quire, and there was still just one Quire, and we...everything seemed like it was gonna fall apart. I’m doing my best to help people, I’m trying to be like my, you know, be like my hero, Echo. 
 
-[JACK laughs]
 
+AUSTIN: And he gives you a little grin.
 
-ALI (as Tender): She’s like a secret police. 
 
+SYLVIA: Echo punches him again, this time a little harder.
 
-[AUSTIN laughs]
 
+AUSTIN: Uh-huh.
 
-KEITH (as Gig): That’s worse!
 
+        AUSTIN (as Ballad): So tell me about this Stitch.
 
 
+SYLVIA: Do we have the location—we just know that it’s there, right?
 
 
+AUSTIN: Yeah, you have the location. Here, again, let me what you know for sure.
 
-[MUSIC - “The Notion” ends]
+
+SYLVIA: Yeah, thank you.
+
+
+AUSTIN: You know it’s in the middle of the Scrapyards. You know that it’s close to what is called the Advent Tech Main—like a ‘main’ like a pipe—which is this massive space elevator that connects Advent Discovery and Salvage Society’s space station to the ground here, to the service here. It’s not at the space elevator but it’s in its shadow, basically. You know that Advent is protecting it, and that it’s protecting it with a collection of their own people. And it seems like it’s being led by someone—what you saw was someone in a long duster and gas mask-looking thing and black armor, which you know is what the Concrete Town Particulars wear, which is this kind of group of people who specialize in the uncanny and weird shit happening in Quire and how to deal with it. Specifically, how to prevent it from happening and keep it safe and locked down and pave over it, basically. So, you know that. 
+
+
+And you know that your job, your actual job, is to then—is to meet back up sometime soon with Graph-2, who is a synthetic who you’ve spoken to briefly, who’s kind of like a cowboy. And eventually to lead him, another pathfinder and a small family, a family of three, to that Stitch and get them through. That’s like your A-objective. Your B-objective is to, like, make—like, get that thing in the hands of people you trust, get that whole Stitch in the hands of someone you trust so that you can actually use it to ferry people back and forth and reconnect the Tides of Harmony. 
+
+
+DRE: Wait, a Stitch—is it something we can move?
+
+
+AUSTIN: No.
+
+
+DRE: Okay.
+
+
+AUSTIN: But if you have it under lockdown, it’s connected to Brighton which is where Perigean is, which is the other half of the Tides of Harmony.
+
+
+DRE: Okay.
+
+
+AUSTIN: So you can’t move it but you could—if you could figure out how to drive off Advent or get them to agree or something, then you could actually, you know, help a bunch of people reconnect with their families.
+
+
+SYLVIA: Okay.
+
+
+AUSTIN: So that’s what you know. 
+
+
+SYLVIA: Okay, so I think—I think what I let Ballad know is that, one: that we know that Advent have control of it. 
+
+
+AUSTIN: Mm-hm.
+
+
+SYLVIA: And I’m not really sure what the relationship between VOS and Advent is.
+
+
+AUSTIN: It’s negative; as soon as you say their name, you can hear people in the room go like, [negative mumbling noises]. 
+
+
+SYLVIA: Okay. Good. I’m glad [laughs].
+
+
+AUSTIN: Yeah, yeah, yeah.
+
+
+SYLVIA: [laughs] I’m glad I wasn’t like, “Well, it’s under the control of these Advent guys,” and they’re like, “Oh, we love them!”
+
+
+AUSTIN: Right [laughs]. Totally. You, uh—the woman who is his second-in-command, she’s like:
+
+
+AUSTIN (as Second-in-command): [scoffs] They’re just as bad as Earth, as far as I’m concerned. 
+
+
+        SYLVIA (as Echo): Yeah, they’re not great.
+
+
+SYLVIA: I don’t really address the Earth thing there. 
+
+
+AUSTIN: Uh-huh.
+
+
+SYLVIA: I’m just like, “Yeah, I don’t like Advent much either.”
+
+
+AUSTIN: Yeah.
+
+
+SYLVIA (as Echo): But we’re trying to do, basically, is set up passage through the Stitch so we can connect the two Tides again. Essentially.
+
+
+AUSTIN (as Ballad): Holy shit, you really are a big hero. If we had known that that was a thing this close, we would have worked on this way earlier.
+
+
+SYLVIA (as Echo): They’re kind of hard to track down. They’re really archaic and we don’t know a ton about them. But we were able to track down alright, so. I mean, if I had known you guys were here…
+
+
+AUSTIN (as Ballad): Well, now you do. Everyone, eat up. We’re here if you need anything. Again, we have beds prepared. And we’ll see everybody—I’ll help you with anything you need. 
+
+
+AUSTIN: And so I’m gonna kind of zoom out on the action a little bit here, unless people have other questions for Ballad. But like, I don’t think we need to have the long conversation. Again, unless someone does have questions for him, in which case I’m totally cool with answering them.  
+
+
+SYLVIA: I don’t have a world question, I do have a little thing I want to do with him. 
+
+
+AUSTIN: Yeah, okay, let’s do it.
+
+
+SYLVIA: So—actually, I don’t know if I’d be able to do this yet. ‘Cause I don’t know if I’d be able to just get stuff back at the ship, huh?
+
+
+AUSTIN: Yeah, you totally could. 
+
+
+SYLVIA: Okay.
+
+
+AUSTIN: You’re not that far off. Like, what are you trying to do? What’s the scene?
+
+
+SYLVIA: I’m trying to give him my old jacket.
+
+
+AUSTIN: Oh, that’s good. 
+
+
+SYLVIA: ‘Cause it used to be his.
+
+
+AUSTIN: Yeah.
+
+
+SYLVIA: And I stitched the design on the back. 
+
+
+AUSTIN: [awestruck whisper] Oh, that’s so good!
+
+
+SYLVIA: Yeah.
+
+
+AUSTIN: Let’s actually save that for the moment before you kind of go off to do your thing.
+
+
+SYLVIA: Okay. 
+
+
+AUSTIN: Do you know what I mean? I kind of think that’s a nice notion of, like, once you go off to do this—I mean, maybe—we’ll see. We’ll see maybe how this shakes out and we can— 
+
+
+SYLVIA: We’ll, we’ll—
+
+
+AUSTIN: —place that sequence where we need to place it.
+
+
+SYLVIA: —put it somewhere. Yeah.
+
+
+AUSTIN: Yeah. But you’re well fed. They take care of you. Again, they stitch up any wounds you have. Signet, they actually have a—like in town, they have a—I guess you tell me. What does worship look like on the range, so to speak? Like kind of out here in small-town—in this agricultural center. Is there a big church? It is—is there a temple to Harmony that also has, like a chapel to other Divines?
+
+
+JANINE: I don’t know that a big church would be feasible. I think it would probably look a lot more like—especially given the spirit of the faith that we’ve sort of seen.
+
+
+AUSTIN: Yeah.
+
+
+JANINE: I think that it would look a lot more like—in Stardew Valley, I think it is, one of—I think it’s the grocer just has an altar in his home?
+
+
+AUSTIN: Yes. Yes. 
+
+
+JANINE: And it—I think it would probably just be someone like that—or something like that. Where just the person who has the space for it.
+
+
+AUSTIN: Mm-hm.
+
+
+JANINE: Has a room that is open to the community.
+
+
+AUSTIN: Okay. 
+
+
+JANINE: To use for worship and stuff like that. 
+
+
+AUSTIN: Okay. Cool. So yeah, that’s what we—you can see that. In fact, I think we even probably—I mean, actually one of the things Ballad—maybe we even get a scene of Ballad saying to you that, like, they’d really appreciate it if you went by the chapel that’s attached to the dock house [The Notion begins playing]. 
+
+
+AUSTIN (as Ballad): But, no pressure alright? I know that the world—we make big asks of you all the time. And I don’t want to assume. I know that you have big, important work to do here as an Excerpt.
+
+
+JANINE (as Signet): I’m here to work but I’m not here on vacation, you know. I can certainly make time to visit. 
+
+
+AUSTIN (as Ballad): Cool. Well, thank you again. 
+
+
+AUSTIN: And he kind of makes a fist pump [laughs, Janine laughs]. Not a pump but like a shake, do you know what I mean? Like, we’re in it together. Like, you know.
+
+
+[Janine laughs]
+
+
+AUSTIN (as Ballad): Anything you need, just let us know.
+
+
+AUSTIN: And he gives you a salute. A very military salute. 
+
+
+JANINE: Oh boy.
+
+
+AUSTIN: And then leaves.
+
+
+[Music continues to the end]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+________________
+[1]  The name in the audio recording is no longer in use, hence the audio/transcript discrepancy.

@@ -939,7 +939,7 @@ JACK [as Orth]: They didn’t pick me because I was good.
 ALI [as Jace]: Orth, stop it! That, I...What would you be here for if not to change that? That’s the point, we’re here to change that!
 KEITH [as Sokrates]: You can do it, Orth, we believe in you!
 ALI [as Jace]: I…
-JACK [as Orth]: Okay, do you want to make your order before I kick you out?
+JACK [as Orth]:[e] Okay, do you want to make your order before I kick you out?
 ALI [as Jace]: Have you…?
 [AUSTIN uproarious laugh; KEITH laugh]
 KEITH: Okay, yeah. Um, the Order is that...hm.
@@ -1380,7 +1380,7 @@ AUSTIN: Right. There’s neither-- you know, I think that it’s like, everyday 
 DRE: Oh, man, 
 SYLVIA: It’s like Canada in the winter!
 AUSTIN: It’s Canada in the winter. Yeah, totally. 
-KEITH: “Oh, my name’s Sylvia[e], I don’t talk about Canada all the time!”
+KEITH: “Oh, my name’s Sylvia[f], I don’t talk about Canada all the time!”
 SYLVIA: Yeah, it’s where I’m from, it’s what I do. I had to go outside today and it was not fun. So…
 KEITH: [sighs] I haven’t had to wear a jacket yet, so...which is crazy, because I’m in Massachusetts. 
 AUSTIN: It’s so warm, it’s so warm. 
@@ -2068,4 +2068,5 @@ AUSTIN: I don’t know anymore lyrics. Bye!
 [b]who wants to work towards taking care of him
 [c]He doesn't need a hot water bottle from me*
 [d]she says “But very sheepishly.”
-[e]The name in the audio is no longer in use.
+[e]I don't think this was as Orth
+[f]The name in the audio is no longer in use.

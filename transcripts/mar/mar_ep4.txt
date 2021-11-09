@@ -2462,7 +2462,7 @@ AUSTIN: You're there, and you see... in a little planter-- or like in a, not a l
 [Ali and Jack laugh]
 
 
-AUSTIN: Until, you hear the familiar sound of a can... and then another, on the, the hard lime-- not limestone, sandstone columns. And then you see four Fontmen walking towards you... They have their-- two of them have hats on, one of them... doesn't. And then one of them also doesn't. It's two and two.
+AUSTIN: Until, you hear the familiar sound of a can[b]... and then another, on the, the hard lime-- not limestone, sandstone columns. And then you see four Fontmen walking towards you... They have their-- two of them have hats on, one of them... doesn't. And then one of them also doesn't. It's two and two.
 
 
 JACK: [sighing] Oh god.
@@ -2797,3 +2797,4 @@ AUSTIN: [dubiously] Did you-- did you take precautions?
 
 
 [a]The name in the audio recording is no longer in use.
+[b]cane

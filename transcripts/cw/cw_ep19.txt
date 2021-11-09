@@ -23,7 +23,7 @@ AUSTIN: Stand beneath the mistletoe.
 ART: What does that mean? It’s Veteran’s Day, right?
 AUSTIN: Yes! Basically, basically. Uh. Those are the voices of Jack de Quidt,
 JACK: Hey there!
-AUSTIN: Sylvia[a] Clare,
+AUSTIN: Sylvia[a][b] Clare,
 SYLVIA: Hi.
 AUSTIN: Art Tebbel,
 ART: Hey.
@@ -1292,3 +1292,4 @@ AUSTIN: I’m-- that’s not-- we’ll figure out what the no predictions are, t
 
 
 [a]The name in the audio is no longer in use.
+[b]I accidentally cleared the original comment saying this when I tried to close out of it, I'm so sorry. 😭
